@@ -25,8 +25,9 @@ Montclair).
 
 ## Tod
 
-Starb ohne festgelegten Nachfolger. Seine Frau Beatrice starb einen Tag später, offiziell an „gebrochenem Herzen". Beide gemeinsam beigesetzt – Grundstein der
-später als Königliche Gruft ausgebauten Wilhelmshöhe.
+Starb ohne festgelegten Nachfolger. Seine Frau Beatrice starb einen Tag später, offiziell an „gebrochenem Herzen". Beide wurden zunächst gemeinsam in der
+Krypta der Kirche der Stadt Montclair beigesetzt – der damaligen Grablege aller Könige und ihrer Familien. Nach der Errichtung der Burg Wilhelmshöhe unter
+Alexander II. wurden ihre Gebeine dorthin überführt.
 
 ## Verweise
 

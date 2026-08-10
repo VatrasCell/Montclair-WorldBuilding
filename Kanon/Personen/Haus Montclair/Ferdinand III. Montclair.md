@@ -26,12 +26,13 @@ Ließ die große Mine auf der Insel errichten (Baumaterialien, Bodenschätze, Ma
 zu verhindern.
 
 Erkannte das von seiner Schwester Isabella gegründete Dorf offiziell als freies Dorf an; trotz des ursprünglichen Erbstreits blieben Königreich und Dorf eng
-verbunden.
+verbunden. Als Symbol dieser Versöhnung ließ er eine Brücke über den Fluss bauen, der Königreich und Dorf zuvor trennte.
 
 ## Tod
 
 Starb plötzlich, Todesursache unbekannt. Fast jeder vermutete Mord, es gab sogar Gerüchte, sein eigener Sohn (Ferdinand IV.) könnte ihn getötet haben – niemand
-wagte es, dies offen auszusprechen. Adelaide starb einen Tag später, gemeinsam beigesetzt.
+wagte es, dies offen auszusprechen. Adelaide starb einen Tag später, gemeinsam beigesetzt – zunächst in der Krypta der Kirche der Stadt Montclair, später
+unter Alexander II. nach Wilhelmshöhe überführt.
 
 ## Verweise
 

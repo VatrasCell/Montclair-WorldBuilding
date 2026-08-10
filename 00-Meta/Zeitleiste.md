@@ -26,7 +26,8 @@ Falls ein Kalender gewünscht ist (z. B. „X Jahre nach der Großen Verwüstung
 - Heirat mit Margarethe von Alden. Kinder: Isabella I. (geb. Sophia), Emma, Victoria, Isolde (nur Töchter).
 - Tod von Ferdinand III., Adelaide und Isabella (Dorfgründerin) kurz hintereinander; Ferdinand IV. einverleibt das Dorf.
 - Bau von Palasthügel, Palast und Hafen.
-- „Rat der Frauen" setzt Sophia als Nachfolgerin durch; Ferdinand IV. und Margarethe verlassen das Königreich.
+- „Rat der Frauen" setzt Sophia als Nachfolgerin durch; Ferdinand IV. ergänzt bei seiner Abdankung die Erbfolge um die Regel „ohne Sohn erbt die älteste
+  Tochter"; er und Margarethe verlassen das Königreich.
 
 ## Generation 4 — Königin Isabella I. Montclair (geb. Sophia)
 
@@ -44,7 +45,8 @@ Falls ein Kalender gewünscht ist (z. B. „X Jahre nach der Großen Verwüstung
 ## Generation 6 — König Alexander II. Montclair
 
 - Heirat mit Judith von Montclair. Kinder: Kronprinz Wilhelm II., Helena, Cecilia, Lavinia, Magnus.
-- Bau des Diplomatenviertels und der Burg Wilhelmshöhe (neue Königliche Gruft/Kathedrale).
+- Bau des Diplomatenviertels und der Burg Wilhelmshöhe (neue Königliche Gruft/Kathedrale) — alle bisherigen Königsgräber (zuvor in der Krypta der Kirche der
+  Stadt Montclair) werden dorthin überführt.
 - Tod Alexanders II.; Judith überlebt ihn um Monate, wird bei einem Kirchenbesuch von einem Mob angegriffen und stirbt später an den Verletzungen.
 
 ## Generation 7 — König Wilhelm II. Montclair (aktueller Handlungsstand)

@@ -1,6 +1,6 @@
 # Eleanor Montclair
 
-**Titel:** Prinzessin, Mitglied des Rates der Frauen **Status:** Kanon – Kurzfassung
+**Titel:** Prinzessin, Mitglied des Rates der Frauen **Status:** Kanon – ausgearbeitet
 
 ## Familie
 
@@ -16,10 +16,13 @@
 
 ## Lebensstationen
 
-Wuchs nicht im Palast auf, da dieser erst unter ihrem Bruder Ferdinand IV. errichtet wurde, hatte später aber großen Einfluss auf dessen Gestaltung: Sie war
-verantwortlich für Bau und Ausstattung der großen Bibliothek. Verbündete sich trotz früherer Unterstützung ihres Bruders mit dessen Töchtern gegen ihn und wurde
-Mitglied des „Rates der Frauen"; durfte danach im Königreich bleiben.
+Verbrachte als Kind trotz des strengen Regiments ihres Vaters Ferdinand III. eine von Harmonie geprägte Kindheit in dessen damaliger Residenz (noch nicht der
+spätere Palast Ferdinands IV.) – ihre Tage in der Bibliothek und den Gärten, vertieft in Bücher und Kunst. Wuchs nicht im eigentlichen Palast auf, da dieser
+erst unter ihrem Bruder Ferdinand IV. errichtet wurde, hatte später aber großen Einfluss auf dessen Gestaltung: Sie war verantwortlich für Bau und Ausstattung
+der großen Bibliothek, die zu einem Ort der Bildung wurde und Gelehrte und Künstler aus aller Welt anzog. Verbündete sich trotz früherer Unterstützung ihres
+Bruders mit dessen Töchtern gegen ihn und wurde Mitglied des „Rates der Frauen"; durfte danach im Königreich bleiben.
 
 ## Verweise
 
 - [Werke/Die Königsbücher von Montclair/04 - Königin Isabella I. Montclair](../../../Werke/Die%20Königsbücher%20von%20Montclair/04%20-%20Königin%20Isabella%20I.%20Montclair.md)
+- [Werke/Wichtige Prinzessinnen Montclairs/Prinzessin Eleanor und Genevieve Montclair](../../../Werke/Wichtige%20Prinzessinnen%20Montclairs/Prinzessin%20Eleanor%20und%20Genevieve%20Montclair.md)

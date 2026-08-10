@@ -40,5 +40,6 @@ der diplomatischen Tradition seiner Eltern: Wo Alexander II. Vertrauen in Mensch
 
 - [Werke/Die Königsbücher von Montclair/07 - König Wilhelm II. Montclair](../../../Werke/Die%20Königsbücher%20von%20Montclair/07%20-%20König%20Wilhelm%20II.%20Montclair.md)
   (bisher: Kapitel „Kindheit und Kronprinzenjahre", „Das Erbe des Schweigens", „Der König im Schatten des Glaubens" — Fortsetzung offen)
+- [Werke/Geschichten/Die schwarze Erzählung](../../../Werke/Geschichten/Die%20schwarze%20Erzählung.md) – Judiths Tod aus Erzählperspektive
 - [Kanon/Welt/Religion/Fragment-Religion.md](../../Welt/Religion/Fragment-Religion.md)
 - [Kanon/Welt/Religion/Staatsreligion von Montclair.md](../../Welt/Religion/Staatsreligion%20von%20Montclair.md)

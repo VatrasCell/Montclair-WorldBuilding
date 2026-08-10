@@ -20,7 +20,8 @@ Adelstitel nach ihrem Herkunftsort erhalten.
 
 ## Tod
 
-Starb einen Tag nach Wilhelm I., offiziell an „gebrochenem Herzen" (genaue Ursache unbekannt). Gemeinsam mit ihm beigesetzt.
+Starb einen Tag nach Wilhelm I., offiziell an „gebrochenem Herzen" (genaue Ursache unbekannt). Gemeinsam mit ihm zunächst in der Krypta der Kirche der Stadt
+Montclair beigesetzt, später unter Alexander II. nach Wilhelmshöhe überführt.
 
 ## Verweise
 

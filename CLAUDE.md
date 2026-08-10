@@ -31,7 +31,8 @@ sollte bei ihrer Ausarbeitung nicht stillschweigend als „gilt überall genauso
 (sie beschreibt die Wirkung der Großen Verwüstung selbst).
 
 - **Erbfolge (Montclair):** Seit Ferdinand III. gilt die Erstgeburts-Erbfolge (ältester Sohn erbt automatisch). Vorher war die Nachfolge nicht geregelt (Ursache
-  des Streits nach Wilhelm I.).
+  des Streits nach Wilhelm I.). Ferdinand IV. ergänzte die Regel bei seiner Abdankung unter dem Druck des „Rats der Frauen": Existiert kein männlicher Erbe,
+  erbt die älteste Tochter des Herrschers. Isabella I. bestätigte diese Ergänzung formell als dynastisches Recht.
 - **Titel-Tradition (Montclair):** Ehefrauen von Königen erhalten nach der Hochzeit einen Adelstitel nach ihrem Herkunftsort (`von <Ort>`). Bei unbekannter
   Herkunft wird ein Reich stellvertretend zugeschrieben (Margarethe von Alden).
 - **Sterbe-Tradition (Montclair, kulturell, nicht religiös verbindlich):** Über Generationen die Vorstellung, dass Ehefrauen ihren Männern rasch in den Tod

@@ -23,9 +23,11 @@
 
 ## Standort
 
-Das Königreich Montclair ist auf einer fruchtbaren Insel am westlichen Meer angesiedelt. Das Land ist umgeben von reichen Wäldern und Ebenen mit weichen
-Hügelrücken, mit einem gemäßigten, doch fruchtbaren Klima. Wichtige topographische Merkmale beinhalten die Bergketten im Osten, strategisch genutzt für die
-Errichtung von Burgen wie Burg Montclair und Wilhelmshöhe.
+Die Stadt Montclair – Ursprung und Hauptstadt des Königreichs – wurde auf einer fruchtbaren Insel am westlichen Meer gegründet. Von dort aus hat sich das
+Königreich im Lauf der Generationen bis zu seiner heutigen Größe ausgebreitet, unter anderem auf das angrenzende Festland im Osten. Das erklärt, warum
+Montclair heute sowohl eine Insel-Hauptstadt als auch Landgrenzen hat: Die Bergketten im Osten bilden die heutige Ostgrenze zum Festland, strategisch
+genutzt für die Errichtung von Burgen wie Burg Montclair und Wilhelmshöhe. Das Land ist umgeben von reichen Wäldern und Ebenen mit weichen Hügelrücken, mit
+einem gemäßigten, doch fruchtbaren Klima.
 
 ## Bevölkerung und Demografie
 
@@ -35,8 +37,9 @@ Errichtung von Burgen wie Burg Montclair und Wilhelmshöhe.
 ## Geschichte
 
 - **Gründung:** Gegründet von König Wilhelm I. Montclair nach der Großen Westwanderung.
-- **Hauptereignisse:** Errichtung der Burg Montclair von Kronprinz Alexander I. zur Sicherung der Ostgrenze, Überführung der sterblichen Überreste von Wilhelm
-  I. und Beatrice in die Burg Wilhelmshöhe von König Alexander II. und Gründung von weiteren Siedlungen entlang der strategischen Routen der Westwanderung.
+- **Hauptereignisse:** Errichtung der Burg Montclair von Kronprinz Alexander I. zur Sicherung der Ostgrenze, Überführung der sterblichen Überreste aller
+  bisherigen Könige und ihrer Familien (zuvor in der Krypta der Kirche der Stadt Montclair beigesetzt) in die neu errichtete Burg Wilhelmshöhe von König
+  Alexander II. und Gründung von weiteren Siedlungen entlang der strategischen Routen der Westwanderung.
 
 ## Regierung & Verwaltung
 

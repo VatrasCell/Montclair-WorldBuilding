@@ -15,7 +15,8 @@ würdigen dynastischen Nachkommens sein – die Verbindung entstand also auf Dru
 
 ## Tod
 
-Starb einige Jahre vor Isabella I.; beide wurden in einem gemeinsamen Grab beigesetzt.
+Starb einige Jahre vor Isabella I.; beide wurden in einem gemeinsamen Grab beigesetzt – zunächst in der Krypta der Kirche der Stadt Montclair, später unter
+Alexander II. nach Wilhelmshöhe überführt.
 
 ## Verweise
 

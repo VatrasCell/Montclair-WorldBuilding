@@ -89,14 +89,16 @@ hier ergänzen.
   Aldrics → siehe [Kanon/Reiche/Königreich Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md)
 - **Große Mine** — errichtet von Ferdinand III. →
   siehe [Kanon/Personen/Haus Montclair/Ferdinand III. Montclair](../Kanon/Personen/Haus%20Montclair/Ferdinand%20III.%20Montclair.md)
+- **Kirche der Stadt Montclair** — ursprüngliche Grablege aller Könige und ihrer Familien vor Wilhelmshöhe → siehe
+  [Kanon/Personen/Haus Montclair/Wilhelm I. Montclair](../Kanon/Personen/Haus%20Montclair/Wilhelm%20I.%20Montclair.md)
 - **Lythor** — Hauptstadt Lythorias → siehe [Kanon/Reiche/Königreich Lythoria](../Kanon/Reiche/Königreich%20Lythoria/Steckbrief.md)
-- **Wilhelmshöhe** — Königliche Gruft, Kathedrale,
+- **Wilhelmshöhe** — Königliche Gruft (Nachfolgerin der Kirche der Stadt Montclair), Kathedrale,
   Pilgerort → [Werke/Bauwerke-Chroniken/Die Errichtung der Burg Wilhelmshöhe](../Werke/Bauwerke-Chroniken/Die%20Errichtung%20der%20Burg%20Wilhelmshöhe.md)
 
 ## Begriffe & Ereignisse
 
-- **Erstgeburts-Erbfolge** — von Ferdinand III. eingeführte Thronfolgeregel →
-  siehe [Kanon/Personen/Haus Montclair/Ferdinand III. Montclair](../Kanon/Personen/Haus%20Montclair/Ferdinand%20III.%20Montclair.md)
+- **Erstgeburts-Erbfolge** — von Ferdinand III. eingeführte Thronfolgeregel (Sohn erbt automatisch), von Ferdinand IV./Isabella I. um die Regel „ohne Sohn
+  erbt die älteste Tochter" ergänzt → siehe [Kanon/Personen/Haus Montclair/Ferdinand III. Montclair](../Kanon/Personen/Haus%20Montclair/Ferdinand%20III.%20Montclair.md)
 - **Fragment-Religion** — uraltes religiöses Fundament → [Kanon/Welt/Religion/Fragment-Religion](../Kanon/Welt/Religion/Fragment-Religion.md)
 - **Große Verwüstung** — Naturkatastrophe, Ausgangspunkt der
   Zeitleiste → [Kanon/Welt/Die Große Verwüstung und die Westwanderung](../Kanon/Welt/Die%20Große%20Verwüstung%20und%20die%20Westwanderung.md)
@@ -114,3 +116,9 @@ hier ergänzen.
   Biografien → [Werke/Die Königsbücher von Montclair](../Werke/Die%20Königsbücher%20von%20Montclair/)
 - **Die Flamme der alten Ordnung – Stimmen aus dem Schatten** — Chronik Aldrics von
   Fenmar → [Werke/Die Flamme der alten Ordnung (Aldric von Fenmar)](../Werke/Die%20Flamme%20der%20alten%20Ordnung%20(Aldric%20von%20Fenmar)/)
+- **Die schwarze Erzählung** — Geschichte über Judiths Tod und den Bruch der
+  Sterbe-Tradition → [Werke/Geschichten/Die schwarze Erzählung](../Werke/Geschichten/Die%20schwarze%20Erzählung.md)
+- **Fragment-Religion** (Geschichte) — erzählerische Fassung der Fragment-Religion, unabhängig von Aldrics
+  Chronik → [Werke/Geschichten/Fragment-Religion](../Werke/Geschichten/Fragment-Religion.md)
+- **Wichtige Prinzessinnen Montclairs** — Sammlung kurzer Einzelporträts von Prinzessinnen des Hauses Montclair (bisher: Eleanor & Genevieve, Isabella
+  Dorfgründerin) → [Werke/Wichtige Prinzessinnen Montclairs](../Werke/Wichtige%20Prinzessinnen%20Montclairs/)

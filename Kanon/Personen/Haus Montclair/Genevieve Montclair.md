@@ -1,6 +1,6 @@
 # Genevieve Montclair
 
-**Titel:** Prinzessin, Mitglied des Rates der Frauen **Status:** Kanon – Kurzfassung
+**Titel:** Prinzessin, Mitglied des Rates der Frauen **Status:** Kanon – ausgearbeitet
 
 ## Familie
 
@@ -15,9 +15,12 @@
 
 ## Lebensstationen
 
-Kümmerte sich um die Begrünung des Palastes. Verbündete sich mit den Töchtern ihres Bruders Ferdinand IV. gegen ihn und wurde Mitglied des „Rates der Frauen";
-durfte danach im Königreich bleiben.
+Verbrachte eine von Harmonie geprägte Kindheit, in der sie Gärten und Umgebung der königlichen Residenz erkundete und sich mit den einfachen Arbeitern des
+königlichen Anwesens anfreundete – ihre lebhafte Art brachte früh Leben in den Hof. Kümmerte sich als Erwachsene um die Begrünung des Palastes und schuf
+prächtige Gärten und Grünflächen, die zu einer Oase der Schönheit wurden und Menschen aller Schichten anzogen. Verbündete sich mit den Töchtern ihres Bruders
+Ferdinand IV. gegen ihn und wurde Mitglied des „Rates der Frauen"; durfte danach im Königreich bleiben.
 
 ## Verweise
 
 - [Werke/Die Königsbücher von Montclair/04 - Königin Isabella I. Montclair](../../../Werke/Die%20Königsbücher%20von%20Montclair/04%20-%20Königin%20Isabella%20I.%20Montclair.md)
+- [Werke/Wichtige Prinzessinnen Montclairs/Prinzessin Eleanor und Genevieve Montclair](../../../Werke/Wichtige%20Prinzessinnen%20Montclairs/Prinzessin%20Eleanor%20und%20Genevieve%20Montclair.md)

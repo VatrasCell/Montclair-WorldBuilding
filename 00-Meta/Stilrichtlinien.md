@@ -27,6 +27,11 @@ sagen, was er nicht weiß.
 Freier erzählerisch, näher am klassischen Fantasy-Ton als die Königsbücher; dient eher der atmosphärischen Einführung großer Ereignisse (z. B. der Großen
 Verwüstung) als der lückenlosen Chronik.
 
+## Wichtige Prinzessinnen Montclairs
+
+Kurze, in sich geschlossene Einzelporträts (kein Kapitel-Umfang wie die Königsbücher) zu Prinzessinnen, die selbst nie den Thron bestiegen, aber prägenden
+Einfluss hatten. Warmer, erzählerischer Ton mit Fokus auf Charakter und persönliches Vermächtnis statt auf Herrschaft.
+
 ## Allgemein
 
 - Sprache durchgehend Deutsch.

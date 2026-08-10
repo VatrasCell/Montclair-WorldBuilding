@@ -14,7 +14,8 @@ Erhielt nach der Hochzeit den Titel „von Winthrope", entsprechend der Traditio
 
 ## Tod
 
-Starb einen Tag nach Ferdinand III., gemeinsam mit ihm beigesetzt.
+Starb einen Tag nach Ferdinand III., gemeinsam mit ihm zunächst in der Krypta der Kirche der Stadt Montclair beigesetzt, später unter Alexander II. nach
+Wilhelmshöhe überführt.
 
 ## Kanon-Hinweis
 

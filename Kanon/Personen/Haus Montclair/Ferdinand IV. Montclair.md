@@ -22,7 +22,9 @@ die Bevölkerung wurde für diese Bauvorhaben wie Sklaven behandelt.
 
 Da er mit Margarethe ausschließlich Töchter hatte, war seine Nachfolge ungeklärt. Als er älter wurde, kam es zu Aufständen rund um den Palast. Seine vier
 Töchter verbündeten sich mit seinen Schwestern Eleanor und Genevieve zum sogenannten „Rat der Frauen" und setzten seine älteste Tochter Sophia (als Isabella I.)
-als Nachfolgerin durch – Ferdinand IV. konnte sich gegen den Rat nicht durchsetzen, da dieser die Unterstützung der Bevölkerung hatte.
+als Nachfolgerin durch – Ferdinand IV. konnte sich gegen den Rat nicht durchsetzen, da dieser die Unterstützung der Bevölkerung hatte. Unter diesem Druck
+erklärte er bei seiner Abdankung eine Ergänzung der von seinem eigenen Vater eingeführten Erbfolge: Existiert kein männlicher Erbe, soll künftig die älteste
+Tochter des Herrschers erben – womit der Weg für Sophias Krönung als Isabella I. rechtlich abgesichert wurde.
 
 ## Ende
 

@@ -120,8 +120,9 @@ hatte. Der Blick richtete sich rasch auf Wilhelm II., den neuen König, der die 
 Doch ein dunkler Schatten legte sich bald über diese Tage der Erinnerung. Königin Judith von Montclair, die treue Weggefährtin Alexanders II., überlebte ihn –
 ein Umstand, der bei einigen fanatischen Stimmen im Volk auf Unmut stieß. Sie war die erste Königin seit Generationen, die ihrem Gatten nicht unmittelbar in den
 Tod folgte. Wochen vergingen, doch das Flüstern wuchs zu offenen Anfeindungen heran, und schließlich kam es zu einem folgenschweren Zwischenfall. Bei einem
-Besuch in einer Kirche der Stadt wurde Judith von einem aufgebrachten Mob angegriffen. Zwar gelang es den königlichen Wachen, die Angreifer zu vertreiben, doch
-die Verletzungen der Königinmutter waren schwer. Wenige Tage darauf erlag sie diesen – eine Tragödie, die das Königreich erschütterte.
+Besuch in einer Kirche der Stadt wurde Judith von einem aufgebrachten Mob angegriffen. Zwar gelang es den königlichen Wachen, die Angreifer abzuwehren und noch
+vor Ort hinzurichten, doch die Verletzungen der Königinmutter waren schwer. Wenige Tage darauf erlag sie diesen – eine Tragödie, die das Königreich
+erschütterte.
 
 Wilhelm II. Montclair, zu diesem Zeitpunkt bereits als neuer König bestätigt, zeigte sich nach außen gefasst, doch seine Reaktion auf den Tod seiner Mutter
 blieb von seltsamer Schweigsamkeit geprägt. Es war, als wolle er dieses dunkle Kapitel aus dem Licht der Öffentlichkeit fernhalten. Judith von Montclair wurde
