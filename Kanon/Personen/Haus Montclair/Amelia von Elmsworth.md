@@ -11,6 +11,7 @@
 ## Charakter
 
 - warmherzig, engagiert für soziale Angelegenheiten
+- passt zum Ruf ihrer Herrscherfamilie: Weisheit, Großzügigkeit, starkes soziales Engagement, Fokus auf Bildung und das Wohlergehen aller Bürger
 
 ## Lebensstationen
 

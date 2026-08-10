@@ -7,14 +7,14 @@ hier ergänzen.
 
 - **Adelaide von Winthrope** — Ehefrau Ferdinands
   III. → [Kanon/Personen/Haus Montclair/Adelaide von Winthrope](../Kanon/Personen/Haus%20Montclair/Adelaide%20von%20Winthrope.md)
-- **Aldric von Fenmar** — Chronist am Hof von Lythoria, Autor der „Flamme der alten
+- **Aldric von Fenmar** — Chronist am Hof von Elmsworth, geboren in Eldon, Autor der „Flamme der alten
   Ordnung" → [Kanon/Personen/Aldric von Fenmar](../Kanon/Personen/Aldric%20von%20Fenmar.md)
 - **Alexander I. Montclair** — Kronprinz, nie gekrönt, erbaute Burg
   Montclair → [Kanon/Personen/Haus Montclair/Alexander I. Montclair](../Kanon/Personen/Haus%20Montclair/Alexander%20I.%20Montclair.md)
 - **Alexander II. Montclair** — König, erbaute Wilhelmshöhe und
   Diplomatenviertel → [Kanon/Personen/Haus Montclair/Alexander II. Montclair](../Kanon/Personen/Haus%20Montclair/Alexander%20II.%20Montclair.md)
 - **Amelia Montclair** (Tochter Wilhelms I.) — zog fort auf der Suche nach
-  Aranthor → [Kanon/Personen/Haus Montclair/Amelia Montclair (Tochter Wilhelms I.)](../Kanon/Personen/Haus%20Montclair/Amelia%20Montclair%20 (Tochter%20Wilhelms%20I.).md)
+  Aranthor → [Kanon/Personen/Haus Montclair/Amelia Montclair (Tochter Wilhelms I.)](../Kanon/Personen/Haus%20Montclair/Amelia%20Montclair%20(Tochter%20Wilhelms%20I.).md)
 - **Amelia von Elmsworth** — Ehefrau Alexanders
   I. → [Kanon/Personen/Haus Montclair/Amelia von Elmsworth](../Kanon/Personen/Haus%20Montclair/Amelia%20von%20Elmsworth.md)
 - **Beatrice von Penworth** — Ehefrau Wilhelms
@@ -37,9 +37,9 @@ hier ergänzen.
 - **Helena Montclair** — Tochter Alexanders II. und
   Judiths → [Kanon/Personen/Haus Montclair/Helena Montclair](../Kanon/Personen/Haus%20Montclair/Helena%20Montclair.md)
 - **Isabella Montclair** (Dorfgründerin) — Tochter Wilhelms I., gründet freies
-  Dorf → [Kanon/Personen/Haus Montclair/Isabella Montclair (Dorfgründerin)](../Kanon/Personen/Haus%20Montclair/Isabella%20Montclair%20 (Dorfgründerin).md)
+  Dorf → [Kanon/Personen/Haus Montclair/Isabella Montclair (Dorfgründerin)](../Kanon/Personen/Haus%20Montclair/Isabella%20Montclair%20(Dorfgründerin).md)
 - **Isabella I. Montclair** (geb. Sophia) — Königin, durch Rat der Frauen
-  inthronisiert → [Kanon/Personen/Haus Montclair/Isabella I. Montclair (geb. Sophia)](../Kanon/Personen/Haus%20Montclair/Isabella%20I.%20Montclair%20 (geb.%20Sophia).md)
+  inthronisiert → [Kanon/Personen/Haus Montclair/Isabella I. Montclair (geb. Sophia)](../Kanon/Personen/Haus%20Montclair/Isabella%20I.%20Montclair%20(geb.%20Sophia).md)
 - **Isolde Montclair** — Tochter Ferdinands IV. → [Kanon/Personen/Haus Montclair/Isolde Montclair](../Kanon/Personen/Haus%20Montclair/Isolde%20Montclair.md)
 - **Judith von Montclair** — Ehefrau Alexanders II., durchbricht Sterbe-Tradition, gewaltsamer
   Tod → [Kanon/Personen/Haus Montclair/Judith von Montclair](../Kanon/Personen/Haus%20Montclair/Judith%20von%20Montclair.md)
@@ -51,8 +51,8 @@ hier ergänzen.
   Judiths → [Kanon/Personen/Haus Montclair/Lavinia Montclair](../Kanon/Personen/Haus%20Montclair/Lavinia%20Montclair.md)
 - **Magnus Montclair** — Sohn Alexanders II. und
   Judiths → [Kanon/Personen/Haus Montclair/Magnus Montclair](../Kanon/Personen/Haus%20Montclair/Magnus%20Montclair.md)
-- **Margarethe von Alden** — Ehefrau Ferdinands IV., Herkunft
-  unbekannt → [Kanon/Personen/Haus Montclair/Margarethe von Alden](../Kanon/Personen/Haus%20Montclair/Margarethe%20von%20Alden.md)
+- **Margarethe von Alden** — Ehefrau Ferdinands IV., erschien eines Tages ohne bekannte Herkunft am Hof, mythenumrankt
+  → [Kanon/Personen/Haus Montclair/Margarethe von Alden](../Kanon/Personen/Haus%20Montclair/Margarethe%20von%20Alden.md)
 - **Victoria Montclair** — Tochter Ferdinands
   IV. → [Kanon/Personen/Haus Montclair/Victoria Montclair](../Kanon/Personen/Haus%20Montclair/Victoria%20Montclair.md)
 - **Wilhelm I. Montclair** — Gründer und erster König von
@@ -62,18 +62,21 @@ hier ergänzen.
 
 ## Reiche
 
-- **Alden** — Margarethes zugeschriebene Herkunft → [Kanon/Reiche/Königreich Alden](../Kanon/Reiche/Königreich%20Alden/Steckbrief.md)
+- **Alden** — Margarethes zugeschriebene Herkunft; fernes (fiktives?) Reich, das niemand je gesehen hat, evtl. nur Mythos/Redewendung
+  → [Kanon/Reiche/Königreich Alden](../Kanon/Reiche/Königreich%20Alden/Steckbrief.md)
 - **Aranthor** — Wilhelms I. Heimat, zerstört → [Kanon/Reiche/Königreich Aranthor](../Kanon/Reiche/Königreich%20Aranthor/Steckbrief.md)
 - **Athelwyn** — zerstört (Wüste) → [Kanon/Reiche/Königreich Athelwyn](../Kanon/Reiche/Königreich%20Athelwyn/Steckbrief.md)
-- **Caerthun** — neues Reich, kaum entwickelt → [Kanon/Reiche/Königreich Caerthun](../Kanon/Reiche/Königreich%20Caerthun/Steckbrief.md)
+- **Caerthun** — altes Reich der Neuen Welt, Seefahrtnation an einem großen See, wichtige Handelsdrehscheibe → [Kanon/Reiche/Königreich Caerthun](../Kanon/Reiche/Königreich%20Caerthun/Steckbrief.md)
 - **Eldara** — zerstört (Bodenaufbrüche) → [Kanon/Reiche/Königreich Eldara](../Kanon/Reiche/Königreich%20Eldara/Steckbrief.md)
-- **Elmsworth** — Amelias Heimat, junges Reich → [Kanon/Reiche/Königreich Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md)
-- **Lythoria** — Handel, Kunst, Hauptstadt Lythor → [Kanon/Reiche/Königreich Lythoria](../Kanon/Reiche/Königreich%20Lythoria/Steckbrief.md)
+- **Elmsworth** — Amelias und Aldrics Heimat, junges, blühendes Reich, Wein/Getreide, Feste/Kunst/Musik, Hauptstadt
+  Eldon → [Kanon/Reiche/Königreich Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md)
+- **Lythoria** — altes Reich der Neuen Welt, bewusst noch unbeschrieben (Abgrenzung zu Elmsworth), Hauptstadt
+  Lythor → [Kanon/Reiche/Königreich Lythoria](../Kanon/Reiche/Königreich%20Lythoria/Steckbrief.md)
 - **Montclair** — Hauptreich der Chronik → [Kanon/Reiche/Königreich Montclair](../Kanon/Reiche/Königreich%20Montclair/Steckbrief.md)
 - **Penworth** — Beatrices Herkunft, Ferdinand II. „der Große" → [Kanon/Reiche/Königreich Penworth](../Kanon/Reiche/Königreich%20Penworth/Steckbrief.md)
 - **Therondel** — zerstört (Vulkanausbrüche) → [Kanon/Reiche/Königreich Therondel](../Kanon/Reiche/Königreich%20Therondel/Steckbrief.md)
 - **Varencia** — zerstört (Erdrutsche) → [Kanon/Reiche/Königreich Varencia](../Kanon/Reiche/Königreich%20Varencia/Steckbrief.md)
-- **Varenheim** — bislang unentwickelt → [Kanon/Reiche/Königreich Varenheim](../Kanon/Reiche/Königreich%20Varenheim/Steckbrief.md)
+- **Varenheim** — altes, isoliertes Waldreich der Neuen Welt, erst später entdeckt → [Kanon/Reiche/Königreich Varenheim](../Kanon/Reiche/Königreich%20Varenheim/Steckbrief.md)
 - **Winthrope** — Adelaides Herkunft → [Kanon/Reiche/Königreich Winthrope](../Kanon/Reiche/Königreich%20Winthrope/Steckbrief.md)
 
 ## Orte & Bauwerke
@@ -82,9 +85,11 @@ hier ergänzen.
   Ostgrenze → [Werke/Bauwerke-Chroniken/Die Errichtung der Burg Montclair](../Werke/Bauwerke-Chroniken/Die%20Errichtung%20der%20Burg%20Montclair.md)
 - **Diplomatenviertel** — Botschaftsviertel, errichtet von Alexander II. →
   siehe [Kanon/Personen/Haus Montclair/Alexander II. Montclair](../Kanon/Personen/Haus%20Montclair/Alexander%20II.%20Montclair.md)
+- **Eldon** — Hauptstadt Elmsworths, bekannt für Gärten und Architektur, Sitz der Universität und des Hofes, an dem Aldric von Fenmar wirkt, Geburtsort
+  Aldrics → siehe [Kanon/Reiche/Königreich Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md)
 - **Große Mine** — errichtet von Ferdinand III. →
   siehe [Kanon/Personen/Haus Montclair/Ferdinand III. Montclair](../Kanon/Personen/Haus%20Montclair/Ferdinand%20III.%20Montclair.md)
-- **Lythor** — Hauptstadt Lythorias, Geburtsort Aldrics → siehe [Kanon/Reiche/Königreich Lythoria](../Kanon/Reiche/Königreich%20Lythoria/Steckbrief.md)
+- **Lythor** — Hauptstadt Lythorias → siehe [Kanon/Reiche/Königreich Lythoria](../Kanon/Reiche/Königreich%20Lythoria/Steckbrief.md)
 - **Wilhelmshöhe** — Königliche Gruft, Kathedrale,
   Pilgerort → [Werke/Bauwerke-Chroniken/Die Errichtung der Burg Wilhelmshöhe](../Werke/Bauwerke-Chroniken/Die%20Errichtung%20der%20Burg%20Wilhelmshöhe.md)
 
@@ -98,7 +103,7 @@ hier ergänzen.
 - **Große Westwanderung** — Fluchtbewegung nach Westen unter
   Wilhelm → [Kanon/Welt/Die Große Verwüstung und die Westwanderung](../Kanon/Welt/Die%20Große%20Verwüstung%20und%20die%20Westwanderung.md)
 - **Rat der Frauen** — Zusammenschluss, der Isabella I. inthronisiert →
-  siehe [Kanon/Personen/Haus Montclair/Isabella I. Montclair (geb. Sophia)](../Kanon/Personen/Haus%20Montclair/Isabella%20I.%20Montclair%20 (geb.%20Sophia).md)
+  siehe [Kanon/Personen/Haus Montclair/Isabella I. Montclair (geb. Sophia)](../Kanon/Personen/Haus%20Montclair/Isabella%20I.%20Montclair%20(geb.%20Sophia).md)
 - **Staatsreligion von Montclair** — → [Kanon/Welt/Religion/Staatsreligion von Montclair](../Kanon/Welt/Religion/Staatsreligion%20von%20Montclair.md)
 - **Sterbe-Tradition** — kulturelle (nicht religiöse) Vorstellung, Ehefrauen folgten Königen rasch in den Tod →
   siehe [Kanon/Welt/Religion/Staatsreligion von Montclair](../Kanon/Welt/Religion/Staatsreligion%20von%20Montclair.md)
@@ -108,4 +113,4 @@ hier ergänzen.
 - **Die Königsbücher von Montclair** — Buchreihe erzählerischer
   Biografien → [Werke/Die Königsbücher von Montclair](../Werke/Die%20Königsbücher%20von%20Montclair/)
 - **Die Flamme der alten Ordnung – Stimmen aus dem Schatten** — Chronik Aldrics von
-  Fenmar → [Werke/Die Flamme der alten Ordnung (Aldric von Fenmar)](../Werke/Die%20Flamme%20der%20alten%20Ordnung%20 (Aldric%20von%20Fenmar)/)
+  Fenmar → [Werke/Die Flamme der alten Ordnung (Aldric von Fenmar)](../Werke/Die%20Flamme%20der%20alten%20Ordnung%20(Aldric%20von%20Fenmar)/)

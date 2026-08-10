@@ -1,16 +1,29 @@
 # Steckbrief vom Königreich Varenheim
 
-**Status:** Nicht entwickelt / bisher an keiner Stelle des Kanons erwähnt
+**Status:** Altes Reich der Neuen Welt (nicht aus der Großen Verwüstung hervorgegangen, sondern eines der bereits vor Montclair bestehenden, erst später
+entdeckten Reiche weiter im Westen)
 
 ## Name des Königreichs
 
 **Königreich Varenheim**
 
-## Bekannte Fakten
+## Lage
 
-Bislang keine. Dieser Ordner wurde in einem früheren Strukturierungsversuch angelegt, taucht aber weder im alten Chat-Dump noch in einem der bestehenden Werke
-auf. Vor einer Ausarbeitung sollte geklärt werden, ob Varenheim ein eigenständiges Reich werden soll oder ob der Ordner entfernt werden kann.
+Erstreckt sich über die nördlichen Wälder und die angrenzenden Bergketten.
+
+## Geschichte & Kultur
+
+Die Gründer Varenheims waren für ihre Fähigkeiten im Holzbau und in der Jagd bekannt und errichteten ihre Hauptstadt tief im Schutz uralter Bäume. Die
+reiche Tierwelt und die schwer zugänglichen Gebirgszüge machten Varenheim zu einer isolierten, aber wohlhabenden Nation, die ihre Unabhängigkeit und Kultur
+über die Jahrhunderte hinweg bewahrte.
+
+## Kanon-Hinweis
+
+Varenheim zählt zu den Reichen, „die weiter im Westen entdeckt" wurden, nachdem bekannt wurde, dass die Welt nach der Großen Verwüstung keineswegs
+vollständig ausgelöscht war (siehe [Kanon/Welt/Die Große Verwüstung und die Westwanderung](../../Welt/Die%20Große%20Verwüstung%20und%20die%20Westwanderung.md)).
+Anders als Elmsworth, Lythoria oder Caerthun ist es also kein *neu gegründetes* Reich der Neuen Welt, sondern ein *altes*, unabhängig von Montclair
+entstandenes Reich, das lange isoliert blieb, bevor es entdeckt wurde.
 
 ## Verweise
 
-- [00-Meta/Offene-Fragen.md](../../../00-Meta/Offene-Fragen.md)
+- [Kanon/Welt/Die Große Verwüstung und die Westwanderung](../../Welt/Die%20Große%20Verwüstung%20und%20die%20Westwanderung.md)

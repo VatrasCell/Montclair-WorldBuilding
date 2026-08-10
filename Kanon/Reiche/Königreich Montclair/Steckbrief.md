@@ -6,6 +6,14 @@
 
 **Königreich Montclair**
 
+## Farben
+
+- Schwarz, Weiß, Cyan
+
+## Flaggen und Wappen
+
+<img src="Assets/Reiche/Montclair/montclair_flagge.png" alt="Flagge" height="200"/>
+
 ## Regierendes Herrscherhaus
 
 - **Dynastie:** Montclair
@@ -40,7 +48,8 @@ Errichtung von Burgen wie Burg Montclair und Wilhelmshöhe.
 
 - **Hauptwirtschaftszweige:** Landwirtschaft, Abbau von Bodenschätzen, Steinmetzen und Handwerk. Wichtige strategische Orte wie Burg Montclair fördern die
   Produktion von Baumaterialien.
-- **Handelspartner:** Wichtige Handelsbeziehungen bestehen mit den Königreichen Elmsworth, Alden und anderen kleineren Fürstentümern auf dem Festland.
+- **Handelspartner:** Wichtige Handelsbeziehungen bestehen mit dem Königreich Elmsworth und anderen kleineren Fürstentümern auf dem Festland. (Alden zählt
+  nicht dazu – siehe Kanon-Hinweis unten.)
 
 ## Religion und Kultur
 
@@ -77,3 +86,8 @@ Errichtung von Burgen wie Burg Montclair und Wilhelmshöhe.
 
 Ausführliche Einzeldaten zu allen Personen: siehe [Kanon/Personen/Haus Montclair](../../Personen/Haus%20Montclair/). Erzählerische Biografien:
 siehe [Werke/Die Königsbücher von Montclair](../../../Werke/Die%20Königsbücher%20von%20Montclair/).
+
+## Kanon-Hinweis
+
+Das Königreich **Alden**, dem Königin Margarethe stellvertretend zugeschrieben wurde, gilt selbst als nicht gesichert existent (siehe
+[Kanon/Reiche/Königreich Alden](../Königreich%20Alden/Steckbrief.md)). Es taucht deshalb bewusst nicht mehr unter den Handelspartnern auf.

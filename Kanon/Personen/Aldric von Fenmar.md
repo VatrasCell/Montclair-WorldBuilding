@@ -1,16 +1,16 @@
 # Aldric von Fenmar
 
-**Titel:** Chronist am Hof von Lythoria **Status:** Kanon – Kurzfassung **Haus:** kein Mitglied der Dynastie Montclair – Chronist aus dem Königreich Lythoria
+**Titel:** Chronist am Hof von Elmsworth **Status:** Kanon – Kurzfassung **Haus:** kein Mitglied der Dynastie Montclair – Chronist aus dem Königreich Elmsworth
 
 ## Familie
 
-- **Vater:** Gelehrter aus Montclair, war an der Universität von Montclair tätig und maßgeblich am Aufbau der Universität in Lythor beteiligt
-- **Mutter:** Händlerin, reiste häufig zwischen Montclair und Lythoria
-- Die Eltern lernten sich in Lythor kennen und zogen kurz vor Aldrics Geburt dorthin; Aldric wurde in Lythor geboren
+- **Vater:** Gelehrter aus Montclair, war an der Universität von Montclair tätig und maßgeblich am Aufbau der Universität in Eldon beteiligt
+- **Mutter:** Händlerin, reiste häufig zwischen Montclair und Elmsworth
+- Die Eltern lernten sich in Eldon kennen und zogen kurz vor Aldrics Geburt dorthin; Aldric wurde in Eldon geboren
 
 ## Ausbildung
 
-Studierte Geschichte an der Universität von Lythor, wurde danach Chronist am Hof von Lythoria.
+Studierte Geschichte an der Universität von Eldon, wurde danach Chronist am Hof von Elmsworth.
 
 ## Werk
 
@@ -23,5 +23,5 @@ mehr am Leben.
 
 ## Verweise
 
-- [Kanon/Reiche/Königreich Lythoria](../Reiche/Königreich%20Lythoria/Steckbrief.md)
-- [Werke/Die Flamme der alten Ordnung (Aldric von Fenmar)](../../Werke/Die%20Flamme%20der%20alten%20Ordnung%20 (Aldric%20von%20Fenmar)/)
+- [Kanon/Reiche/Königreich Elmsworth](../Reiche/Königreich%20Elmsworth/Steckbrief.md)
+- [Werke/Die Flamme der alten Ordnung (Aldric von Fenmar)](../../Werke/Die%20Flamme%20der%20alten%20Ordnung%20(Aldric%20von%20Fenmar)/)

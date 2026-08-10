@@ -1,6 +1,6 @@
 # Splitter des Lichts
 
-*Auszug aus „Die Flamme der alten Ordnung – Stimmen aus dem Schatten" von Aldric von Fenmar, Chronist am Hof von Lythoria*
+*Auszug aus „Die Flamme der alten Ordnung – Stimmen aus dem Schatten" von Aldric von Fenmar, Chronist am Hof von Elmsworth*
 
 ---
 
@@ -41,4 +41,4 @@ Die Religion Montclairs ist damit, wie ich an anderer Stelle bereits festgehalte
 sondern eine Bündelung und Neuinterpretation ihrer erhaltenen Elemente. Sie macht den König nicht heilig. Sie umgibt ihn lediglich mit einer Ordnung, die älter
 ist als seine Krone – und genau darin liegt, wie mir scheint, ihr eigentlicher Nutzen für den Thron.
 
-— Aldric von Fenmar, Lythor
+— Aldric von Fenmar, Eldon

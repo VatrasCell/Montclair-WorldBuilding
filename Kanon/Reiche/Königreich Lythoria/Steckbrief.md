@@ -1,28 +1,22 @@
 # Steckbrief vom Königreich Lythoria
 
-**Status:** Aktives Königreich (Neue Welt, entstanden nach der Großen Westwanderung)
+**Status:** Altes Reich der Neuen Welt (nicht aus der Großen Verwüstung hervorgegangen, sondern eines der bereits vor Montclair bestehenden, erst später
+entdeckten Reiche weiter im Westen)
 
 ## Name des Königreichs
 
 **Königreich Lythoria**
 
-## Lage
-
-Südlich von Montclair. Fruchtbare Felder, Wein- und Getreideanbau, blühende Landwirtschaft, wichtige Handelswege.
-
 ## Hauptstadt
 
-**Lythor** – Sitz einer Universität und des Hofes, an dem der Chronist Aldric von Fenmar wirkt.
+**Lythor**
 
-## Kultur
+## Kanon-Hinweis
 
-Bekannt für Handel, Feste, Kunst und Musik.
+Lythoria zählt – wie [Varenheim](../Königreich%20Varenheim/Steckbrief.md) – zu den Reichen, die „weiter im Westen entdeckt" wurden, nachdem bekannt wurde, dass
+die Welt nach der Großen Verwüstung keineswegs vollständig ausgelöscht war (siehe
+[Kanon/Welt/Die Große Verwüstung und die Westwanderung](../../Welt/Die%20Große%20Verwüstung%20und%20die%20Westwanderung.md)).
 
-## Bekannte Persönlichkeiten
-
-- **Aldric von Fenmar:** Chronist am Hof von Lythoria, geboren in Lythor, Autor von „Die Flamme der alten Ordnung – Stimmen aus dem Schatten".
+Lage, Wirtschaft und Kultur wurden zunächst **bewusst nicht ausgearbeitet**
 
 ## Verweise
-
-- [Kanon/Personen/Aldric von Fenmar](../../Personen/Aldric%20von%20Fenmar.md)
-- [Werke/Die Flamme der alten Ordnung (Aldric von Fenmar)](../../../Werke/Die%20Flamme%20der%20alten%20Ordnung%20 (Aldric%20von%20Fenmar)/)

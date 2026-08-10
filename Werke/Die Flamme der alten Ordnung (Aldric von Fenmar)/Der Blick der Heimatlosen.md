@@ -1,6 +1,6 @@
 # Der Blick der Heimatlosen
 
-*Auszug aus „Die Flamme der alten Ordnung – Stimmen aus dem Schatten" von Aldric von Fenmar, Chronist am Hof von Lythoria*
+*Auszug aus „Die Flamme der alten Ordnung – Stimmen aus dem Schatten" von Aldric von Fenmar, Chronist am Hof von Elmsworth*
 
 ---
 
@@ -29,4 +29,4 @@ Jahrhunderte, wird aus dieser Verzweiflung eine Gründungsgeschichte. Die Mensch
 
 Ich halte es für die Pflicht des Chronisten, diesen Unterschied nicht zu verwischen.
 
-— Aldric von Fenmar, Lythor
+— Aldric von Fenmar, Eldon

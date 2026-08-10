@@ -25,5 +25,5 @@ widersprüchliche Gebäude errichtet haben. Es ist also kanonisch korrekt, wenn 
 
 ## Verweise
 
-- [Werke/Die Flamme der alten Ordnung (Aldric von Fenmar)/Splitter des Lichts](../../../Werke/Die%20Flamme%20der%20alten%20Ordnung%20 (Aldric%20von%20Fenmar)/Splitter%20des%20Lichts.md)
+- [Werke/Die Flamme der alten Ordnung (Aldric von Fenmar)/Splitter des Lichts](../../../Werke/Die%20Flamme%20der%20alten%20Ordnung%20(Aldric%20von%20Fenmar)/Splitter%20des%20Lichts.md)
 - [Kanon/Welt/Religion/Staatsreligion von Montclair](Staatsreligion%20von%20Montclair.md)

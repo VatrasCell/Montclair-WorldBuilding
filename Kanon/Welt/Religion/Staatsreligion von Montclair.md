@@ -40,7 +40,7 @@ ist.
 
 ## Verweise
 
-- [Werke/Die Flamme der alten Ordnung (Aldric von Fenmar)/Splitter des Lichts](../../../Werke/Die%20Flamme%20der%20alten%20Ordnung%20 (Aldric%20von%20Fenmar)/Splitter%20des%20Lichts.md)
+- [Werke/Die Flamme der alten Ordnung (Aldric von Fenmar)/Splitter des Lichts](../../../Werke/Die%20Flamme%20der%20alten%20Ordnung%20(Aldric%20von%20Fenmar)/Splitter%20des%20Lichts.md)
 - [Werke/Die Königsbücher von Montclair/07 - König Wilhelm II. Montclair](../../../Werke/Die%20Königsbücher%20von%20Montclair/07%20-%20König%20Wilhelm%20II.%20Montclair.md)
 - [Kanon/Personen/Haus Montclair/Wilhelm II. Montclair](../../Personen/Haus%20Montclair/Wilhelm%20II.%20Montclair.md)
 - [Kanon/Personen/Haus Montclair/Judith von Montclair](../../Personen/Haus%20Montclair/Judith%20von%20Montclair.md)

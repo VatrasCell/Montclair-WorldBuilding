@@ -7,8 +7,9 @@
 Eine verheerende Naturkatastrophe – Stürme, Überflutungen, Erdbeben, in manchen Reichen auch Erdrutsche, Bodenaufbrüche, Sandstürme oder Vulkanausbrüche –
 zerstörte mehrere Königreiche der alten Welt. Sie zerstörte **nicht die gesamte Welt**: andere Reiche überlebten und nahmen Heimatlose auf. Ein Teil der
 Überlebenden wollte jedoch nicht dauerhaft im Asyl bleiben und brach unter Wilhelm (später Wilhelm I. Montclair) nach Westen auf – die **Große Westwanderung**.
-Montclair war das erste Reich, das aus dieser Wanderung entstand; später entstanden weitere neue Königreiche (Elmsworth, Lythoria, Caerthun u. a.), die nicht
-mehr direkt Folge der Katastrophe waren, sondern eigenständige Weiterentwicklungen.
+Montclair war das erste Reich, das aus dieser Wanderung entstand; später entstanden weitere neue Königreiche (Elmsworth u. a.), die nicht mehr direkt Folge
+der Katastrophe waren, sondern eigenständige Weiterentwicklungen. Daneben wurden auch ältere, bereits bestehende Reiche der Neuen Welt erst später entdeckt
+(siehe unten).
 
 ## Betroffene Reiche der Alten Welt (zerstört)
 
@@ -36,14 +37,17 @@ Angeführt von Wilhelm, der bei der Verwüstung seine Familie verlor. Kein von A
 durch Wälder, Berge und unbekanntes Land. Wilhelm wurde erst unterwegs zum faktischen Anführer der Gruppe. Am Ziel – einer bis dahin unbewohnten, fruchtbaren
 Insel – entstand die Gemeinschaft, aus der Montclair hervorging.
 
-Erst nach der Gründung Montclairs wurde bekannt, dass im Westen keineswegs „nichts" existierte: Es folgten weitere Siedler, es entstanden neue Königreiche, und
-es wurden ältere, bis dahin unbekannte Reiche weiter im Westen entdeckt. Die Welt war nach der Großen Verwüstung also keineswegs vollständig ausgelöscht – nur
-die betroffene Region.
+Erst nach der Gründung Montclairs wurde bekannt, dass im Westen keineswegs „nichts" existierte: Es folgten weitere Siedler, es entstanden neue Königreiche
+(z. B. Elmsworth), und es wurden ältere, bis dahin unbekannte Reiche weiter im Westen entdeckt, die unabhängig von Montclair und dessen Westwanderung
+entstanden waren – etwa das isolierte, waldreiche [Königreich Varenheim](../Reiche/Königreich%20Varenheim/Steckbrief.md), das noch kaum ausgearbeitete
+[Königreich Lythoria](../Reiche/Königreich%20Lythoria/Steckbrief.md) mit seiner Hauptstadt Lythor und das seefahrende
+[Königreich Caerthun](../Reiche/Königreich%20Caerthun/Steckbrief.md) an den Ufern eines großen Sees. Die Welt war nach der Großen Verwüstung also
+keineswegs vollständig ausgelöscht – nur die betroffene Region.
 
 ## Verweise
 
 - [Werke/Geschichten/Die verheerende Naturkatastrophe und die Große Westwanderung](../../Werke/Geschichten/Die%20verheerende%20Naturkatastrophe%20und%20die%20Große%20Westwanderung.md) –
   ausformulierte Erzählfassung
-- [Werke/Die Flamme der alten Ordnung (Aldric von Fenmar)/Der Blick der Heimatlosen](../../Werke/Die%20Flamme%20der%20alten%20Ordnung%20 (Aldric%20von%20Fenmar)/Der%20Blick%20der%20Heimatlosen.md) –
+- [Werke/Die Flamme der alten Ordnung (Aldric von Fenmar)/Der Blick der Heimatlosen](../../Werke/Die%20Flamme%20der%20alten%20Ordnung%20(Aldric%20von%20Fenmar)/Der%20Blick%20der%20Heimatlosen.md) –
   In-Welt-Chronik-Auszug
 - [Kanon/Personen/Haus Montclair/Wilhelm I. Montclair](../Personen/Haus%20Montclair/Wilhelm%20I.%20Montclair.md)
