@@ -50,8 +50,8 @@ einem gemäßigten, doch fruchtbaren Klima.
 ## Wirtschaft und Handel
 
 - **Hauptwirtschaftszweige:** Landwirtschaft, Abbau von Bodenschätzen, Steinmetzen und Handwerk. Wichtige strategische Orte wie Burg Montclair fördern die
-  Produktion von Baumaterialien.
-- **Handelspartner:** Wichtige Handelsbeziehungen bestehen mit dem Königreich Elmsworth und anderen kleineren Fürstentümern auf dem Festland. (Alden zählt
+  Produktion von Baumaterialien. Seehandel über den unter Isabella I. ausgebauten Hafen und das neue Hafenviertel.
+- **Handelspartner:** Wichtige Handelsbeziehungen bestehen mit dem Königreich Elmsworth und anderen kleineren Reichen auf dem Festland. (Alden zählt
   nicht dazu – siehe Kanon-Hinweis unten.)
 
 ## Religion und Kultur
@@ -66,9 +66,9 @@ einem gemäßigten, doch fruchtbaren Klima.
 
 ## Wichtige Städte und Siedlungen
 
-- **Hauptstadt:** Stadt Montclair
-- **Strategische Siedlungen:** Burg Montclair, Wilhelmshöhe. Weitere bedeutende Ortschaften sind neu gegründete Dörfer und Städte entlang der
-  Haupthandelsrouten.
+- **Hauptstadt:** Stadt Montclair – seit Isabella I. auch Sitz einer Universität sowie eines eigenen Hafenviertels.
+- **Strategische Siedlungen:** Burg Montclair, Wilhelmshöhe, Palast zu Montclair (auf dem Palasthügel über der Großen Mine). Weitere bedeutende
+  Ortschaften sind neu gegründete Dörfer.
 
 ## Politische und diplomatische Beziehungen
 
@@ -82,7 +82,8 @@ einem gemäßigten, doch fruchtbaren Klima.
 - **König Ferdinand III. Montclair:** Sohn Wilhelms I., bekannt für seine strenge Herrschaft und die Einführung der Erstgeburts-Erbfolge.
 - **Königin Adelaide von Winthrope:** Ehefrau von Ferdinand III., Mutter von Ferdinand IV.
 - **König Ferdinand IV. Montclair:** Sohn Ferdinands III., tyrannischer Herrscher ohne männlichen Erben.
-- **Königin Isabella I. Montclair (geb. Sophia):** Tochter Ferdinand IV., durch den „Rat der Frauen" auf den Thron gebracht.
+- **Königin Isabella I. Montclair (geb. Sophia):** Tochter Ferdinand IV., durch den „Rat der Frauen" auf den Thron gebracht, leitete den Wiederaufbau
+  ein (Palast-Umbau, Universität, Hafenviertel).
 - **Kronprinz Alexander I. Montclair:** Sohn Isabellas I., nie gekrönt, ließ Burg Montclair errichten.
 - **König Alexander II. Montclair:** Sohn Alexanders I., ließ Wilhelmshöhe errichten, verstarb zuletzt.
 - **König Wilhelm II. Montclair:** amtierender König, Sohn Alexanders II. und Judiths.

@@ -22,6 +22,19 @@ Worldbuilding-Wissensbasis für eine Fantasy-Welt (Dynastie Montclair), die auf 
    bekannt" markiert werden — das ist bei den zerstörten Reichen sogar erzählerisch beabsichtigt (siehe Weltregel unten).
 3. **Neue Personen/Orte/Begriffe:** immer auch in `00-Meta/Glossar.md` eintragen.
 4. **Stil:** siehe `00-Meta/Stilrichtlinien.md` — Königsbücher, Bauwerks-Chroniken, Aldrics Chronik und freie Geschichten haben je eigenen Ton.
+5. **Vollständigkeits-Checkliste bei jedem neuen Kanon-Fakt** (Schnipzel einweben, offene Frage klären, Korrektur): immer alle folgenden Stellen
+   durchgehen, nicht nur die naheliegendste Datei — jede wird bei Betroffenheit aktualisiert:
+    - betroffene `Kanon/Personen/...`- bzw. `Kanon/Reiche/.../Steckbrief.md`-Datei(en)
+    - `00-Meta/Glossar.md`
+    - `00-Meta/Zeitleiste.md` (wird leicht vergessen, weil sie kein Fakten-, sondern ein Navigationsdokument ist — trotzdem bei jedem Ereignis mit
+      zeitlicher Einordnung prüfen)
+    - `00-Meta/Offene-Fragen.md`, falls der Fakt eine dort gelistete offene Frage klärt oder eine neue aufwirft
+    - betroffene `Werke/`-Texte, falls der Fakt dort bereits (ggf. jetzt widersprüchlich) vorkommt
+   Am zuverlässigsten: vor dem Editieren einmal repo-weit nach dem Namen der betroffenen Person/des Orts/Begriffs grep(en), statt die Liste der
+   „relevanten Stellen" aus dem Gedächtnis zu schätzen.
+6. **Vor Verwandtschafts- oder Chronologie-Aussagen** (wer ist wessen Vater/Großvater, was geschah vor/während/nach was) die entsprechende
+   Kanon-Personendatei bzw. den Original-Werke-Text noch einmal gezielt lesen, statt sich auf die Erinnerung aus dem bisherigen Gesprächsverlauf zu
+   verlassen — das hat in der Vergangenheit zu Fehlern geführt (z. B. „Großvater" statt „Vater", falsche zeitliche Einordnung von Ereignissen).
 
 ## Zentrale Weltregeln
 

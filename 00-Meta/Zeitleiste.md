@@ -33,6 +33,8 @@ Falls ein Kalender gewünscht ist (z. B. „X Jahre nach der Großen Verwüstung
 
 - Heirat (erzwungen) mit Edmund Montclair.
 - Kinder: Kronprinz Alexander I., Katharina.
+- Zeit des Wandels und Wiederaufbaus: Umbau/Erweiterung des Palastes, Bau einer Universität in der Stadt Montclair, Ausbau des Hafens um ein
+  Hafenviertel.
 - Wird sehr alt; Alexander I. verzichtet bei ihrem Tod bereits selbst auf die Krone.
 
 ## Generation 5 — Kronprinz Alexander I. Montclair (nie gekrönt)

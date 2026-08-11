@@ -27,6 +27,13 @@ nur ein Mann aus der Blutlinie Montclair als Vater eines würdigen dynastischen 
 Als Königin bestätigte und verankerte sie formell die von ihrem Vater Ferdinand IV. bei dessen Abdankung eingeleitete Ergänzung der Erbfolge – dass ohne
 männlichen Erben die älteste Tochter des Herrschers erbt – als dynastisches Recht (siehe [Kanon/Personen/Haus Montclair/Ferdinand IV. Montclair](Ferdinand%20IV.%20Montclair.md)).
 
+Ließ im Zuge der von ihr eingeleiteten Zeit des Wandels und Wiederaufbaus auch den Palast ihres Vaters umbauen und erweitern – neue, offener
+zugängliche Flügel und Säle, dazu eine Vergrößerung von Eleanors Bibliothek und Genevieves Gärten – um ihn vom Symbol der Tyrannei zu einem Sitz der
+neuen, gemeinschaftsorientierten Herrschaft zu wandeln.
+
+Ließ zudem in der Stadt Montclair eine Universität errichten sowie den von ihrem Vater erbauten Hafen weiter ausbauen und um ein eigenes
+Hafenviertel erweitern – beides Teil desselben Aufbruchs, der auch den Umbau des Palastes prägte.
+
 ## Tod
 
 Wurde außergewöhnlich alt. Edmund starb bereits einige Jahre vor ihr; beide wurden gemeinsam zunächst in der Krypta der Kirche der Stadt Montclair beigesetzt,
@@ -36,3 +43,4 @@ Krönung entschied und die Krone direkt an seinen Sohn Alexander II. weitergab.
 ## Verweise
 
 - [Werke/Die Königsbücher von Montclair/04 - Königin Isabella I. Montclair](../../../Werke/Die%20Königsbücher%20von%20Montclair/04%20-%20Königin%20Isabella%20I.%20Montclair.md)
+- [Werke/Bauwerke-Chroniken/Die Errichtung des Palastes zu Montclair](../../../Werke/Bauwerke-Chroniken/Die%20Errichtung%20des%20Palastes%20zu%20Montclair.md)

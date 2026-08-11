@@ -17,8 +17,9 @@
 ## Lebensstationen
 
 Nutzte den nahezu gleichzeitigen Tod seiner Eltern (Ferdinand III. und Adelaide) und seiner Großtante Isabella (Dorfgründerin) aus, um deren bis dahin
-unabhängiges Dorf einzuverleiben. Ließ den Hügel über der großen Mine aufschütten, dort einen persönlichen Palast errichten sowie einen Hafen zum Ozean bauen –
-die Bevölkerung wurde für diese Bauvorhaben wie Sklaven behandelt.
+unabhängiges Dorf einzuverleiben. Ließ den Hügel über der großen Mine aufschütten – der Aushub aus der Mine diente dabei direkt als Material für die
+Aufschüttung, was auch die Wahl dieses Standorts begünstigte –, dort einen persönlichen Palast errichten sowie einen Hafen zum Ozean bauen – die Bevölkerung
+wurde für diese Bauvorhaben wie Sklaven behandelt.
 
 Da er mit Margarethe ausschließlich Töchter hatte, war seine Nachfolge ungeklärt. Als er älter wurde, kam es zu Aufständen rund um den Palast. Seine vier
 Töchter verbündeten sich mit seinen Schwestern Eleanor und Genevieve zum sogenannten „Rat der Frauen" und setzten seine älteste Tochter Sophia (als Isabella I.)
@@ -33,3 +34,4 @@ Verließ nach dem Machtwechsel gemeinsam mit Margarethe das Königreich. Weitere
 ## Verweise
 
 - [Werke/Die Königsbücher von Montclair/03 - König Ferdinand IV. Montclair](../../../Werke/Die%20Königsbücher%20von%20Montclair/03%20-%20König%20Ferdinand%20IV.%20Montclair.md)
+- [Werke/Bauwerke-Chroniken/Die Errichtung des Palastes zu Montclair](../../../Werke/Bauwerke-Chroniken/Die%20Errichtung%20des%20Palastes%20zu%20Montclair.md)

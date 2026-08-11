@@ -39,8 +39,8 @@ hier ergänzen.
   Judiths → [Kanon/Personen/Haus Montclair/Helena Montclair](../Kanon/Personen/Haus%20Montclair/Helena%20Montclair.md)
 - **Isabella Montclair** (Dorfgründerin) — Tochter Wilhelms I., gründet freies
   Dorf → [Kanon/Personen/Haus Montclair/Isabella Montclair (Dorfgründerin)](../Kanon/Personen/Haus%20Montclair/Isabella%20Montclair%20(Dorfgründerin).md)
-- **Isabella I. Montclair** (geb. Sophia) — Königin, durch Rat der Frauen
-  inthronisiert → [Kanon/Personen/Haus Montclair/Isabella I. Montclair (geb. Sophia)](../Kanon/Personen/Haus%20Montclair/Isabella%20I.%20Montclair%20(geb.%20Sophia).md)
+- **Isabella I. Montclair** (geb. Sophia) — Königin, durch Rat der Frauen inthronisiert, Wiederaufbau: Palast-Umbau, Universität,
+  Hafenviertel → [Kanon/Personen/Haus Montclair/Isabella I. Montclair (geb. Sophia)](../Kanon/Personen/Haus%20Montclair/Isabella%20I.%20Montclair%20(geb.%20Sophia).md)
 - **Isolde Montclair** — Tochter Ferdinands IV., Rat der Frauen, neugierig und
   abenteuerlustig → [Kanon/Personen/Haus Montclair/Isolde Montclair](../Kanon/Personen/Haus%20Montclair/Isolde%20Montclair.md)
 - **Judith von Montclair** — Ehefrau Alexanders II., durchbricht Sterbe-Tradition, gewaltsamer
@@ -92,9 +92,16 @@ hier ergänzen.
   Aldrics → siehe [Kanon/Reiche/Königreich Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md)
 - **Große Mine** — errichtet von Ferdinand III. →
   siehe [Kanon/Personen/Haus Montclair/Ferdinand III. Montclair](../Kanon/Personen/Haus%20Montclair/Ferdinand%20III.%20Montclair.md)
+- **Hafenviertel** — Ausbau des von Ferdinand IV. errichteten Hafens um ein eigenes Stadtviertel, unter Isabella I. → siehe
+  [Kanon/Personen/Haus Montclair/Isabella I. Montclair (geb. Sophia)](../Kanon/Personen/Haus%20Montclair/Isabella%20I.%20Montclair%20(geb.%20Sophia).md)
 - **Kirche der Stadt Montclair** — ursprüngliche Grablege aller Könige und ihrer Familien vor Wilhelmshöhe → siehe
   [Kanon/Personen/Haus Montclair/Wilhelm I. Montclair](../Kanon/Personen/Haus%20Montclair/Wilhelm%20I.%20Montclair.md)
 - **Lythor** — Hauptstadt Lythorias → siehe [Kanon/Reiche/Königreich Lythoria](../Kanon/Reiche/Königreich%20Lythoria/Steckbrief.md)
+- **Palast zu Montclair** — Ferdinand IV.s Residenz auf dem künstlich aufgeschütteten Palasthügel über der Großen Mine, unter Zwangsarbeit errichtet,
+  mit Eleanors Bibliothek und Genevieves Gärten → [Werke/Bauwerke-Chroniken/Die Errichtung des Palastes zu
+  Montclair](../Werke/Bauwerke-Chroniken/Die%20Errichtung%20des%20Palastes%20zu%20Montclair.md)
+- **Universität von Montclair** — von Isabella I. in der Stadt Montclair gegründet → siehe
+  [Kanon/Personen/Haus Montclair/Isabella I. Montclair (geb. Sophia)](../Kanon/Personen/Haus%20Montclair/Isabella%20I.%20Montclair%20(geb.%20Sophia).md)
 - **Wilhelmshöhe** — Königliche Gruft (Nachfolgerin der Kirche der Stadt Montclair), Kathedrale,
   Pilgerort → [Werke/Bauwerke-Chroniken/Die Errichtung der Burg Wilhelmshöhe](../Werke/Bauwerke-Chroniken/Die%20Errichtung%20der%20Burg%20Wilhelmshöhe.md)
 
