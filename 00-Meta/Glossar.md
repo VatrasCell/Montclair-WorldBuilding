@@ -5,8 +5,8 @@ hier ergänzen.
 
 ## Personen
 
-- **Adelaide von Winthrope** — Ehefrau Ferdinands
-  III. → [Kanon/Personen/Haus Montclair/Adelaide von Winthrope](../Kanon/Personen/Haus%20Montclair/Adelaide%20von%20Winthrope.md)
+- **Adelaide von Winthrope** — Ehefrau Ferdinands III., klug und kunstsinnig, milderte seine
+  Härte → [Kanon/Personen/Haus Montclair/Adelaide von Winthrope](../Kanon/Personen/Haus%20Montclair/Adelaide%20von%20Winthrope.md)
 - **Aldric von Fenmar** — Chronist am Hof von Elmsworth, geboren in Eldon, Autor der „Flamme der alten
   Ordnung" → [Kanon/Personen/Aldric von Fenmar](../Kanon/Personen/Aldric%20von%20Fenmar.md)
 - **Alexander I. Montclair** — Kronprinz, nie gekrönt, erbaute Burg
@@ -25,7 +25,8 @@ hier ergänzen.
   Eleanors → [Kanon/Personen/Haus Montclair/Edmund Montclair](../Kanon/Personen/Haus%20Montclair/Edmund%20Montclair.md)
 - **Eleanor Montclair** — Tochter Ferdinands III., Rat der Frauen,
   Bibliothek → [Kanon/Personen/Haus Montclair/Eleanor Montclair](../Kanon/Personen/Haus%20Montclair/Eleanor%20Montclair.md)
-- **Emma Montclair** — Tochter Ferdinands IV. → [Kanon/Personen/Haus Montclair/Emma Montclair](../Kanon/Personen/Haus%20Montclair/Emma%20Montclair.md)
+- **Emma Montclair** — Tochter Ferdinands IV., Rat der Frauen, Kunst und
+  Musik → [Kanon/Personen/Haus Montclair/Emma Montclair](../Kanon/Personen/Haus%20Montclair/Emma%20Montclair.md)
 - **Ferdinand III. Montclair** — König, Sohn Wilhelms I., strenge
   Herrschaft → [Kanon/Personen/Haus Montclair/Ferdinand III. Montclair](../Kanon/Personen/Haus%20Montclair/Ferdinand%20III.%20Montclair.md)
 - **Ferdinand IV. Montclair** — König, Tyrann, keine männlichen
@@ -40,21 +41,22 @@ hier ergänzen.
   Dorf → [Kanon/Personen/Haus Montclair/Isabella Montclair (Dorfgründerin)](../Kanon/Personen/Haus%20Montclair/Isabella%20Montclair%20(Dorfgründerin).md)
 - **Isabella I. Montclair** (geb. Sophia) — Königin, durch Rat der Frauen
   inthronisiert → [Kanon/Personen/Haus Montclair/Isabella I. Montclair (geb. Sophia)](../Kanon/Personen/Haus%20Montclair/Isabella%20I.%20Montclair%20(geb.%20Sophia).md)
-- **Isolde Montclair** — Tochter Ferdinands IV. → [Kanon/Personen/Haus Montclair/Isolde Montclair](../Kanon/Personen/Haus%20Montclair/Isolde%20Montclair.md)
+- **Isolde Montclair** — Tochter Ferdinands IV., Rat der Frauen, neugierig und
+  abenteuerlustig → [Kanon/Personen/Haus Montclair/Isolde Montclair](../Kanon/Personen/Haus%20Montclair/Isolde%20Montclair.md)
 - **Judith von Montclair** — Ehefrau Alexanders II., durchbricht Sterbe-Tradition, gewaltsamer
   Tod → [Kanon/Personen/Haus Montclair/Judith von Montclair](../Kanon/Personen/Haus%20Montclair/Judith%20von%20Montclair.md)
 - **Julian Montclair** — Sohn Alexanders I. und
   Amelias → [Kanon/Personen/Haus Montclair/Julian Montclair](../Kanon/Personen/Haus%20Montclair/Julian%20Montclair.md)
-- **Katharina Montclair** — Tochter Isabellas I., Rat der
-  Frauen → [Kanon/Personen/Haus Montclair/Katharina Montclair](../Kanon/Personen/Haus%20Montclair/Katharina%20Montclair.md)
+- **Katharina Montclair** — Tochter Isabellas I., Rat der Frauen, naturverbunden und sozial
+  engagiert → [Kanon/Personen/Haus Montclair/Katharina Montclair](../Kanon/Personen/Haus%20Montclair/Katharina%20Montclair.md)
 - **Lavinia Montclair** — Tochter Alexanders II. und
   Judiths → [Kanon/Personen/Haus Montclair/Lavinia Montclair](../Kanon/Personen/Haus%20Montclair/Lavinia%20Montclair.md)
 - **Magnus Montclair** — Sohn Alexanders II. und
   Judiths → [Kanon/Personen/Haus Montclair/Magnus Montclair](../Kanon/Personen/Haus%20Montclair/Magnus%20Montclair.md)
 - **Margarethe von Alden** — Ehefrau Ferdinands IV., erschien eines Tages ohne bekannte Herkunft am Hof, mythenumrankt
   → [Kanon/Personen/Haus Montclair/Margarethe von Alden](../Kanon/Personen/Haus%20Montclair/Margarethe%20von%20Alden.md)
-- **Victoria Montclair** — Tochter Ferdinands
-  IV. → [Kanon/Personen/Haus Montclair/Victoria Montclair](../Kanon/Personen/Haus%20Montclair/Victoria%20Montclair.md)
+- **Victoria Montclair** — Tochter Ferdinands IV., Rat der Frauen, fürsorglich und
+  liebevoll → [Kanon/Personen/Haus Montclair/Victoria Montclair](../Kanon/Personen/Haus%20Montclair/Victoria%20Montclair.md)
 - **Wilhelm I. Montclair** — Gründer und erster König von
   Montclair → [Kanon/Personen/Haus Montclair/Wilhelm I. Montclair](../Kanon/Personen/Haus%20Montclair/Wilhelm%20I.%20Montclair.md)
 - **Wilhelm II. Montclair** — amtierender König, aktueller
@@ -73,7 +75,8 @@ hier ergänzen.
 - **Lythoria** — altes Reich der Neuen Welt, bewusst noch unbeschrieben (Abgrenzung zu Elmsworth), Hauptstadt
   Lythor → [Kanon/Reiche/Königreich Lythoria](../Kanon/Reiche/Königreich%20Lythoria/Steckbrief.md)
 - **Montclair** — Hauptreich der Chronik → [Kanon/Reiche/Königreich Montclair](../Kanon/Reiche/Königreich%20Montclair/Steckbrief.md)
-- **Penworth** — Beatrices Herkunft, Ferdinand II. „der Große" → [Kanon/Reiche/Königreich Penworth](../Kanon/Reiche/Königreich%20Penworth/Steckbrief.md)
+- **Penworth** — Beatrices Herkunft, Ferdinand II. „der Große"; altes, mächtiges Reich der Alten Welt, von der Großen Verwüstung nicht zerstört und danach noch
+  stärker geworden → [Kanon/Reiche/Königreich Penworth](../Kanon/Reiche/Königreich%20Penworth/Steckbrief.md)
 - **Therondel** — zerstört (Vulkanausbrüche) → [Kanon/Reiche/Königreich Therondel](../Kanon/Reiche/Königreich%20Therondel/Steckbrief.md)
 - **Varencia** — zerstört (Erdrutsche) → [Kanon/Reiche/Königreich Varencia](../Kanon/Reiche/Königreich%20Varencia/Steckbrief.md)
 - **Varenheim** — altes, isoliertes Waldreich der Neuen Welt, erst später entdeckt → [Kanon/Reiche/Königreich Varenheim](../Kanon/Reiche/Königreich%20Varenheim/Steckbrief.md)

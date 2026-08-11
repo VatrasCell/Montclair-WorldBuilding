@@ -69,23 +69,28 @@ für spätere Sessions).
   Generationen bis zur heutigen Größe ausgebreitet, unter anderem auf das angrenzende Festland im Osten. Das erklärt Ostgrenze, Landreisen zu
   Nachbarreichen und die Festland-Nachbarschaft. Ergänzt im Standort-Abschnitt des
   [Montclair-Steckbriefs](../Kanon/Reiche/Königreich%20Montclair/Steckbrief.md).
+- **Status von Penworth** — geklärt: Penworth gehört zur Alten Welt, zählt aber **nicht** zu den durch die Große Verwüstung zerstörten Reichen. Die Zeit um die
+  Katastrophe herum war dennoch schwierig (Handelseinbruch, teils direkt betroffene Landesteile, Zustrom Heimatloser aus den zerstörten Nachbarreichen);
+  Penworth ging gestärkt daraus hervor und konnte seine Macht in der Folgezeit weiter ausbauen. Betrifft
+  [Kanon/Reiche/Königreich Penworth/Steckbrief.md](../Kanon/Reiche/Königreich%20Penworth/Steckbrief.md) (neuer Geschichte-Abschnitt) und
+  [Kanon/Welt/Die Große Verwüstung und die Westwanderung.md](../Kanon/Welt/Die%20Große%20Verwüstung%20und%20die%20Westwanderung.md) (neuer Abschnitt „Nicht
+  zerstörte Reiche der Alten Welt").
+- **Charakterdetails aus Werke-Texten fehlten in mehreren Personen-Stubs** — beim Anlegen der Personendateien wurde primär `old_chat_dump.md` ausgewertet,
+  nicht die vollständigen Königsbücher. Jetzt vollständig aus den Königsbüchern nachgetragen (Eleanor, Genevieve und Isabella Dorfgründerin waren bereits
+  zuvor behoben, siehe oben):
+  - Emma, Victoria, Isolde Montclair: Charakter-Abschnitte aus Königsbuch 03 übernommen (Emma: Kunst/Musik; Victoria: fürsorglich; Isolde:
+    neugierig/abenteuerlustig, unsicher), Status auf „Kurzfassung" angehoben, Verweis auf Königsbuch 03 ergänzt.
+  - Katharina Montclair: Charakter-Abschnitt aus Königsbuch 04 ergänzt (Naturverbundenheit, soziales Engagement, Einsatz für Schwächere), Status auf
+    „Kurzfassung" angehoben, Verweis auf Königsbuch 04 ergänzt.
+  - Adelaide von Winthrope: erstmals ein Charakter-Abschnitt aus Königsbuch 02 ergänzt (Schönheit, Klugheit, Künste/Wissenschaften, milderte Ferdinands
+    III. Härte), Verweis auf Königsbuch 02 ergänzt.
+  - Betrifft die jeweiligen Personendateien unter `Kanon/Personen/Haus Montclair/` sowie die zugehörigen Glossar-Einträge.
 
 ## Offen
 
-- **Status von Penworth** — ist unklar, ob Penworth zu den durch die Große Verwüstung zerstörten Reichen zählt oder unabhängig davon fortbesteht. Bekannt ist
-  nur, dass es einen früheren Herrscher „Ferdinand II. der Große" gab.
 - **Wilhelm II. — Ehefrau/Kinder** — bislang nicht überliefert; relevant, sobald die Nachfolge nach Wilhelm II. geschrieben wird.
 - **Kalendersystem** — es existiert kein festes Zeitrechnungssystem (z. B. „X Jahre nach der Großen Verwüstung"). Die [Zeitleiste](Zeitleiste.md) ist rein
   generationsbasiert. Falls für spätere Werke absolute Zeitangaben gebraucht werden, sollte hier ein System festgelegt werden.
 - **Eigenname der Staatsreligion Montclairs** — bislang namenlos; offen, ob das so bleiben soll oder ein Name gefunden wird.
 - **Kloster Wilhelms II. — Name und Ort** — bislang nur als „Kloster" ohne Eigennamen oder genaue Lage beschrieben; die dort erforschten „verborgenen Schichten
   des Glaubens" könnten künftig direkt mit der Fragment-Religion verknüpft werden.
-- **Charakterdetails aus Werke-Texten fehlen in mehreren Personen-Stubs** — beim Anlegen der Personendateien wurde primär `old_chat_dump.md` ausgewertet,
-  nicht die vollständigen Königsbücher. Dadurch fehlt Detailwissen, das dort bereits existiert (Eleanor, Genevieve und Isabella Dorfgründerin inzwischen
-  behoben, siehe „Geklärt" oben):
-  - Emma, Victoria, Isolde Montclair: Königsbuch 03 gibt ihnen klar unterschiedene Persönlichkeiten (Emma: Kunst/Musik; Victoria: fürsorglich; Isolde:
-    neugierig/abenteuerlustig, unsicher) — ihre Kanon-Dateien sind aktuell wortidentische Stubs.
-  - Katharina Montclair: Königsbuch 04 beschreibt sie ausführlich (Naturverbundenheit, soziales Engagement, Einsatz für Schwächere) — Kanon-Datei ist ein
-    bloßer Stub.
-  - Adelaide von Winthrope: Königsbuch 02 beschreibt sie als „bekannt für ihre Schönheit und außergewöhnliche Fähigkeiten in Künsten und Wissenschaften" —
-    ihre Kanon-Datei hat gar keinen Charakter-Abschnitt.

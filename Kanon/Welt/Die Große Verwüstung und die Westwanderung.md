@@ -21,6 +21,13 @@ der Katastrophe waren, sondern eigenständige Weiterentwicklungen. Daneben wurde
 | [Athelwyn](../Reiche/Königreich%20Athelwyn/Steckbrief.md)   | Sandstürme, Austrocknung                               |
 | [Therondel](../Reiche/Königreich%20Therondel/Steckbrief.md) | Vulkanausbrüche, Erdbeben                              |
 
+## Nicht zerstörte Reiche der Alten Welt
+
+Nicht jedes Reich der Alten Welt wurde von der Katastrophe ausgelöscht. [Königreich Penworth](../Reiche/Königreich%20Penworth/Steckbrief.md) – Herkunft von
+Königin Beatrice von Penworth – blieb bestehen, auch wenn die Zeit um die Große Verwüstung herum schwierig war: Handelseinbrüche, direkt betroffene
+Landesteile und ein Zustrom Heimatloser aus den zerstörten Nachbarreichen. Penworth überstand diese Krise und konnte seine Macht in der Folgezeit sogar noch
+weiter ausbauen – anders als die in der obigen Tabelle gelisteten Reiche, die der Katastrophe nicht standhielten.
+
 ## Weltregel: Der teilweise Verlust der Erinnerung
 
 Die Große Verwüstung hat nicht nur Länder zerstört, sondern in unterschiedlichem Ausmaß auch die **Erinnerung** an sie. Das ist ein bewusstes, kanonisches

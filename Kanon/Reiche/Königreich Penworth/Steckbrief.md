@@ -1,6 +1,6 @@
 # Steckbrief vom Königreich Penworth
 
-**Status:** Herkunftsreich (Titel-Tradition); genauer Fortbestand/Zeitstellung nicht kanonisch festgelegt
+**Status:** Herkunftsreich (Titel-Tradition); altes Reich der Alten Welt, von der Großen Verwüstung nicht zerstört
 
 ## Name des Königreichs
 
@@ -23,8 +23,16 @@ Herkunftsreich von Königin Beatrice von Penworth, der Ehefrau Wilhelms I. Namen
 
 - Früherer Herrscher: **Ferdinand II., „Ferdinand der Große"** – Ferdinand III. Montclair sah sich geistig als dessen Nachfolger und wählte deswegen bewusst den
   Namen „Ferdinand III.", obwohl keine direkte Verwandtschaft bestand.
-- Ob Penworth zu den durch die Große Verwüstung zerstörten Reichen zählt oder als eigenständiges Reich fortbesteht, ist bislang nicht geklärt
-  (siehe [Offene-Fragen.md](../../../00-Meta/Offene-Fragen.md)).
+- Gehört zur Alten Welt, zählt aber **nicht** zu den durch die Große Verwüstung zerstörten Reichen (siehe
+  [Kanon/Welt/Die Große Verwüstung und die Westwanderung](../../Welt/Die%20Große%20Verwüstung%20und%20die%20Westwanderung.md)). Damit ist Penworth eines der
+  wenigen alten Reiche, das die Katastrophe überstanden hat.
+
+## Geschichte
+
+Ein sehr altes und mächtiges Reich der Alten Welt. Auch Penworth blieb von den Folgen der Großen Verwüstung nicht verschont: Der Handel brach zeitweise ein,
+Teile des Königreichs waren direkt von der Katastrophe betroffen, und zahlreiche Flüchtlinge aus den zerstörten Nachbarreichen suchten in Penworth eine neue
+Heimat. Anders als jene Reiche ging Penworth jedoch nicht unter – im Gegenteil: Aus dieser schwierigen Zeit ging es gestärkt hervor und konnte seine Macht in
+den Generationen nach der Großen Verwüstung noch weiter ausbauen.
 
 ## Verweise
 
