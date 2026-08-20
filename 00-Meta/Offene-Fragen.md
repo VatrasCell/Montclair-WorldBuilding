@@ -92,5 +92,6 @@ für spätere Sessions).
 - **Kalendersystem** — es existiert kein festes Zeitrechnungssystem (z. B. „X Jahre nach der Großen Verwüstung"). Die [Zeitleiste](Zeitleiste.md) ist rein
   generationsbasiert. Falls für spätere Werke absolute Zeitangaben gebraucht werden, sollte hier ein System festgelegt werden.
 - **Eigenname der Staatsreligion Montclairs** — bislang namenlos; offen, ob das so bleiben soll oder ein Name gefunden wird.
-- **Kloster Wilhelms II. — Name und Ort** — bislang nur als „Kloster" ohne Eigennamen oder genaue Lage beschrieben; die dort erforschten „verborgenen Schichten
+- **Kloster Wilhelms II. — Name** — der Ort ist inzwischen bekannt (Wegpunkt „Kloster" im „worldbuilding"-Kartierungs-Set, Koordinaten 1009|65|-10677,
+  siehe [00-Meta/Konzept-Kartensystem.md](Konzept-Kartensystem.md)), ein Eigenname fehlt aber weiterhin. Die dort erforschten „verborgenen Schichten
   des Glaubens" könnten künftig direkt mit der Fragment-Religion verknüpft werden.
