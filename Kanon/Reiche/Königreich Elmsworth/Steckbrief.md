@@ -6,6 +6,16 @@
 
 **Königreich Elmsworth**
 
+## Farben
+
+- Rot, Gelb
+
+## Flaggen und Wappen
+
+<img src="Assets/Reiche/Elmsworth/elmsworth_flagge.png" alt="Flagge" height="200"/>
+<img src="Assets/Reiche/Elmsworth/elmsworth_flagge_2.png" alt="Flagge" height="200"/>
+<img src="Assets/Reiche/Elmsworth/elmsworth_wappen.png" alt="Flagge" height="200"/>
+
 ## Lage
 
 Südlich bzw. in der Umgebung Montclairs. Liegt in fruchtbaren Tälern und sanften Hügeln, durchzogen von mächtigen Flüssen, die die Grundlage für
