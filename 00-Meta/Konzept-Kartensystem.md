@@ -110,6 +110,11 @@ und führt zu einem Fehler statt stillschweigender Weiterverarbeitung – jetzt 
 nicht mehr als Grenzfall eines geometrischen Heuristik-Verfahrens. Ebenso werden doppelt vergebene Nummern innerhalb einer Grenz-ID erkannt und
 gemeldet.
 
+**Zwischenpunkte (Stand 2026-10-01):** Nachträglich eingefügte Punkte erhalten einen Punkt-Suffix, ohne die übrige Nummerierung zu ändern:
+`A15.1`, `A15.2` liegen zwischen `A15` und `A16`; weiter verschachtelt geht es mit `A15.1.1` (zwischen `A15.1` und `A15.2`). Sortiert wird numerisch
+je Segment (`A15` < `A15.1` < `A15.2` < `A15.10` < `A16`), Duplikate werden wie bisher gemeldet. Das macht Verläufe erweiter- und editierbar, ohne
+im Spiel alle Folgepunkte umzubenennen.
+
 **Mehrere Grenzflächen pro Reich:** verschiedene Grenz-IDs mit derselben `color` (z. B. `A1…An` für das Kernland, `B1…Bm` für eine Insel oder
 Exklave) ergeben mehrere getrennte, unabhängig voneinander rekonstruierte Flächen desselben Reichs – für die Kachel-Auswahl (Abschnitt 3.2) wird
 einfach die Vereinigung aller Flächen verwendet.

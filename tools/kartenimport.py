@@ -8,17 +8,41 @@ Aufruf: python tools/kartenimport.py --scope montclair
 """
 
 import argparse
+import os
 import re
 import shutil
 import sys
 from collections import defaultdict
 from pathlib import Path
 
-# --- Lokale Konfiguration: an das eigene Minecraft-Setup anpassen ---
-WAYPOINTS_FILE = Path(
-    r"<lokaler Pfad>"
-)
-EXPORT_BASE_DIR = Path(r"<lokaler Pfad>")
+REPO_ROOT = Path(__file__).resolve().parent.parent
+
+
+def _load_env(path):
+    # Minimaler .env-Parser (KEY=VALUE, '#'-Kommentare, optionale Anführungszeichen) -- bewusst
+    # ohne Zusatzabhängigkeit. Bereits gesetzte Umgebungsvariablen haben Vorrang.
+    if not path.is_file():
+        return
+    for line in path.read_text(encoding="utf-8").splitlines():
+        line = line.strip()
+        if not line or line.startswith("#") or "=" not in line:
+            continue
+        key, _, value = line.partition("=")
+        os.environ.setdefault(key.strip(), value.strip().strip("\"'"))
+
+
+def _require_env(name):
+    value = os.environ.get(name)
+    if not value:
+        sys.exit(
+            f"Umgebungsvariable {name} fehlt -- in {REPO_ROOT / '.env'} setzen "
+            f"(Vorlage: .env.example)."
+        )
+    return value
+
+
+# --- Lokale Konfiguration: liegt in der nicht eingecheckten .env (siehe .env.example) ---
+_load_env(REPO_ROOT / ".env")
 
 REICH_COLORS = {
     "montclair": 11,
@@ -29,10 +53,10 @@ TILE_NAME_RE = re.compile(r"^\d+_\d+_x(-?\d+)_z(-?\d+)\.png$", re.IGNORECASE)
 # Konvention für Grenz-Wegpunkte: initials = Grenz-ID (erlaubt mehrere Grenzflächen pro Reich,
 # z. B. für Exklaven/Inseln), name = Grenz-ID + aufsteigende Nummer (z. B. "A1", "A2", ...). Die
 # Nummer liefert die Reihenfolge entlang der Grenze direkt aus den Daten -- keine geometrische
-# Rekonstruktion mehr nötig.
-BORDER_NUMBER_RE = re.compile(r"(\d+)$")
+# Rekonstruktion mehr nötig. Zwischenpunkte werden mit Punkt-Suffix eingefügt (z. B. "A15.1",
+# "A15.2" liegen zwischen A15 und A16, "A15.1.1" zwischen A15.1 und A15.2), ohne umzunummerieren.
+BORDER_NUMBER_RE = re.compile(r"(\d+(?:\.\d+)*)$")
 
-REPO_ROOT = Path(__file__).resolve().parent.parent
 KARTEN_DIR = REPO_ROOT / "Assets" / "Karten"
 WAYPOINTS_DEST = KARTEN_DIR / "Wegpunkte.txt"
 
@@ -82,14 +106,15 @@ def _order_by_number(grenz_id, points):
         if not m:
             raise BoundaryError(
                 f"Grenzpunkt '{p['name']}' (Grenz-ID '{grenz_id}') folgt nicht dem Namensschema "
-                f"<Grenz-ID><Nummer>, z. B. A1 -- Wegpunkt im Spiel prüfen."
+                f"<Grenz-ID><Nummer>, z. B. A1 oder A15.1 -- Wegpunkt im Spiel prüfen."
             )
-        numbered.append((int(m.group(1)), p))
+        # Tupel-Vergleich: (15,) < (15, 1) < (15, 2) < (15, 10) < (16,)
+        numbered.append((tuple(int(part) for part in m.group(1).split(".")), p))
     numbered.sort(key=lambda t: t[0])
 
     numbers = [n for n, _ in numbered]
     if len(set(numbers)) != len(numbers):
-        dupes = sorted({n for n in numbers if numbers.count(n) > 1})
+        dupes = sorted(".".join(map(str, n)) for n in {n for n in numbers if numbers.count(n) > 1})
         raise BoundaryError(
             f"Grenz-ID '{grenz_id}': Nummer(n) {dupes} mehrfach vergeben -- Nummerierung im Spiel prüfen."
         )
@@ -193,14 +218,17 @@ def main():
         sys.exit(f"Unbekanntes Reich '{args.scope}'. Bekannt: {', '.join(sorted(REICH_COLORS))}")
     color = REICH_COLORS[scope]
 
-    if not WAYPOINTS_FILE.is_file():
-        sys.exit(f"Wegpunkt-Datei nicht gefunden: {WAYPOINTS_FILE}")
+    waypoints_file = Path(_require_env("WAYPOINTS_FILE"))
+    export_base_dir = Path(_require_env("EXPORT_BASE_DIR"))
+
+    if not waypoints_file.is_file():
+        sys.exit(f"Wegpunkt-Datei nicht gefunden: {waypoints_file}")
 
     KARTEN_DIR.mkdir(parents=True, exist_ok=True)
-    shutil.copy2(WAYPOINTS_FILE, WAYPOINTS_DEST)
+    shutil.copy2(waypoints_file, WAYPOINTS_DEST)
     print(f"Wegpunkt-Datei nach {WAYPOINTS_DEST} kopiert (überschrieben, Versionierung über git).")
 
-    waypoints = parse_waypoint_file(WAYPOINTS_FILE)
+    waypoints = parse_waypoint_file(waypoints_file)
     border_points = [w for w in waypoints if w["set"] == BORDER_SET and w["color"] == color]
     if not border_points:
         sys.exit(f"Keine Grenz-Wegpunkte für '{scope}' im Set '{BORDER_SET}' (color {color}) gefunden.")
@@ -215,7 +243,7 @@ def main():
         f"{total_points} Grenz-Wegpunkten rekonstruiert."
     )
 
-    export_dir = find_latest_export_dir(EXPORT_BASE_DIR)
+    export_dir = find_latest_export_dir(export_base_dir)
     print(f"Verwende Export: {export_dir}")
 
     tiles = find_matching_tiles(export_dir, list(boundaries.values()))
