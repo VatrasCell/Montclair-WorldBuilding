@@ -86,7 +86,46 @@ für spätere Sessions).
     III. Härte), Verweis auf Königsbuch 02 ergänzt.
   - Betrifft die jeweiligen Personendateien unter `Kanon/Personen/Haus Montclair/` sowie die zugehörigen Glossar-Einträge.
 
+## Geklärt / neu festgelegt (2026-09-02)
+
+- **Elmsworth als Rivale Montclairs, Verbindung zu Penworth** — auf Nutzerwunsch ausgearbeitet, nach Rückmeldung des Nutzers korrigiert: Elmsworths
+  Herrscherhaus stammt von **Cedric von Penworth** ab, einem Spross einer Adelslinie, die sich in den Wirren der Großen Verwüstung mit der Penworther
+  Hauptfamilie zerstritt und Generationen nach Wilhelms Westwanderung freiwillig auswanderte, um Eldon und Elmsworth zu gründen. Ausdrücklich **kein**
+  Erbstreit um Ferdinand II. (dieser ist bislang nicht weiter ausgearbeitet und soll es vorerst auch nicht sein) und **kein** Adelstitel „Lord" für
+  Cedric – Penworther Adelstitel sind noch nicht definiert, sollen aber eher deutschsprachig ausfallen (siehe unten). Elmsworth ist formal vollständig
+  unabhängig von Penworth; die Verbindung ist Abstammung/Kultur, keine politische Bindung. Erklärt zugleich die Namensähnlichkeit ("-worth" als altes
+  Penworther Siedlungssuffix). Daraus entsteht eine stille, nie offen ausgetragene Standes-Rivalität zu Montclair: Elmsworths Adel versteht sich als
+  ununterbrochener Erbe altweltlicher Verfeinerung und Legitimität, im Gegensatz zum von einem heimatlosen Flüchtlingskönig gegründeten Montclair –
+  verschärft durch den Kontrast zu Beatrice von Penworth, die aus einfachen Verhältnissen desselben Reichs stammte. Betrifft
+  [Kanon/Reiche/Königreich Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md),
+  [Kanon/Reiche/Königreich Penworth](../Kanon/Reiche/Königreich%20Penworth/Steckbrief.md), Zeitleiste, Glossar. Bestehende Werke-Texte (Königsbücher
+  05/06, Aldrics Chronik-Auszüge) widersprechen dem nicht, da die Rivalität bislang nur als politische/gesellschaftliche Unterströmung angelegt ist,
+  nicht als offener Konflikt in der bisherigen Prosa. Weiterer Ausbau (z. B. eigene Elmsworth-Werke, Rolle von Julian oder Franziska Montclair) ist offen
+  für künftige Sessions.
+
+- **Elmsworths Dynastiename** — nachträglich geklärt: Cedric von Penworth nahm bei seiner Krönung zum ersten König Elmsworths den Reichsnamen als
+  Herrschernamen an (**Cedric I. Elmsworth**), analog zur Konvention des Hauses Montclair. Damit ist „Elmsworth" wie „Montclair" zugleich Reichs- und
+  Dynastiename. Betrifft [Kanon/Reiche/Königreich Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md),
+  [Kanon/Reiche/Königreich Penworth](../Kanon/Reiche/Königreich%20Penworth/Steckbrief.md), Zeitleiste, Glossar.
+- **Elmsworths militärische Ausrichtung** — auf Nutzerwunsch ergänzt, aber bewusst nur in der groben Richtung: seit der Gründung defensiv statt
+  erobernd, gerichtet sowohl gegen die alte Welt (Penworth) als auch gegen das aufstrebende Montclair. Konkrete Institutionen (Küstenwacht?
+  Grenzgarnisonen? zentrale vs. adelige Streitmacht?) sind **nicht** festgelegt, da das Thema noch zu grob war, um es direkt in den Kanon zu schreiben —
+  dafür jetzt [00-Meta/Konzept-Elmsworth-Militär.md](Konzept-Elmsworth-Militär.md) als Entwurfsdokument angelegt (siehe auch CLAUDE.md, Arbeitsweise
+  Punkt 3, neu eingeführt). Ergänzt neue Abschnitte „Militär" und „Verhältnis zu Penworth" sowie einen Absatz in „Verhältnis zu Montclair" im
+  [Kanon/Reiche/Königreich Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md); widerspricht der bisherigen Prosa nicht, da die Rivalität
+  weiterhin nie offen (nie über Waffen) ausgetragen wird.
+
 ## Offen
+
+- **Elmsworths militärische Struktur (Details)** — siehe [00-Meta/Konzept-Elmsworth-Militär.md](Konzept-Elmsworth-Militär.md): welche konkrete(n)
+  Institution(en) tragen die Verteidigung, wie sichtbar ist das nach außen, wann genau wurde sie aufgebaut, gibt es einen auslösenden Vorfall?
+- **Amelias Herkunft/Adelsstatus** — nicht abschließend geklärt, ob Amelia von Elmsworth dem dortigen Adel bzw. Cedrics Herrscherlinie entstammt. Ihr
+  Titel „von Elmsworth" belegt das für sich genommen nicht (Titel-Tradition setzt keinen vorherigen Adelsstand voraus, vgl. Beatrice von Penworths
+  „einfache Verhältnisse"). Königsbuch 05 beschreibt ihre Familie zwar als „Herrscherfamilie eines in der Nähe neu gegründeten Königreiches" – dies gilt
+  vorerst nur als erzählerischer Kontext, nicht als feste Kanon-Aussage zu ihrer Verwandtschaft mit Cedrics Linie. Betrifft
+  [Kanon/Personen/Haus Montclair/Amelia von Elmsworth.md](../Kanon/Personen/Haus%20Montclair/Amelia%20von%20Elmsworth.md).
+- **Adelstitel in Penworth (und darüber Elmsworth)** — noch nicht definiert. Soll tendenziell deutschsprachig ausfallen (kein „Lord" o. Ä.). Relevant für
+  Cedric von Penworth und künftige Elmsworth-/Penworth-Figuren.
 
 - **Wilhelm II. — Ehefrau/Kinder** — bislang nicht überliefert; relevant, sobald die Nachfolge nach Wilhelm II. geschrieben wird.
 - **Kalendersystem** — es existiert kein festes Zeitrechnungssystem (z. B. „X Jahre nach der Großen Verwüstung"). Die [Zeitleiste](Zeitleiste.md) ist rein

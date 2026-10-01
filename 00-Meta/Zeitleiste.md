@@ -7,6 +7,8 @@ Falls ein Kalender gewünscht ist (z. B. „X Jahre nach der Großen Verwüstung
 
 - **Große Verwüstung:** zerstört Aranthor, Varencia, Eldara, Athelwyn, Therondel. Wilhelm verliert seine Familie.
 - **Große Westwanderung:** Wilhelm führt Heimatlose nach Westen.
+- (In Penworth, unabhängig von Wilhelms Weg: eine Adelslinie zerstreitet sich in den Wirren der Großen Verwüstung mit der Penworther Hauptfamilie – Ursprung
+  der späteren Elmsworth-Gründerlinie.)
 
 ## Generation 1 — König Wilhelm I. Montclair
 
@@ -20,10 +22,14 @@ Falls ein Kalender gewünscht ist (z. B. „X Jahre nach der Großen Verwüstung
 - Bau der großen Mine. Einführung der Erstgeburts-Erbfolge.
 - Anerkennung von Isabellas Dorf als frei.
 - Tod (Mordverdacht, ungeklärt).
+- (Fernab von Montclair, in der Alten Welt: Cedric von Penworth, Spross jener zerstrittenen Adelslinie, wandert mit Vermögen und Gefolgsleuten aus Penworth aus.)
 
 ## Generation 3 — König Ferdinand IV. Montclair
 
 - Heirat mit Margarethe von Alden. Kinder: Isabella I. (geb. Sophia), Emma, Victoria, Isolde (nur Töchter).
+- (Fernab von Montclair: Cedric von Penworth gründet Eldon und das Königreich Elmsworth und krönt sich als dessen ersten König **Cedric I. Elmsworth**.
+  Richtet das Reich von Beginn an defensiv gegen Penworth und das aufstrebende Montclair aus – konkrete Form noch offen, siehe
+  [Konzept-Elmsworth-Militär.md](Konzept-Elmsworth-Militär.md).)
 - Tod von Ferdinand III., Adelaide und Isabella (Dorfgründerin) kurz hintereinander; Ferdinand IV. einverleibt das Dorf.
 - Bau von Palasthügel, Palast und Hafen.
 - „Rat der Frauen" setzt Sophia als Nachfolgerin durch; Ferdinand IV. ergänzt bei seiner Abdankung die Erbfolge um die Regel „ohne Sohn erbt die älteste

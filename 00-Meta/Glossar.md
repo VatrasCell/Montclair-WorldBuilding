@@ -21,6 +21,7 @@ hier ergänzen.
   I. → [Kanon/Personen/Haus Montclair/Beatrice von Penworth](../Kanon/Personen/Haus%20Montclair/Beatrice%20von%20Penworth.md)
 - **Cecilia Montclair** — Tochter Alexanders II. und
   Judiths → [Kanon/Personen/Haus Montclair/Cecilia Montclair](../Kanon/Personen/Haus%20Montclair/Cecilia%20Montclair.md)
+- **Cedric I. Elmsworth** (geb. von Penworth) — Spross einer mit der Penworther Hauptfamilie zerstrittenen Adelslinie, Gründer Eldons, erster König Elmsworths → [Kanon/Reiche/Königreich Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md)
 - **Edmund Montclair** — Ehemann Isabellas I., Sohn
   Eleanors → [Kanon/Personen/Haus Montclair/Edmund Montclair](../Kanon/Personen/Haus%20Montclair/Edmund%20Montclair.md)
 - **Eleanor Montclair** — Tochter Ferdinands III., Rat der Frauen,
@@ -70,13 +71,17 @@ hier ergänzen.
 - **Athelwyn** — zerstört (Wüste) → [Kanon/Reiche/Königreich Athelwyn](../Kanon/Reiche/Königreich%20Athelwyn/Steckbrief.md)
 - **Caerthun** — altes Reich der Neuen Welt, Seefahrtnation an einem großen See, wichtige Handelsdrehscheibe → [Kanon/Reiche/Königreich Caerthun](../Kanon/Reiche/Königreich%20Caerthun/Steckbrief.md)
 - **Eldara** — zerstört (Bodenaufbrüche) → [Kanon/Reiche/Königreich Eldara](../Kanon/Reiche/Königreich%20Eldara/Steckbrief.md)
-- **Elmsworth** — Amelias und Aldrics Heimat, junges, blühendes Reich, Wein/Getreide, Feste/Kunst/Musik, Hauptstadt
-  Eldon → [Kanon/Reiche/Königreich Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md)
+- **Elmsworth** — Amelias und Aldrics Heimat, junges, blühendes und formal von Penworth unabhängiges Reich, gegründet von einer mit der Penworther
+  Hauptfamilie zerstrittenen Adelslinie (Cedric I. Elmsworth, geb. von Penworth), Wein/Getreide, Feste/Kunst/Musik, Hauptstadt Eldon, seit der Gründung
+  defensiv gegen Penworth und Montclair ausgerichtet (konkrete Form noch in Konzeptphase, siehe Konzept-Elmsworth-Militär.md), stille Standes-Rivalität
+  zu Montclair →
+  [Kanon/Reiche/Königreich Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md)
 - **Lythoria** — altes Reich der Neuen Welt, bewusst noch unbeschrieben (Abgrenzung zu Elmsworth), Hauptstadt
   Lythor → [Kanon/Reiche/Königreich Lythoria](../Kanon/Reiche/Königreich%20Lythoria/Steckbrief.md)
 - **Montclair** — Hauptreich der Chronik → [Kanon/Reiche/Königreich Montclair](../Kanon/Reiche/Königreich%20Montclair/Steckbrief.md)
-- **Penworth** — Beatrices Herkunft, Ferdinand II. „der Große"; altes, mächtiges Reich der Alten Welt, von der Großen Verwüstung nicht zerstört und danach noch
-  stärker geworden → [Kanon/Reiche/Königreich Penworth](../Kanon/Reiche/Königreich%20Penworth/Steckbrief.md)
+- **Penworth** — Beatrices Herkunft (einfache Verhältnisse), Ferdinand II. „der Große"; altes, mächtiges Reich der Alten Welt, von der Großen Verwüstung nicht
+  zerstört und danach noch stärker geworden; Ursprungsreich auch der zerstrittenen Adelslinie, die Elmsworth gründete (Cedric I. Elmsworth) →
+  [Kanon/Reiche/Königreich Penworth](../Kanon/Reiche/Königreich%20Penworth/Steckbrief.md)
 - **Therondel** — zerstört (Vulkanausbrüche) → [Kanon/Reiche/Königreich Therondel](../Kanon/Reiche/Königreich%20Therondel/Steckbrief.md)
 - **Varencia** — zerstört (Erdrutsche) → [Kanon/Reiche/Königreich Varencia](../Kanon/Reiche/Königreich%20Varencia/Steckbrief.md)
 - **Varenheim** — altes, isoliertes Waldreich der Neuen Welt, erst später entdeckt → [Kanon/Reiche/Königreich Varenheim](../Kanon/Reiche/Königreich%20Varenheim/Steckbrief.md)
