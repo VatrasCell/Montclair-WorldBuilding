@@ -14,6 +14,7 @@
 - geprägt von Pflicht, Verantwortung, Diplomatie, Beobachtung, Zurückhaltung
 - von seiner Mutter Judith geprägt durch „Frömmigkeit ohne Fanatismus und Tradition ohne Starrheit"
 - psychisch belastet durch die Umstände von Judiths Tod
+- hält sich aus dem Konflikt mit Elmsworth heraus und bleibt dabei passiv (siehe [Halwyn](../../Welt/Halwyn.md))
 
 ## Lebensstationen
 

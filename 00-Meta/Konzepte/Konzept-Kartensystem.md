@@ -73,9 +73,11 @@ Xaero-eigene Farben. Vollständige Palette, vom Nutzer per Referenz-Wegpunkten e
 | 5 | dunkelviolett | 12 | rot | 19 | pink |
 | 6 | gold | 13 | violett | 20 | braun |
 
-Eine Zuordnungstabelle Reich↔Farbe wird ergänzt, sobald weitere Reiche Marker bekommen – mit der vollständigen Palette bereits bekannt, ist das
-jetzt nur noch eine Zuordnungs-, keine Recherchefrage mehr (s. offene Frage unten). Bei POI-Wegpunkten (`worldbuilding`) bleibt `initials` freier
-Anfangsbuchstabe ohne feste Bedeutung; bei Grenz-Wegpunkten (`worldbuilding_borders`) trägt `initials` dagegen die **Grenz-ID** – s. Abschnitt 3.3.
+**Zuordnung Reich↔Farbe (Stand 2026-10-03):** Montclair `color:11` (Türkis), Elmsworth `color:12` (Rot, passend zu den Reichsfarben „Rot, Gelb"). Das
+Skript führt sie in `REICH_COLORS` (`tools/kartenimport.py`). Die vollständige Zuordnungstabelle wird ergänzt, sobald weitere Reiche Marker bekommen – mit
+der vollständigen Palette bereits bekannt, ist das jetzt nur noch eine Zuordnungs-, keine Recherchefrage mehr (s. offene Frage unten). Bei
+POI-Wegpunkten (`worldbuilding`) bleibt `initials` freier Anfangsbuchstabe ohne feste Bedeutung; bei Grenz-Wegpunkten (`worldbuilding_borders`) trägt
+`initials` dagegen die **Grenz-ID** – s. Abschnitt 3.3.
 
 **Echter Datenstand geprüft** (Stand 2026-08-12): 13 Marker im `worldbuilding`-Set, alle kanon-zuordenbar – Burg Montclair, Burg Wilhelmshöhe,
 Stadt/Palast/Universität/Stadtkirche/Diplomatenviertel Montclair, Felder, Dorf 1–3, sowie **Kloster** (1009|65|-10677). Damit ist die bisher offene
@@ -204,7 +206,8 @@ Abschnitt 6). Landschafts- und Detailbilder werden separat behandelt, da sie bil
 aufgerufenes Python-Skript, Scope über CLI-Argument, vorerst auf Reich-Ebene (`--scope montclair`). Deckt nur das Holen der Rohdaten ab
 (Pipeline-Schritte 1–3 unten in vereinfachter Form), noch **kein** struktureller Merge (Schritt 4) und keine Auswertung (Schritt 6) – das folgt in
 einer späteren Ausbaustufe. Ein echter Lauf gegen die reale Wegpunkt-Datei und den realen Kachel-Export lieferte die in Abschnitt 3.3 dokumentierten
-7 Kacheln, identisch zum früheren XaeroPlus-Testergebnis.
+7 Kacheln, identisch zum früheren XaeroPlus-Testergebnis. Seit 2026-10-03 gilt `--scope elmsworth` (25 Grenzpunkte der Grenz-ID `A`, `color:12`, ebenfalls
+7 Kacheln).
 
 1. Kopiert die aktuelle Xaero-Wegpunkt-Datei vollständig (alle Sets, ungefiltert) nach `Assets/Karten/Wegpunkte.txt` – überschreibt eine
    vorhandene Datei, keine Datums-Unterordner (Historie über git).

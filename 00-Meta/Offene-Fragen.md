@@ -146,7 +146,16 @@ für spätere Sessions).
 - **Namensstile** — Namensregeln für Montclair und Elmsworth in [Stilrichtlinien](Stilrichtlinien.md) („Namen") festgehalten; Überschneidungen im Namenspool
   sind erlaubt, aber selten.
 
+## Geklärt (2026-10-03: Halwyn)
+
+- **Zerstörtes Dorf im Landgrenzstreifen** — kanonisch als **Halwyn** festgelegt: freies Dorf (30 Einwohner), gegründet G1 bis G2 von Westwanderern, die sich
+  keinem Ort anschließen wollten; Herkunft gemischt und unbekannt; Handelsplatz an der Straße zwischen Montclair und Elmsworth (G4 bis G5); in G6 mittel durch
+  gegenseitige Sabotagen beider Reiche abgebrannt, Kollateralschaden ohne einzelnen Schuldigen. Je ein Drittel starb, ging nach Montclair (Dorf bei der Burg,
+  Arbeitstitel Dorf 3) und ging nach Elmsworth. Wilhelm II. bleibt passiv, kein Hinweis in Königsbuch 06. Betrifft
+  [Kanon/Welt/Halwyn.md](../Kanon/Welt/Halwyn.md), Montclair- und Elmsworth-Steckbrief, Westwanderungs-Datei, Wilhelm II., Zeitleiste, Glossar.
+
 ## Offen
+
 
 - **Elmsworths militärische Struktur (Details)** — siehe [00-Meta/Konzepte/Konzept-Elmsworth-Militär.md](Konzepte/Konzept-Elmsworth-Militär.md): Modell (Krone, Aufgebote
   der Adelshäuser oder Mischform), Grenzposten, „harte Phase" unter Cedric II., Verhältnis zu Aldrics Chronik. Im Kanon gilt nur „defensiv statt erobernd"; „nie
@@ -166,8 +175,12 @@ für spätere Sessions).
   [Montclair-Steckbrief](../Kanon/Reiche/Königreich%20Montclair/Steckbrief.md). Offen: Name und dessen Bedeutung, Bauherr bzw. Generation (in der Zeitleiste als
   „Einordnung offen" geführt), Abgrenzung zur Großen Mine unter dem Palast (eigener Name?), Rolle gegenüber Elmsworth (Zollstation, Garnison, Wachposten?) –
   ggf. Abgleich mit [Konzept-Elmsworth-Militär.md](Konzepte/Konzept-Elmsworth-Militär.md), Bauwerks-Chronik in `Werke/`. Alle gesammelten Hinweise und
-  Entwicklungsrichtungen: [Konzept-Burg-Flussinsel.md](Konzepte/Konzept-Burg-Flussinsel.md) (Konzept bleibt offen, bis die übrigen Konzepte final sind, Szenario E als
-  Hintergrund). Wegpunkt im Set `worldbuilding` heißt vorläufig „Burg Flussinsel (Arbeitstitel)" (y 73); im Spiel nach der Namensfindung umbenennen.
+  Entwicklungsrichtungen: [Konzept-Burg-Flussinsel.md](Konzepte/Konzept-Burg-Flussinsel.md) (Konzept bleibt offen, bis die übrigen Konzepte final sind, Szenario
+  E als Hintergrund). Wegpunkt im Set `worldbuilding` heißt vorläufig „Burg Flussinsel (Arbeitstitel)" (y 73); im Spiel nach der Namensfindung umbenennen. Das
+  zerstörte Dorf im Landgrenzstreifen ist als [Halwyn](../Kanon/Welt/Halwyn.md) kanonisch (siehe oben); die Burg entsteht nach der Zerstörung Halwyns.
+- **Landgrenzstreifen und Halwyn** — Rechtlicher Status des Landgrenzstreifens (Niemandsland, gemeinsam verwaltet, beidseitig beansprucht) ist offen. Offen ist
+  auch, wie die rund zehn Flüchtlinge das Dorf bei der Burg (Dorf 3, noch unbenannt) prägen und ob Aldrics Chronik, die Bauwerks-Chronik der Burg oder eine
+  freie Geschichte Halwyn aufgreifen (Entscheidung nach der Kanon-Übernahme).
 - **Wilhelm II. — Ehefrau/Kinder** — bislang nicht überliefert; relevant, sobald die Nachfolge nach Wilhelm II. geschrieben wird.
 - **Kalendersystem** — es existiert kein festes Zeitrechnungssystem (z. B. „X Jahre nach der Großen Verwüstung"). Die [Zeitleiste](Zeitleiste.md) ordnet nach
   Generationen (G-Achse); „Jahre" und „Jahrhunderte" in Werken sind sprachliche Mittel. Falls für spätere Werke absolute Zeitangaben gebraucht werden, sollte

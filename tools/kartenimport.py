@@ -46,6 +46,7 @@ _load_env(REPO_ROOT / ".env")
 
 REICH_COLORS = {
     "montclair": 11,
+    "elmsworth": 12,
 }
 BORDER_SET = "worldbuilding_borders"
 TILE_SIZE = 1024

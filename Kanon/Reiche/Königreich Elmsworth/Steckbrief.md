@@ -20,7 +20,8 @@
 
 Südlich bzw. in der Umgebung Montclairs. Liegt in fruchtbaren Tälern und sanften Hügeln, durchzogen von mächtigen Flüssen, die die Grundlage für Elmsworths
 Agrarwirtschaft und Handel bilden. Auf Montclairer Seite markiert die Burg auf der Flussinsel (Name noch offen) den Grenzpunkt zu Elmsworth, siehe
-[Montclair-Steckbrief](../Königreich%20Montclair/Steckbrief.md).
+[Montclair-Steckbrief](../Königreich%20Montclair/Steckbrief.md). Zwischen den Grenzen beider Reiche liegt am flachen Gebirge ein Landgrenzstreifen, in dem bis
+G6 das freie Dorf [Halwyn](../../Welt/Halwyn.md) lag.
 
 ## Hauptstadt
 
@@ -145,10 +146,12 @@ Seit der Zeit Alexanders II. wird das Verhältnis von Rangfragen belastet. Nach 
 ließ Alexander II. das Diplomatenviertel von Montclair so errichten, dass Penworth ein Botschaftsgebäude erhielt, Elmsworth aber keine dauerhafte Vertretung;
 Penworth hatte einer dauerhaften Vertretung nur zugestimmt, wenn Elmsworth keine bekäme. Elmsworth blieb dies nicht verborgen, es wurde aber nie offen
 angesprochen und bleibt über Gesandte erreichbar. Der Ausschluss fiel in die Anfangszeit von König Cedric II., der als vom Adelsrat ernannter König besonders
-auf Rang und Anerkennung angewiesen war. Zölle, Grenzfragen und die wachsende Verteidigungsausrichtung gegen Montclair sind Ausdruck dieser Spannung, ohne dass
-es zu offener Feindschaft gekommen wäre. Auch die seit Cedric I. bestehende, in ihrer konkreten Form noch nicht festgelegte Verteidigungsausrichtung gegen
-Montclair (siehe „Militär") ist Ausdruck der Rivalität: keine Kriegsvorbereitung, aber ein stilles Zeichen, dass Elmsworth Montclairs raschen Aufstieg von
-Beginn an nicht nur als Handelschance, sondern auch als mögliche Bedrohung gelesen hat.
+auf Rang und Anerkennung angewiesen war. Zölle, Grenzfragen und die wachsende Verteidigungsausrichtung gegen Montclair sind Ausdruck dieser Spannung. Es kam zu
+Grenzkonflikten mit gegenseitigen Sabotagen und Reizungen, bei denen in G6 das freie Dorf [Halwyn](../../Welt/Halwyn.md) im Landgrenzstreifen zerstört wurde;
+einen einzelnen Schuldigen gibt es nicht, beide Seiten hatten Anteil, und beide Kronen bestritten, es befohlen zu haben. Zu offener Feindschaft oder Krieg ist
+es nicht gekommen. Auch die seit Cedric I. bestehende, in ihrer konkreten Form noch nicht festgelegte Verteidigungsausrichtung gegen Montclair (siehe „Militär")
+ist Ausdruck der Rivalität: keine Kriegsvorbereitung, aber ein stilles Zeichen, dass Elmsworth Montclairs raschen Aufstieg von Beginn an nicht nur als
+Handelschance, sondern auch als mögliche Bedrohung gelesen hat.
 
 ## Bekannte Persönlichkeiten
 

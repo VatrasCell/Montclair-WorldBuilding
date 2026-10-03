@@ -6,7 +6,7 @@ Worldbuilding-Wissensbasis für eine Fantasy-Welt (Dynastie Montclair), die auf 
 ## Struktur
 
 - **`Kanon/`** — kurze, strukturierte **Fakten**. Erste Anlaufstelle für Kontext: hier vor jeder neuen Szene/jedem neuen Kapitel nachschlagen.
-    - `Kanon/Welt/` — Weltereignisse (Große Verwüstung, Religion)
+    - `Kanon/Welt/` — Weltereignisse (Große Verwüstung, Religion) und Orte außerhalb der Reiche (Halwyn)
     - `Kanon/Reiche/` — ein Steckbrief pro Königreich, inkl. `Status`-Feld (aktiv / zerstört / Herkunftsreich / unentwickelt); Montclair und Elmsworth zusätzlich mit `Stammbaum.md`
     - `Kanon/Personen/Haus Montclair/` — ein Faktenblatt pro benannter Figur der Dynastie (Familie, Charakter, Lebensstationen, Tod, Status)
     - `Kanon/Personen/Haus Elmsworth/` — ein Faktenblatt pro benannter Figur der Elmsworther Dynastie; dazu `Kanon/Personen/Alfred der Gelehrte.md` und `Haus Thornfield.md`

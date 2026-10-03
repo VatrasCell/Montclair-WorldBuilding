@@ -51,6 +51,9 @@ entstanden waren – etwa das isolierte, waldreiche [Königreich Varenheim](../R
 [Königreich Caerthun](../Reiche/Königreich%20Caerthun/Steckbrief.md) an den Ufern eines großen Sees. Die Welt war nach der Großen Verwüstung also
 keineswegs vollständig ausgelöscht – nur die betroffene Region.
 
+Nicht alle Siedler schlossen sich einem Reich an. Ein Beispiel ist das freie Dorf [Halwyn](Halwyn.md) im flachen Gebirge östlich von Montclair, gegründet in G1
+bis G2 von Westwanderern, die sich keinem bestehenden Ort anschließen wollten.
+
 ## Verweise
 
 - [Werke/Geschichten/Die verheerende Naturkatastrophe und die Große Westwanderung](../../Werke/Geschichten/Die%20verheerende%20Naturkatastrophe%20und%20die%20Große%20Westwanderung.md) –

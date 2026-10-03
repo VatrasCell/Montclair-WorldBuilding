@@ -28,6 +28,8 @@ sprachliche Mittel.
 ## Generation 1 — König Wilhelm I. Montclair
 
 - Gründung Montclairs.
+- (G1 bis G2, im flachen Gebirge östlich: Westwanderer, die sich keinem Ort anschließen wollten, gründen das freie Dorf **Halwyn**, älter als Elmsworth und jede
+  Grenze.)
 - Heirat mit Beatrice von Penworth. Kinder: Ferdinand (III.), Isabella, Amelia.
 - Tod Wilhelms ohne festgelegte Erbfolge → Erbstreit → Isabella gründet eigenes Dorf, Amelia zieht fort auf der Suche nach Aranthor.
 - (Penworther Nebenlinie, spätere Elmsworth-Linie: lebt auf Distanz zum Penworther Hof.)
@@ -79,12 +81,14 @@ Abfolge (in dieser Reihenfolge):
 3. (Elmsworth, G6 mittel) Tod Alfreds I.; der Adelsrat ernennt dessen Neffen Godwin zum König, der als **Cedric II.** regiert. Der Thronwechsel fällt in
    dieselbe Phase wie das Diplomatenviertel.
 4. Bau des Diplomatenviertels: Penworth erhält ein Botschaftsgebäude, Elmsworth keine dauerhafte Vertretung (Penworth stimmte einer dauerhaften Vertretung nur
-   zu, wenn Elmsworth keine erhielt).
-5. Bau der Burg Wilhelmshöhe (neue Königliche Gruft/Kathedrale) — alle bisherigen Königsgräber (zuvor in der Krypta der Kirche der Stadt Montclair) werden
+   zu, wenn Elmsworth keine erhielt). Kalte Krise, Zölle und Grenzfragen.
+5. (G6 mittel) Zerstörung des freien Dorfes **Halwyn** im Landgrenzstreifen durch gegenseitige Sabotagen beider Reiche, ohne einzelnen Schuldigen. Streit um die
+   Flussinsel, Erzvorkommen fallen auf. Von den 30 Einwohnern sterben etwa zehn, etwa zehn gehen nach Montclair, etwa zehn nach Elmsworth.
+6. Bau der Burg Wilhelmshöhe (neue Königliche Gruft/Kathedrale) — alle bisherigen Königsgräber (zuvor in der Krypta der Kirche der Stadt Montclair) werden
    dorthin überführt, darunter Alexander I. und Amelia als Ausnahme.
-6. (Elmsworth) Bau der Eldoner Universität unter Cedric II.; Aldrics Vater, ein Montclairer Gelehrter (G6), hilft beim Aufbau.
-7. Burg auf der Flussinsel: Einordnung offen (siehe Offene-Fragen).
-8. Späte Jahre: Alexander II. zieht sich ins Diplomatenviertel zurück, Kronprinz Wilhelm II. führt die Geschäfte. Tod Alexanders II.; Judith überlebt ihn um
+7. (Elmsworth) Bau der Eldoner Universität unter Cedric II.; Aldrics Vater, ein Montclairer Gelehrter (G6), hilft beim Aufbau.
+8. Burg auf der Flussinsel: Einordnung offen, entsteht nach der Zerstörung Halwyns (siehe Offene-Fragen).
+9. Späte Jahre: Alexander II. zieht sich ins Diplomatenviertel zurück, Kronprinz Wilhelm II. führt die Geschäfte. Tod Alexanders II.; Judith überlebt ihn um
    Monate, wird bei einem Kirchenbesuch von einem Mob angegriffen und stirbt später an den Verletzungen.
 
 ## Generation 7 — König Wilhelm II. Montclair (aktueller Handlungsstand)

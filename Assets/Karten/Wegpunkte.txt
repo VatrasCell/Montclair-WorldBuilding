@@ -1,4 +1,4 @@
-sets:worldbuilding:gui.xaero_default:worldbuilding_borders
+sets:worldbuilding_borders:gui.xaero_default:worldbuilding
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
@@ -29,6 +29,49 @@ waypoint:Dorf_Ebene2:D:324:64:-8963:1:true:0:gui.xaero_default:false:0:0:false
 waypoint:Dorf_Fichte:D:-309:63:-9597:1:false:0:gui.xaero_default:false:0:0:false
 waypoint:Dorf_Ebene:D:-179:95:-10333:1:true:0:gui.xaero_default:false:0:0:false
 waypoint:Base:B:202:62:-9603:15:false:0:gui.xaero_default:false:0:0:false
+waypoint:Burg Flussinsel (Arbeitstitel):B:941:73:-8666:11:false:0:worldbuilding:false:0:0:false
+waypoint:Leuchtturm Montclair:L:245:128:-9462:11:false:0:worldbuilding:false:0:0:false
+waypoint:Isabellas Dorf:I:283:114:-9579:11:false:0:worldbuilding:false:0:0:false
+waypoint:Hafenviertel Montclair:H:358:89:-9320:11:false:0:worldbuilding:false:0:0:false
+waypoint:Hafen Montclair:H:300:78:-9375:11:false:0:worldbuilding:false:0:0:false
+waypoint:Kloster:K:1009:65:-10677:11:false:0:worldbuilding:false:0:0:false
+waypoint:Felder:F:702:64:-8855:11:false:0:worldbuilding:false:0:0:false
+waypoint:Dorf 3:D:786:65:-8633:11:false:0:worldbuilding:false:0:0:false
+waypoint:Dorf 2:D:805:68:-9045:11:false:0:worldbuilding:false:0:0:false
+waypoint:Dorf 1:D:364:64:-8958:11:false:0:worldbuilding:false:0:0:false
+waypoint:Felder zu Montclair:F:550:65:-9210:11:false:0:worldbuilding:false:0:0:false
+waypoint:Diplomatenviertel Montclair:D:448:66:-9535:11:false:0:worldbuilding:false:0:0:false
+waypoint:Stadtkirche Montclair:S:352:87:-9385:11:false:0:worldbuilding:false:0:0:false
+waypoint:Universität Montclair:U:415:97:-9383:11:false:0:worldbuilding:false:0:0:false
+waypoint:Palast zu Montclair:P:445:133:-9461:11:false:0:worldbuilding:false:0:0:false
+waypoint:Stadt Montclair:S:350:65:-9463:11:false:0:worldbuilding:false:0:0:false
+waypoint:Burg Wilhelmshöhe:B:893:159:-9901:11:false:0:worldbuilding:false:0:0:false
+waypoint:Burg Montclair:B:996:164:-9447:11:false:0:worldbuilding:false:0:0:false
+waypoint:A26:A:979:63:-8563:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A25:A:967:63:-8406:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A24:A:1082:63:-8181:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A23:A:1255:63:-8039:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A22:A:1211:63:-7839:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A21:A:1398:63:-7880:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A20:A:1558:63:-7716:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A19:A:1782:63:-7902:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A18:A:2964:63:-8591:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A17:A:2930:63:-8794:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A16:A:2798:63:-8962:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A15:A:2540:63:-8983:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A14:A:2300:70:-8939:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A13:A:2215:63:-9030:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A12:A:2282:63:-9196:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A11:A:2074:63:-9199:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A10:A:2002:63:-9278:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A9:A:1981:63:-9460:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A8:A:1830:63:-9466:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A7:A:1682:63:-9597:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A5:A:1453:63:-9475:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A4:A:1492:63:-9330:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A3:A:1403:68:-9057:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A2:A:1152:89:-8707:12:false:0:worldbuilding_borders:false:0:0:false
+waypoint:A1:A:1063:63:-8610:12:false:0:worldbuilding_borders:false:0:0:false
 waypoint:A15.5:A:558:63:-8636:11:false:0:worldbuilding_borders:false:0:0:false
 waypoint:A15.4:A:514:63:-8685:11:false:0:worldbuilding_borders:false:0:0:false
 waypoint:A15.3:A:491:63:-8577:11:false:0:worldbuilding_borders:false:0:0:false
@@ -56,21 +99,3 @@ waypoint:A4:A:1595:63:-10034:11:false:0:worldbuilding_borders:false:0:0:false
 waypoint:A3:A:1430:63:-9802:11:false:0:worldbuilding_borders:false:0:0:false
 waypoint:A2:A:1258:63:-9770:11:false:0:worldbuilding_borders:false:0:0:false
 waypoint:A1:A:1139:63:-9575:11:false:0:worldbuilding_borders:false:0:0:false
-waypoint:Burg Flussinsel (Arbeitstitel):B:941:73:-8666:11:false:0:worldbuilding:false:0:0:false
-waypoint:Leuchtturm Montclair:L:245:128:-9462:11:false:0:worldbuilding:false:0:0:false
-waypoint:Isabellas Dorf:I:283:114:-9579:11:false:0:worldbuilding:false:0:0:false
-waypoint:Hafenviertel Montclair:H:358:89:-9320:11:false:0:worldbuilding:false:0:0:false
-waypoint:Hafen Montclair:H:300:78:-9375:11:false:0:worldbuilding:false:0:0:false
-waypoint:Kloster:K:1009:65:-10677:11:false:0:worldbuilding:false:0:0:false
-waypoint:Felder:F:702:64:-8855:11:false:0:worldbuilding:false:0:0:false
-waypoint:Dorf 3:D:786:65:-8633:11:false:0:worldbuilding:false:0:0:false
-waypoint:Dorf 2:D:805:68:-9045:11:false:0:worldbuilding:false:0:0:false
-waypoint:Dorf 1:D:364:64:-8958:11:false:0:worldbuilding:false:0:0:false
-waypoint:Felder zu Montclair:F:550:65:-9210:11:false:0:worldbuilding:false:0:0:false
-waypoint:Diplomatenviertel Montclair:D:448:66:-9535:11:false:0:worldbuilding:false:0:0:false
-waypoint:Stadtkirche Montclair:S:352:87:-9385:11:false:0:worldbuilding:false:0:0:false
-waypoint:Universität Montclair:U:415:97:-9383:11:false:0:worldbuilding:false:0:0:false
-waypoint:Palast zu Montclair:P:445:133:-9461:11:false:0:worldbuilding:false:0:0:false
-waypoint:Stadt Montclair:S:350:65:-9463:11:false:0:worldbuilding:false:0:0:false
-waypoint:Burg Wilhelmshöhe:B:893:159:-9901:11:false:0:worldbuilding:false:0:0:false
-waypoint:Burg Montclair:B:996:164:-9447:11:false:0:worldbuilding:false:0:0:false

@@ -84,8 +84,9 @@ Das passt zum Szenario E, ohne einen Krieg festzulegen.
 
 ## 6. Zusammenhang mit Szenario E und der Burg
 
-Die Burg auf der Flussinsel ([Konzept-Burg-Flussinsel.md](Konzept-Burg-Flussinsel.md), bleibt offen) ist Montclairs Antwort in G6. Elmsworths Grenzposten und
-Aufgebote sind die Gegenseite. Die Burg-Geschichte wird erst final, wenn Zeitachse, Elmsworth-Zeitlinie, Namensstile und dieses Konzept freigegeben sind.
+Die Burg auf der Flussinsel ([Konzept-Burg-Flussinsel.md](Konzept-Burg-Flussinsel.md), Grundentscheidungen 2026-10-03, noch nicht kanonisiert) entsteht nach
+einer diplomatischen Krise und Grenzkonflikten unter Alexander II. (Bau in G6 mittel bis spät, Inbetriebnahme mit Prinz Magnus in G6 spät bis G7 früh).
+Elmsworths Grenzposten und Aufgebote sind die **Reaktion auf die Burg**. Die Burg-Geschichte wird erst final, wenn Zeitachse, Elmsworth-Zeitlinie, Namensstile und dieses Konzept freigegeben sind.
 
 ## 7. Kanontauglichkeit und nächste Schritte
 

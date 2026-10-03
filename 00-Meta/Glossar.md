@@ -158,6 +158,8 @@ hier ergänzen.
   siehe [Kanon/Personen/Haus Montclair/Ferdinand III. Montclair](../Kanon/Personen/Haus%20Montclair/Ferdinand%20III.%20Montclair.md)
 - **Hafenviertel** — Ausbau des von Ferdinand IV. errichteten Hafens um ein eigenes Stadtviertel, unter Isabella I. → siehe
   [Kanon/Personen/Haus Montclair/Isabella I. Montclair (geb. Sophia)](../Kanon/Personen/Haus%20Montclair/Isabella%20I.%20Montclair%20(geb.%20Sophia).md)
+- **Halwyn** — freies Dorf im Landgrenzstreifen zwischen Montclair und Elmsworth, gegründet G1 bis G2 von Westwanderern, in G6 durch gegenseitige Sabotagen
+  beider Reiche zerstört, verlassen → [Kanon/Welt/Halwyn](../Kanon/Welt/Halwyn.md)
 - **Kirche der Stadt Montclair** — ursprüngliche Grablege aller Könige und ihrer Familien vor Wilhelmshöhe → siehe
   [Kanon/Personen/Haus Montclair/Wilhelm I. Montclair](../Kanon/Personen/Haus%20Montclair/Wilhelm%20I.%20Montclair.md)
 - **Lythor** — Hauptstadt Lythorias → siehe [Kanon/Reiche/Königreich Lythoria](../Kanon/Reiche/Königreich%20Lythoria/Steckbrief.md)
@@ -185,6 +187,8 @@ hier ergänzen.
 - **Haus Harrowford** — im Adelsrat einflussreiches Elmsworther Adelshaus, stützte die Ernennung Cedrics II. → [Kanon/Reiche/Königreich
   Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md)
 - **Haus Thornfield** — Elmsworther Adelshaus, Heimat Rowenas und Amelias → [Kanon/Personen/Haus Thornfield](../Kanon/Personen/Haus%20Thornfield.md)
+- **Landgrenzstreifen** — Streifen zwischen der Montclairer und der Elmsworther Grenze am flachen Gebirge, Lage von Halwyn →
+  [Kanon/Welt/Halwyn](../Kanon/Welt/Halwyn.md)
 - **Rat der Frauen** — Zusammenschluss, der Isabella I. inthronisiert →
   siehe [Kanon/Personen/Haus Montclair/Isabella I. Montclair (geb. Sophia)](../Kanon/Personen/Haus%20Montclair/Isabella%20I.%20Montclair%20(geb.%20Sophia).md)
 - **Staatsreligion von Montclair** — → [Kanon/Welt/Religion/Staatsreligion von Montclair](../Kanon/Welt/Religion/Staatsreligion%20von%20Montclair.md)
