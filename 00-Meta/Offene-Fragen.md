@@ -110,27 +110,69 @@ für spätere Sessions).
 - **Elmsworths militärische Ausrichtung** — auf Nutzerwunsch ergänzt, aber bewusst nur in der groben Richtung: seit der Gründung defensiv statt
   erobernd, gerichtet sowohl gegen die alte Welt (Penworth) als auch gegen das aufstrebende Montclair. Konkrete Institutionen (Küstenwacht?
   Grenzgarnisonen? zentrale vs. adelige Streitmacht?) sind **nicht** festgelegt, da das Thema noch zu grob war, um es direkt in den Kanon zu schreiben —
-  dafür jetzt [00-Meta/Konzept-Elmsworth-Militär.md](Konzept-Elmsworth-Militär.md) als Entwurfsdokument angelegt (siehe auch CLAUDE.md, Arbeitsweise
+  dafür jetzt [00-Meta/Konzepte/Konzept-Elmsworth-Militär.md](Konzepte/Konzept-Elmsworth-Militär.md) als Entwurfsdokument angelegt (siehe auch CLAUDE.md, Arbeitsweise
   Punkt 3, neu eingeführt). Ergänzt neue Abschnitte „Militär" und „Verhältnis zu Penworth" sowie einen Absatz in „Verhältnis zu Montclair" im
   [Kanon/Reiche/Königreich Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md); widerspricht der bisherigen Prosa nicht, da die Rivalität
-  weiterhin nie offen (nie über Waffen) ausgetragen wird.
+  weiterhin nie offen (Interpretation, keine Kanon-Aussage; „nie über Waffen" steht nicht im Steckbrief) ausgetragen wird.
+
+## Geklärt (2026-10-03: Zeitachse, Elmsworth-Zeitlinie, Namen)
+
+- **Zeitachse (G-Achse)** — Die Generationsnummern der Zeitleiste sind Geburtsgenerationen der Montclair-Hauptlinie und dienen als gemeinsame, jahrfreie
+  Zeitachse aller Reiche (G0 = Große Verwüstung, davor G-1 ff.); Herrschaft ist eine Spanne (n+1, bei sehr langer Herrschaft n+2). Die Achse ist rein kanonisch
+  (Meta), nicht Teil der Werke. Betrifft [Zeitleiste](Zeitleiste.md), CLAUDE.md.
+- **„Jahre" und „Jahrhunderte" in Werken** — sprachliche Mittel; der Kanon kennt keine Zeiteinheit „Jahr". Aldrics „Jahrhunderte" bleibt unverändert, keine
+  Werkänderung.
+- **Elmsworth-Zeitlinie** — Cedric ist Generation 3 (Auswanderung und Gründung G3 früh bis mittel); Heirat und Kinder erst nach der Reichsgründung, alle Kinder
+  tragen von Geburt den Namen Elmsworth. Fünf Herrscher bis zum Handlungsstand: Cedric I., Edwin I., Alfred I. (geb. Harold, Namensvetter Alfred der Gelehrte),
+  Cedric II. (geb. Godwin, vom Adelsrat ernannt) und Oswald I. Betrifft [Elmsworth-Steckbrief](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md),
+  [Stammbaum](../Kanon/Reiche/Königreich%20Elmsworth/Stammbaum.md), `Kanon/Personen/Haus Elmsworth/`, Zeitleiste, Glossar.
+- **Amelias Herkunft** — geklärt: Adelshaus Thornfield, Cousine von König Alfred I., keine Nachfahrin Cedrics; Elmsworther Name „Amelia von Thornfield", in
+  Montclair „von Elmsworth" (Montclairer Titel-Tradition). Königsbuch 05 minimal angepasst („eng verbundene Adelsfamilie"). Betrifft [Kanon/Personen/Haus
+  Montclair/Amelia von Elmsworth.md](../Kanon/Personen/Haus%20Montclair/Amelia%20von%20Elmsworth.md), [Haus Thornfield](../Kanon/Personen/Haus%20Thornfield.md).
+- **Erbfolge, Titel und Namen in Elmsworth** — Erstgeborener Sohn, sonst ernennt der Adelsrat einen König aus der direkten Herrscherfamilie; Frauen als Monarch
+  beim Adel extrem unbeliebt. Nachname Elmsworth für die Königsfamilie (Töchter behalten ihn); angeheiratete Frauen behalten einen Adelstitel, sonst „von
+  Elmsworth".
+- **Aldric** — Generation 7, Vater Generation 6; Eldoner Universität Planung G5, Bau G6; das Eldoner Archiv (Alfred der Gelehrte) ist eine Quelle. Der
+  Widerspruch in der Aldric-Datei (Eltern lernten sich in Eldon kennen und zogen dorthin) ist aufgelöst: kennengelernt bei einem Aufenthalt in Eldon, zunächst
+  Wohnsitz Montclair, kurz vor Aldrics Geburt dauerhaft nach Eldon.
+- **Konflikt Elmsworth–Montclair (Szenario E)** — vererbte, unausgesprochene Abneigung über die frühe Bindung an Penworth (Beatrice, Ferdinand III.); Verstärker
+  ist das Diplomatenviertel unter Alexander II.: Penworth erhält ein Botschaftsgebäude und stimmt einer dauerhaften Vertretung nur zu, wenn Elmsworth keine
+  erhält; der Thronwechsel in Elmsworth (Cedric II.) fällt in dieselbe Phase. Königsbuch 06 angepasst (Botschaften von Varenheim, Lythoria, Caerthun und
+  Penworth; ein Satz zum Kontakt zu Penworth). Betrifft Elmsworth-, Montclair- und Penworth-Steckbrief, `Alexander II. Montclair.md`.
+- **Abfolge in G6** — Gesandte, Tod von Alexander I. und Amelia (zunächst Krypta der Kirche der Stadt Montclair), Diplomatenviertel, Wilhelmshöhe, Überführung
+  aller bisherigen Königsfamilien (darunter Alexander I. und Amelia als Ausnahme). Geprüft gegen Königsbuch 05/06 und die Personenblätter; passt zum Kanon.
+  Betrifft Zeitleiste, `Alexander I. Montclair.md`, `Amelia von Elmsworth.md`.
+- **Zerwürfnis in Penworth (G0)** — Anlass und Stammhalter der Nebenlinie sind bewusst „nicht bekannt".
+- **Namensstile** — Namensregeln für Montclair und Elmsworth in [Stilrichtlinien](Stilrichtlinien.md) („Namen") festgehalten; Überschneidungen im Namenspool
+  sind erlaubt, aber selten.
 
 ## Offen
 
-- **Elmsworths militärische Struktur (Details)** — siehe [00-Meta/Konzept-Elmsworth-Militär.md](Konzept-Elmsworth-Militär.md): welche konkrete(n)
-  Institution(en) tragen die Verteidigung, wie sichtbar ist das nach außen, wann genau wurde sie aufgebaut, gibt es einen auslösenden Vorfall?
-- **Amelias Herkunft/Adelsstatus** — nicht abschließend geklärt, ob Amelia von Elmsworth dem dortigen Adel bzw. Cedrics Herrscherlinie entstammt. Ihr
-  Titel „von Elmsworth" belegt das für sich genommen nicht (Titel-Tradition setzt keinen vorherigen Adelsstand voraus, vgl. Beatrice von Penworths
-  „einfache Verhältnisse"). Königsbuch 05 beschreibt ihre Familie zwar als „Herrscherfamilie eines in der Nähe neu gegründeten Königreiches" – dies gilt
-  vorerst nur als erzählerischer Kontext, nicht als feste Kanon-Aussage zu ihrer Verwandtschaft mit Cedrics Linie. Betrifft
-  [Kanon/Personen/Haus Montclair/Amelia von Elmsworth.md](../Kanon/Personen/Haus%20Montclair/Amelia%20von%20Elmsworth.md).
-- **Adelstitel in Penworth (und darüber Elmsworth)** — noch nicht definiert. Soll tendenziell deutschsprachig ausfallen (kein „Lord" o. Ä.). Relevant für
-  Cedric von Penworth und künftige Elmsworth-/Penworth-Figuren.
+- **Elmsworths militärische Struktur (Details)** — siehe [00-Meta/Konzepte/Konzept-Elmsworth-Militär.md](Konzepte/Konzept-Elmsworth-Militär.md): Modell (Krone, Aufgebote
+  der Adelshäuser oder Mischform), Grenzposten, „harte Phase" unter Cedric II., Verhältnis zu Aldrics Chronik. Im Kanon gilt nur „defensiv statt erobernd"; „nie
+  offensiv" und „nie über Waffen" sind keine Kanon-Aussagen.
+- **Elmsworth: Erbfolge-Details und Adelsrat** — Mitglieder und Zahl, Verfahren und Frist der Ernennung, Krönungseid, Anspruch von Töchtern, Regentschaft bei
+  Minderjährigkeit, Versorgung der Töchter Alfreds I.
+- **Rangtitel des Adels (Elmsworth, Penworth)** — noch nicht definiert, sollen tendenziell deutschsprachig ausfallen (Graf, Freiin o. Ä., kein „Lord"). Die
+  Elmsworther Titelregel (Adelstitel bleibt, sonst „von Elmsworth") ist festgelegt; offen sind Rangtitel und die Titel angeheirateter Männer.
+- **Sterbe-Tradition in Elmsworth** — gilt bisher nur für Montclair; ob Elmsworth eine ähnliche Vorstellung kennt, ist nicht festgelegt.
+- **Ferdinand II. von Penworth** — zeitliche Einordnung offen (Vorschlag: G-1 bis G0).
+- **Edith (Gemahlin Oswalds I.)** — Stand (bürgerlich oder adelig) und Titel noch nicht festgelegt.
+- **Südgrenze Montclair–Elmsworth und Eskalation** — Wann und wie die Südgrenze entstand (Vertrag, Gewohnheit, Streit), ist offen; ebenso, ob es in G7 oder
+  später zu offenem Konflikt oder Krieg kommt (bisher nur der kalte Konflikt in G6).
 
+- **Burg auf der Flussinsel (Montclair, x 941 / z -8666)** — vom Nutzer neu gebaut (2026-10-03); festgelegt sind nur Lage (Flussinsel), die große Mine darunter
+  (Erze/Mineralien für das Reich) und die Funktion als Grenzpunkt zu Elmsworth, siehe
+  [Montclair-Steckbrief](../Kanon/Reiche/Königreich%20Montclair/Steckbrief.md). Offen: Name und dessen Bedeutung, Bauherr bzw. Generation (in der Zeitleiste als
+  „Einordnung offen" geführt), Abgrenzung zur Großen Mine unter dem Palast (eigener Name?), Rolle gegenüber Elmsworth (Zollstation, Garnison, Wachposten?) –
+  ggf. Abgleich mit [Konzept-Elmsworth-Militär.md](Konzepte/Konzept-Elmsworth-Militär.md), Bauwerks-Chronik in `Werke/`. Alle gesammelten Hinweise und
+  Entwicklungsrichtungen: [Konzept-Burg-Flussinsel.md](Konzepte/Konzept-Burg-Flussinsel.md) (Konzept bleibt offen, bis die übrigen Konzepte final sind, Szenario E als
+  Hintergrund). Wegpunkt im Set `worldbuilding` heißt vorläufig „Burg Flussinsel (Arbeitstitel)" (y 73); im Spiel nach der Namensfindung umbenennen.
 - **Wilhelm II. — Ehefrau/Kinder** — bislang nicht überliefert; relevant, sobald die Nachfolge nach Wilhelm II. geschrieben wird.
-- **Kalendersystem** — es existiert kein festes Zeitrechnungssystem (z. B. „X Jahre nach der Großen Verwüstung"). Die [Zeitleiste](Zeitleiste.md) ist rein
-  generationsbasiert. Falls für spätere Werke absolute Zeitangaben gebraucht werden, sollte hier ein System festgelegt werden.
+- **Kalendersystem** — es existiert kein festes Zeitrechnungssystem (z. B. „X Jahre nach der Großen Verwüstung"). Die [Zeitleiste](Zeitleiste.md) ordnet nach
+  Generationen (G-Achse); „Jahre" und „Jahrhunderte" in Werken sind sprachliche Mittel. Falls für spätere Werke absolute Zeitangaben gebraucht werden, sollte
+  hier ein System festgelegt werden.
 - **Eigenname der Staatsreligion Montclairs** — bislang namenlos; offen, ob das so bleiben soll oder ein Name gefunden wird.
-- **Kloster Wilhelms II. — Name** — der Ort ist inzwischen bekannt (Wegpunkt „Kloster" im „worldbuilding"-Kartierungs-Set, Koordinaten 1009|65|-10677,
-  siehe [00-Meta/Konzept-Kartensystem.md](Konzept-Kartensystem.md)), ein Eigenname fehlt aber weiterhin. Die dort erforschten „verborgenen Schichten
-  des Glaubens" könnten künftig direkt mit der Fragment-Religion verknüpft werden.
+- **Kloster Wilhelms II. — Name** — der Ort ist inzwischen bekannt (Wegpunkt „Kloster" im „worldbuilding"-Kartierungs-Set, Koordinaten 1009|65|-10677, siehe
+  [00-Meta/Konzepte/Konzept-Kartensystem.md](Konzepte/Konzept-Kartensystem.md)), ein Eigenname fehlt aber weiterhin. Die dort erforschten „verborgenen Schichten des
+  Glaubens" könnten künftig direkt mit der Fragment-Religion verknüpft werden.

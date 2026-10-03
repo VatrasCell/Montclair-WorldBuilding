@@ -59,7 +59,7 @@ Minimap unsichtbar, bleibt aber für den Parser (der die Rohdatei liest, nicht d
 Marker praktisch unbegrenzt, ohne beim Spielen zu stören.
 
 **Kategorisierung über `color`:** bereits in Nutzung als Reichs-Referenz – `color:11` (Türkis) für alle Montclair-Marker, deckt sich mit den
-kanonischen Reichsfarben „Schwarz, Weiß, Cyan" laut [Steckbrief](../Kanon/Reiche/Königreich%20Montclair/Steckbrief.md). `color` ist kein freier
+kanonischen Reichsfarben „Schwarz, Weiß, Cyan" laut [Steckbrief](../../Kanon/Reiche/Königreich%20Montclair/Steckbrief.md). `color` ist kein freier
 Wert, sondern einer von **21 festen Xaero-Farb-IDs** (0–20) – die IDs 0–15 entsprechen den 16 Standard-Minecraft-Textfarben, 16–20 sind zusätzliche
 Xaero-eigene Farben. Vollständige Palette, vom Nutzer per Referenz-Wegpunkten ermittelt (Set `colors`, Stand 2026-08-16):
 

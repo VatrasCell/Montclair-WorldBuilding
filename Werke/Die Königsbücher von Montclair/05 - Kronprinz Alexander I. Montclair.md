@@ -25,8 +25,8 @@ Kronprinz Alexander Montclair war für viele ein Symbol der Hoffnung und des For
 intensiv kennengelernt. Seine Verbindung zur Natur und den einfachen Dingen des Lebens hatte ihn gelehrt, die Welt durch die Augen seiner Untertanen zu sehen.
 
 In seinen späten Jugendjahren, als er auf Reisen durch das Königreich ging, um mehr über die Bedürfnisse und Hoffnungen der Menschen zu erfahren, traf er auf
-Amelia von Elmsworth. Amelia kam aus einer respektierten Adelsfamilie, welche die Herrscherfamilie eines in der Nähe neu gegründeten Königreiches war. Sie war
-bekannt für ihre Warmherzigkeit und ihr Engagement für soziale Angelegenheiten.
+Amelia von Elmsworth. Amelia kam aus einer respektierten Adelsfamilie, die der Herrscherfamilie eines in der Nähe neu gegründeten Königreiches eng verbunden
+war. Sie war bekannt für ihre Warmherzigkeit und ihr Engagement für soziale Angelegenheiten.
 
 Die Begegnung mit Amelia erwies sich als schicksalhaft. Ihr Engagement und ihre Liebe zum Königreich faszinierten Alexander zutiefst. Ihr gemeinsames Interesse
 an sozialer Gerechtigkeit und dem Wohl der Menschen verband die beiden in einer Weise, die weit über die Grenzen einer königlichen Heirat hinausging. Sie

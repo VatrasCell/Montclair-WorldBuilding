@@ -1,6 +1,6 @@
 """v1: Wegpunkte + Grenz-Kacheln eines Reichs aus Xaero's World Map ins Projekt kopieren.
 
-Siehe 00-Meta/Konzept-Kartensystem.md, Abschnitt 8 ("Erste Ausbaustufe"). Deckt nur das Holen der
+Siehe 00-Meta/Konzepte/Konzept-Kartensystem.md, Abschnitt 8 ("Erste Ausbaustufe"). Deckt nur das Holen der
 Rohdaten ab -- kein struktureller Merge, keine Auswertung. Muss lokal beim Nutzer laufen, da der
 Minecraft-Client-Ordner und der Kachel-Export außerhalb des Repos liegen.
 

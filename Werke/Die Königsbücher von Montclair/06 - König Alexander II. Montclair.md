@@ -32,7 +32,9 @@ begegnen konnten.
 
 Diese Vision nahm Gestalt an, als er den mutigen Entschluss fasste, ein altes Stadtviertel niederreißen zu lassen, um dort ein neues Diplomatenviertel zu
 errichten. Dieser Entschluss war nicht ohne Widerstand, doch Alexander II. blieb standhaft. Er sah in der Diplomatie den Schlüssel zu dauerhaftem Frieden und
-Wohlstand. Die Botschaften der Nachbarreiche wurden errichtet, und Montclair wurde zu einem Ort, an dem Bündnisse geschmiedet und Konflikte beigelegt wurden.
+Wohlstand. Die Botschaften von Varenheim, Lythoria und Caerthun wurden errichtet, dazu die Botschaft Penworths, der alten Heimat von Königin Beatrice. Der
+Kontakt zu Penworth war über die Generationen nie ganz abgerissen, Händler und Boten hatten die Verbindung zur Alten Welt gehalten. Und Montclair wurde zu einem
+Ort, an dem Bündnisse geschmiedet und Konflikte beigelegt wurden.
 
 So begann die Herrschaft Alexanders II. – als ein König, der Brücken baute, wo andere Mauern errichteten, und der sein Königreich durch Worte und Weisheit
 ebenso stärkte wie durch Gesetze und Ordnung. Seine Vision von einem vernetzten Montclair sollte das Bild des Königreiches für Generationen prägen.

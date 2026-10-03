@@ -16,12 +16,17 @@
 
 ## Lebensstationen
 
-Wurde nach dem Thronverzicht seines Vaters Alexander I. König. Ließ ein Stadtviertel teilweise abreißen und daraus ein **Diplomatenviertel** errichten, in dem
-sich Botschaften großer anderer Reiche befinden.
+Wurde nach dem Thronverzicht seines Vaters Alexander I. König und entsandte im ersten Jahr Gesandte nach Varenheim, Lythoria, Caerthun und Elmsworth. Ließ ein
+Stadtviertel teilweise abreißen und daraus ein **Diplomatenviertel** errichten, in dem sich Botschaften großer anderer Reiche befinden.
+
+Nach dem Tod seiner Eltern (Alexander I. und Amelia von Elmsworth) wurde das Diplomatenviertel fertiggestellt. **Penworth** erhielt dort ein Botschaftsgebäude
+und stimmte einer dauerhaften Vertretung nur zu, wenn Elmsworth keine bekäme; Alexander II. ging darauf ein, weil ihm die Beziehung zu Penworth wichtiger war.
+**Elmsworth** bleibt über Gesandte erreichbar, hat aber keine dauerhafte Vertretung im Viertel. Die Entscheidung vertiefte den alten Riss zwischen den Häusern
+(siehe [Elmsworth-Steckbrief](../../Reiche/Königreich%20Elmsworth/Steckbrief.md), „Verhältnis zu Montclair").
 
 Ließ die Burg **Wilhelmshöhe** errichten – Gedenkstätte für Wilhelm I. und Beatrice, königliche Grablege, Kathedrale, Pilgerort und Stationierungsort der ersten
-königlichen Armee. Seither werden dort grundsätzlich alle nachfolgenden Monarchen beigesetzt (Ausnahme mit besonderer Ehre: Alexander I. und Amelia von
-Elmsworth).
+königlichen Armee. Seither werden dort grundsätzlich alle nachfolgenden Monarchen beigesetzt (Ausnahme mit besonderer Ehre: Alexander I. und Amelia von Elmsworth). Nach der
+Fertigstellung überführte er alle bisherigen Königsfamilien aus der Krypta der Kirche der Stadt Montclair nach Wilhelmshöhe.
 
 In seiner späten Herrschaft konsolidierte er Reformen, stabilisierte Montclair, zog sich zunehmend aus dem politischen Zentrum zurück, lebte teils im
 Diplomatenviertel und mentorierte seinen Sohn Wilhelm II.

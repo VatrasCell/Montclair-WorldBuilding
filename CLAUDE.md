@@ -7,13 +7,14 @@ Worldbuilding-Wissensbasis für eine Fantasy-Welt (Dynastie Montclair), die auf 
 
 - **`Kanon/`** — kurze, strukturierte **Fakten**. Erste Anlaufstelle für Kontext: hier vor jeder neuen Szene/jedem neuen Kapitel nachschlagen.
     - `Kanon/Welt/` — Weltereignisse (Große Verwüstung, Religion)
-    - `Kanon/Reiche/` — ein Steckbrief pro Königreich, inkl. `Status`-Feld (aktiv / zerstört / Herkunftsreich / unentwickelt)
+    - `Kanon/Reiche/` — ein Steckbrief pro Königreich, inkl. `Status`-Feld (aktiv / zerstört / Herkunftsreich / unentwickelt); Montclair und Elmsworth zusätzlich mit `Stammbaum.md`
     - `Kanon/Personen/Haus Montclair/` — ein Faktenblatt pro benannter Figur der Dynastie (Familie, Charakter, Lebensstationen, Tod, Status)
+    - `Kanon/Personen/Haus Elmsworth/` — ein Faktenblatt pro benannter Figur der Elmsworther Dynastie; dazu `Kanon/Personen/Alfred der Gelehrte.md` und `Haus Thornfield.md`
 - **`Werke/`** — die eigentliche **Prosa**, in-universe Texte: Königsbücher, Chroniken, Bauwerksberichte, Geschichten. Das ist der kreative Output, nicht die
   Faktenbasis.
-- **`00-Meta/`** — Navigationshilfen: `Zeitleiste.md` (Generationenfolge), `Glossar.md` (A–Z-Index), `Offene-Fragen.md` (ungeklärte Kanon-Punkte),
-  `Stilrichtlinien.md` (Ton je Werk-Typ), `Konzept-*.md` (Entwurfsdokumente für noch nicht kanonreife Themen, siehe Arbeitsweise Punkt 3),
-  `Archiv/` (alte Roh-Materialien, nicht mehr aktiv als Kontext nutzen).
+- **`00-Meta/`** — Navigationshilfen: `Zeitleiste.md` (Generationenfolge und G-Achse), `Glossar.md` (A–Z-Index), `Offene-Fragen.md` (ungeklärte Kanon-Punkte),
+  `Stilrichtlinien.md` (Ton je Werk-Typ und Namensregeln), `Konzepte/` (offene Entwurfsdokumente `Konzept-*.md` für noch nicht kanonreife Themen, siehe Arbeitsweise
+  Punkt 3), `Archiv/` (alte Roh-Materialien und umgesetzte Konzepte, nicht mehr aktiv als Kontext nutzen).
 
 ## Arbeitsweise
 
@@ -22,10 +23,11 @@ Worldbuilding-Wissensbasis für eine Fantasy-Welt (Dynastie Montclair), die auf 
 2. **Bei Unsicherheit:** In `00-Meta/Offene-Fragen.md` nachsehen bzw. dort ergänzen, statt Fakten zu erfinden. Fehlendes Wissen darf explizit als „nicht
    bekannt" markiert werden — das ist bei den zerstörten Reichen sogar erzählerisch beabsichtigt (siehe Weltregel unten).
 3. **Konzept-Dokumente für noch grobe Themen:** Ist eine Idee noch nicht kanonreif (mehrere denkbare Richtungen, Details offen, reines Brainstorming) –
-   z. B. ein neues System oder eine noch unausgearbeitete Facette eines Reichs –, zuerst ein Entwurfsdokument unter `00-Meta/Konzept-<Thema>.md` anlegen
-   (Vorbild: `00-Meta/Konzept-Kartensystem.md`) und dort Ideen/Optionen offen sammeln, statt sie direkt und konkret in `Kanon/`-Dateien festzuschreiben.
+   z. B. ein neues System oder eine noch unausgearbeitete Facette eines Reichs –, zuerst ein Entwurfsdokument unter `00-Meta/Konzepte/Konzept-<Thema>.md`
+   anlegen (Vorbild: `00-Meta/Konzepte/Konzept-Kartensystem.md`) und dort Ideen/Optionen offen sammeln, statt sie direkt und konkret in `Kanon/`-Dateien festzuschreiben.
    Erst nach Abstimmung mit dem Nutzer eine knappe, abschließende Fassung nach `Kanon/` übernehmen; Kanon-Dateien können auf das noch offene
-   Konzept-Dokument verweisen, solange Details ausstehen.
+   Konzept-Dokument verweisen, solange Details ausstehen. Ist ein Konzept vollständig in den Kanon übernommen, wird es als „umgesetzt" markiert und nach
+   `00-Meta/Archiv/` verschoben.
 4. **Neue Personen/Orte/Begriffe:** immer auch in `00-Meta/Glossar.md` eintragen.
 5. **Stil:** siehe `00-Meta/Stilrichtlinien.md` — Königsbücher, Bauwerks-Chroniken, Aldrics Chronik und freie Geschichten haben je eigenen Ton.
 6. **Vollständigkeits-Checkliste bei jedem neuen Kanon-Fakt** (Schnipzel einweben, offene Frage klären, Korrektur): immer alle folgenden Stellen
@@ -41,6 +43,9 @@ Worldbuilding-Wissensbasis für eine Fantasy-Welt (Dynastie Montclair), die auf 
 7. **Vor Verwandtschafts- oder Chronologie-Aussagen** (wer ist wessen Vater/Großvater, was geschah vor/während/nach was) die entsprechende
    Kanon-Personendatei bzw. den Original-Werke-Text noch einmal gezielt lesen, statt sich auf die Erinnerung aus dem bisherigen Gesprächsverlauf zu
    verlassen — das hat in der Vergangenheit zu Fehlern geführt (z. B. „Großvater" statt „Vater", falsche zeitliche Einordnung von Ereignissen).
+   Für die zeitliche Einordnung über Reichsgrenzen hinweg gilt die **G-Achse** (Generationsnummern, siehe `00-Meta/Zeitleiste.md`): Kind = +1, Geschwister und
+   Ehepartner gleiche Generation, Herrschaft als Spanne. Sie ist rein kanonisch und kommt in den Werken nicht vor; „Jahre" und „Jahrhunderte" in Werken sind
+   sprachliche Mittel.
 
 ## Zentrale Weltregeln
 
@@ -59,6 +64,8 @@ sollte bei ihrer Ausarbeitung nicht stillschweigend als „gilt überall genauso
 - **Erinnerungsverlust durch die Große Verwüstung (weltweit):** Nicht jede In-Welt-Quelle kennt die Namen der durch die Katastrophe zerstörten Reiche (z. B.
   Aranthor). Das ist gewolltes Weltelement, kein zu behebender Widerspruch.
   Details: [Kanon/Welt/Die Große Verwüstung und die Westwanderung.md](Kanon/Welt/Die%20Große%20Verwüstung%20und%20die%20Westwanderung.md)
+- **Elmsworth (eigene Regeln):** Erbfolge: erstgeborener Sohn, sonst ernennt der Adelsrat einen König aus der direkten Herrscherfamilie; die Königsfamilie trägt den
+  Reichsnamen als Nachnamen; angeheiratete Frauen behalten einen Adelstitel, sonst „von Elmsworth". Details: [Kanon/Reiche/Königreich Elmsworth](Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md).
 - **Religion (Montclairs Staatsreligion):** Der Monarch ist nicht das geistliche Oberhaupt der Staatsreligion. Andere Reiche können eigene Staatsreligionen mit
   eigenen Regeln haben, die aus derselben Fragment-Religion hervorgegangen sind. Details: [Kanon/Welt/Religion/](Kanon/Welt/Religion/)
 

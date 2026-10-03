@@ -67,13 +67,24 @@ einem gemäßigten, doch fruchtbaren Klima.
 ## Wichtige Städte und Siedlungen
 
 - **Hauptstadt:** Stadt Montclair – seit Isabella I. auch Sitz einer Universität sowie eines eigenen Hafenviertels.
-- **Strategische Siedlungen:** Burg Montclair, Wilhelmshöhe, Palast zu Montclair (auf dem Palasthügel über der Großen Mine). Weitere bedeutende
-  Ortschaften sind neu gegründete Dörfer.
+- **Strategische Siedlungen:** Burg Montclair, Wilhelmshöhe, Palast zu Montclair (auf dem Palasthügel über der Großen Mine) sowie die **Burg auf der
+  Flussinsel** (Name noch offen, s. u.). Weitere bedeutende Ortschaften sind neu gegründete Dörfer.
+- **Burg auf der Flussinsel (Name, Bauherr und Bedeutung noch offen):** dritte Burg des Königreichs, erbaut auf einer Insel in einem Fluss bei
+  Minecraft-Koordinaten x 941 / y 73 / z -8666 (innerhalb der Landesgrenze, knapp 90 Blöcke nördlich der Südgrenze). Unter der Burg liegt eine große Mine, die
+  das Reich mit Erzen und Mineralien versorgt; zugleich dient die Burg als Grenzpunkt gegenüber [Elmsworth](../Königreich%20Elmsworth/Steckbrief.md).
+  Nicht zu verwechseln mit der Großen Mine unter dem Palast (Ferdinand III.). Geschichte in
+  Entwicklung, siehe [00-Meta/Konzepte/Konzept-Burg-Flussinsel.md](../../../00-Meta/Konzepte/Konzept-Burg-Flussinsel.md) und
+  [00-Meta/Offene-Fragen.md](../../../00-Meta/Offene-Fragen.md).
 
 ## Politische und diplomatische Beziehungen
 
 - **Allianzen:** <!--- leer lassen -->
-- **Diplomatisches Verhältnis:** <!--- leer lassen -->
+- **Diplomatisches Verhältnis:** **Penworth** – Herkunftsreich Königin Beatrices; die frühe Bindung an Penworth prägt die Dynastie bis heute. Der Kontakt zur
+  Alten Welt riss über die Generationen nie ab (Händler und Boten); Penworth unterhält ein Botschaftsgebäude im Diplomatenviertel von Montclair. **Elmsworth** –
+  wichtiger Handelspartner und über Amelia von Elmsworth (Adelshaus Thornfield) familiär verbunden. Das Verhältnis ist nach außen höflich, wird aber seit
+  Alexander II. von Rangfragen belastet: Elmsworth hat keine dauerhafte Vertretung im Diplomatenviertel, weil Penworth einer dauerhaften Vertretung nur zustimmte,
+  wenn Elmsworth keine erhielte. In Montclair gibt es eine nie ausgesprochene, über die Bindung an Penworth überlieferte Zurückhaltung gegenüber der Elmsworther
+  Linie. Details: [Elmsworth-Steckbrief](../Königreich%20Elmsworth/Steckbrief.md).
 
 ## Berühmte Persönlichkeiten
 

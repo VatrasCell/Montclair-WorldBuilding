@@ -27,10 +27,11 @@ Alexander II. zu übertragen – begründet mit dem Wohl Montclairs (ein junger 
 ## Tod
 
 Starb später; seine Frau Amelia von Elmsworth starb noch am selben Tag – gedeutet als mögliche Fortsetzung der alten Vorstellung, dass Ehepartner eines
-Herrschers gemeinsam ins Jenseits gehen. Beide gemeinsam beigesetzt.
+Herrschers gemeinsam ins Jenseits gehen. Beide wurden gemeinsam in der damaligen königlichen Gruft beigesetzt, der Krypta der Kirche der Stadt Montclair.
 
-Obwohl er nie König war, wurde ihm aufgrund seiner selbstlosen Dienste die Bestattung in der **Königlichen Gruft auf Wilhelmshöhe** gewährt – die einzige
-derartige Ausnahme.
+Obwohl er nie König war, wurde ihm aufgrund seiner selbstlosen Dienste die Bestattung in der **Königlichen Gruft** gewährt – die einzige derartige Ausnahme. Mit
+der Fertigstellung Wilhelmshöhes wurden er und Amelia unter Alexander II. gemeinsam mit allen bisherigen Königsfamilien in die **Königliche Gruft auf
+Wilhelmshöhe** überführt.
 
 ## Verweise
 
