@@ -22,7 +22,7 @@ Der Übergang von der Kronprinzenzeit zur Herrschaft vollzog sich für Wilhelm I
 Der Tod König Alexander II. Montclairs war würdevoll und erwartet, doch er hinterließ ein Königreich, das seinen Herrscher mehr verehrte, als es den neuen
 bereits kannte. Wilhelm bestieg den Thron in einer Zeit äußerer Ruhe, aber innerer Ungewissheit, denn der Schatten seines Vaters lag lang über den Hallen der
 Macht. Noch schwerer wog jedoch das Schicksal seiner Mutter. Dass Königin Judith von Montclair nicht kurz nach ihrem Mann verstarb, widersprach dem stillen
-Glauben vieler, die in der Geschichte des Königshauses kannten und ehrten. Als Monate vergingen und Judith weiterhin lebte, wurde sie für manche zum Sinnbild
+Glauben vieler, die in der Geschichte des Königshauses kannten und ehrten. Als Wochen vergingen und Judith weiterhin lebte, wurde sie für manche zum Sinnbild
 eines Bruchs mit der alten Ordnung. Der Angriff auf sie, mitten im Schutz der Stadt und im Angesicht des Glaubens, erschütterte Montclair tief. Ihr Tod war kein
 Akt der Politik, sondern der Fanatik, und doch war seine Wirkung zutiefst politisch. Wilhelm II. sprach öffentlich kaum über diese Ereignisse. Er ließ Recht
 sprechen, bestätigte die Urteile, ordnete die Beisetzung seiner Mutter an der Seite seines Vaters in Wilhelmshöhe an – und schwieg. Dieses Schweigen war kein

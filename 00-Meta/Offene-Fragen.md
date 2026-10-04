@@ -172,11 +172,35 @@ für spätere Sessions).
   rund zehn Halwyner sind dort Teil Montclairs. Betrifft [Kanon/Reiche/Königreich
   Montclair/Fährwerder.md](../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md), Montclair-Steckbrief, Halwyn, Zeitleiste, Glossar.
 
+
+## Geklärt (2026-10-04: Judith)
+
+- **Zeitspanne bis zum Angriff auf Judith** — Königsbuch 06 („Wochen vergingen") ist maßgeblich: Judith überlebt Alexander II. um **Wochen**, nicht um Monate.
+  Angeglichen sind Königsbuch 07, „Die schwarze Erzählung", das Judith-Blatt und die Zeitleiste (G6, Punkt 9). Das Archiv bleibt unverändert.
+- **Urteile gegen Judiths Angreifer** — Die Angreifer wurden vor Ort hingerichtet, Wilhelm II. **bestätigte die Urteile nachträglich** (Königsbuch 07:
+  „bestätigte die Urteile"). Betrifft das Judith-Blatt, das Wilhelm-II.-Blatt und die Zeitleiste (G7).
+
+## Geklärt (2026-10-04: Hofrat und Adel)
+
+- **Hofrat** — als Institution Montclairs kanonisiert: [Kanon/Reiche/Königreich Montclair/Hofrat.md](../Kanon/Reiche/Königreich%20Montclair/Hofrat.md).
+  Beratungsgremium aus Volksvertretern mit bürgerlichen Rängen, von Isabella I. eingerichtet. Der König beruft auf Vorschlag (Gemeinden und Dörfer,
+  Vorschlagsrecht des Rates der Frauen), der Hofrat berät und wird bei Steuern angehört, der König führt den Vorsitz, der Rat der Frauen entscheidet bei Patt.
+  Betrifft Steckbrief, Rat der Frauen, Zeitleiste, Glossar, `CLAUDE.md` (Strukturzeile).
+- **Adel in Montclair** — Die Königsfamilie mit allen Nachkommen ist Adel, zugezogene Adelige werden automatisch anerkannt (begründetes Vetorecht von König und
+  Rat der Frauen), der Hofrat besteht nicht aus Adeligen. Das löst die Spannung zwischen den Adel-Stellen (Königsbuch 05 und 06, Bauwerks-Chronik der Burg
+  Montclair, Judith-Blatt) und der Aussage „kein klassischer Adel als Stand". Judiths Haus ist ein zugezogenes, anerkanntes Adelshaus. Betrifft Steckbrief,
+  Judith-Blatt, Glossar.
+
 ## Offen
 
 
-- **Rat der Frauen und Hofrat** — Mitglieder nach G4, Größe, förmliche Befugnisse und Fortbestand des Rates unter Alexander II. und Wilhelm II. sind nicht
-  bekannt, ebenso das Verhältnis zum Hofrat (siehe [Rat der Frauen](../Kanon/Reiche/Königreich%20Montclair/Rat%20der%20Frauen.md)).
+
+- **Rat der Frauen** — Mitglieder nach G4 (Ernennung, Abwahl, Generationsregel), Größe, förmliche Befugnisse und Vetorechte im Einzelnen sowie die Wirkung unter
+  Alexander II. und Wilhelm II. sind nicht im Kanon festgelegt. Der Fortbestand ist geklärt (besteht bis heute). Ausarbeitung in
+  [Konzepte/Konzept-Rat-der-Frauen.md](Konzepte/Konzept-Rat-der-Frauen.md).
+- **Hofrat (Details)** — Namen, Zahl und Verfahren der Mitglieder, Dauer und Abberufung, Gründe und Wirkung der Vetorechte, Sitzungsort, Rolle unter Wilhelm
+  II.; Adelshäuser, Rangtitel und Name von Judiths Haus. Idee „Vertreter der Staatsreligion im Hofrat" in
+  [Konzepte/Konzept-Priester-im-Hofrat.md](Konzepte/Konzept-Priester-im-Hofrat.md).
 
 - **Elmsworths militärische Struktur (Details)** — siehe [00-Meta/Konzepte/Konzept-Elmsworth-Militär.md](Konzepte/Konzept-Elmsworth-Militär.md): Modell (Krone, Aufgebote
   der Adelshäuser oder Mischform), Grenzposten, „harte Phase" unter Cedric II., Verhältnis zu Aldrics Chronik. Im Kanon gilt nur „defensiv statt erobernd"; „nie

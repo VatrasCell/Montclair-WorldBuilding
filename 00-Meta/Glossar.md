@@ -175,6 +175,8 @@ hier ergänzen.
 
 ## Begriffe & Ereignisse
 
+- **Adel (Montclair)** — Königsfamilie mit allen Nachkommen plus anerkannte zugezogene Adelige; der Hofrat besteht nicht aus Adeligen → [Kanon/Reiche/Königreich
+  Montclair](../Kanon/Reiche/Königreich%20Montclair/Steckbrief.md)
 - **Adelsrat (Elmsworth)** — Versammlung der Oberhäupter der großen Adelshäuser in Eldon; bestätigt jeden Thronfolger und ernennt den König, wenn kein Sohn
   vorhanden ist → [Kanon/Reiche/Königreich Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md)
 - **Erstgeburts-Erbfolge** — von Ferdinand III. eingeführte Thronfolgeregel (Sohn erbt automatisch), von Ferdinand IV./Isabella I. um die Regel „ohne Sohn
@@ -189,11 +191,11 @@ hier ergänzen.
 - **Haus Harrowford** — im Adelsrat einflussreiches Elmsworther Adelshaus, stützte die Ernennung Cedrics II. → [Kanon/Reiche/Königreich
   Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md)
 - **Haus Thornfield** — Elmsworther Adelshaus, Heimat Rowenas und Amelias → [Kanon/Personen/Haus Thornfield](../Kanon/Personen/Haus%20Thornfield.md)
-- **Hofrat** — Beratungsgremium am Hof Montclairs, in Königsbuch 06 erwähnt (Wilhelm II. besuchte Sitzungen); Zusammensetzung unbekannt →
-  [Kanon/Reiche/Königreich Montclair](../Kanon/Reiche/Königreich%20Montclair/Steckbrief.md)
+- **Hofrat** — Beratungsgremium des Königs aus Volksvertretern, von Isabella I. eingerichtet → [Kanon/Reiche/Königreich
+  Montclair/Hofrat](../Kanon/Reiche/Königreich%20Montclair/Hofrat.md)
 - **Landgrenzstreifen** — Streifen zwischen der Montclairer und der Elmsworther Grenze am flachen Gebirge, Lage von Halwyn →
   [Kanon/Welt/Halwyn](../Kanon/Welt/Halwyn.md)
-- **Rat der Frauen** — Zusammenschluss der Töchter und Schwestern Ferdinands IV., der Isabella I. inthronisiert und sie beriet →
+- **Rat der Frauen** — Zusammenschluss der Töchter und Schwestern Ferdinands IV., der Isabella I. inthronisiert und sie beriet, besteht bis heute →
   [Kanon/Reiche/Königreich Montclair/Rat der Frauen](../Kanon/Reiche/Königreich%20Montclair/Rat%20der%20Frauen.md)
 - **Staatsreligion von Montclair** — → [Kanon/Welt/Religion/Staatsreligion von Montclair](../Kanon/Welt/Religion/Staatsreligion%20von%20Montclair.md)
 - **Sterbe-Tradition** — kulturelle (nicht religiöse) Vorstellung, Ehefrauen folgten Königen rasch in den Tod →

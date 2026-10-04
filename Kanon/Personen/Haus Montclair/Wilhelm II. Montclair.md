@@ -26,7 +26,8 @@ Gesandte, diplomatische Reisen.
 ### Das Erbe des Schweigens
 
 Wurde nach dem Tod Alexanders II. König. Seine Herrschaft begann unter dem Schatten des Todes seines Vaters und des gewaltsamen Todes seiner Mutter Judith.
-Verhält sich auffällig schweigsam über die Umstände von Judiths Tod – dieses Schweigen prägt seine frühe Herrschaft.
+Verhält sich auffällig schweigsam über die Umstände von Judiths Tod – dieses Schweigen prägt seine frühe Herrschaft. Er bestätigt nachträglich die Urteile gegen
+ihre Angreifer.
 
 ### Der König im Schatten des Glaubens
 

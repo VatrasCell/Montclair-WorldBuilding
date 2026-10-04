@@ -1,14 +1,14 @@
 # Rat der Frauen
 
-**Status:** Kanon – Kurzfassung (Mitglieder nach G4 und Fortbestand unbekannt)
+**Status:** Kanon – Kurzfassung (Mitglieder nach G4 nicht bekannt)
 **Typ:** Zusammenschluss von Frauen der Dynastie Montclair mit politischem Gewicht
-**Zeit:** entstanden in G3 (gegen Ende der Herrschaft Ferdinands IV.), zuletzt belegt beim Thronverzicht Alexanders I. (G5)
+**Zeit:** entstanden in G3 (gegen Ende der Herrschaft Ferdinands IV.), zuletzt belegt beim Thronverzicht Alexanders I. (G5), besteht bis heute
 
 ## Kurzfassung
 
 Der Rat der Frauen entstand als Bündnis der vier Töchter Ferdinands IV. mit dessen beiden Schwestern gegen die Tyrannei des Königs. Mit dem Rückhalt der
 Bevölkerung erzwang er den Machtwechsel: Ferdinand IV. dankte ab, Sophia bestieg als **Isabella I.** den Thron. Unter Isabella I. blieb der Rat Beraterkreis der
-Königin und hatte Einfluss bis in die Familienpolitik. Zuletzt tritt er beim Thronverzicht Alexanders I. auf. Wie lange er bestand und wer ihm später angehörte,
+Königin und hatte Einfluss bis in die Familienpolitik. Zuletzt tritt er beim Thronverzicht Alexanders I. auf. Er besteht bis heute, wer ihm nach G4 angehörte,
 ist nicht bekannt.
 
 ## Entstehung (G3)
@@ -36,11 +36,17 @@ ist nicht bekannt.
 - Als **Alexander I.** auf die Krone verzichtete, trat er vor den Rat der Frauen, die bedeutendsten Adeligen des Reiches und die Vertreter des Volkes
   (Königsbuch 05). Das ist der letzte Beleg.
 
+## Verhältnis zum Hofrat
+
+- Der [Hofrat](Hofrat.md) führt die Staatsgeschäfte, der Rat der Frauen ist die **dynastische Instanz**. Beide bestehen nebeneinander.
+- Der Rat hat ein **Vorschlagsrecht** für Mitglieder des Hofrates und **entscheidet bei Patt im Hofrat**.
+- Bei der **Anerkennung zugezogener Adeliger** (siehe [Montclair-Steckbrief](Steckbrief.md)) hat der Rat, wie der König, ein begründetes Vetorecht. Gründe und
+  Wirkung sind nicht festgelegt.
+
 ## Nicht bekannt
 
 - Wer dem Rat nach G4 angehörte, wie groß er war und welche förmlichen Befugnisse er hatte.
-- Ob er unter Alexander II. oder Wilhelm II. noch besteht. Königsbuch 06 und 07 erwähnen ihn nicht.
-- Sein Verhältnis zum **Hofrat** (siehe [Montclair-Steckbrief](Steckbrief.md)), der nur in Königsbuch 06 vorkommt.
+- Wie er unter Alexander II. und Wilhelm II. wirkt. Er besteht bis heute, Königsbuch 06 und 07 erwähnen ihn nicht (Auslassung).
 
 ## Verweise
 
@@ -50,4 +56,6 @@ ist nicht bekannt.
 - [Werke/Die Königsbücher von Montclair/03 - König Ferdinand IV. Montclair](../../../Werke/Die%20Königsbücher%20von%20Montclair/03%20-%20König%20Ferdinand%20IV.%20Montclair.md)
 - [Werke/Die Königsbücher von Montclair/04 - Königin Isabella I. Montclair](../../../Werke/Die%20Königsbücher%20von%20Montclair/04%20-%20Königin%20Isabella%20I.%20Montclair.md)
 - [Werke/Die Königsbücher von Montclair/05 - Kronprinz Alexander I. Montclair](../../../Werke/Die%20Königsbücher%20von%20Montclair/05%20-%20Kronprinz%20Alexander%20I.%20Montclair.md)
+- [Hofrat](Hofrat.md)
 - [Zeitleiste](../../../00-Meta/Zeitleiste.md)
+- Offenes Ausarbeitungskonzept: [Konzept-Rat-der-Frauen](../../../00-Meta/Konzepte/Konzept-Rat-der-Frauen.md)

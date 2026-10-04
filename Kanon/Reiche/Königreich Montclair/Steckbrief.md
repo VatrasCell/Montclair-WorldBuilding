@@ -33,6 +33,9 @@ einem gemäßigten, doch fruchtbaren Klima.
 
 - **Gesamtbevölkerung:** <!--- leer lassen -->
 - **Ethnien:** <!--- leer lassen -->
+- **Adel:** Die Königsfamilie mit allen ihren Nachkommen ist Adel und macht den größten Teil des Adelsstandes aus. Zugezogene Adelige aus anderen Häusern und
+  Reichen werden automatisch in ihrem Rang anerkannt, der König und der Rat der Frauen haben dagegen nur ein begründetes Vetorecht. Der [Hofrat](Hofrat.md)
+  besteht ausdrücklich nicht aus Adeligen. Adelshäuser und Rangtitel sind nicht festgelegt.
 
 ## Geschichte
 
@@ -43,10 +46,10 @@ einem gemäßigten, doch fruchtbaren Klima.
 
 ## Regierung & Verwaltung
 
-- **Regierungsform:** Monarchische Herrschaft mit dem König als höchster Machthaber, unterstützt vom Hofrat. Die Thronfolge ist gesetzlich geregelt und
-  folgt dem Erstgeburtsrecht des Königssohns.
-- **Wichtige Institutionen:** Der Hofrat, der [Rat der Frauen](Rat%20der%20Frauen.md) (seit Ferdinand IV. belegt, Fortbestand unbekannt), die königliche
-  Armee und die Verwaltung der Burg Montclair.
+- **Regierungsform:** Monarchische Herrschaft mit dem König als höchster Machthaber, beraten vom [Hofrat](Hofrat.md) aus Volksvertretern. Neben dem Hofrat steht
+  der [Rat der Frauen](Rat%20der%20Frauen.md) als dynastische Instanz. Die Thronfolge ist gesetzlich geregelt und folgt dem Erstgeburtsrecht des Königssohns.
+- **Wichtige Institutionen:** Der [Hofrat](Hofrat.md) (seit Isabella I.), der [Rat der Frauen](Rat%20der%20Frauen.md) (seit Ferdinand IV., besteht bis heute),
+  die königliche Armee und die Verwaltung der Burg Montclair.
 
 ## Wirtschaft und Handel
 

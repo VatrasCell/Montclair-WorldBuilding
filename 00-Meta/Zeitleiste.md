@@ -60,6 +60,8 @@ sprachliche Mittel.
 - Kinder: Kronprinz Alexander I., Katharina.
 - Der Rat der Frauen berät die Königin beim Wiederaufbau; Eleanor und Genevieve bleiben Beraterinnen, Katharina tritt bei.
 - Zeit des Wandels und Wiederaufbaus: Umbau/Erweiterung des Palastes, Bau einer Universität in der Stadt Montclair, Ausbau des Hafens um ein Hafenviertel.
+- Einrichtung des **Hofrates** (Volksvertreter) im Rahmen ihrer Reformen, die die Macht der Königsfamilie beschränken (siehe
+  [Hofrat](../Kanon/Reiche/Königreich%20Montclair/Hofrat.md)).
 - Wird sehr alt; Alexander I. verzichtet bei ihrem Tod bereits selbst auf die Krone. Ihre Herrschaft reicht von G4 bis G6 früh.
 - (G4 bis G5, am Fluss im Osten Montclairs: Gründung des Fähr- und Fischerdorfes **Fährwerder**, Teil des Königreichs, nicht direkt der Krone unterstellt.)
 - (Elmsworth: **Edwin I.** regiert, Konsolidierung und Aufstieg; Handel mit Montclair. Der Elmsworther Adel sieht Isabella I. als „Frau auf dem Thron" mit
@@ -93,12 +95,12 @@ Abfolge (in dieser Reihenfolge):
 7. (Elmsworth) Bau der Eldoner Universität unter Cedric II.; Aldrics Vater, ein Montclairer Gelehrter (G6), hilft beim Aufbau.
 8. Burg auf der Flussinsel: Einordnung offen, entsteht nach der Zerstörung Halwyns (siehe Offene-Fragen).
 9. Späte Jahre: Alexander II. zieht sich ins Diplomatenviertel zurück, Kronprinz Wilhelm II. führt die Geschäfte. Tod Alexanders II.; Judith überlebt ihn um
-   Monate, wird bei einem Kirchenbesuch von einem Mob angegriffen und stirbt später an den Verletzungen.
+   Wochen, wird bei einem Kirchenbesuch von einem Mob angegriffen und stirbt später an den Verletzungen.
 
 ## Generation 7 — König Wilhelm II. Montclair (aktueller Handlungsstand)
 
 - Kindheit und Kronprinzenjahre unter Alexander II.
-- Krönung nach dem Tod seines Vaters, Schweigen über Judiths Tod.
+- Krönung nach dem Tod seines Vaters, Schweigen über Judiths Tod; bestätigt nachträglich die Urteile gegen ihre Angreifer.
 - Hinwendung zum Glauben, Bau eines Klosters.
 - (Elmsworth: **Oswald I.** regiert; der Chronist **Aldric von Fenmar** (ebenfalls G7) schreibt in Eldon.)
 - **Handlung noch offen** — hier setzt die aktive Weiterentwicklung des Kanons an.
