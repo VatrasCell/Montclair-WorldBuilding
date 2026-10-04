@@ -1,14 +1,14 @@
 # Fährwerder
 
 **Status:** Kanon – Kurzfassung, aktives Dorf in Montclair
-**Typ:** Fähr- und Fischerdorf am Westufer, gegenüber der Burg auf der Flussinsel
+**Typ:** Fähr- und Fischerdorf am Westufer, gegenüber der Burg Erzwacht
 **Zeit:** gegründet G4 bis G5, Zuzug der Halwyner in G6 mittel
-**Lage:** um x 786 / z -8633 (Wegpunkt im Spiel bisher `Dorf 3`), rund 160 Blöcke westlich der Burg auf der Flussinsel, durch Wasser von ihr getrennt
+**Lage:** um x 786 / z -8633 (Wegpunkt `Dorf Fährwerder`), rund 160 Blöcke westlich der Burg Erzwacht, durch Wasser von ihr getrennt
 
 ## Kurzfassung
 
 Fährwerder ist ein älteres **Fähr- und Fischerdorf** am Fluss im Osten Montclairs. Es gehört von Anfang an zum Königreich, wird aber nicht unmittelbar von der
-Krone verwaltet und hat einen eigenen bürgerlichen Vorsteher. Als die Burg auf der Flussinsel entstand, lag das Dorf schon gegenüber. Nach der Zerstörung
+Krone verwaltet und hat einen eigenen bürgerlichen Vorsteher. Als die Burg Erzwacht entstand, lag das Dorf schon gegenüber. Nach der Zerstörung
 [Halwyns](../../Welt/Halwyn.md) fand rund ein Drittel der Überlebenden dort Zuflucht und wurde Teil Montclairs.
 
 ## Gründung und Zweck
@@ -58,7 +58,8 @@ Krone verwaltet und hat einen eigenen bürgerlichen Vorsteher. Als die Burg auf 
 
 ## Werke
 
-Das Dorf kommt in den bisherigen Werken nicht vor. Die Bauwerks-Chronik der Burg wird es nennen. Ob sie die Halwyner erwähnt, wird später geklärt.
+Das Dorf kommt in den Königsbüchern nicht vor. Die [Bauwerks-Chronik der Burg
+Erzwacht](../../../Werke/Bauwerke-Chroniken/Die%20Errichtung%20der%20Burg%20Erzwacht.md) nennt das Dorf, die Halwyner nennt sie nicht.
 
 ## Verweise
 
@@ -67,4 +68,5 @@ Das Dorf kommt in den bisherigen Werken nicht vor. Die Bauwerks-Chronik der Burg
 - [Staatsreligion von Montclair](../../Welt/Religion/Staatsreligion%20von%20Montclair.md)
 - [Zeitleiste](../../../00-Meta/Zeitleiste.md)
 - Archiviertes Konzept: [Konzept-Dorf-3](../../../00-Meta/Archiv/Konzept-Dorf-3.md)
-- Offen bleibende Burg-Lore: [Konzept-Burg-Flussinsel](../../../00-Meta/Konzepte/Konzept-Burg-Flussinsel.md)
+- [Burg Erzwacht](Burg%20Erzwacht.md)
+- Archiviertes Konzept der Burg: [Konzept-Burg-Flussinsel](../../../00-Meta/Archiv/Konzept-Burg-Flussinsel.md)

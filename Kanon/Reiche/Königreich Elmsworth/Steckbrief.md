@@ -18,16 +18,17 @@
 
 ## Lage
 
-Südlich bzw. in der Umgebung Montclairs. Liegt in fruchtbaren Tälern und sanften Hügeln, durchzogen von mächtigen Flüssen, die die Grundlage für Elmsworths
-Agrarwirtschaft und Handel bilden. Auf Montclairer Seite markiert die Burg auf der Flussinsel (Name noch offen) den Grenzpunkt zu Elmsworth, siehe
+Südöstlich von Montclair. Liegt in fruchtbaren Tälern und sanften Hügeln, durchzogen von mächtigen Flüssen, die die Grundlage für Elmsworths Agrarwirtschaft und
+Handel bilden. Auf Montclairer Seite markiert die [Burg Erzwacht](../Königreich%20Montclair/Burg%20Erzwacht.md) den Grenzpunkt zu Elmsworth, siehe
 [Montclair-Steckbrief](../Königreich%20Montclair/Steckbrief.md). Zwischen den Grenzen beider Reiche liegt am flachen Gebirge ein Landgrenzstreifen, in dem bis
-G6 das freie Dorf [Halwyn](../../Welt/Halwyn.md) lag.
+G6 das freie Dorf [Halwyn](../../Welt/Halwyn.md) lag. Der Streifen ist Niemandsland: Keines der beiden Reiche beansprucht ihn, niemand wohnt dort.
 
 ## Hauptstadt
 
 **Eldon** – bekannt für ihre prächtigen Gärten und beeindruckende Architektur, die die Verbindungen der Gründerfamilie zur alten Welt (vor der Großen
 Verwüstung) widerspiegelt. Eldon ist zugleich ein Zentrum des Austauschs von Waren und Ideen zwischen den Reichen des neuen Landes sowie Sitz einer Universität
-und des Hofes, an dem der Chronist Aldric von Fenmar wirkt.
+und des Hofes, an dem der Chronist Aldric von Fenmar wirkt. Die Stadt liegt um x 2050 / z -8778 (Wegpunkt `Stadt Eldon`), rund 1700 Blöcke östlich der Stadt
+Montclair.
 
 ## Wirtschaft & Kultur
 
@@ -59,12 +60,12 @@ sind – nicht direkt aus der Großen Verwüstung hervorgegangen, sondern einige
 reichen dennoch bis in die Wirren der Großen Verwüstung selbst zurück: In jener chaotischen Zeit zerstritt sich eine Nebenlinie des Hauses Penworth mit der
 Penworther Hauptfamilie und lebte fortan auf Distanz zum Hof (Name des Stammhalters und Anlass des Zerwürfnisses: nicht bekannt). **Cedric von Penworth**, ein
 späterer Spross dieser entfremdeten Linie, sammelte Generationen nach Wilhelms Westwanderung, zur Zeit von König Ferdinand IV. Montclair, Vermögen, Gelehrte,
-Handwerker und treue Gefolgsleute um sich und wanderte aus freiem Entschluss – nicht aus Not – nach Westen aus. Er fand ein fruchtbares Tal südlich des jungen
-Montclair, gründete dort die Stadt **Eldon** inmitten ausgedehnter Ulmenhaine und nannte das neue Reich **Elmsworth**: „Elm" nach den Ulmen des Gründungsorts,
-„-worth" als bewusst beibehaltene alte Penworther Siedlungsendung – zugleich Hommage an die Heimat und leiser Anspruch, deren Erbe und Rang mitgenommen zu
-haben. Bei seiner Krönung zum ersten König nahm er, wie es sich für den Gründer eines Königreichs gehört, den Reichsnamen als Herrschernamen an: **Cedric I.
-Elmsworth**. Von Beginn an verband er den Aufbau des jungen Reichs mit Vorsorge für seine Verteidigung (siehe „Militär") – geprägt vom eigenen Bruch mit der
-Heimat und vom wachsamen Blick auf das aufstrebende Montclair.
+Handwerker und treue Gefolgsleute um sich und wanderte aus freiem Entschluss – nicht aus Not – nach Westen aus. Er fand ein fruchtbares Tal südöstlich des
+jungen Montclair, gründete dort die Stadt **Eldon** inmitten ausgedehnter Ulmenhaine und nannte das neue Reich **Elmsworth**: „Elm" nach den Ulmen des
+Gründungsorts, „-worth" als bewusst beibehaltene alte Penworther Siedlungsendung – zugleich Hommage an die Heimat und leiser Anspruch, deren Erbe und Rang
+mitgenommen zu haben. Bei seiner Krönung zum ersten König nahm er, wie es sich für den Gründer eines Königreichs gehört, den Reichsnamen als Herrschernamen an:
+**Cedric I. Elmsworth**. Von Beginn an verband er den Aufbau des jungen Reichs mit Vorsorge für seine Verteidigung (siehe „Militär") – geprägt vom eigenen Bruch
+mit der Heimat und vom wachsamen Blick auf das aufstrebende Montclair.
 
 **Heirat und Nachkommen:** Cedric I. heiratete erst nach der Gründung des Reichs die bürgerliche Hilda. Alle Kinder der Dynastie wurden nach der Reichsgründung
 geboren und tragen von Geburt an den Namen Elmsworth. Alfred der Gelehrte aus seinem Gefolge wurde Lehrer seiner Kinder.
@@ -122,7 +123,8 @@ Alle Herrscher tragen den Nachnamen Elmsworth. Stammbaum und Personenblätter: [
 Seit der Gründung defensiv statt erobernd ausgerichtet – passend zum Selbstbild einer verfeinerten, gebildeten Nation, die sich durch Vorsorge behauptet, nicht
 durch Eroberung. Diese Haltung gilt in zwei Richtungen: gegen einen möglichen – nie tatsächlich eingetretenen – Zugriff der alten Welt, sprich Penworths, und
 gegen das junge, rasch wachsende Montclair, das Cedric I. Elmsworth von Beginn an nicht nur als Handelspartner, sondern auch als ernstzunehmenden Konkurrenten
-im neuen Land einschätzte. Welche konkreten Strukturen diese Haltung tragen, ist noch nicht festgelegt – Details werden derzeit erst entwickelt, siehe
+im neuen Land einschätzte. Belegt sind Grenzposten, die Cedric II. in G6 als Antwort auf die Montclairer Burg Erzwacht aufstellte. Welche weiteren Strukturen
+diese Haltung tragen, ist noch nicht festgelegt – Details werden derzeit erst entwickelt, siehe
 [00-Meta/Konzepte/Konzept-Elmsworth-Militär.md](../../../00-Meta/Konzepte/Konzept-Elmsworth-Militär.md).
 
 ## Verhältnis zu Penworth
@@ -148,10 +150,11 @@ Penworth hatte einer dauerhaften Vertretung nur zugestimmt, wenn Elmsworth keine
 angesprochen und bleibt über Gesandte erreichbar. Der Ausschluss fiel in die Anfangszeit von König Cedric II., der als vom Adelsrat ernannter König besonders
 auf Rang und Anerkennung angewiesen war. Zölle, Grenzfragen und die wachsende Verteidigungsausrichtung gegen Montclair sind Ausdruck dieser Spannung. Es kam zu
 Grenzkonflikten mit gegenseitigen Sabotagen und Reizungen, bei denen in G6 das freie Dorf [Halwyn](../../Welt/Halwyn.md) im Landgrenzstreifen zerstört wurde;
-einen einzelnen Schuldigen gibt es nicht, beide Seiten hatten Anteil, und beide Kronen bestritten, es befohlen zu haben. Zu offener Feindschaft oder Krieg ist
-es nicht gekommen. Auch die seit Cedric I. bestehende, in ihrer konkreten Form noch nicht festgelegte Verteidigungsausrichtung gegen Montclair (siehe „Militär")
-ist Ausdruck der Rivalität: keine Kriegsvorbereitung, aber ein stilles Zeichen, dass Elmsworth Montclairs raschen Aufstieg von Beginn an nicht nur als
-Handelschance, sondern auch als mögliche Bedrohung gelesen hat.
+einen einzelnen Schuldigen gibt es nicht, beide Seiten hatten Anteil, und beide Kronen bestritten, es befohlen zu haben. Als Montclair danach die Burg Erzwacht
+an der Grenze baute, antwortete Cedric II. noch in G6 mit Grenzposten. Der Grenzverlauf wird seither stillschweigend geduldet, ohne Vertrag. Zu offener
+Feindschaft oder Krieg ist es nicht gekommen. Auch die seit Cedric I. bestehende, in ihrer konkreten Form noch nicht festgelegte Verteidigungsausrichtung gegen
+Montclair (siehe „Militär") ist Ausdruck der Rivalität: keine Kriegsvorbereitung, aber ein stilles Zeichen, dass Elmsworth Montclairs raschen Aufstieg von
+Beginn an nicht nur als Handelschance, sondern auch als mögliche Bedrohung gelesen hat.
 
 ## Bekannte Persönlichkeiten
 

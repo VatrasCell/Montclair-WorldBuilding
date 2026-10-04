@@ -23,8 +23,8 @@ Der einzige direkte Beleg ist, dass Kronprinz Wilhelm II. Sitzungen besuchte.
 
 - Die Mitglieder sind **Volksvertreter mit unterschiedlichen bürgerlichen Rängen**. Die Ränge sind nicht definiert.
 - Es gibt **keine Adeligen** im Hofrat (siehe unten), **keine Fachmitglieder** aus Verwaltung und Armee und **keinen festen Sitz der Staatsreligion**.
-- Der **König beruft** die Mitglieder auf Vorschlag. Die Volksvertreter kommen aus Gemeinden und Dörfern, das Verfahren ist nicht festgelegt. Der **Rat der
-  Frauen** hat ein **Vorschlagsrecht**.
+- Der **König beruft** die Mitglieder auf Vorschlag. Die Volksvertreter kommen aus Gemeinden und Dörfern, ohne feste Verteilung (zum Beispiel einen Vertreter je
+  Dorf). Das Verfahren ist im Übrigen nicht festgelegt. Der **Rat der Frauen** hat ein **Vorschlagsrecht**.
 - Der König ist an Vorschläge **nicht rechtlich gebunden**, es gilt aber der Brauch, ihnen zu folgen.
 - Zahl der Mitglieder, Dauer der Mitgliedschaft und Abberufung sind nicht festgelegt.
 
@@ -44,7 +44,8 @@ Der einzige direkte Beleg ist, dass Kronprinz Wilhelm II. Sitzungen besuchte.
 
 ## Verhältnis zu Verwaltung, Armee und Staatsreligion
 
-- Verwaltung und Armee sind dem König unterstellt und dem Hofrat gegenüber **auskunftspflichtig**.
+- Verwaltung und Armee sind dem König unterstellt und dem Hofrat gegenüber **auskunftspflichtig**. Ein Statthalter (zum Beispiel Magnus auf der [Burg
+  Erzwacht](Burg%20Erzwacht.md)) ist direkt dem König unterstellt, nicht dem Hofrat. Ob die Auskunftspflicht für ihn gilt, ist nicht festgelegt.
 - Die [Staatsreligion](../../Welt/Religion/Staatsreligion%20von%20Montclair.md) hat keinen festen Sitz im Hofrat. Der König ist nicht ihr geistliches Oberhaupt.
 
 ## Abgrenzung zum Adel

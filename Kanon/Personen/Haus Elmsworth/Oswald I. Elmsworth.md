@@ -14,7 +14,8 @@
 ## Bekannte Fakten
 
 Erstgeborener Sohn Cedrics II. und dessen Nachfolger. Regiert zur Zeit des aktuellen Handlungsstands in Montclair (Wilhelm II.), zeitgleich mit dem Chronisten
-Aldric von Fenmar. Weitere Details noch nicht ausgearbeitet.
+Aldric von Fenmar. Erbt die Lage an der Grenze zu Montclair, wo sein Vater Cedric II. Grenzposten gegenüber der Montclairer Burg Erzwacht aufgestellt hatte.
+Weitere Details noch nicht ausgearbeitet.
 
 ## Verweise
 

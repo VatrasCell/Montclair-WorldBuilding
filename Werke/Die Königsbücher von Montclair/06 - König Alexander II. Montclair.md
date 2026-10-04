@@ -106,6 +106,17 @@ Herrschaftsjahren das Königreich erneuert hatten. Er nutzte die Zeit, um besteh
 seine diplomatischen Initiativen neue Aufgaben erhalten hatten. Seine Bestrebungen galten nicht mehr dem Aufbruch, sondern der Beständigkeit – ein geordnetes,
 stabiles Montclair war für ihn der wahre Triumph seiner Herrschaft.
 
+In diese Jahre der Festigung fiel auch ein Bauwerk, das nicht dem Gedenken, sondern der Sicherung galt. An der Grenze zu Elmsworth, wo Zölle und strittige
+Grenzfragen das Verhältnis der beiden Reiche belasteten, ließ Alexander II. auf einer Insel inmitten eines Flusses die Burg Erzwacht errichten. Den Namen gab er
+ihr selbst, zu Beginn des Baus. Die Arbeiten setzten ein, während Wilhelmshöhe noch im Entstehen war, doch erst nach dessen Einweihung wurde die Burg in Betrieb
+genommen. Ihre Mauern sollten die Grenze festigen und den Fluss überwachen, an dem eine Zoll- und Passierstelle eingerichtet wurde. Unter ihnen aber lag eine
+Mine von außergewöhnlichem Erzreichtum, die das Königreich fortan mit Erzen und Mineralien versorgte. Die Burg sollte nicht drohen, sondern sichern – ganz im
+Sinne eines Königs, der die Zukunft Montclairs nie allein auf Mauern gründen wollte, die Mauern aber dort errichten ließ, wo sie dem Frieden dienten.
+
+Zum Burgherrn und Statthalter setzte er seinen jüngsten Sohn Magnus ein. Der wissbegierige Prinz, der sich schon früh für die Wissenschaften und das
+Militärwesen begeistert hatte, war inzwischen erwachsen geworden und verwaltete die Burg an des Königs statt, unmittelbar dem König unterstellt. Magnus nahm
+seinen Wohnsitz in Erzwacht, doch eine königliche Residenz wurde die Burg nie. So blieb die Grenzburg in der Hand der Familie und unter der Aufsicht der Krone.
+
 In den letzten Jahren seines Lebens zog sich Alexander II. mehr und mehr aus dem Zentrum der Macht zurück. Zwar behielt er seinen Titel als König, doch immer
 häufiger war es sein Sohn, Kronprinz Wilhelm II., der die Regierungsgeschäfte führte. Alexander II. selbst lebte fortan zurückgezogen im Diplomatenviertel,
 jenem Stadtteil, den er einst selbst hatte prägen lassen. Dort, inmitten der ausländischen Gesandtschaften und Botschaften, führte er Gespräche fern des großen

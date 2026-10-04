@@ -5,7 +5,7 @@ Westwanderungs-Datei, Wilhelm II., Zeitleiste, Glossar und Offene-Fragen. Dieses
 **Stand:** 2026-10-03, alle Punkte aus 6.2 abgestimmt
 **Entschieden:** 2026-10-03, siehe Abschnitt 6.1 und 6.2
 **Name:** Halwyn (einheitlich, von keinem Reich abhängig, siehe 4.7)
-**Bezug:** Teil der Burg-Lore, siehe [Konzept-Burg-Flussinsel.md](../Konzepte/Konzept-Burg-Flussinsel.md)
+**Bezug:** Teil der Burg-Lore, siehe [Konzept-Burg-Flussinsel.md](Konzept-Burg-Flussinsel.md)
 
 Sammelt die Lore des verlassenen Dorfes im Landgrenzstreifen zwischen Montclair und Elmsworth. Zum Zeitpunkt der Erstellung war noch nichts kanonisch,
 inzwischen ist alles übernommen. Abschnitt 1 enthält die Nutzerangaben und -entscheidungen, Abschnitt 2 den Rahmen aus dem bestehenden Kanon. Die Ausarbeitung
@@ -39,7 +39,7 @@ Jede Aussage wurde gegen die genannte Quelle gelesen.
 - **Montclairs Ausbreitung:** Das Reich wuchs von der Insel aus „auf das angrenzende Festland im Osten" (Montclair-Steckbrief). Das Dorf liegt dort und ist
   älter als die Grenzen.
 - **Elmsworth:** Cedric I. gründet das Reich in G3 „südlich des jungen Montclair". Das Dorf besteht dann schon und gehört keinem Reich (Elmsworth-Steckbrief).
-- **Zeit und Reihenfolge:** Nach der [Burg-Linie](../Konzepte/Konzept-Burg-Flussinsel.md) folgen auf das Diplomatenviertel eine kalte Krise, Grenzkonflikte und
+- **Zeit und Reihenfolge:** Nach der [Burg-Linie](Konzept-Burg-Flussinsel.md) folgen auf das Diplomatenviertel eine kalte Krise, Grenzkonflikte und
   der Bau der Burg. Das Dorf wird in den Grenzkonflikten zerstört, **vor** dem Burgbau, in G6 (mittel). Die Zeitleiste führt G6 so: Diplomatenviertel,
   Wilhelmshöhe, Überführung der Königsgräber, dann die Burg ([Zeitleiste](../Zeitleiste.md)).
 - **Kein offener Krieg:** Der [Elmsworth-Steckbrief](../../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md) nennt „Zölle, Grenzfragen und die wachsende
@@ -206,6 +206,6 @@ Nach der Zerstörung sagen beide Reiche eher „das Dorf an der Straße". Wegpun
 2. Knappe Fassung in den Kanon übernehmen: Montclair-Steckbrief („Wichtige Städte und Siedlungen"), Elmsworth-Steckbrief („Verhältnis zu Montclair"),
    Westwanderungs-Datei (weitere Siedler) und ggf. neuer Eintrag unter `Kanon/` für das Dorf.
 3. [Glossar](../Glossar.md), [Zeitleiste](../Zeitleiste.md) (G1 bis G2, G6) und [Offene-Fragen](../Offene-Fragen.md) aktualisieren, Wegpunkt im Spiel anlegen.
-4. [Konzept-Burg-Flussinsel.md](../Konzepte/Konzept-Burg-Flussinsel.md) und [Konzept-Elmsworth-Militär.md](../Konzepte/Konzept-Elmsworth-Militär.md) abgleichen.
+4. [Konzept-Burg-Flussinsel.md](Konzept-Burg-Flussinsel.md) und [Konzept-Elmsworth-Militär.md](../Konzepte/Konzept-Elmsworth-Militär.md) abgleichen.
 5. Danach erst Werke schreiben (Aldric, Bauwerks-Chronik der Burg, freie Geschichte).
 6. Erledigt: Konzept als „umgesetzt" markiert und nach `00-Meta/Archiv/` verschoben.

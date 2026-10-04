@@ -166,11 +166,11 @@ für spätere Sessions).
 
 ## Geklärt (2026-10-04: Fährwerder)
 
-- **Dorf 3 bei der Burg auf der Flussinsel** — kanonisch als **Fährwerder**: älteres Fähr- und Fischerdorf (G4 bis G5) am Westufer, Teil des Königreichs, aber
-  nicht direkt der Krone unterstellt, mit eigenem bürgerlichem Vorsteher, Priester und Kirche der Staatsreligion. Der Fluss war ein zweiter Verkehrsweg neben
-  der Straße über Halwyn. Die Halbinsel nördlich des Dorfes (Umschlagplatz, Wachposten) gehört zur Burg. Bergleute der Burg schlafen und essen in der Burg. Die
-  rund zehn Halwyner sind dort Teil Montclairs. Betrifft [Kanon/Reiche/Königreich
-  Montclair/Fährwerder.md](../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md), Montclair-Steckbrief, Halwyn, Zeitleiste, Glossar.
+- **Dorf 3 bei der Burg Erzwacht** — kanonisch als **Fährwerder**: älteres Fähr- und Fischerdorf (G4 bis G5) am Westufer, Teil des Königreichs, aber nicht
+  direkt der Krone unterstellt, mit eigenem bürgerlichem Vorsteher, Priester und Kirche der Staatsreligion. Der Fluss war ein zweiter Verkehrsweg neben der
+  Straße über Halwyn. Die Halbinsel nördlich des Dorfes (Umschlagplatz, Wachposten) gehört zur Burg. Bergleute der Burg schlafen und essen in der Burg. Die rund
+  zehn Halwyner sind dort Teil Montclairs. Betrifft [Kanon/Reiche/Königreich Montclair/Fährwerder.md](../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md),
+  Montclair-Steckbrief, Halwyn, Zeitleiste, Glossar.
 
 
 ## Geklärt (2026-10-04: Judith)
@@ -203,6 +203,21 @@ für spätere Sessions).
   besteht.
 - **Altersangaben** — Weltregel: nur in Worten (Kindheit, Jugend, erwachsen, hohes Alter), nie in Zahlen. Betrifft `CLAUDE.md`, `Stilrichtlinien.md`, Glossar.
 
+## Geklärt (2026-10-04: Burg Erzwacht)
+
+- **Burg auf der Flussinsel** — kanonisch als **Burg Erzwacht**: dritte Burg Montclairs, Name gilt für Burg und Mine, von Alexander II. zu Baubeginn benannt und
+  gebaut (Baubeginn kurz nach Halwyn, neben Wilhelmshöhe, Inbetriebnahme G6 spät bis G7 früh), sehr erzreiche Mine (die Große Mine dient mehr dem Baustoff),
+  Grenzfestung mit Zoll- und Passierstelle, Kapelle ohne Gruft, Besatzung aus der „normalen" Armee, Magnus als Burgherr und Statthalter (direkt dem König
+  unterstellt). Betrifft [Kanon/Reiche/Königreich Montclair/Burg Erzwacht.md](../Kanon/Reiche/Königreich%20Montclair/Burg%20Erzwacht.md), Montclair-Steckbrief,
+  Alexander-II.-, Magnus- und Wilhelm-II.-Blatt, Staatsreligion, Hofrat, Fährwerder, Halwyn, Zeitleiste, Glossar.
+- **Grenze zu Elmsworth** — Der Grenzverlauf wird seit der Burg stillschweigend geduldet, ohne Vertrag, aber unstrittig. Der Landgrenzstreifen ist Niemandsland
+  (kein Reich beansprucht ihn, niemand wohnt dort). Benennung „Grenze zu Elmsworth" statt „Südgrenze". Betrifft Montclair-Steckbrief, Halwyn,
+  Elmsworth-Steckbrief, Glossar.
+- **Elmsworth: Lage und Antwort** — Elmsworth liegt südöstlich von Montclair (Eldon um x 2050 / z -8778). Cedric II. stellte in G6 Grenzposten gegenüber der
+  Burg auf, Oswald I. erbt die Lage. Betrifft Elmsworth-Steckbrief, Cedric-II.- und Oswald-I.-Blatt.
+- **Hofrat** — keine feste Verteilung der Vertreter auf Dörfer (zum Beispiel keiner je Dorf).
+- **Armee** — Neben der ersten königlichen Armee besteht eine „normale" Armee (Steckbrief, Abschnitt Militär).
+
 ## Offen
 
 
@@ -213,10 +228,14 @@ für spätere Sessions).
 - **Hofrat (Details)** — Namen, Zahl und Verfahren der Mitglieder, Dauer und Abberufung, Gründe und Wirkung der Vetorechte, Sitzungsort, Rolle unter Wilhelm
   II.; Adelshäuser, Rangtitel und Name von Judiths Haus. Idee „Vertreter der Staatsreligion im Hofrat" in
   [Konzepte/Konzept-Priester-im-Hofrat.md](Konzepte/Konzept-Priester-im-Hofrat.md).
+- **Armee Montclairs (Details)** — Neben der ersten königlichen Armee besteht eine „normale" Armee (Steckbrief, Abschnitt Militär). Offen sind das Verhältnis
+  beider, Struktur, Stärke und Stationierung sowie Rang und Befehlsgewalt. Hängt mit der Besatzung der [Burg
+  Erzwacht](../Kanon/Reiche/Königreich%20Montclair/Burg%20Erzwacht.md) zusammen.
 
-- **Elmsworths militärische Struktur (Details)** — siehe [00-Meta/Konzepte/Konzept-Elmsworth-Militär.md](Konzepte/Konzept-Elmsworth-Militär.md): Modell (Krone, Aufgebote
-  der Adelshäuser oder Mischform), Grenzposten, „harte Phase" unter Cedric II., Verhältnis zu Aldrics Chronik. Im Kanon gilt nur „defensiv statt erobernd"; „nie
-  offensiv" und „nie über Waffen" sind keine Kanon-Aussagen.
+- **Elmsworths militärische Struktur (Details)** — siehe [00-Meta/Konzepte/Konzept-Elmsworth-Militär.md](Konzepte/Konzept-Elmsworth-Militär.md): Modell (Krone,
+  Aufgebote der Adelshäuser oder Mischform), Ausgestaltung und Sichtbarkeit der Grenzposten (Kanon: Cedric II. stellte sie in G6 gegenüber der Burg Erzwacht
+  auf), „harte Phase" unter Cedric II., Verhältnis zu Aldrics Chronik. Im Kanon gilt nur „defensiv statt erobernd"; „nie offensiv" und „nie über Waffen" sind
+  keine Kanon-Aussagen.
 - **Elmsworth: Erbfolge-Details und Adelsrat** — Mitglieder und Zahl, Verfahren und Frist der Ernennung, Krönungseid, Anspruch von Töchtern, Regentschaft bei
   Minderjährigkeit, Versorgung der Töchter Alfreds I.
 - **Rangtitel des Adels (Elmsworth, Penworth)** — noch nicht definiert, sollen tendenziell deutschsprachig ausfallen (Graf, Freiin o. Ä., kein „Lord"). Die
@@ -224,22 +243,19 @@ für spätere Sessions).
 - **Sterbe-Tradition in Elmsworth** — gilt bisher nur für Montclair; ob Elmsworth eine ähnliche Vorstellung kennt, ist nicht festgelegt.
 - **Ferdinand II. von Penworth** — zeitliche Einordnung offen (Vorschlag: G-1 bis G0).
 - **Edith (Gemahlin Oswalds I.)** — Stand (bürgerlich oder adelig) und Titel noch nicht festgelegt.
-- **Südgrenze Montclair–Elmsworth und Eskalation** — Wann und wie die Südgrenze entstand (Vertrag, Gewohnheit, Streit), ist offen; ebenso, ob es in G7 oder
-  später zu offenem Konflikt oder Krieg kommt (bisher nur der kalte Konflikt in G6).
+- **Grenze zu Elmsworth (Eskalation)** — Offen ist, ob es in G7 oder später zu offenem Konflikt oder Krieg kommt (bisher nur der kalte Konflikt in G6). Wann und
+  wie die Grenze ursprünglich entstand, ist weiterhin nicht erklärt; seit der Burg Erzwacht wird der Verlauf stillschweigend geduldet.
 
-- **Burg auf der Flussinsel (Montclair, x 941 / z -8666)** — vom Nutzer neu gebaut (2026-10-03); festgelegt sind nur Lage (Flussinsel), die große Mine darunter
-  (Erze/Mineralien für das Reich) und die Funktion als Grenzpunkt zu Elmsworth, siehe
-  [Montclair-Steckbrief](../Kanon/Reiche/Königreich%20Montclair/Steckbrief.md). Offen: Name und dessen Bedeutung, Bauherr bzw. Generation (in der Zeitleiste als
-  „Einordnung offen" geführt), Abgrenzung zur Großen Mine unter dem Palast (eigener Name?), Rolle gegenüber Elmsworth (Zollstation, Garnison, Wachposten?) –
-  ggf. Abgleich mit [Konzept-Elmsworth-Militär.md](Konzepte/Konzept-Elmsworth-Militär.md), Bauwerks-Chronik in `Werke/`. Alle gesammelten Hinweise und
-  Entwicklungsrichtungen: [Konzept-Burg-Flussinsel.md](Konzepte/Konzept-Burg-Flussinsel.md) (Konzept bleibt offen, bis die übrigen Konzepte final sind, Szenario
-  E als Hintergrund). Wegpunkt im Set `worldbuilding` heißt vorläufig „Burg Flussinsel (Arbeitstitel)" (y 73); im Spiel nach der Namensfindung umbenennen. Das
-  zerstörte Dorf im Landgrenzstreifen ist als [Halwyn](../Kanon/Welt/Halwyn.md) kanonisch (siehe oben); die Burg entsteht nach der Zerstörung Halwyns.
+- **Burg Erzwacht (Details)** — Name des Flusses und die Sicht Elmsworths auf den Namen; wer die Zoll- und Passierstelle führt, welche Sätze gelten, Verhältnis
+  zu den Zöllen Elmsworths, ob sie auch für Fährwerder gilt; Verhältnis der „normalen" Armee zur ersten königlichen Armee (siehe Armee-Eintrag), Vollmacht des
+  Statthalters und Auskunftspflicht gegenüber dem Hofrat; Erzarten (bewusst offen), Herkunft, Dauer und Lohn des Dienstes der Bergleute; Name des Priesters; ob
+  Thornfield-Güter an der Grenze liegen. Werke: Königsbuch 06 (Absatz zu Magnus als Burgherr) und die Bauwerks-Chronik „Die Errichtung der Burg Erzwacht" sind
+  geschrieben, beide nennen Halwyn nicht. Archiviertes Konzept: [Konzept-Burg-Flussinsel.md](Archiv/Konzept-Burg-Flussinsel.md).
 - **Fährwerder (Details)** — Name von Vorsteher und Priester, Bestimmung des Vorstehers, wer das Dorf verwaltet, die Orte im Südosten, mit denen es handelte
   (und ob in Elmsworth), Art und Bedeutung des Erinnerungsstücks der Halwyner, Herkunft, Dauer und Lohn der Bergleute (gehört zur Burg). Dorf 1 und Dorf 2
-  werden später separat betrachtet. Ob die Bauwerks-Chronik der Burg die Halwyner nennt, wird später geklärt.
-- **Landgrenzstreifen und Halwyn** — Rechtlicher Status des Landgrenzstreifens (Niemandsland, gemeinsam verwaltet, beidseitig beansprucht) ist offen. Offen ist
-  auch, ob Aldrics Chronik, die Bauwerks-Chronik der Burg oder eine freie Geschichte Halwyn aufgreifen (Entscheidung nach der Kanon-Übernahme).
+  werden später separat betrachtet. Die Bauwerks-Chronik der Burg nennt die Halwyner nicht.
+- **Halwyn in den Werken** — Offen ist, ob Aldrics Chronik oder eine freie Geschichte Halwyn aufgreifen (Königsbuch 06 und die Bauwerks-Chronik der Burg
+  Erzwacht nennen es nicht). Der Landgrenzstreifen selbst ist als Niemandsland geklärt.
 - **Wilhelm II. — Ehefrau/Kinder** — bislang nicht überliefert; relevant, sobald die Nachfolge nach Wilhelm II. geschrieben wird.
 - **Kalendersystem** — es existiert kein festes Zeitrechnungssystem (z. B. „X Jahre nach der Großen Verwüstung"). Die [Zeitleiste](Zeitleiste.md) ordnet nach
   Generationen (G-Achse); „Jahre" und „Jahrhunderte" in Werken sind sprachliche Mittel. Falls für spätere Werke absolute Zeitangaben gebraucht werden, sollte

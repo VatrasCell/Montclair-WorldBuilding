@@ -23,6 +23,9 @@ Die **Kathedrale von Wilhelmshöhe** ist das zentrale religiöse Bauwerk Montcla
 königlichen Armee. Errichtet von Alexander II. Montclair. Vor ihrer Errichtung wurden alle Könige und ihre Familien in der Krypta der Kirche der Stadt
 Montclair beigesetzt; mit der Fertigstellung Wilhelmshöhes wurden sämtliche Königsgräber dorthin überführt.
 
+Die **Burg Erzwacht** an der Grenze zu Elmsworth hat eine Kapelle, aber keine Gruft. Sie wird von einem Priester ohne direkten Rang betreut ([Burg
+Erzwacht](../../Reiche/Königreich%20Montclair/Burg%20Erzwacht.md)).
+
 ## Kulturell-religiöse Nebentradition: die „Sterbe-Tradition"
 
 Über mehrere Generationen ist die Vorstellung entstanden, dass die Ehefrau eines Königs ihm bald in den Tod folgt (Beatrice nach Wilhelm I., Adelaide nach

@@ -46,7 +46,7 @@ Dies ist eine Beschreibung des *Bestehenden* plus ein Vorschlag für Neues. Best
    (Edmund) ist selbst ein Montclair und taugt nicht als Vorlage.
 5. **Bauten:** Personenname plus Geländeform (-höhe, -hain, -werder) für Gedenk- und Residenzbauten, „Burg/Palast zu …" für Orts-Verbindung, Funktionsnamen für
    Stadtviertel. Bei der neuen Flussinsel-Burg passt am ehesten „Personenname + Insel/Werder" oder ein Funktionsname (Wacht, Tor), siehe
-   [Konzept-Burg-Flussinsel.md](../Konzepte/Konzept-Burg-Flussinsel.md).
+   [Konzept-Burg-Flussinsel.md](Konzept-Burg-Flussinsel.md).
 
 ### 1.4 Namenspool für neue Montclair-Figuren (unverbindlich)
 

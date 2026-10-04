@@ -4,7 +4,7 @@
 Montclair-Steckbrief, Halwyn, Zeitleiste, Glossar und Offene-Fragen. Dieses Dokument bleibt als Entscheidungsprotokoll erhalten.
 **Stand:** 2026-10-04, nach drei Entscheidungsrunden des Nutzers (Abschnitt 1)
 **Name:** **Fährwerder** (entschieden). Der Wegpunkt heißt im Spiel noch `Dorf 3`.
-**Bezug:** Teil der Burg-Lore, siehe [Konzept-Burg-Flussinsel.md](../Konzepte/Konzept-Burg-Flussinsel.md); aufgenommen werden die Flüchtlinge aus
+**Bezug:** Teil der Burg-Lore, siehe [Konzept-Burg-Flussinsel.md](Konzept-Burg-Flussinsel.md); aufgenommen werden die Flüchtlinge aus
 [Halwyn](../../Kanon/Welt/Halwyn.md)
 
 Sammelt die Lore der Siedlung am Westufer gegenüber der Burg auf der Flussinsel. Zum Zeitpunkt der Erstellung war nur kanonisch, dass rund zehn Überlebende aus
@@ -245,7 +245,7 @@ Keiner der Punkte blockierte die Übernahme. Sie stehen im Kanon als „nicht be
 
 - **Neu:** [Kanon/Reiche/Königreich Montclair/Fährwerder.md](../../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md).
 - **Geändert:** Montclair-Steckbrief (Siedlungen, Halwyn-Bullet), [Halwyn](../../Kanon/Welt/Halwyn.md), `00-Meta/Zeitleiste.md` (G4 bis G5, G6 Punkt 5),
-  `00-Meta/Glossar.md`, `00-Meta/Offene-Fragen.md`, `CLAUDE.md` (Strukturzeile) und [Konzept-Burg-Flussinsel.md](../Konzepte/Konzept-Burg-Flussinsel.md)
+  `00-Meta/Glossar.md`, `00-Meta/Offene-Fragen.md`, `CLAUDE.md` (Strukturzeile) und [Konzept-Burg-Flussinsel.md](Konzept-Burg-Flussinsel.md)
   (Links).
 - **Vom Nutzer im Spiel:** Wegpunkt `Dorf 3` auf „Fährwerder" umbenennen und danach `kartenimport.py` erneut ausführen.
 - **Später:** Bauwerks-Chronik der Burg mit dem Dorf; Dorf 1 und Dorf 2 separat.

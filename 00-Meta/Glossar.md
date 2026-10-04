@@ -84,8 +84,8 @@ hier ergänzen.
 - **Leonora Elmsworth** — Prinzessin, Tochter Edwins I. → [Kanon/Personen/Haus Elmsworth/Leonora
   Elmsworth](../Kanon/Personen/Haus%20Elmsworth/Leonora%20Elmsworth.md)
 - **Lucinda** (von Thornfield) — Tochter Wulfstans, Schwester Amelias → [Kanon/Personen/Haus Thornfield](../Kanon/Personen/Haus%20Thornfield.md)
-- **Magnus Montclair** — Sohn Alexanders II. und
-  Judiths → [Kanon/Personen/Haus Montclair/Magnus Montclair](../Kanon/Personen/Haus%20Montclair/Magnus%20Montclair.md)
+- **Magnus Montclair** — Sohn Alexanders II. und Judiths, Burgherr und Statthalter der Burg Erzwacht → [Kanon/Personen/Haus Montclair/Magnus
+  Montclair](../Kanon/Personen/Haus%20Montclair/Magnus%20Montclair.md)
 - **Margarethe von Alden** — Ehefrau Ferdinands IV., erschien eines Tages ohne bekannte Herkunft am Hof, mythenumrankt
   → [Kanon/Personen/Haus Montclair/Margarethe von Alden](../Kanon/Personen/Haus%20Montclair/Margarethe%20von%20Alden.md)
 - **Marian Elmsworth** — Prinzessin, Tochter Edwins I. → [Kanon/Personen/Haus Elmsworth/Marian
@@ -141,9 +141,9 @@ hier ergänzen.
 
 ## Orte & Bauwerke
 
-- **Burg auf der Flussinsel** (Arbeitstitel, Name offen) — dritte Burg Montclairs auf einer Flussinsel (x 941 / y 73 / z -8666), große Erzmine darunter,
-  Grenzpunkt zu Elmsworth → siehe [Kanon/Reiche/Königreich Montclair](../Kanon/Reiche/Königreich%20Montclair/Steckbrief.md), Entwurf:
-  [Konzept-Burg-Flussinsel](Konzepte/Konzept-Burg-Flussinsel.md)
+- **Burg Erzwacht** — dritte Burg Montclairs auf einer Flussinsel (x 941 / y 73 / z -8666), von Alexander II. benannt und gebaut, sehr erzreiche Mine darunter,
+  Grenzfestung mit Zoll- und Passierstelle, Burgherr und Statthalter Magnus → [Kanon/Reiche/Königreich Montclair/Burg
+  Erzwacht](../Kanon/Reiche/Königreich%20Montclair/Burg%20Erzwacht.md)
 - **Burg Montclair** — Befestigung Alexanders I. an der
   Ostgrenze → [Werke/Bauwerke-Chroniken/Die Errichtung der Burg Montclair](../Werke/Bauwerke-Chroniken/Die%20Errichtung%20der%20Burg%20Montclair.md)
 - **Diplomatenviertel** — Botschaftsviertel, errichtet von Alexander II.; Penworth hat ein Botschaftsgebäude, Elmsworth keine dauerhafte Vertretung →
@@ -154,8 +154,8 @@ hier ergänzen.
   [Kanon/Personen/Alfred der Gelehrte](../Kanon/Personen/Alfred%20der%20Gelehrte.md)
 - **Eldoner Universität** — Universität in Eldon, Planung unter Alfred I. nach der Denkschrift Alfreds des Gelehrten, gebaut unter Cedric II. →
   [Kanon/Reiche/Königreich Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md)
-- **Fährwerder** — Fähr- und Fischerdorf am Westufer gegenüber der Burg auf der Flussinsel, gegründet G4 bis G5, Zuflucht der Halwyner →
-  [Kanon/Reiche/Königreich Montclair/Fährwerder](../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md)
+- **Fährwerder** — Fähr- und Fischerdorf am Westufer gegenüber der Burg Erzwacht, gegründet G4 bis G5, Zuflucht der Halwyner → [Kanon/Reiche/Königreich
+  Montclair/Fährwerder](../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md)
 - **Große Mine** — errichtet von Ferdinand III. →
   siehe [Kanon/Personen/Haus Montclair/Ferdinand III. Montclair](../Kanon/Personen/Haus%20Montclair/Ferdinand%20III.%20Montclair.md)
 - **Hafenviertel** — Ausbau des von Ferdinand IV. errichteten Hafens um ein eigenes Stadtviertel, unter Isabella I. → siehe
@@ -180,6 +180,8 @@ hier ergänzen.
 - **Adelsrat (Elmsworth)** — Versammlung der Oberhäupter der großen Adelshäuser in Eldon; bestätigt jeden Thronfolger und ernennt den König, wenn kein Sohn
   vorhanden ist → [Kanon/Reiche/Königreich Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md)
 - **Altersangaben (Weltregel)** — nur in Worten (Kindheit, Jugend, erwachsen, hohes Alter), nie in Zahlen → [CLAUDE.md](../CLAUDE.md)
+- **Armee (Montclair)** — neben der ersten königlichen Armee (Alexander II., Burg Wilhelmshöhe) besteht eine „normale" Armee; Verhältnis und Struktur nicht
+  festgelegt → [Kanon/Reiche/Königreich Montclair](../Kanon/Reiche/Königreich%20Montclair/Steckbrief.md)
 - **Erstgeburts-Erbfolge** — von Ferdinand III. eingeführte Thronfolgeregel (Sohn erbt automatisch), von Ferdinand IV./Isabella I. um die Regel „ohne Sohn
   erbt die älteste Tochter" ergänzt → siehe [Kanon/Personen/Haus Montclair/Ferdinand III. Montclair](../Kanon/Personen/Haus%20Montclair/Ferdinand%20III.%20Montclair.md)
 - **Fragment-Religion** — uraltes religiöses Fundament → [Kanon/Welt/Religion/Fragment-Religion](../Kanon/Welt/Religion/Fragment-Religion.md)
@@ -194,12 +196,14 @@ hier ergänzen.
 - **Haus Thornfield** — Elmsworther Adelshaus, Heimat Rowenas und Amelias → [Kanon/Personen/Haus Thornfield](../Kanon/Personen/Haus%20Thornfield.md)
 - **Hofrat** — Beratungsgremium des Königs aus Volksvertretern, von Isabella I. eingerichtet → [Kanon/Reiche/Königreich
   Montclair/Hofrat](../Kanon/Reiche/Königreich%20Montclair/Hofrat.md)
-- **Landgrenzstreifen** — Streifen zwischen der Montclairer und der Elmsworther Grenze am flachen Gebirge, Lage von Halwyn →
-  [Kanon/Welt/Halwyn](../Kanon/Welt/Halwyn.md)
+- **Landgrenzstreifen** — Streifen zwischen der Montclairer und der Elmsworther Grenze am flachen Gebirge, Lage von Halwyn, Niemandsland (von keinem Reich
+  beansprucht, unbewohnt) → [Kanon/Welt/Halwyn](../Kanon/Welt/Halwyn.md)
 - **Rat der Frauen** — Zusammenschluss der Töchter und Schwestern Ferdinands IV., der Isabella I. inthronisiert; seither förmliche Instanz der weiblichen
   Königsfamilie (mindestens drei Mitglieder, beratend, bedingte Vetorechte), besteht bis heute → [Kanon/Reiche/Königreich Montclair/Rat der
   Frauen](../Kanon/Reiche/Königreich%20Montclair/Rat%20der%20Frauen.md)
 - **Staatsreligion von Montclair** — → [Kanon/Welt/Religion/Staatsreligion von Montclair](../Kanon/Welt/Religion/Staatsreligion%20von%20Montclair.md)
+- **Statthalter (Montclair)** — verwaltet an des Königs statt, direkt dem König unterstellt, nicht dem Hofrat (Magnus auf der Burg Erzwacht) →
+  [Kanon/Reiche/Königreich Montclair](../Kanon/Reiche/Königreich%20Montclair/Steckbrief.md)
 - **Sterbe-Tradition** — kulturelle (nicht religiöse) Vorstellung, Ehefrauen folgten Königen rasch in den Tod →
   siehe [Kanon/Welt/Religion/Staatsreligion von Montclair](../Kanon/Welt/Religion/Staatsreligion%20von%20Montclair.md)
 - **Zeitachse (G-Achse)** — Generationsnummern der Zeitleiste (G0 bis G7, davor G-1 ff.) als gemeinsame, rein kanonische Zeitachse aller Reiche →

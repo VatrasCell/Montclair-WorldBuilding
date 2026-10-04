@@ -1,4 +1,4 @@
-sets:worldbuilding_borders:gui.xaero_default:worldbuilding
+sets:worldbuilding:gui.xaero_default:worldbuilding_borders
 #
 #waypoint:name:initials:x:y:z:color:disabled:type:set:rotate_on_tp:tp_yaw:visibility_type:destination
 #
@@ -29,14 +29,16 @@ waypoint:Dorf_Ebene2:D:324:64:-8963:1:true:0:gui.xaero_default:false:0:0:false
 waypoint:Dorf_Fichte:D:-309:63:-9597:1:false:0:gui.xaero_default:false:0:0:false
 waypoint:Dorf_Ebene:D:-179:95:-10333:1:true:0:gui.xaero_default:false:0:0:false
 waypoint:Base:B:202:62:-9603:15:false:0:gui.xaero_default:false:0:0:false
-waypoint:Burg Flussinsel (Arbeitstitel):B:941:73:-8666:11:false:0:worldbuilding:false:0:0:false
+waypoint:Stadt Eldon:S:2050:84:-8778:12:false:0:worldbuilding:false:0:0:false
+waypoint:Dorf Halwyn (zerstört):D:1313:96:-8997:7:false:0:worldbuilding:false:0:0:false
+waypoint:Burg Erzwacht:B:941:73:-8666:11:false:0:worldbuilding:false:0:0:false
 waypoint:Leuchtturm Montclair:L:245:128:-9462:11:false:0:worldbuilding:false:0:0:false
 waypoint:Isabellas Dorf:I:283:114:-9579:11:false:0:worldbuilding:false:0:0:false
 waypoint:Hafenviertel Montclair:H:358:89:-9320:11:false:0:worldbuilding:false:0:0:false
 waypoint:Hafen Montclair:H:300:78:-9375:11:false:0:worldbuilding:false:0:0:false
 waypoint:Kloster:K:1009:65:-10677:11:false:0:worldbuilding:false:0:0:false
 waypoint:Felder:F:702:64:-8855:11:false:0:worldbuilding:false:0:0:false
-waypoint:Dorf 3:D:786:65:-8633:11:false:0:worldbuilding:false:0:0:false
+waypoint:Dorf Fährwerder:D:786:65:-8633:11:false:0:worldbuilding:false:0:0:false
 waypoint:Dorf 2:D:805:68:-9045:11:false:0:worldbuilding:false:0:0:false
 waypoint:Dorf 1:D:364:64:-8958:11:false:0:worldbuilding:false:0:0:false
 waypoint:Felder zu Montclair:F:550:65:-9210:11:false:0:worldbuilding:false:0:0:false
@@ -47,6 +49,7 @@ waypoint:Palast zu Montclair:P:445:133:-9461:11:false:0:worldbuilding:false:0:0:
 waypoint:Stadt Montclair:S:350:65:-9463:11:false:0:worldbuilding:false:0:0:false
 waypoint:Burg Wilhelmshöhe:B:893:159:-9901:11:false:0:worldbuilding:false:0:0:false
 waypoint:Burg Montclair:B:996:164:-9447:11:false:0:worldbuilding:false:0:0:false
+waypoint:A6:A:1560:63:-9548:12:false:0:worldbuilding_borders:false:0:0:false
 waypoint:A26:A:979:63:-8563:12:false:0:worldbuilding_borders:false:0:0:false
 waypoint:A25:A:967:63:-8406:12:false:0:worldbuilding_borders:false:0:0:false
 waypoint:A24:A:1082:63:-8181:12:false:0:worldbuilding_borders:false:0:0:false

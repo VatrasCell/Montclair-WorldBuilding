@@ -3,7 +3,7 @@
 **Status:** Kanon – zerstörtes freies Dorf, verlassen
 **Typ:** Siedlung im Landgrenzstreifen zwischen Montclair und Elmsworth
 **Zeit:** gegründet G1 bis G2, zerstört G6 mittel
-**Lage:** um x 1317 / z -8996 im Landgrenzstreifen, rund 510 Blöcke nordöstlich der Burg auf der Flussinsel
+**Lage:** um x 1313 / z -8997 (Wegpunkt `Dorf Halwyn (zerstört)`) im Landgrenzstreifen, rund 500 Blöcke nordöstlich der Burg Erzwacht
 
 ## Kurzfassung
 
@@ -35,22 +35,23 @@ Schuldigen gibt es nicht. Das Dorf ist seither verlassen.
 - In einer Phase gegenseitiger Sabotagen (verschwundene Fuhrwerke, gefälschte Zollbriefe, gesperrte Wege, Brandlegungen an Lagern) wurde das Lager im Dorf Ziel
   beider Seiten. Der Brand griff auf das Dorf über. **Beide Seiten hatten Anteil**, niemand kann sagen, wer das Feuer legte, und beide Kronen versicherten, es
   nicht befohlen zu haben. Beide Höfe bedauerten, keiner entschuldigte sich.
-- Die Reihenfolge in G6 mittel: Erzfund, Eskalation, Brand, danach der Bau der Burg auf der Flussinsel.
+- Die Reihenfolge in G6 mittel: Erzfund, Eskalation, Brand, danach der Bau der Burg Erzwacht.
 
 ## Folgen
 
 - Ein Drittel der Einwohner starb (etwa zehn), ein Drittel floh nach Montclair in das Dorf [Fährwerder](../Reiche/Königreich%20Montclair/Fährwerder.md) bei der
-  Burg auf der Flussinsel und wurde dort Teil Montclairs, ein Drittel nach Elmsworth. Die Überlebenden trugen zwei verschiedene Erinnerungen in beide Reiche; in
-  Eldon gelangten Berichte in das Eldoner Archiv.
+  Burg Erzwacht und wurde dort Teil Montclairs, ein Drittel nach Elmsworth. Die Überlebenden trugen zwei verschiedene Erinnerungen in beide Reiche; in Eldon
+  gelangten Berichte in das Eldoner Archiv.
 - Das Dorf wurde nie wieder aufgebaut. In Montclair gilt es als Beleg für die Gefahr aus dem Osten, in Elmsworth als Beleg für Montclairs Härte. Beide Seiten
   meiden den Namen und sprechen vom „Dorf an der Straße".
+- Der Landgrenzstreifen ist seither **Niemandsland**: Keines der beiden Reiche beansprucht ihn, niemand wohnt dort.
 - Der kalte Konflikt zwischen beiden Reichen bekam durch Halwyn ein Datum und ein Opfer, ohne einen Kriegsgrund zu liefern.
 - Wilhelm II. hält sich aus dem Konflikt heraus (passiv). Es gibt keinen Gedenkbezug in G7.
 
 ## Werke
 
-Das Dorf kommt in den bisherigen Werken nicht vor. Königsbuch 06 erwähnt es bewusst nicht. Aldrics Chronik, die Bauwerks-Chronik der Burg und eine freie
-Geschichte können es aufgreifen (Entscheidung steht aus).
+Das Dorf kommt in den bisherigen Werken nicht vor. Königsbuch 06 erwähnt es bewusst nicht. Auch die Bauwerks-Chronik der Burg Erzwacht nennt es nicht. Aldrics
+Chronik und eine freie Geschichte können es aufgreifen (Entscheidung steht aus).
 
 ## Verweise
 
@@ -59,3 +60,4 @@ Geschichte können es aufgreifen (Entscheidung steht aus).
 - [Die Große Verwüstung und die Westwanderung](Die%20Große%20Verwüstung%20und%20die%20Westwanderung.md)
 - [Zeitleiste](../../00-Meta/Zeitleiste.md)
 - Archiviertes Konzept: [Konzept-Zerstörtes-Grenzdorf](../../00-Meta/Archiv/Konzept-Zerstörtes-Grenzdorf.md)
+- [Burg Erzwacht](../Reiche/Königreich%20Montclair/Burg%20Erzwacht.md)

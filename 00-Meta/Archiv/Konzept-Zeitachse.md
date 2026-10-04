@@ -288,7 +288,7 @@ Königsfamilien.
 | 4 | G6 mittel | | **Tod Alfreds I.**, Ernennung Godwins zu **Cedric II.** (Thronwechsel), **zeitgleich mit Schritt 5**. | Neu (Konzept). |
 | 5 | G6 mittel (zeitgleich mit Schritt 4) | **Diplomatenviertel:** Entschluss und Abriss können früher liegen, die Fertigstellung folgt dem Tod der Eltern. Penworth erhält ein Botschaftsgebäude, Elmsworth keine dauerhafte Vertretung. | Cedric II. ist neu auf dem Thron; der Ausschluss trifft seine Anfangszeit. | Kanon (Königsbuch 06: Diplomatenviertel nach den Gesandten); Penworth-Teil neu. |
 | 6 | G6 mittel (Bau ab G6 früh bis mittel) | **Wilhelmshöhe** wird errichtet und eingeweiht. **Alle bisherigen Königsfamilien** werden aus der Krypta der Kirche nach Wilhelmshöhe überführt, darunter Alexander I. und Amelia als Ausnahme. | | Kanon (Königsbuch 06: Wilhelmshöhe nach den ersten diplomatischen Erfolgen; Offene-Fragen; Personenblätter). |
-| 7 | G6 mittel bis spät | **Burg auf der Flussinsel:** Einordnung offen ([Konzept-Burg-Flussinsel.md](../Konzepte/Konzept-Burg-Flussinsel.md)). | | offen |
+| 7 | G6 mittel bis spät | **Burg auf der Flussinsel:** Einordnung offen ([Konzept-Burg-Flussinsel.md](Konzept-Burg-Flussinsel.md)). | | offen |
 | 8 | G6 spät | Alexander II. zieht sich ins Diplomatenviertel zurück, Kronprinz Wilhelm II. führt die Geschäfte. Tod Alexanders II., danach Judith. | | Kanon (Königsbuch 06). |
 
 **Ergebnis der Prüfung:** Die Abfolge **passt zum Kanon**. Drei Klarstellungen:

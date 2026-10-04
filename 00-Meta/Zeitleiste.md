@@ -91,17 +91,21 @@ Abfolge (in dieser Reihenfolge):
 4. Bau des Diplomatenviertels: Penworth erhält ein Botschaftsgebäude, Elmsworth keine dauerhafte Vertretung (Penworth stimmte einer dauerhaften Vertretung nur
    zu, wenn Elmsworth keine erhielt). Kalte Krise, Zölle und Grenzfragen.
 5. (G6 mittel) Zerstörung des freien Dorfes **Halwyn** im Landgrenzstreifen durch gegenseitige Sabotagen beider Reiche, ohne einzelnen Schuldigen. Streit um die
-   Flussinsel, Erzvorkommen fallen auf. Von den 30 Einwohnern sterben etwa zehn, etwa zehn gehen nach Montclair (Fährwerder), etwa zehn nach Elmsworth.
+   Flussinsel, Erzvorkommen fallen auf. Von den 30 Einwohnern sterben etwa zehn, etwa zehn gehen nach Montclair (Fährwerder), etwa zehn nach Elmsworth. Kurz
+   darauf beginnt Alexander II. den Bau der Burg **Erzwacht** und benennt sie, parallel zu Wilhelmshöhe (siehe Punkt 8).
 6. Bau der Burg Wilhelmshöhe (neue Königliche Gruft/Kathedrale) — alle bisherigen Königsgräber (zuvor in der Krypta der Kirche der Stadt Montclair) werden
    dorthin überführt, darunter Alexander I. und Amelia als Ausnahme.
 7. (Elmsworth) Bau der Eldoner Universität unter Cedric II.; Aldrics Vater, ein Montclairer Gelehrter (G6), hilft beim Aufbau.
-8. Burg auf der Flussinsel: Einordnung offen, entsteht nach der Zerstörung Halwyns (siehe Offene-Fragen).
+8. Burg **Erzwacht** (Baubeginn kurz nach Halwyn, parallel zu Punkt 6): wird nach Wilhelmshöhe in Betrieb genommen (G6 spät bis G7 früh), Magnus Montclair wird
+   Burgherr und Statthalter, Grenzverlauf seither stillschweigend geduldet, Landgrenzstreifen Niemandsland. (Elmsworth: Cedric II. antwortet noch in G6 mit
+   Grenzposten.) Siehe [Burg Erzwacht](../Kanon/Reiche/Königreich%20Montclair/Burg%20Erzwacht.md).
 9. Späte Jahre: Alexander II. zieht sich ins Diplomatenviertel zurück, Kronprinz Wilhelm II. führt die Geschäfte. Tod Alexanders II.; Judith überlebt ihn um
    Wochen, wird bei einem Kirchenbesuch von einem Mob angegriffen und stirbt später an den Verletzungen.
 
 ## Generation 7 — König Wilhelm II. Montclair (aktueller Handlungsstand)
 
 - Kindheit und Kronprinzenjahre unter Alexander II.
+- Prinz Magnus, Wilhelms Bruder, ist Burgherr und Statthalter der Burg [Erzwacht](../Kanon/Reiche/Königreich%20Montclair/Burg%20Erzwacht.md).
 - Krönung nach dem Tod seines Vaters, Schweigen über Judiths Tod; bestätigt nachträglich die Urteile gegen ihre Angreifer.
 - Hinwendung zum Glauben, Bau eines Klosters.
 - (Elmsworth: **Oswald I.** regiert; der Chronist **Aldric von Fenmar** (ebenfalls G7) schreibt in Eldon.)

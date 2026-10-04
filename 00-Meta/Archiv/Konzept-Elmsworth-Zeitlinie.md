@@ -4,7 +4,7 @@
 übernommen: Elmsworth-, Montclair- und Penworth-Steckbrief, Stammbaum, Personenblätter, Amelia, Alexander I./II., Aldric, Zeitleiste, Glossar, Offene-Fragen,
 Königsbuch 05/06. Die Burg-Geschichte bleibt im Konzept `Konzept-Burg-Flussinsel`; offene Restpunkte stehen in `Offene-Fragen.md`.
 **Stand:** 2026-10-03, vollständig neu verfasst
-**Anlass:** Die zeitliche Einordnung der [Burg auf der Flussinsel](../Konzepte/Konzept-Burg-Flussinsel.md) und des Konflikts zwischen Elmsworth und Montclair setzt voraus,
+**Anlass:** Die zeitliche Einordnung der [Burg auf der Flussinsel](Konzept-Burg-Flussinsel.md) und des Konflikts zwischen Elmsworth und Montclair setzt voraus,
 dass die Geschichte Elmsworths gegen die Montclair-Generationen gelegt wird.
 
 **Aufgabenteilung:** Die [Zeitachse](Konzept-Zeitachse.md) ist der Master für G-Achse, Herrscherfolge, Familie und die G6-Abfolge. Dieses Dokument enthält

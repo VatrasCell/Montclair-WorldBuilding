@@ -2,7 +2,8 @@
 
 **Status:** Entwurfsdokument. Nur Abschnitt 1 („Bereits kanonisch") ist Kanon; alles andere ist Ideensammlung bzw. Kanonkandidat. Überarbeitet am 2026-10-03: an
 die [Zeitachse](../Archiv/Konzept-Zeitachse.md) und [Szenario E](../Archiv/Konzept-Elmsworth-Zeitlinie.md) angepasst, Aussagen ohne Kanon-Beleg herausgenommen.
-**Stand 2026-10-03:** Die grobe Linie steht im Elmsworth-Steckbrief; das Konzept bleibt offen (Modell Krone, Aufgebote oder Mischform).
+**Stand 2026-10-03:** Die grobe Linie steht im Elmsworth-Steckbrief; das Konzept bleibt offen (Modell Krone, Aufgebote oder Mischform). Seit 2026-10-04 ist
+Kanon: Cedric II. stellte in G6 Grenzposten gegenüber der Burg Erzwacht auf.
 
 ## 1. Bereits kanonisch (nur Aussagen aus dem [Elmsworth-Steckbrief](../../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md))
 
@@ -11,7 +12,8 @@ die [Zeitachse](../Archiv/Konzept-Zeitachse.md) und [Szenario E](../Archiv/Konze
 - Diese Haltung gilt in zwei Richtungen: gegen einen möglichen, **nie eingetretenen** Zugriff der Alten Welt (Penworth) und gegen das aufstrebende, potenziell
   konkurrierende Montclair.
 - Gegenüber Montclair ist die Verteidigungsausrichtung „keine Kriegsvorbereitung, aber ein stilles Zeichen" der Rivalität.
-- Welche konkreten Strukturen diese Haltung tragen, ist **nicht festgelegt**.
+- Belegt sind **Grenzposten** (G6, Cedric II.) als Antwort auf die Montclairer Burg Erzwacht. Welche weiteren Strukturen diese Haltung tragen, ist **nicht
+  festgelegt**.
 
 **Keine Kanon-Fakten und nicht als harte Fakten zu behandeln:** „nie offensiv eingesetzt" und „nie über Waffen". Beide Formulierungen stehen nicht im
 Steckbrief; „nie über Waffen" findet sich nur als Interpretation in `Offene-Fragen.md`. Das Konzept lässt offen, ob es je zu Waffengängen kommt.
@@ -39,7 +41,7 @@ offen, welches Modell gilt. Da Elmsworth einen mächtigen **Adelsrat** hat (Zeit
 | G3 | **Cedric I.** (E1) | Gründung mit Vorsorge von Beginn an: befestigtes Eldon, Wachen, **treue Gefolgsleute** als erste Wehr (Steckbrief: Cedric sammelt „treue Gefolgsleute"). Keine stehende Armee. |
 | G4 | **Edwin I.** (E2) | Konsolidierung. Der Adel übernimmt Wehrpflichten: **Aufgebote der Adelshäuser** entstehen als Kern der Verteidigung. |
 | G5 | **Alfred I.** (E3) | Bildung im Vordergrund; die Verteidigung bleibt im Hintergrund. Familienband zu Montclair (Amelia). |
-| G6 | **Cedric II.** (E4) | **Zuspitzung (Szenario E):** Grenzposten gegenüber Montclair (stilles Zeichen), Aufgebote werden über den Adelsrat abgerufen. Wehrhaftigkeit als Zeichen der Legitimation des ernannten Königs. Reaktion auf die Burg auf der Flussinsel. |
+| G6 | **Cedric II.** (E4) | **Zuspitzung (Szenario E):** Grenzposten gegenüber Montclair (stilles Zeichen), Aufgebote werden über den Adelsrat abgerufen. Wehrhaftigkeit als Zeichen der Legitimation des ernannten Königs. Die Grenzposten sind Kanon (Antwort auf die Burg Erzwacht, noch in G6). |
 | G7 | **Oswald I.** (E5) | Handlungsstand, offen. |
 
 Montclairs „erste königliche Armee" (G6) kann in Elmsworth als Anlass zur Aufrüstung gelesen werden (Vorschlag).
@@ -84,14 +86,16 @@ Das passt zum Szenario E, ohne einen Krieg festzulegen.
 
 ## 6. Zusammenhang mit Szenario E und der Burg
 
-Die Burg auf der Flussinsel ([Konzept-Burg-Flussinsel.md](Konzept-Burg-Flussinsel.md), Grundentscheidungen 2026-10-03, noch nicht kanonisiert) entsteht nach
-einer diplomatischen Krise und Grenzkonflikten unter Alexander II. (Bau in G6 mittel bis spät, Inbetriebnahme mit Prinz Magnus in G6 spät bis G7 früh).
-Elmsworths Grenzposten und Aufgebote sind die **Reaktion auf die Burg**. Die Burg-Geschichte wird erst final, wenn Zeitachse, Elmsworth-Zeitlinie, Namensstile und dieses Konzept freigegeben sind.
+Die [Burg Erzwacht](../../Kanon/Reiche/Königreich%20Montclair/Burg%20Erzwacht.md) ([Konzept](../Archiv/Konzept-Burg-Flussinsel.md)) steht seit 2026-10-04 im
+Kanon. Sie entstand nach einer diplomatischen Krise und Grenzkonflikten unter Alexander II. (Baubeginn kurz nach Halwyn in G6 mittel, Inbetriebnahme mit Prinz
+Magnus in G6 spät bis G7 früh). Elmsworths Grenzposten sind die **Reaktion auf die Burg**: Cedric II. stellte sie noch in G6 auf, Oswald I. erbt die Lage.
+Aufgebote und weitere Strukturen sind offen.
 
 ## 7. Kanontauglichkeit und nächste Schritte
 
 - **Kanonkandidat (grobe Linie, nach Entscheidung):** „Elmsworth setzt auf Vorsorge: befestigte Orte, Grenzposten und Aufgebote der Adelshäuser, abrufbar über
   den Adelsrat; eine große stehende Königsarmee gibt es nicht." (Vorschlag, nicht entschieden.)
-- **Entscheidungen vor der Übernahme:** Modell (Krone, Aufgebote oder Mischform), ob Grenzposten bereits in G6 als Kanon gelten, Umgang mit der „harten Phase".
+- **Entscheidungen vor der Übernahme:** Modell (Krone, Aufgebote oder Mischform), Ausgestaltung der Grenzposten (G6 selbst ist seit 2026-10-04 Kanon), Umgang
+  mit der „harten Phase".
 - **Übernahme** in den Steckbrief, Abschnitt „Militär": nur grobe Linie, konkrete Strukturen bleiben „nicht festgelegt" oder werden auf Entscheidung ergänzt.
   Die Formulierungen „nie offensiv" und „nie über Waffen" nirgends als Fakt übernehmen.

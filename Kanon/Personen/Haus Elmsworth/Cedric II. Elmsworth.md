@@ -19,7 +19,8 @@ Herrscherfamilie. Nahm bei der Krönung den Namen **Cedric II.** an (Namensvette
 daran die Heirat mit Ethelinde von Harrowford, die der Ernennung folgte.
 
 Als vom Adelsrat ernannter König stand er unter Legitimationsdruck. In seine Anfangszeit fällt der Bau des Diplomatenviertels von Montclair, in dem Elmsworth
-keine dauerhafte Vertretung erhielt, sowie der Bau der Eldoner Universität. Zeitgenosse von Alexander II. Montclair.
+keine dauerhafte Vertretung erhielt, sowie der Bau der Eldoner Universität. Auf die Montclairer Burg Erzwacht an der Grenze antwortete er noch in G6 mit
+Grenzposten. Zeitgenosse von Alexander II. Montclair.
 
 ## Verweise
 

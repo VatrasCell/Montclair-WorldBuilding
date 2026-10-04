@@ -28,6 +28,11 @@ Ließ die Burg **Wilhelmshöhe** errichten – Gedenkstätte für Wilhelm I. und
 königlichen Armee. Seither werden dort grundsätzlich alle nachfolgenden Monarchen beigesetzt (Ausnahme mit besonderer Ehre: Alexander I. und Amelia von Elmsworth). Nach der
 Fertigstellung überführte er alle bisherigen Königsfamilien aus der Krypta der Kirche der Stadt Montclair nach Wilhelmshöhe.
 
+Ließ nach der Zerstörung des freien Dorfes [Halwyn](../../Welt/Halwyn.md) die Burg **Erzwacht** an der Grenze zu Elmsworth bauen und benannte sie zu Baubeginn.
+Der Bau lief neben Wilhelmshöhe, die Burg wurde danach in Betrieb genommen und seinem Sohn Magnus als Burgherr und Statthalter anvertraut. Sie sichert die
+Grenze und eine sehr erzreiche Mine und gilt als Stabilisierung nach der Krise, nicht als Angriff (siehe [Burg
+Erzwacht](../../Reiche/Königreich%20Montclair/Burg%20Erzwacht.md)).
+
 In seiner späten Herrschaft konsolidierte er Reformen, stabilisierte Montclair, zog sich zunehmend aus dem politischen Zentrum zurück, lebte teils im
 Diplomatenviertel und mentorierte seinen Sohn Wilhelm II.
 
@@ -39,3 +44,5 @@ Starb, wurde in Wilhelmshöhe beigesetzt.
 
 - [Werke/Die Königsbücher von Montclair/06 - König Alexander II. Montclair](../../../Werke/Die%20Königsbücher%20von%20Montclair/06%20-%20König%20Alexander%20II.%20Montclair.md)
 - [Werke/Bauwerke-Chroniken/Die Errichtung der Burg Wilhelmshöhe](../../../Werke/Bauwerke-Chroniken/Die%20Errichtung%20der%20Burg%20Wilhelmshöhe.md)
+- [Kanon/Reiche/Königreich Montclair/Burg Erzwacht](../../Reiche/Königreich%20Montclair/Burg%20Erzwacht.md)
+- [Werke/Bauwerke-Chroniken/Die Errichtung der Burg Erzwacht](../../../Werke/Bauwerke-Chroniken/Die%20Errichtung%20der%20Burg%20Erzwacht.md)
