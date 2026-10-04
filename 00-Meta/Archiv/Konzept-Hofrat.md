@@ -8,7 +8,7 @@ Montclair-Steckbrief, Rat der Frauen, Judith-Blatt, Zeitleiste, Glossar und Offe
 
 Der Hofrat ist bisher nur ein Name. Er kommt in genau einer Textstelle vor (Königsbuch 06), und der Montclair-Steckbrief führt ihn seit 2026-10-04 an der Stelle
 des unbelegten „Königsrates". Dieses Konzept sammelt, was die Quellen über Beratungs- und Mitsprachegremien Montclairs hergeben, und stellt die offenen Fragen
-mit Optionen und Empfehlung zur Abstimmung. Es ergänzt das [Konzept zum Rat der Frauen](../Konzepte/Konzept-Rat-der-Frauen.md): Die beiden Gremien bestehen
+mit Optionen und Empfehlung zur Abstimmung. Es ergänzt das [Konzept zum Rat der Frauen](Konzept-Rat-der-Frauen.md): Die beiden Gremien bestehen
 nebeneinander, und mehrere Fragen (Pattentscheidung, Aufgabenteilung) hängen an beiden. Kanonisch festgelegt ist nur Abschnitt 1. Abschnitt 6.1 enthält
 Nutzerentscheidungen, die bei der Übernahme in den Kanon wandern. Alles andere ist Ideensammlung und keine Festlegung (siehe `CLAUDE.md`, Arbeitsweise Punkt 3).
 
@@ -42,7 +42,7 @@ Jede Aussage wurde gegen die genannte Quelle gelesen.
 - **Hinweise zu den Vorgängern:** Ferdinand III. herrschte streng mit „harten Arbeitszeiten und hohen Steuern", Ferdinand IV. als Tyrann. Ein Beratungsgremium
   wird dort nicht genannt.
 - **Rat der Frauen:** beratend, mit bedingten Vetorechten bei Heirat, Nachfolge, Zeugenschaft und Pattsituationen, besteht bis heute (Entscheidungen 2026-10-04,
-  noch nicht im Kanon, siehe [Konzept-Rat-der-Frauen](../Konzepte/Konzept-Rat-der-Frauen.md)).
+  noch nicht im Kanon, siehe [Konzept-Rat-der-Frauen](Konzept-Rat-der-Frauen.md)).
 
 ## 2. Befund: Lücken und Spannungen
 
@@ -130,7 +130,7 @@ aus B1 ohne Adel und ohne Fachmitglieder, berufen vom König (B3, C1).
 
 ### F. Verhältnis zum Rat der Frauen
 
-**Entschieden (2026-10-04):** F1. Abstimmung mit dem [Rat-der-Frauen-Konzept](../Konzepte/Konzept-Rat-der-Frauen.md) (Frage G und Frage E) nachgetragen.
+**Entschieden (2026-10-04):** F1. Abstimmung mit dem [Rat-der-Frauen-Konzept](Konzept-Rat-der-Frauen.md) (Frage G und Frage E) nachgetragen.
 
 - **F1 (Empfehlung):** **Aufgabenteilung:** Der Hofrat führt Staatsgeschäfte (Gesetze, Steuern, Außenpolitik), der Rat der Frauen ist die dynastische Instanz
   (Heirat, Nachfolge, Zeugenschaft) und **entscheidet bei Patt im Hofrat**. Sie sind keine Konkurrenz, sondern zwei Ebenen.
@@ -399,7 +399,7 @@ Titel-Tradition in `CLAUDE.md` und die Bauwerks-Chronik der Burg Montclair. Es g
   `00-Meta/Zeitleiste.md` (G4), `00-Meta/Glossar.md` (Hofrat, Adel (Montclair), Rat der Frauen), `00-Meta/Offene-Fragen.md` und `CLAUDE.md` (Strukturzeile).
 - **Werke:** unverändert (L1).
 - **Offen und separat:** [Konzept-Priester-im-Hofrat](../Konzepte/Konzept-Priester-im-Hofrat.md) und
-  [Konzept-Rat-der-Frauen](../Konzepte/Konzept-Rat-der-Frauen.md).
+  [Konzept-Rat-der-Frauen](Konzept-Rat-der-Frauen.md).
 
 ## 8. Nicht in den Kanon übernommen
 

@@ -62,7 +62,8 @@ Der einzige direkte Beleg ist, dass Kronprinz Wilhelm II. Sitzungen besuchte.
 ## Nicht bekannt
 
 - Namen der Mitglieder, ihre Zahl, das Verfahren der Vorschläge, Dauer und Abberufung.
-- Gründe, Verfahren und Wirkung der Vetorechte in der Zusammenarbeit mit dem Rat der Frauen.
+- Wie ein Veto des Rates der Frauen gegen die Anerkennung zugezogener Adeliger wirkt (die Regeln für den Rat stehen in [Rat der Frauen](Rat%20der%20Frauen.md))
+  und welche Gründe und Wirkung das Veto des Königs hat.
 - Sitzungsort und Häufigkeit sowie die Rolle des Hofrates unter Wilhelm II.
 - Ob die „Vertreter des Volkes" beim Thronverzicht Alexanders I. ([Königsbuch
   05](../../../Werke/Die%20Königsbücher%20von%20Montclair/05%20-%20Kronprinz%20Alexander%20I.%20Montclair.md)) der Hofrat sind.

@@ -47,7 +47,8 @@ einem gemäßigten, doch fruchtbaren Klima.
 ## Regierung & Verwaltung
 
 - **Regierungsform:** Monarchische Herrschaft mit dem König als höchster Machthaber, beraten vom [Hofrat](Hofrat.md) aus Volksvertretern. Neben dem Hofrat steht
-  der [Rat der Frauen](Rat%20der%20Frauen.md) als dynastische Instanz. Die Thronfolge ist gesetzlich geregelt und folgt dem Erstgeburtsrecht des Königssohns.
+  der [Rat der Frauen](Rat%20der%20Frauen.md) als dynastische Instanz, beratend und mit bedingten Vetorechten. Die Thronfolge ist gesetzlich geregelt und folgt
+  dem Erstgeburtsrecht des Königssohns.
 - **Wichtige Institutionen:** Der [Hofrat](Hofrat.md) (seit Isabella I.), der [Rat der Frauen](Rat%20der%20Frauen.md) (seit Ferdinand IV., besteht bis heute),
   die königliche Armee und die Verwaltung der Burg Montclair.
 

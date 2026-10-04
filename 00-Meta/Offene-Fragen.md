@@ -191,13 +191,25 @@ für spätere Sessions).
   Montclair, Judith-Blatt) und der Aussage „kein klassischer Adel als Stand". Judiths Haus ist ein zugezogenes, anerkanntes Adelshaus. Betrifft Steckbrief,
   Judith-Blatt, Glossar.
 
+## Geklärt (2026-10-04: Rat der Frauen, Ausarbeitung)
+
+- **Rat der Frauen** — ausgearbeitet in [Kanon/Reiche/Königreich Montclair/Rat der Frauen.md](../Kanon/Reiche/Königreich%20Montclair/Rat%20der%20Frauen.md):
+  förmliche Institution aus den weiblichen Mitgliedern der Königsfamilie (eigene Generation, Mutter und Tanten, erwachsene Töchter), Ernennung nach dem
+  Erwachsenwerden durch den Rat, Mitgliedschaft bis zum Tod oder zur Abwahl (einstimmig), mindestens drei Mitglieder, beratend mit bedingten Vetorechten
+  (Heirat, Nachfolge, Zeugenschaft, Patt, Anerkennung Zugezogener). Wohnsitz im Königreich nötig, bei Wegzug ruht die Mitgliedschaft, bei Heirat in eine andere
+  Reichsfamilie endet sie. Betrifft Steckbrief, Isabella-Blatt, Zeitleiste, Glossar.
+- **Isabellas Ehe mit Edmund** — präzisiert: Die Schwestern und Tanten drängten sie als Personen, der Rat hatte sich damals erst gegründet, feste Formalien gab
+  es später. Der frühere Eintrag („arrangierte deren Ehe") und die Texte (Königsbuch 04, Isabella-Blatt, Edmund-Blatt, Zeitleiste) bleiben, da kein Widerspruch
+  besteht.
+- **Altersangaben** — Weltregel: nur in Worten (Kindheit, Jugend, erwachsen, hohes Alter), nie in Zahlen. Betrifft `CLAUDE.md`, `Stilrichtlinien.md`, Glossar.
+
 ## Offen
 
 
 
-- **Rat der Frauen** — Mitglieder nach G4 (Ernennung, Abwahl, Generationsregel), Größe, förmliche Befugnisse und Vetorechte im Einzelnen sowie die Wirkung unter
-  Alexander II. und Wilhelm II. sind nicht im Kanon festgelegt. Der Fortbestand ist geklärt (besteht bis heute). Ausarbeitung in
-  [Konzepte/Konzept-Rat-der-Frauen.md](Konzepte/Konzept-Rat-der-Frauen.md).
+- **Rat der Frauen (Details)** — Namen der Mitglieder nach G4, Wirkung unter Alexander II. und Wilhelm II., ob der Rat zeitweise aufgelöst war; wer den Rat nach
+  einer Auflösung neu eröffnet und ernennt, was während einer Auflösung für Zeugenschaft, Patt und Vorschlagsrecht gilt, ob ruhende Mitglieder für die
+  Mindestzahl zählen; Gründe und Wirkung des Vetos des Königs bei der Anerkennung zugezogener Adeliger.
 - **Hofrat (Details)** — Namen, Zahl und Verfahren der Mitglieder, Dauer und Abberufung, Gründe und Wirkung der Vetorechte, Sitzungsort, Rolle unter Wilhelm
   II.; Adelshäuser, Rangtitel und Name von Judiths Haus. Idee „Vertreter der Staatsreligion im Hofrat" in
   [Konzepte/Konzept-Priester-im-Hofrat.md](Konzepte/Konzept-Priester-im-Hofrat.md).

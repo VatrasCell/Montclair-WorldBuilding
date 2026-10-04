@@ -27,6 +27,8 @@ nur ein Mann aus der Blutlinie Montclair als Vater eines würdigen dynastischen 
 Als Königin bestätigte und verankerte sie formell die von ihrem Vater Ferdinand IV. bei dessen Abdankung eingeleitete Ergänzung der Erbfolge – dass ohne
 männlichen Erben die älteste Tochter des Herrschers erbt – als dynastisches Recht (siehe [Kanon/Personen/Haus Montclair/Ferdinand IV. Montclair](Ferdinand%20IV.%20Montclair.md)).
 
+Verankerte außerdem den [Rat der Frauen](../../Reiche/Königreich%20Montclair/Rat%20der%20Frauen.md) förmlich (Ernennung, Abwahl, Vetorechte). Zuvor gab es keine festen Formalien.
+
 Ließ im Zuge der von ihr eingeleiteten Zeit des Wandels und Wiederaufbaus auch den Palast ihres Vaters umbauen und erweitern – neue, offener
 zugängliche Flügel und Säle, dazu eine Vergrößerung von Eleanors Bibliothek und Genevieves Gärten – um ihn vom Symbol der Tyrannei zu einem Sitz der
 neuen, gemeinschaftsorientierten Herrschaft zu wandeln.

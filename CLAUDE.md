@@ -52,8 +52,8 @@ Worldbuilding-Wissensbasis für eine Fantasy-Welt (Dynastie Montclair), die auf 
 
 Die ersten drei Regeln (Erbfolge, Titel-Tradition, Sterbe-Tradition) sowie die Religionsregel sind bislang nur für **Montclair** kanonisch festgelegt, nicht
 automatisch für die gesamte Welt. Andere Reiche können eigene, abweichende Traditionen haben oder ihre Regelungen sind schlicht noch nicht ausgearbeitet — das
-sollte bei ihrer Ausarbeitung nicht stillschweigend als „gilt überall genauso" angenommen werden. Nur die Erinnerungsverlust-Regel ist explizit weltweit gültig
-(sie beschreibt die Wirkung der Großen Verwüstung selbst).
+sollte bei ihrer Ausarbeitung nicht stillschweigend als „gilt überall genauso" angenommen werden. Weltweit gültig sind nur die Erinnerungsverlust-Regel
+(sie beschreibt die Wirkung der Großen Verwüstung selbst) und die Regel zu Altersangaben.
 
 - **Erbfolge (Montclair):** Seit Ferdinand III. gilt die Erstgeburts-Erbfolge (ältester Sohn erbt automatisch). Vorher war die Nachfolge nicht geregelt (Ursache
   des Streits nach Wilhelm I.). Ferdinand IV. ergänzte die Regel bei seiner Abdankung unter dem Druck des „Rats der Frauen": Existiert kein männlicher Erbe,
@@ -65,6 +65,8 @@ sollte bei ihrer Ausarbeitung nicht stillschweigend als „gilt überall genauso
 - **Erinnerungsverlust durch die Große Verwüstung (weltweit):** Nicht jede In-Welt-Quelle kennt die Namen der durch die Katastrophe zerstörten Reiche (z. B.
   Aranthor). Das ist gewolltes Weltelement, kein zu behebender Widerspruch.
   Details: [Kanon/Welt/Die Große Verwüstung und die Westwanderung.md](Kanon/Welt/Die%20Große%20Verwüstung%20und%20die%20Westwanderung.md)
+- **Altersangaben (weltweit):** Es gibt keine Altersangaben in Zahlen. Alter wird nur in Worten ausgedrückt (Kindheit, Jugend, erwachsen, hohes Alter u. a.), im
+  Kanon wie in den Werken. „Jahre" in Werken bleiben sprachliche Mittel (siehe Arbeitsweise Punkt 7).
 - **Elmsworth (eigene Regeln):** Erbfolge: erstgeborener Sohn, sonst ernennt der Adelsrat einen König aus der direkten Herrscherfamilie; die Königsfamilie trägt den
   Reichsnamen als Nachnamen; angeheiratete Frauen behalten einen Adelstitel, sonst „von Elmsworth". Details: [Kanon/Reiche/Königreich Elmsworth](Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md).
 - **Religion (Montclairs Staatsreligion):** Der Monarch ist nicht das geistliche Oberhaupt der Staatsreligion. Andere Reiche können eigene Staatsreligionen mit

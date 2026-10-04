@@ -179,6 +179,7 @@ hier ergänzen.
   Montclair](../Kanon/Reiche/Königreich%20Montclair/Steckbrief.md)
 - **Adelsrat (Elmsworth)** — Versammlung der Oberhäupter der großen Adelshäuser in Eldon; bestätigt jeden Thronfolger und ernennt den König, wenn kein Sohn
   vorhanden ist → [Kanon/Reiche/Königreich Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md)
+- **Altersangaben (Weltregel)** — nur in Worten (Kindheit, Jugend, erwachsen, hohes Alter), nie in Zahlen → [CLAUDE.md](../CLAUDE.md)
 - **Erstgeburts-Erbfolge** — von Ferdinand III. eingeführte Thronfolgeregel (Sohn erbt automatisch), von Ferdinand IV./Isabella I. um die Regel „ohne Sohn
   erbt die älteste Tochter" ergänzt → siehe [Kanon/Personen/Haus Montclair/Ferdinand III. Montclair](../Kanon/Personen/Haus%20Montclair/Ferdinand%20III.%20Montclair.md)
 - **Fragment-Religion** — uraltes religiöses Fundament → [Kanon/Welt/Religion/Fragment-Religion](../Kanon/Welt/Religion/Fragment-Religion.md)
@@ -195,8 +196,9 @@ hier ergänzen.
   Montclair/Hofrat](../Kanon/Reiche/Königreich%20Montclair/Hofrat.md)
 - **Landgrenzstreifen** — Streifen zwischen der Montclairer und der Elmsworther Grenze am flachen Gebirge, Lage von Halwyn →
   [Kanon/Welt/Halwyn](../Kanon/Welt/Halwyn.md)
-- **Rat der Frauen** — Zusammenschluss der Töchter und Schwestern Ferdinands IV., der Isabella I. inthronisiert und sie beriet, besteht bis heute →
-  [Kanon/Reiche/Königreich Montclair/Rat der Frauen](../Kanon/Reiche/Königreich%20Montclair/Rat%20der%20Frauen.md)
+- **Rat der Frauen** — Zusammenschluss der Töchter und Schwestern Ferdinands IV., der Isabella I. inthronisiert; seither förmliche Instanz der weiblichen
+  Königsfamilie (mindestens drei Mitglieder, beratend, bedingte Vetorechte), besteht bis heute → [Kanon/Reiche/Königreich Montclair/Rat der
+  Frauen](../Kanon/Reiche/Königreich%20Montclair/Rat%20der%20Frauen.md)
 - **Staatsreligion von Montclair** — → [Kanon/Welt/Religion/Staatsreligion von Montclair](../Kanon/Welt/Religion/Staatsreligion%20von%20Montclair.md)
 - **Sterbe-Tradition** — kulturelle (nicht religiöse) Vorstellung, Ehefrauen folgten Königen rasch in den Tod →
   siehe [Kanon/Welt/Religion/Staatsreligion von Montclair](../Kanon/Welt/Religion/Staatsreligion%20von%20Montclair.md)

@@ -66,6 +66,7 @@ erlaubt, sollten aber selten sein.
 ## Allgemein
 
 - Sprache durchgehend Deutsch.
+- Altersangaben nur in Worten (Kindheit, Jugend, erwachsen, hohes Alter u. a.), nie in Zahlen. Das ist eine Weltregel (siehe `CLAUDE.md`).
 - Generationsangaben (G-Achse, siehe [Zeitleiste](Zeitleiste.md)) gehören in Kanon und Meta, nicht in Werke-Texte; Werke nutzen eigene In-Universe-Zeitangaben.
 - Die Sammlung der Königsbiografien wird als **„Die Königsbücher von Montclair"** bezeichnet (Alternativtitel „Chroniken von Montclair" wurde erwogen, aber
   nicht verbindlich festgelegt).

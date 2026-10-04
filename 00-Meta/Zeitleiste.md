@@ -62,6 +62,8 @@ sprachliche Mittel.
 - Zeit des Wandels und Wiederaufbaus: Umbau/Erweiterung des Palastes, Bau einer Universität in der Stadt Montclair, Ausbau des Hafens um ein Hafenviertel.
 - Einrichtung des **Hofrates** (Volksvertreter) im Rahmen ihrer Reformen, die die Macht der Königsfamilie beschränken (siehe
   [Hofrat](../Kanon/Reiche/Königreich%20Montclair/Hofrat.md)).
+- Verankert den **Rat der Frauen** förmlich (Ernennung, Abwahl, Vetorechte, siehe [Rat der
+  Frauen](../Kanon/Reiche/Königreich%20Montclair/Rat%20der%20Frauen.md)).
 - Wird sehr alt; Alexander I. verzichtet bei ihrem Tod bereits selbst auf die Krone. Ihre Herrschaft reicht von G4 bis G6 früh.
 - (G4 bis G5, am Fluss im Osten Montclairs: Gründung des Fähr- und Fischerdorfes **Fährwerder**, Teil des Königreichs, nicht direkt der Krone unterstellt.)
 - (Elmsworth: **Edwin I.** regiert, Konsolidierung und Aufstieg; Handel mit Montclair. Der Elmsworther Adel sieht Isabella I. als „Frau auf dem Thron" mit
