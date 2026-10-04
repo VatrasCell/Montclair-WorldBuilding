@@ -25,3 +25,4 @@ Ferdinand IV. gegen ihn und wurde Mitglied des „Rates der Frauen"; durfte dana
 - [Werke/Die Königsbücher von Montclair/04 - Königin Isabella I. Montclair](../../../Werke/Die%20Königsbücher%20von%20Montclair/04%20-%20Königin%20Isabella%20I.%20Montclair.md)
 - [Werke/Wichtige Prinzessinnen Montclairs/Prinzessin Eleanor und Genevieve Montclair](../../../Werke/Wichtige%20Prinzessinnen%20Montclairs/Prinzessin%20Eleanor%20und%20Genevieve%20Montclair.md)
 - [Werke/Bauwerke-Chroniken/Die Errichtung des Palastes zu Montclair](../../../Werke/Bauwerke-Chroniken/Die%20Errichtung%20des%20Palastes%20zu%20Montclair.md)
+- [Kanon/Reiche/Königreich Montclair/Rat der Frauen](../../Reiche/Königreich%20Montclair/Rat%20der%20Frauen.md)

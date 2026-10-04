@@ -50,15 +50,18 @@ sprachliche Mittel.
   Archiv.)
 - Tod von Ferdinand III., Adelaide und Isabella (Dorfgründerin) kurz hintereinander; Ferdinand IV. einverleibt das Dorf.
 - Bau von Palasthügel, Palast und Hafen.
-- „Rat der Frauen" setzt Sophia als Nachfolgerin durch; Ferdinand IV. ergänzt bei seiner Abdankung die Erbfolge um die Regel „ohne Sohn erbt die älteste
-  Tochter"; er und Margarethe verlassen das Königreich.
+- Die Töchter Emma, Victoria und Isolde verbünden sich mit Ferdinands Schwestern Eleanor und Genevieve (**Rat der Frauen**) und setzen Sophia als
+  Nachfolgerin durch; Ferdinand IV. ergänzt bei seiner Abdankung die Erbfolge um die Regel „ohne Sohn erbt die älteste Tochter"; er und Margarethe
+  verlassen das Königreich.
 
 ## Generation 4 — Königin Isabella I. Montclair (geb. Sophia)
 
-- Heirat (erzwungen) mit Edmund Montclair.
+- Heirat (erzwungen, auf Druck des Rates der Frauen) mit Edmund Montclair.
 - Kinder: Kronprinz Alexander I., Katharina.
+- Der Rat der Frauen berät die Königin beim Wiederaufbau; Eleanor und Genevieve bleiben Beraterinnen, Katharina tritt bei.
 - Zeit des Wandels und Wiederaufbaus: Umbau/Erweiterung des Palastes, Bau einer Universität in der Stadt Montclair, Ausbau des Hafens um ein Hafenviertel.
 - Wird sehr alt; Alexander I. verzichtet bei ihrem Tod bereits selbst auf die Krone. Ihre Herrschaft reicht von G4 bis G6 früh.
+- (G4 bis G5, am Fluss im Osten Montclairs: Gründung des Fähr- und Fischerdorfes **Fährwerder**, Teil des Königreichs, nicht direkt der Krone unterstellt.)
 - (Elmsworth: **Edwin I.** regiert, Konsolidierung und Aufstieg; Handel mit Montclair. Der Elmsworther Adel sieht Isabella I. als „Frau auf dem Thron" mit
   Geringschätzung.)
 
@@ -66,7 +69,8 @@ sprachliche Mittel.
 
 - Heirat mit Amelia von Elmsworth (Adelshaus Thornfield, Cousine von König Alfred I. von Elmsworth). Kinder: Alexander II., Julian, Franziska.
 - Bau der Burg Montclair.
-- Übergibt die Krone direkt an Alexander II.
+- Übergibt die Krone direkt an Alexander II.; sein Verzicht erfolgt vor dem Rat der Frauen, den bedeutendsten Adeligen und den Vertretern des Volkes
+  (letzter Beleg des Rates).
 - Tod gemeinsam mit Amelia am selben Tag; Beisetzung in der damaligen königlichen Gruft (Krypta der Kirche der Stadt Montclair), besondere Ehre trotz
   Nie-König-Sein; später nach Wilhelmshöhe überführt (siehe Gen 6).
 - (Elmsworth: **Alfred I.** (geb. Harold) regiert; Planung der Eldoner Universität nach der Denkschrift Alfreds des Gelehrten.)
@@ -83,7 +87,7 @@ Abfolge (in dieser Reihenfolge):
 4. Bau des Diplomatenviertels: Penworth erhält ein Botschaftsgebäude, Elmsworth keine dauerhafte Vertretung (Penworth stimmte einer dauerhaften Vertretung nur
    zu, wenn Elmsworth keine erhielt). Kalte Krise, Zölle und Grenzfragen.
 5. (G6 mittel) Zerstörung des freien Dorfes **Halwyn** im Landgrenzstreifen durch gegenseitige Sabotagen beider Reiche, ohne einzelnen Schuldigen. Streit um die
-   Flussinsel, Erzvorkommen fallen auf. Von den 30 Einwohnern sterben etwa zehn, etwa zehn gehen nach Montclair, etwa zehn nach Elmsworth.
+   Flussinsel, Erzvorkommen fallen auf. Von den 30 Einwohnern sterben etwa zehn, etwa zehn gehen nach Montclair (Fährwerder), etwa zehn nach Elmsworth.
 6. Bau der Burg Wilhelmshöhe (neue Königliche Gruft/Kathedrale) — alle bisherigen Königsgräber (zuvor in der Krypta der Kirche der Stadt Montclair) werden
    dorthin überführt, darunter Alexander I. und Amelia als Ausnahme.
 7. (Elmsworth) Bau der Eldoner Universität unter Cedric II.; Aldrics Vater, ein Montclairer Gelehrter (G6), hilft beim Aufbau.

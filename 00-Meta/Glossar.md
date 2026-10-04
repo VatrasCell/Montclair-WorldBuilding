@@ -154,6 +154,8 @@ hier ergänzen.
   [Kanon/Personen/Alfred der Gelehrte](../Kanon/Personen/Alfred%20der%20Gelehrte.md)
 - **Eldoner Universität** — Universität in Eldon, Planung unter Alfred I. nach der Denkschrift Alfreds des Gelehrten, gebaut unter Cedric II. →
   [Kanon/Reiche/Königreich Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md)
+- **Fährwerder** — Fähr- und Fischerdorf am Westufer gegenüber der Burg auf der Flussinsel, gegründet G4 bis G5, Zuflucht der Halwyner →
+  [Kanon/Reiche/Königreich Montclair/Fährwerder](../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md)
 - **Große Mine** — errichtet von Ferdinand III. →
   siehe [Kanon/Personen/Haus Montclair/Ferdinand III. Montclair](../Kanon/Personen/Haus%20Montclair/Ferdinand%20III.%20Montclair.md)
 - **Hafenviertel** — Ausbau des von Ferdinand IV. errichteten Hafens um ein eigenes Stadtviertel, unter Isabella I. → siehe
@@ -187,10 +189,12 @@ hier ergänzen.
 - **Haus Harrowford** — im Adelsrat einflussreiches Elmsworther Adelshaus, stützte die Ernennung Cedrics II. → [Kanon/Reiche/Königreich
   Elmsworth](../Kanon/Reiche/Königreich%20Elmsworth/Steckbrief.md)
 - **Haus Thornfield** — Elmsworther Adelshaus, Heimat Rowenas und Amelias → [Kanon/Personen/Haus Thornfield](../Kanon/Personen/Haus%20Thornfield.md)
+- **Hofrat** — Beratungsgremium am Hof Montclairs, in Königsbuch 06 erwähnt (Wilhelm II. besuchte Sitzungen); Zusammensetzung unbekannt →
+  [Kanon/Reiche/Königreich Montclair](../Kanon/Reiche/Königreich%20Montclair/Steckbrief.md)
 - **Landgrenzstreifen** — Streifen zwischen der Montclairer und der Elmsworther Grenze am flachen Gebirge, Lage von Halwyn →
   [Kanon/Welt/Halwyn](../Kanon/Welt/Halwyn.md)
-- **Rat der Frauen** — Zusammenschluss, der Isabella I. inthronisiert →
-  siehe [Kanon/Personen/Haus Montclair/Isabella I. Montclair (geb. Sophia)](../Kanon/Personen/Haus%20Montclair/Isabella%20I.%20Montclair%20(geb.%20Sophia).md)
+- **Rat der Frauen** — Zusammenschluss der Töchter und Schwestern Ferdinands IV., der Isabella I. inthronisiert und sie beriet →
+  [Kanon/Reiche/Königreich Montclair/Rat der Frauen](../Kanon/Reiche/Königreich%20Montclair/Rat%20der%20Frauen.md)
 - **Staatsreligion von Montclair** — → [Kanon/Welt/Religion/Staatsreligion von Montclair](../Kanon/Welt/Religion/Staatsreligion%20von%20Montclair.md)
 - **Sterbe-Tradition** — kulturelle (nicht religiöse) Vorstellung, Ehefrauen folgten Königen rasch in den Tod →
   siehe [Kanon/Welt/Religion/Staatsreligion von Montclair](../Kanon/Welt/Religion/Staatsreligion%20von%20Montclair.md)

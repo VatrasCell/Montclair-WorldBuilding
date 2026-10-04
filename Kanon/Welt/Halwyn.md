@@ -39,8 +39,9 @@ Schuldigen gibt es nicht. Das Dorf ist seither verlassen.
 
 ## Folgen
 
-- Ein Drittel der Einwohner starb (etwa zehn), ein Drittel floh nach Montclair in das Dorf bei der Burg auf der Flussinsel (Arbeitstitel Dorf 3), ein Drittel
-  nach Elmsworth. Die Überlebenden trugen zwei verschiedene Erinnerungen in beide Reiche; in Eldon gelangten Berichte in das Eldoner Archiv.
+- Ein Drittel der Einwohner starb (etwa zehn), ein Drittel floh nach Montclair in das Dorf [Fährwerder](../Reiche/Königreich%20Montclair/Fährwerder.md) bei der
+  Burg auf der Flussinsel und wurde dort Teil Montclairs, ein Drittel nach Elmsworth. Die Überlebenden trugen zwei verschiedene Erinnerungen in beide Reiche; in
+  Eldon gelangten Berichte in das Eldoner Archiv.
 - Das Dorf wurde nie wieder aufgebaut. In Montclair gilt es als Beleg für die Gefahr aus dem Osten, in Elmsworth als Beleg für Montclairs Härte. Beide Seiten
   meiden den Namen und sprechen vom „Dorf an der Straße".
 - Der kalte Konflikt zwischen beiden Reichen bekam durch Halwyn ein Datum und ein Opfer, ohne einen Kriegsgrund zu liefern.

@@ -89,7 +89,7 @@ Katharina brachte einen erfrischenden Blickwinkel in den Rat ein. Ihre Sensibili
 herbeizuführen, beeindruckten die anderen Mitglieder. Während ihrer Zeit im Rat der Frauen trug Katharina maßgeblich dazu bei, soziale Programme zu entwickeln
 und Initiativen zu unterstützen, die das Leben der einfachen Menschen im Königreich verbesserten.
 
-Ihre Mitgliedschaft im Rat der Frauen war nicht nur ein Zeichen ihrer tiefen Bindung zu ihrer Schwester, der Königin, sondern auch ein Ausdruck ihres
+Ihre Mitgliedschaft im Rat der Frauen war nicht nur ein Zeichen ihrer tiefen Bindung zu ihrer Mutter, der Königin, sondern auch ein Ausdruck ihres
 Engagements für das Wohl des Königreichs. Katharina sollte später ihre eigenen Spuren hinterlassen, sowohl innerhalb als auch außerhalb des königlichen Hofes,
 und ihr Einfluss sollte das Erbe ihrer Familie in vielfältiger Weise fortführen.
 

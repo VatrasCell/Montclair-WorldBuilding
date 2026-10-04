@@ -150,12 +150,33 @@ für spätere Sessions).
 
 - **Zerstörtes Dorf im Landgrenzstreifen** — kanonisch als **Halwyn** festgelegt: freies Dorf (30 Einwohner), gegründet G1 bis G2 von Westwanderern, die sich
   keinem Ort anschließen wollten; Herkunft gemischt und unbekannt; Handelsplatz an der Straße zwischen Montclair und Elmsworth (G4 bis G5); in G6 mittel durch
-  gegenseitige Sabotagen beider Reiche abgebrannt, Kollateralschaden ohne einzelnen Schuldigen. Je ein Drittel starb, ging nach Montclair (Dorf bei der Burg,
-  Arbeitstitel Dorf 3) und ging nach Elmsworth. Wilhelm II. bleibt passiv, kein Hinweis in Königsbuch 06. Betrifft
-  [Kanon/Welt/Halwyn.md](../Kanon/Welt/Halwyn.md), Montclair- und Elmsworth-Steckbrief, Westwanderungs-Datei, Wilhelm II., Zeitleiste, Glossar.
+  gegenseitige Sabotagen beider Reiche abgebrannt, Kollateralschaden ohne einzelnen Schuldigen. Je ein Drittel starb, ging nach Montclair (nach Fährwerder) und
+  ging nach Elmsworth. Wilhelm II. bleibt passiv, kein Hinweis in Königsbuch 06. Betrifft [Kanon/Welt/Halwyn.md](../Kanon/Welt/Halwyn.md), Montclair- und
+  Elmsworth-Steckbrief, Westwanderungs-Datei, Wilhelm II., Zeitleiste, Glossar.
+
+## Geklärt (2026-10-04: Königsrat, Rat der Frauen)
+
+- **„Königsrat" / „königlicher Rat" im Montclair-Steckbrief** — hatte keine Quelle in Kanon oder Werken. Nur Königsbuch 06 nennt ein Beratungsgremium: den
+  **Hofrat** (Wilhelm II. besuchte dessen Sitzungen). Der Steckbrief führt jetzt den Hofrat. Zusammensetzung, Befugnisse und Verhältnis zum Rat der Frauen sind
+  unbekannt. Ebenfalls entfernt: die unbelegte „Einrichtung der unabhängigen Dörfer".
+- **Rat der Frauen** — als Institution Montclairs kanonisiert: [Kanon/Reiche/Königreich Montclair/Rat der Frauen.md](../Kanon/Reiche/Königreich%20Montclair/Rat%20der%20Frauen.md).
+  Entstanden G3 (Töchter und Schwestern Ferdinands IV.), beriet Isabella I., arrangierte deren Ehe mit Edmund, zuletzt belegt beim Thronverzicht Alexanders I.
+  (G5).
+
+
+## Geklärt (2026-10-04: Fährwerder)
+
+- **Dorf 3 bei der Burg auf der Flussinsel** — kanonisch als **Fährwerder**: älteres Fähr- und Fischerdorf (G4 bis G5) am Westufer, Teil des Königreichs, aber
+  nicht direkt der Krone unterstellt, mit eigenem bürgerlichem Vorsteher, Priester und Kirche der Staatsreligion. Der Fluss war ein zweiter Verkehrsweg neben
+  der Straße über Halwyn. Die Halbinsel nördlich des Dorfes (Umschlagplatz, Wachposten) gehört zur Burg. Bergleute der Burg schlafen und essen in der Burg. Die
+  rund zehn Halwyner sind dort Teil Montclairs. Betrifft [Kanon/Reiche/Königreich
+  Montclair/Fährwerder.md](../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md), Montclair-Steckbrief, Halwyn, Zeitleiste, Glossar.
 
 ## Offen
 
+
+- **Rat der Frauen und Hofrat** — Mitglieder nach G4, Größe, förmliche Befugnisse und Fortbestand des Rates unter Alexander II. und Wilhelm II. sind nicht
+  bekannt, ebenso das Verhältnis zum Hofrat (siehe [Rat der Frauen](../Kanon/Reiche/Königreich%20Montclair/Rat%20der%20Frauen.md)).
 
 - **Elmsworths militärische Struktur (Details)** — siehe [00-Meta/Konzepte/Konzept-Elmsworth-Militär.md](Konzepte/Konzept-Elmsworth-Militär.md): Modell (Krone, Aufgebote
   der Adelshäuser oder Mischform), Grenzposten, „harte Phase" unter Cedric II., Verhältnis zu Aldrics Chronik. Im Kanon gilt nur „defensiv statt erobernd"; „nie
@@ -178,9 +199,11 @@ für spätere Sessions).
   Entwicklungsrichtungen: [Konzept-Burg-Flussinsel.md](Konzepte/Konzept-Burg-Flussinsel.md) (Konzept bleibt offen, bis die übrigen Konzepte final sind, Szenario
   E als Hintergrund). Wegpunkt im Set `worldbuilding` heißt vorläufig „Burg Flussinsel (Arbeitstitel)" (y 73); im Spiel nach der Namensfindung umbenennen. Das
   zerstörte Dorf im Landgrenzstreifen ist als [Halwyn](../Kanon/Welt/Halwyn.md) kanonisch (siehe oben); die Burg entsteht nach der Zerstörung Halwyns.
+- **Fährwerder (Details)** — Name von Vorsteher und Priester, Bestimmung des Vorstehers, wer das Dorf verwaltet, die Orte im Südosten, mit denen es handelte
+  (und ob in Elmsworth), Art und Bedeutung des Erinnerungsstücks der Halwyner, Herkunft, Dauer und Lohn der Bergleute (gehört zur Burg). Dorf 1 und Dorf 2
+  werden später separat betrachtet. Ob die Bauwerks-Chronik der Burg die Halwyner nennt, wird später geklärt.
 - **Landgrenzstreifen und Halwyn** — Rechtlicher Status des Landgrenzstreifens (Niemandsland, gemeinsam verwaltet, beidseitig beansprucht) ist offen. Offen ist
-  auch, wie die rund zehn Flüchtlinge das Dorf bei der Burg (Dorf 3, noch unbenannt) prägen und ob Aldrics Chronik, die Bauwerks-Chronik der Burg oder eine
-  freie Geschichte Halwyn aufgreifen (Entscheidung nach der Kanon-Übernahme).
+  auch, ob Aldrics Chronik, die Bauwerks-Chronik der Burg oder eine freie Geschichte Halwyn aufgreifen (Entscheidung nach der Kanon-Übernahme).
 - **Wilhelm II. — Ehefrau/Kinder** — bislang nicht überliefert; relevant, sobald die Nachfolge nach Wilhelm II. geschrieben wird.
 - **Kalendersystem** — es existiert kein festes Zeitrechnungssystem (z. B. „X Jahre nach der Großen Verwüstung"). Die [Zeitleiste](Zeitleiste.md) ordnet nach
   Generationen (G-Achse); „Jahre" und „Jahrhunderte" in Werken sind sprachliche Mittel. Falls für spätere Werke absolute Zeitangaben gebraucht werden, sollte

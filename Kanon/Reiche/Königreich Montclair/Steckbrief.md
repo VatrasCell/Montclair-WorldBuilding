@@ -43,9 +43,10 @@ einem gemäßigten, doch fruchtbaren Klima.
 
 ## Regierung & Verwaltung
 
-- **Regierungsform:** Monarchische Herrschaft mit dem König als höchster Machthaber, unterstützt vom königlichen Rat. Die Thronfolge ist gesetzlich geregelt und
+- **Regierungsform:** Monarchische Herrschaft mit dem König als höchster Machthaber, unterstützt vom Hofrat. Die Thronfolge ist gesetzlich geregelt und
   folgt dem Erstgeburtsrecht des Königssohns.
-- **Wichtige Institutionen:** Der Königsrat, die königliche Armee, die Verwaltung der Burg Montclair und die Einrichtung der unabhängigen Dörfer.
+- **Wichtige Institutionen:** Der Hofrat, der [Rat der Frauen](Rat%20der%20Frauen.md) (seit Ferdinand IV. belegt, Fortbestand unbekannt), die königliche
+  Armee und die Verwaltung der Burg Montclair.
 
 ## Wirtschaft und Handel
 
@@ -75,9 +76,9 @@ einem gemäßigten, doch fruchtbaren Klima.
   entstand nach den Grenzkonflikten, bei denen das freie Dorf Halwyn zerstört wurde. Nicht zu verwechseln mit der Großen Mine unter dem Palast (Ferdinand III.).
   Geschichte in Entwicklung, siehe [00-Meta/Konzepte/Konzept-Burg-Flussinsel.md](../../../00-Meta/Konzepte/Konzept-Burg-Flussinsel.md) und
   [00-Meta/Offene-Fragen.md](../../../00-Meta/Offene-Fragen.md).
-- **Halwyn (zerstört, nie Teil Montclairs):** freies Dorf im Landgrenzstreifen zwischen Montclair und Elmsworth, gegründet von Westwanderern (G1 bis G2), in G6
-  durch gegenseitige Sabotagen beider Reiche abgebrannt, ohne einzelnen Schuldigen. Rund zehn Überlebende fanden Zuflucht im Dorf bei der Burg auf der
-  Flussinsel (Arbeitstitel Dorf 3). Details: [Kanon/Welt/Halwyn.md](../../Welt/Halwyn.md).
+- **Fährwerder (Dorf gegenüber der Burg auf der Flussinsel):** Fähr- und Fischerdorf am Westufer, gegründet G4 bis G5, von Anfang an Teil des Königreichs, aber
+  nicht direkt der Krone unterstellt, mit eigenem bürgerlichem Vorsteher und einer Kirche der Staatsreligion. Die Burg nutzt eine zugehörige Halbinsel als
+  Umschlagplatz und Wachposten. Details: [Fährwerder.md](Fährwerder.md).
 
 ## Politische und diplomatische Beziehungen
 

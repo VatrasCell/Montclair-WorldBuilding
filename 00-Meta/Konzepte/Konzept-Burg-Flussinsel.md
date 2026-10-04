@@ -27,7 +27,7 @@ E](../Archiv/Konzept-Elmsworth-Zeitlinie.md) und [Namensstile](../Archiv/Konzept
 - Auf dem Bild sind die Grenzen eingezeichnet: **Montclair in Cyan, Elmsworth in Rot**. Elmsworth liegt von der Burg aus östlich bis südöstlich.
 - Die Grenze bildet das **flache Gebirge**.
 - Zwischen beiden Linien liegt ein **Landgrenzstreifen**. Ein **Dorf auf diesem Streifen wurde durch die Konflikte zerstört** und ist verlassen.
-- Die Burg liegt im Süden auf der Insel. Daneben liegt `Dorf 3`, das noch benannt und in die Lore eingearbeitet werden muss.
+- Die Burg liegt im Süden auf der Insel. Daneben liegt `Dorf 3`, das als [Fährwerder](../../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md) im Kanon steht.
 
 ## 2. Rahmen aus dem übrigen Kanon
 
@@ -99,7 +99,8 @@ gelesen, und die Grenz-Wegpunkte.
 ### Ebene B: was das erzählerisch bedeuten könnte (Hypothesen, nicht festgelegt)
 
 - Flusshafen oder Umschlagplatz zusätzlich zur Wehranlage: Die Boote sprechen für Handel und Verkehr auf dem Fluss, nicht nur für Verteidigung.
-- `Dorf 3` liegt rund 160 Blöcke entfernt am Westufer und wäre ein naheliegender Kandidat für eine Bergarbeiter- bzw. Versorgungssiedlung.
+- `Dorf 3` liegt rund 160 Blöcke entfernt am Westufer. Es ist ein älteres Fährdorf (Fährwerder) und versorgt die Burg, wohnt aber nicht als Bergarbeitersiedlung
+  (siehe [Fährwerder](../../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md)).
 - Die Insellage macht die Burg im Kern schwer einnehmbar und kontrolliert zugleich den Fluss. Bei einem Grenzpunkt ist sie eine Art Tor.
 - Die Burg sperrt das Südende des Grenzstreifens: Wer ihn von Nordosten herunterkommt, trifft am Fluss auf sie. Sie schützt damit Mine, Siedlung und den Zugang
   ins Hinterland.
@@ -222,9 +223,11 @@ Ergänzende Ideen (Vorschlag, nicht entschieden):
 - Eigener Name und eigene Geschichte. Die Vorkommen fielen erst im Streit um die Insel auf (Entscheidung), ihre Sicherung ist Anlass des Baus. Erzhandel gab es
   schon vorher über die Große Mine.
 - Welche Erze/Mineralien: Eisen und Kupfer für Waffen und Werkzeug, Edelsteine als Statussymbol, Salz/Kohle? Bisher nur „viele Erze und Mineralien".
-- Arbeitsverhältnisse als Kontrast oder Fortsetzung zur Großen Mine (hart und entbehrungsreich unter Ferdinand III.).
+- Arbeitsverhältnisse (entschieden 2026-10-04): **normal**, also kein Kontrast und keine Wiederholung der Großen Mine (hart und entbehrungsreich unter
+  Ferdinand III.). Bergleute haben für die Dauer ihres Dienstes einen Schlafplatz in der Burg und werden dort verpflegt.
 - Verhältnis zur Großen Mine: ersetzt sie, ergänzt sie oder wird sie erschöpft?
-- Wer lebt vom Berg: `Dorf 3` als Bergarbeiterdorf, Bergmannsbrauchtum, Unglücke.
+- Wer lebt vom Berg: Die Bergleute wohnen im Dienst in der Burg, nicht im Dorf. Herkunft, Dauer und Lohn des Dienstes sind offen, ebenso Bergmannsbrauchtum
+  und Unglücke.
 
 ### 5.4 Elmsworth-Aspekt
 
@@ -297,8 +300,8 @@ Stromwacht, Burg Erzwacht, Burg Eisenwerder, Burg Grenztor. Der Bauherr steht je
 **Nächster Schritt (vom Nutzer vorgesehen):**
 
 - **A. Ausgestaltung:** Name von Burg und Mine (derselbe Name?), Mine (Verhältnis zur Großen Mine, Erzarten, Arbeit), `Dorf 3` als Siedlung (mit den rund zehn
-  Flüchtlingen aus Halwyn), Sakralbau oder eigene Gruft, Verlauf des Flusses und Lage Eldons (Wegpunkt), isometrische Detailbilder (Ablage nach der
-  Namensfindung unter `Assets/Reiche/Montclair/<Burgname>/`).
+  Flüchtlingen aus Halwyn: kanonisch als [Fährwerder](../../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md)), Sakralbau oder eigene Gruft der Burg, Verlauf des
+  Flusses und Lage Eldons (Wegpunkt), isometrische Detailbilder (Ablage nach der Namensfindung unter `Assets/Reiche/Montclair/<Burgname>/`).
 
 **Aus den Entscheidungen neu entstanden:**
 

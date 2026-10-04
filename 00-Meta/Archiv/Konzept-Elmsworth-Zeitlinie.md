@@ -118,7 +118,7 @@ diplomatisch, wirtschaftlich und symbolisch. Ein offener Krieg ist **nicht** fes
   vorhanden ist. Weitere Aufgaben (Steuern, Aufgebote): später, siehe Militär-Konzept.
 - **Haltung:** standesbewusst, versteht sich als Erbe der Verfeinerung und Legitimität der Alten Welt (Steckbrief). Frauen als Monarch sind dort **extrem
   unbeliebt**.
-- **Unterschied zu Montclair:** Dort inthronisiert der „Rat der Frauen" Isabella I. und der Königsrat berät; Elmsworths Adelsrat ist männlich geprägt
+- **Unterschied zu Montclair:** Dort inthronisiert der „Rat der Frauen" Isabella I. und der Königsrat berät (Hinweis 2026-10-04: im Kanon heißt das Gremium Hofrat, „Königsrat" war unbelegt); Elmsworths Adelsrat ist männlich geprägt
   (Vorschlag).
 
 ### 3.2 Ausgangslage (Alfred I., E3, G5)

@@ -19,3 +19,4 @@ Beteiligte sich am „Rat der Frauen" gegen die Tyrannei ihres Vaters Ferdinand 
 ## Verweise
 
 - [Werke/Die Königsbücher von Montclair/03 - König Ferdinand IV. Montclair](../../../Werke/Die%20Königsbücher%20von%20Montclair/03%20-%20König%20Ferdinand%20IV.%20Montclair.md)
+- [Kanon/Reiche/Königreich Montclair/Rat der Frauen](../../Reiche/Königreich%20Montclair/Rat%20der%20Frauen.md)

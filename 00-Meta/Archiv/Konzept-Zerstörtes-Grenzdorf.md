@@ -52,8 +52,8 @@ Jede Aussage wurde gegen die genannte Quelle gelesen.
 - **Charaktere:** Alexander II. zeigt „wenig Interesse an der Kriegskunst" und baut „Brücken statt Mauern" (Königsbuch 06). Cedric II. ist als vom Adelsrat
   ernannter König auf Anerkennung angewiesen. Wilhelm II. sieht die Krone als „Last" und träumt „nicht von Ruhm oder Erweiterung" (Königsbuch 07), das passt zu
   einem passiven Verhalten im Konflikt.
-- **Andere freie Dörfer:** Isabellas Dorf (G1, Hauptinsel) war ebenfalls frei und wurde unter Ferdinand IV. einverleibt. Das Grenzdorf ist davon unabhängig. Der
-  Montclair-Steckbrief nennt unter den Institutionen „die Einrichtung der unabhängigen Dörfer".
+- **Andere freie Dörfer:** Isabellas Dorf (G1, Hauptinsel) war ebenfalls frei und wurde unter Ferdinand IV. einverleibt. Das Grenzdorf ist davon unabhängig. Die
+  zitierte Stelle „Einrichtung der unabhängigen Dörfer" im Montclair-Steckbrief war unbelegt und wurde am 2026-10-04 aus dem Kanon entfernt.
 - **Quellenlage:** Die Königsbücher und Aldrics Werke erwähnen das Dorf nicht. Aldric schreibt in Eldon (G7) und stützt sich auf das Eldoner Archiv. Seine
   Haltung, Unsicherheit auszuweisen, passt zum Dorf („Der Blick der Heimatlosen": Fragmente, Briefe, fehlende Namen).
 
