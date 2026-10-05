@@ -57,13 +57,13 @@ Quelle: `Assets/Karten/montclair/9_8_x512_z-9216.png`, Ausschnitt um den Wegpunk
 
 | Bezug | Entfernung | Anmerkung |
 |---|---|---|
-| Fährwerder (786 \| -8633) | ca. 410 | nördlich |
-| Burg Erzwacht (941 \| -8666) | ca. 410 | nordnordöstlich |
-| Felder (702 \| -8855) | ca. 215 | nordwestlich, Wegpunkt `Felder` |
-| Burg Montclair (996 \| -9447) | ca. 445 | südöstlich |
-| Dorf 1 (364 \| -8958) | ca. 450 | westlich |
-| Stadt Montclair (350 \| -9463) | ca. 620 | südwestlich |
-| Montclairs Ostgrenze | ca. 405 | nächster Grenzpunkt der Montclair-Grenze: `A19` (1089 \| -8755), Stand Wegpunkte 2026-10-05. Elmsworths Grenzpunkte liegen noch weiter nordöstlich (ca. 510). |
+| Fährwerder (786 \| -8633) | ca. 410 | südlich |
+| Burg Erzwacht (941 \| -8666) | ca. 405 | südsüdöstlich |
+| Felder (702 \| -8855) | ca. 215 | südsüdwestlich, Wegpunkt `Felder` |
+| Burg Montclair (996 \| -9447) | ca. 445 | nordnordöstlich |
+| Dorf 1 (364 \| -8958) | ca. 450 | westlich, leicht südlich |
+| Stadt Montclair (350 \| -9463) | ca. 620 | nordwestlich |
+| Grenze zu Elmsworth | ca. 405 | südöstlich; nächster Grenzpunkt der Montclair-Grenze: `A19` (1089 \| -8755), Stand Wegpunkte 2026-10-05. Elmsworth selbst liegt noch weiter südöstlich (nächster Elmsworther Grenzpunkt `A26`, 979 \| -8563, ca. 510). |
 
 Offen ist, ob das Gewässer bei Dorf 2 **derselbe Fluss** wie bei Burg Erzwacht und Fährwerder ist. Die Karte zeigt ein zusammenhängendes Gewässernetz, ohne
 dass eine Verbindung sicher ist.
@@ -149,7 +149,7 @@ Das Gebäude im Norden wirkt abgesetzt. Ob es eine Kapelle ist, bleibt offen. F�
   Frage zur Zollstelle zusammen entschieden werden, nicht allein hier.
 - **Fährwerder-Handel:** „Handel mit Orten weiter südöstlich" bleibt offen. Dorf 2 darf sie nicht stillschweigend festlegen.
 - **Gewässer:** Der Fluss hat noch keinen Namen. Ein Name sollte einmal für alle drei Orte entschieden werden (Fährwerder, Burg, Dorf 2).
-- **Grenznähe:** Dorf 2 liegt gut 400 Blöcke von der Ostgrenze und damit deutlich weiter im Landesinneren als die Burg. Das spricht für ein Hinterland-Dorf.
+- **Grenznähe:** Dorf 2 liegt gut 400 Blöcke von der Grenze zu Elmsworth und damit deutlich weiter im Landesinneren als die Burg. Das spricht für ein Hinterland-Dorf.
 - **Kein Widerspruch** zu Halwyn oder zur Burg-Mine.
 
 ## 7. Offene Fragen an den Nutzer
