@@ -253,7 +253,7 @@ für spätere Sessions).
   geschrieben, beide nennen Halwyn nicht. Archiviertes Konzept: [Konzept-Burg-Flussinsel.md](Archiv/Konzept-Burg-Flussinsel.md).
 - **Fährwerder (Details)** — Name von Vorsteher und Priester, Bestimmung des Vorstehers, wer das Dorf verwaltet, die Orte im Südosten, mit denen es handelte
   (und ob in Elmsworth), Art und Bedeutung des Erinnerungsstücks der Halwyner, Herkunft, Dauer und Lohn der Bergleute (gehört zur Burg). Dorf 1 und Dorf 2
-  werden später separat betrachtet. Die Bauwerks-Chronik der Burg nennt die Halwyner nicht.
+  werden separat betrachtet, siehe [Konzept-Dorf-1](Konzepte/Konzept-Dorf-1.md) und [Konzept-Dorf-2](Konzepte/Konzept-Dorf-2.md). Die Bauwerks-Chronik der Burg nennt die Halwyner nicht.
 - **Halwyn in den Werken** — Offen ist, ob Aldrics Chronik oder eine freie Geschichte Halwyn aufgreifen (Königsbuch 06 und die Bauwerks-Chronik der Burg
   Erzwacht nennen es nicht). Der Landgrenzstreifen selbst ist als Niemandsland geklärt.
 - **Wilhelm II. — Ehefrau/Kinder** — bislang nicht überliefert; relevant, sobald die Nachfolge nach Wilhelm II. geschrieben wird.
