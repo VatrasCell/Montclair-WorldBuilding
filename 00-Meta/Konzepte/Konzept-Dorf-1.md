@@ -1,7 +1,7 @@
 # Konzept: Dorf 1 (Arbeitstitel), das planmäßig angelegte Küstendorf
 
 **Status:** Entwurfsdokument, noch nicht kanonreif. Nichts hiervon steht im Kanon.
-**Stand:** 2026-10-05
+**Stand:** 2026-10-05, nach der ersten Entscheidungsrunde (Kernfragen A bis D, Abschnitt 1)
 **Name:** noch offen. Der Wegpunkt heißt im Spiel `Dorf 1` (364 | 64 | -8958), Set `worldbuilding`, Farbe 11 (Montclair).
 **Bezug:** Schwesterdokument zu [Konzept-Dorf-2.md](Konzept-Dorf-2.md); Vorbild für Ablauf und Aufbau ist das archivierte
 [Konzept-Dorf-3.md](../Archiv/Konzept-Dorf-3.md) (Fährwerder). Die Festlegung „Dorf 1 und Dorf 2 werden später separat betrachtet" stammt von dort.
@@ -20,9 +20,30 @@ in den Kanon übernommen (`CLAUDE.md`, Arbeitsweise Punkt 3).
   eine Rolle spielen, muss aber nicht.
 - Weltregeln: keine Altersangaben in Zahlen, Erinnerungsverlust nur für zerstörte Reiche, kein Pauschalschluss von Montclair auf andere Reiche.
 
-### Entschieden
+### Entschieden (Nutzer, 2026-10-05, noch nicht im Kanon)
 
-- Nur die Reihenfolge: Dorf 1 wird nach Fährwerder separat betrachtet (Nutzer, 2026-10-04).
+| Frage | Entscheidung |
+|---|---|
+| Reihenfolge | Dorf 1 wird nach Fährwerder separat betrachtet (2026-10-04). |
+| A. Zeit | **A1: G4 (Isabella I.)**, Teil des Wiederaufbaus. |
+| B. Zweck | **B1: Versorgungsdorf der Stadt Montclair.** Es liefert Fisch, Gemüse, Obst und Holz an die Stadt. |
+| C. Rechtsform | **C1: Kronland.** Das Dorf ist unmittelbar der Krone unterstellt, im Gegensatz zu Fährwerder. |
+| D. Bauten | **D2:** Der **burgartige Bau östlich der Mitte ist die Kirche** der Staatsreligion, der **Bau auf dem Hügel am Südrand ein Herrensitz oder Gut**. |
+
+Die Entscheidungen werden erst mit Name und den Restpunkten (Abschnitt 7) in den Kanon übernommen.
+
+### Folgerungen aus den Entscheidungen (Vorschlag, nicht entschieden)
+
+- **Kronland und Herrensitz:** Wer auf dem Hügel sitzt, ist noch offen. Bei Kronland liegt ein **Amtmann oder Verwalter der Krone** nahe, kein Lehensherr
+  (der Lehensfall C3 wurde nicht gewählt). Möglich ist auch ein **Krongut**, das die Versorgung der Stadt organisiert (B1). Ob der Verwalter Adeliger oder
+  Bürgerlicher ist, ist offen.
+- **Gegenbild zu Fährwerder:** Dorf 1 ist geplant, versorgt die Stadt und gehört der Krone. Fährwerder ist gewachsen, handelt am Fluss und hat einen
+  bürgerlichen Vorsteher. Das sollte im Kanon ausdrücklich so stehen, damit die beiden Rechtsformen nicht verwechselt werden.
+- **Planung unter Isabella I.:** Die Rasteranlage passt zu ihrem Wiederaufbau und lässt sich als **Entscheidung der Krone** erzählen, ohne dass Isabellas
+  Königsbuch (04) etwas dazu sagt. Ob sie persönlich beteiligt war, ist offen. Der Rat der Frauen könnte die Gründung angeregt haben (Option).
+- **Kirche im Zentrum:** Der Bau mit zwei umzäunten Höfen kann **Kirchhof und Friedhof** tragen. Er ist wohl das größte Gebäude im Raster, damit die Kirche das
+  geistliche Zentrum der Gründung. Ein Priester ohne direkten Rang, wie in Fährwerder. Die Kirche der Stadt Montclair bleibt die größere und ranghöhere.
+- **Hofrat:** Als Kronland ist Dorf 1 ein naher Herkunftsort für einen Hofratsvertreter, falls Wilhelm II. berufen soll (reine Option).
 
 ## 2. Befund auf der Karte
 
@@ -83,7 +104,7 @@ der Inselgrenze, die der Kanon nicht festlegt (Montclair-Steckbrief: Hauptstadt 
 
 Je Frage mehrere Richtungen. Eine Empfehlung steht nur, wo die Karte etwas nahelegt.
 
-### A. Zeit der Gründung
+### A. Zeit der Gründung (entschieden: A1)
 
 | Option | Beschreibung | Bewertung |
 |---|---|---|
@@ -92,7 +113,7 @@ Je Frage mehrere Richtungen. Eine Empfehlung steht nur, wo die Karte etwas nahel
 | A3 | **G2 bis G3**: älter, aus der Frühzeit unter Ferdinand III. oder IV. | möglich, zum Raster aber weniger stimmig |
 | A4 | **nicht festgelegt** | zulässig, wenn die Zeit für die Geschichte keine Rolle spielt |
 
-### B. Zweck und Wirtschaft
+### B. Zweck und Wirtschaft (entschieden: B1)
 
 | Option | Beschreibung |
 |---|---|
@@ -101,7 +122,7 @@ Je Frage mehrere Richtungen. Eine Empfehlung steht nur, wo die Karte etwas nahel
 | B3 | **Verwaltungs- oder Wegeort** an der Südroute der Stadt. Die Brücke nach Osten ist der Grund, der burgartige Bau der Sitz. |
 | B4 | **Gründung für einen bestimmten Personenkreis**, zum Beispiel Handwerker der Universität oder Familien von Bauleuten des Palastes. |
 
-### C. Verwaltung und Rechtsform
+### C. Verwaltung und Rechtsform (entschieden: C1)
 
 Fährwerder hat einen bürgerlichen Vorsteher und gehört „nicht direkt der Krone". Für Dorf 1 sind die Optionen:
 
@@ -115,7 +136,7 @@ Fährwerder hat einen bürgerlichen Vorsteher und gehört „nicht direkt der Kr
 Hinweis: Sobald „nicht direkt der Krone" und „Kronland" beide im Kanon stehen, sollte der Unterschied benannt werden, sonst wirkt die Welt
 uneinheitlich. Der Montclair-Steckbrief hat zu Dorfverwaltung bewusst nichts.
 
-### D. Der burgartige Bau und der Hügelbau
+### D. Der burgartige Bau und der Hügelbau (entschieden: D2)
 
 Zwei auffällige Gebäude, deren Funktion die Karte offen lässt. Drei Zuordnungen:
 
@@ -159,16 +180,18 @@ Dorf 1 hat, anders als Fährwerder, **keinen Anknüpfungspunkt** an Halwyn oder 
 
 ## 7. Offene Fragen an den Nutzer
 
-Reihenfolge nach Wirkung auf den Rest.
+Die Fragen zu Zeit, Zweck, Rechtsform und Bauten (A bis D) sind entschieden. Offen sind, nach Wirkung auf den Rest geordnet:
 
-1. **Insel oder Festland?** Liegt Dorf 1 auf der Hauptinsel oder auf dem Festland? (Hängt an der Kartenlage, nicht an Lore.)
-2. **Rechtsform:** C1 (Kronland), C2 (wie Fährwerder), C3 (Lehen) oder offen lassen?
-3. **Zeit:** A1 (G4), eine andere Generation oder offen?
-4. **Funktion des burgartigen Baus und des Hügelbaus** (Frage D). Das kann der Nutzer im Spiel am besten beantworten, weil er weiß, wofür er sie gebaut hat.
-5. **Zweck:** B1 bis B4 oder eine eigene Idee?
-6. **Name:** eigener Vorschlag oder Wahl aus Abschnitt 5?
-7. **Rolle in der Geschichte:** eine der Optionen aus F oder bewusst keine?
-8. **Detailtiefe:** reicht ein kurzer Steckbrief im Stil von Fährwerder, oder soll auch eine Bauwerks-Chronik folgen?
+1. **Insel oder Festland?** Liegt Dorf 1 auf der Hauptinsel oder auf dem Festland? (Hängt an der Kartenlage, nicht an Lore.) Bei Kronland wäre die Insel
+   naheliegend, nötig ist es nicht.
+2. **Wer sitzt auf dem Herrensitz?** Ein Amtmann oder Verwalter der Krone, ein Krongut mit Gutsverwalter oder jemand aus der Königsfamilie? Adelig oder
+   bürgerlich?
+3. **Hat das Dorf einen Vorsteher?** Fährwerder hat einen bürgerlichen Vorsteher. Bei Kronland könnte der Verwalter diese Rolle ganz ausfüllen, oder es gibt
+   zusätzlich eine Dorfvertretung.
+4. **Name:** eigener Vorschlag oder Wahl aus Abschnitt 5?
+5. **Rolle in der Geschichte** (Frage F): eine der Optionen oder bewusst keine?
+6. **Anbindung** (Frage E): Wer baute die Brücke im Osten, und soll das Dorf an der Südroute der Stadt liegen?
+7. **Detailtiefe:** reicht ein kurzer Steckbrief im Stil von Fährwerder, oder soll auch eine Bauwerks-Chronik folgen?
 
 ## 8. Übernahme in den Kanon (nach Abstimmung)
 
