@@ -1,7 +1,7 @@
 # Konzept: Dorf 1 (Arbeitstitel), das planmäßig angelegte Küstendorf
 
 **Status:** Entwurfsdokument, noch nicht kanonreif. Nichts hiervon steht im Kanon.
-**Stand:** 2026-10-05, nach der ersten Entscheidungsrunde (Kernfragen A bis D, Abschnitt 1)
+**Stand:** 2026-10-05, nach der zweiten Entscheidungsrunde (Insel, Herrensitz, Vorsteher, Abschnitt 1)
 **Name:** noch offen. Der Wegpunkt heißt im Spiel `Dorf 1` (364 | 64 | -8958), Set `worldbuilding`, Farbe 11 (Montclair).
 **Bezug:** Schwesterdokument zu [Konzept-Dorf-2.md](Konzept-Dorf-2.md); Vorbild für Ablauf und Aufbau ist das archivierte
 [Konzept-Dorf-3.md](../Archiv/Konzept-Dorf-3.md) (Fährwerder). Die Festlegung „Dorf 1 und Dorf 2 werden später separat betrachtet" stammt von dort.
@@ -29,14 +29,23 @@ in den Kanon übernommen (`CLAUDE.md`, Arbeitsweise Punkt 3).
 | B. Zweck | **B1: Versorgungsdorf der Stadt Montclair.** Es liefert Fisch, Gemüse, Obst und Holz an die Stadt. |
 | C. Rechtsform | **C1: Kronland.** Das Dorf ist unmittelbar der Krone unterstellt, im Gegensatz zu Fährwerder. |
 | D. Bauten | **D2:** Der **burgartige Bau östlich der Mitte ist die Kirche** der Staatsreligion, der **Bau auf dem Hügel am Südrand ein Herrensitz oder Gut**. |
+| Lage | Dorf 1 liegt auf einer **eigenen Insel südlich der Hauptinsel** mit der Stadt Montclair (laut Nutzer, siehe Kartensegmente). |
+| Herrensitz | Der Herrensitz gehört **Katharina Montclair** (Tochter Isabellas I.). |
+| Vorsteher | Der Vorsteher ist **Katharinas Ehemann**. Sein **Name ist noch zu definieren**. |
 
 Die Entscheidungen werden erst mit Name und den Restpunkten (Abschnitt 7) in den Kanon übernommen.
 
 ### Folgerungen aus den Entscheidungen (Vorschlag, nicht entschieden)
 
-- **Kronland und Herrensitz:** Wer auf dem Hügel sitzt, ist noch offen. Bei Kronland liegt ein **Amtmann oder Verwalter der Krone** nahe, kein Lehensherr
-  (der Lehensfall C3 wurde nicht gewählt). Möglich ist auch ein **Krongut**, das die Versorgung der Stadt organisiert (B1). Ob der Verwalter Adeliger oder
-  Bürgerlicher ist, ist offen.
+- **Katharina und das Kronland:** Als Kronland steht das Dorf unmittelbar unter der Krone. Der Herrensitz ist Katharinas Besitz und kein Lehen des Dorfes.
+  Der Vorsteher (ihr Mann) führt das Dorf, die Krone bleibt Herrin. So bleiben C1 (Kronland) und die Familie im Dorf vereinbar.
+- **Passung zu Katharina:** Sie ist naturverbunden und sozial engagiert, Mitglied des Rates der Frauen und an Programmen für die einfachen Menschen beteiligt
+  ([Katharina Montclair](../../Kanon/Personen/Haus%20Montclair/Katharina%20Montclair.md)). Ein **Versorgungsdorf** (B1) und ein **Musterdorf der sozialen
+  Programme** passen dazu. Das ist eine Deutung, kein Kanon (Option).
+- **Kein neuer Kanon über Katharina ohne Abstimmung:** Ihre Datei nennt bisher keinen Ehemann und keinen Wohnsitz. Beides wären neue Fakten
+  (Vollständigkeits-Checkliste, `CLAUDE.md` Punkt 6).
+- **Insel:** Eine eigene Insel südlich der Hauptinsel macht das Dorf zu einem **Inselort**. Die Versorgung der Stadt läuft dann **über das Wasser**. Der
+  T-förmige Steg im Westen und der Weg nach Norden passen dazu (Option, siehe E).
 - **Gegenbild zu Fährwerder:** Dorf 1 ist geplant, versorgt die Stadt und gehört der Krone. Fährwerder ist gewachsen, handelt am Fluss und hat einen
   bürgerlichen Vorsteher. Das sollte im Kanon ausdrücklich so stehen, damit die beiden Rechtsformen nicht verwechselt werden.
 - **Planung unter Isabella I.:** Die Rasteranlage passt zu ihrem Wiederaufbau und lässt sich als **Entscheidung der Krone** erzählen, ohne dass Isabellas
@@ -150,9 +159,12 @@ Für die Kirche gilt: Altar nach Süden, ein Priester ohne direkten Rang (wie F�
 
 ### E. Anbindung
 
-- **Brücke im Osten:** wer sie gebaut hat und wann, ist offen. Option: Teil der Gründung, damit das Dorf nicht auf der Küste endet.
-- **Weg nach Norden:** führt auf die Stadt Montclair zu (ca. 505 Blöcke nördlich). Das Dorf läge dann an der **Südroute der Stadt**. Nichts ist festgelegt.
-- **Steg im Westen:** Anleger für Boote, kein Hafen.
+- **Verbindung zur Hauptinsel:** Wie das Dorf mit der Stadt verbunden ist (Fähre, Brücke oder Boote), ist offen. Die Stadt liegt rund 505 Blöcke nördlich.
+  Die Karte zeigt die Wasserlage nicht eindeutig, der Nutzer hat die Insel entschieden.
+- **Brücke im Osten:** Sie führt über eine Bucht zum bewaldeten Land. Ob dort die Hauptinsel, das Festland oder eine weitere Insel beginnt, ist offen.
+  Wer sie baute und wann, ist ebenfalls offen.
+- **Weg nach Norden:** führt zum Nordufer der Insel, also auf die Stadt zu. Nichts ist festgelegt.
+- **Steg im Westen:** Anleger für Boote, kein Hafen. Für B1 geeignet (kleine Versorgungsboote).
 
 ### F. Bezug zur Hauptgeschichte
 
@@ -175,23 +187,28 @@ Dorf 1 hat, anders als Fährwerder, **keinen Anknüpfungspunkt** an Halwyn oder 
 - Dorf 1 berührt **keine bestehende Kanon-Aussage**. Es füllt eine Lücke („neu gegründete Dörfer").
 - **Risiko Dopplung:** Wird Dorf 1 als Versorgungsdorf der Stadt beschrieben, sollte es sich von den Feldern (Wegpunkte `Felder`, `Felder zu Montclair`)
   unterscheiden. Diese sind als Anbauflächen bereits benannt, aber noch ohne Kanon-Datei.
-- **Risiko Insel:** Liegt es auf der Hauptinsel, muss es zu Isabellas Dorf (G1, Hauptinsel) und dem Palasthügel passen. Isabellas Dorf wurde als frei
-  anerkannt und von Ferdinand IV. einverleibt. Ein zweites Dorf auf der Insel braucht eine eigene, davon unabhängige Herkunft.
+- **Risiko Insel:** Mit der eigenen Insel südlich der Hauptinsel entfällt der Konflikt mit Isabellas Dorf (G1, Hauptinsel). Die Inselgrenzen sind aber
+  nirgends im Kanon festgelegt, und der Montclair-Steckbrief spricht nur von „einer Insel". Eine Inselgrenze braucht daher einen Eintrag (Geographie).
+- **Risiko Zeit:** Katharina gehört zu **G5** (Kind Isabellas I., Schwester Alexanders I.). Das Dorf ist in **G4** gegründet (A1). Isabellas Herrschaft reicht
+  von G4 bis G6 früh, ein Sitz Katharinas im Dorf ist also möglich, aber nach der Gründung zu denken (Frage 1 in Abschnitt 7).
+- **Risiko Vorsteher:** Fährwerder hat einen **bürgerlichen** Vorsteher. Ein Ehemann Katharinas ist als Angeheirateter in die Königsfamilie bürgerlich oder
+  adelig, das ist nicht festgelegt. Im Kanon gilt für Montclair nur: Zugezogene Adelige werden in ihrem Rang anerkannt. Titel angeheirateter Männer sind
+  offen.
 
 ## 7. Offene Fragen an den Nutzer
 
-Die Fragen zu Zeit, Zweck, Rechtsform und Bauten (A bis D) sind entschieden. Offen sind, nach Wirkung auf den Rest geordnet:
+Entschieden sind Zeit, Zweck, Rechtsform, Bauten, Insel, Herrensitz (Katharina) und Vorsteher (ihr Mann). Offen sind, nach Wirkung auf den Rest geordnet:
 
-1. **Insel oder Festland?** Liegt Dorf 1 auf der Hauptinsel oder auf dem Festland? (Hängt an der Kartenlage, nicht an Lore.) Bei Kronland wäre die Insel
-   naheliegend, nötig ist es nicht.
-2. **Wer sitzt auf dem Herrensitz?** Ein Amtmann oder Verwalter der Krone, ein Krongut mit Gutsverwalter oder jemand aus der Königsfamilie? Adelig oder
-   bürgerlich?
-3. **Hat das Dorf einen Vorsteher?** Fährwerder hat einen bürgerlichen Vorsteher. Bei Kronland könnte der Verwalter diese Rolle ganz ausfüllen, oder es gibt
-   zusätzlich eine Dorfvertretung.
-4. **Name:** eigener Vorschlag oder Wahl aus Abschnitt 5?
-5. **Rolle in der Geschichte** (Frage F): eine der Optionen oder bewusst keine?
-6. **Anbindung** (Frage E): Wer baute die Brücke im Osten, und soll das Dorf an der Südroute der Stadt liegen?
-7. **Detailtiefe:** reicht ein kurzer Steckbrief im Stil von Fährwerder, oder soll auch eine Bauwerks-Chronik folgen?
+1. **Zeit von Katharinas Sitz:** Wird das Dorf in G4 gegründet und Katharina erhält den Herrensitz später (G5), oder gründet sie es selbst? Soll die Zeit auf
+   „G4 bis G5" erweitert werden?
+2. **Name und Stand des Vorstehers:** Wie heißt Katharinas Ehemann, und ist er bürgerlich oder adelig, aus Montclair oder aus einem anderen Reich? Ist es
+   zugleich ihre Ehe im Kanon, mit Kindern oder ohne?
+3. **Herrensitz und Vorsteher:** Wohnt das Paar auf dem Herrensitz, und ist der Vorsteher Amtsträger der Krone (ernannt) oder gewählt?
+4. **Verbindung zur Hauptinsel:** Fähre, Brücke oder Boote? Und: Wie ist die Insel begrenzt, wo beginnt das Festland?
+5. **Name des Dorfes:** eigener Vorschlag oder Wahl aus Abschnitt 5? Bei einem Dorf Katharinas liegt auch ein Name nahe, der an sie anknüpft (Option).
+6. **Rolle in der Geschichte** (Frage F): Das Dorf ist jetzt mit einer Figur des Hauses verknüpft. Soll Katharina in einem Werk (Königsbuch 04 oder
+   Bauwerks-Chronik) dort auftauchen?
+7. **Detailtiefe:** reicht ein kurzer Steckbrief wie bei Fährwerder, oder soll auch eine Bauwerks-Chronik folgen?
 
 ## 8. Übernahme in den Kanon (nach Abstimmung)
 
