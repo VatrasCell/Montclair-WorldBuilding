@@ -55,15 +55,15 @@ Quelle: `Assets/Karten/montclair/8_8_x-512_z-9216.png`, Ausschnitt um den Wegpun
 
 | Bezug | Entfernung | Anmerkung |
 |---|---|---|
-| Stadt Montclair (350 \| -9463) | ca. 505 | südlich |
-| Felder zu Montclair (550 \| -9210) | ca. 315 | südöstlich |
-| Felder (702 \| -8855) | ca. 340 | ostsüdöstlich |
+| Stadt Montclair (350 \| -9463) | ca. 505 | nördlich |
+| Felder zu Montclair (550 \| -9210) | ca. 315 | nordöstlich |
+| Felder (702 \| -8855) | ca. 355 | ostsüdöstlich |
 | Dorf 2 (805 \| -9045) | ca. 450 | östlich |
-| Fährwerder (786 \| -8633) | ca. 530 | östlich |
-| Isabellas Dorf (283 \| -9579) | ca. 610 | südsüdwestlich, Hauptinsel |
-| Montclairs Grenze im Norden | ca. 165 | nächster Grenzpunkt der Montclair-Grenze: `A15` (252 \| -8839), Stand Wegpunkte 2026-10-05 |
+| Fährwerder (786 \| -8633) | ca. 530 | südöstlich |
+| Isabellas Dorf (283 \| -9579) | ca. 625 | nördlich, Hauptinsel |
+| Montclairs Grenze im Südwesten | ca. 165 | nächster Grenzpunkt der Montclair-Grenze: `A15` (252 \| -8839), Stand Wegpunkte 2026-10-05 |
 
-Dorf 1 liegt damit nah an Montclairs nördlicher Grenze. Wer dahinter liegt, ist im Kanon nicht festgelegt. Das kann ein Thema sein, muss aber keines werden.
+Dorf 1 liegt damit nah an Montclairs südwestlicher Grenze, also am äußersten Südende des Reiches (die Stadt liegt 505 Blöcke nördlich). Wer dahinter liegt, ist im Kanon nicht festgelegt. Das kann ein Thema sein, muss aber keines werden.
 
 Offen ist, ob Dorf 1 auf der **Hauptinsel** oder bereits auf dem **Festland** liegt. Die Karte zeigt nur Küste im Westen und eine Bucht im Osten. Das hängt an
 der Inselgrenze, die der Kanon nicht festlegt (Montclair-Steckbrief: Hauptstadt auf einer Insel, Ausbreitung auf das Festland im Osten).
@@ -98,7 +98,7 @@ Je Frage mehrere Richtungen. Eine Empfehlung steht nur, wo die Karte etwas nahel
 |---|---|
 | B1 | **Versorgungsdorf der Stadt:** liefert Fisch, Gemüse, Obst und Holz an die Stadt Montclair. Passt zu den Beeten und der Nähe zu den Feldern. |
 | B2 | **Küstenfischerdorf mit Sonderrolle:** Fischerei im Meer, keine Handelshäfen. Der Steg ohne Schiffe ist dann Anleger für Boote. |
-| B3 | **Verwaltungs- oder Zollort** auf dem Landweg zwischen Stadt und Osten. Die Brücke nach Osten ist der Grund, der burgartige Bau der Sitz. |
+| B3 | **Verwaltungs- oder Wegeort** an der Südroute der Stadt. Die Brücke nach Osten ist der Grund, der burgartige Bau der Sitz. |
 | B4 | **Gründung für einen bestimmten Personenkreis**, zum Beispiel Handwerker der Universität oder Familien von Bauleuten des Palastes. |
 
 ### C. Verwaltung und Rechtsform
@@ -130,7 +130,7 @@ Für die Kirche gilt: Altar nach Süden, ein Priester ohne direkten Rang (wie F�
 ### E. Anbindung
 
 - **Brücke im Osten:** wer sie gebaut hat und wann, ist offen. Option: Teil der Gründung, damit das Dorf nicht auf der Küste endet.
-- **Weg nach Norden:** führt vermutlich zu Wald oder weiteren Orten. Nichts ist festgelegt.
+- **Weg nach Norden:** führt auf die Stadt Montclair zu (ca. 505 Blöcke nördlich). Das Dorf läge dann an der **Südroute der Stadt**. Nichts ist festgelegt.
 - **Steg im Westen:** Anleger für Boote, kein Hafen.
 
 ### F. Bezug zur Hauptgeschichte

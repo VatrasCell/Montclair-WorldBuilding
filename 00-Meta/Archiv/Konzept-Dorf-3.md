@@ -72,7 +72,7 @@ Quelle: `Assets/Karten/montclair/9_8_x512_z-9216.png`, Ausschnitt um den Wegpunk
 - Ein **größeres Einzelgebäude** im Süden steht dort, wo sich die Straße aus dem Norden mit der Ost-West-Straße trifft. Es ist die **Kirche** (Entscheidung
   des Nutzers). Im Norden steht ein Gebäude mit hellem Vorplatz, dessen Nutzung offen ist.
 - **Zwei Beete oder Gärten** mit bunter Bepflanzung liegen im Dorf, dazu Waldrand und Gewässer im Westen. Felder sind nicht erkennbar, die Felder
-  (702 | -8855) liegen rund 235 Blöcke südwestlich.
+  (702 | -8855) liegen rund 235 Blöcke nördlich bis nordnordwestlich.
 - Nördlich des Dorfes liegt eine **kleine Halbinsel** mit Kran oder Ausleger und einem Wachbau, über einen schmalen Pfad an das Dorf angebunden (laut Nutzer,
   siehe 4.5).
 - Auf der Hauptinsel der Burg liegen **kleine Nebengebäude** am Nord- und Ostufer. Dorf und Burg sehen sich quer über das Wasser.
@@ -90,7 +90,7 @@ Quelle: `Assets/Karten/montclair/9_8_x512_z-9216.png`, Ausschnitt um den Wegpunk
 | Bezug | Entfernung (Luftlinie, Blöcke) | Anmerkung |
 |---|---|---|
 | Burg auf der Flussinsel | ca. 160 | über das Wasser, Westufer gegenüber |
-| Felder (702 \| -8855) | ca. 235 | südwestlich |
+| Felder (702 \| -8855) | ca. 235 | nordnordwestlich |
 | Dorf 2 (805 \| -9045) | ca. 410 | nördlich |
 | Halwyn (um 1317 \| -8996) | ca. 640 | nordöstlich, im Landgrenzstreifen |
 | Dorf 1 (364 \| -8958) | ca. 530 | westlich |
