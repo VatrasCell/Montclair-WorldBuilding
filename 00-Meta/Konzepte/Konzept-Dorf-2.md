@@ -24,7 +24,9 @@ in den Kanon übernommen (`CLAUDE.md`, Arbeitsweise Punkt 3).
 
 ### Entschieden
 
-- Nur die Reihenfolge: Dorf 2 wird nach Fährwerder separat betrachtet (Nutzer, 2026-10-04).
+- Die Reihenfolge: Dorf 2 wird nach Fährwerder separat betrachtet (Nutzer, 2026-10-04).
+- **Felder:** Die „Felder" (702 | -8855) werden von **Dorf 2 und Fährwerder** bewirtschaftet, die „Felder zu Montclair" von Dorf 1 (Nutzer, 2026-10-08).
+  Die Felder liegen rund 215 Blöcke südsüdwestlich von Dorf 2 und rund 235 Blöcke nordnordwestlich von Fährwerder, also zwischen beiden Dörfern.
 
 ## 2. Befund auf der Karte
 
@@ -40,7 +42,7 @@ Quelle: `Assets/Karten/montclair/9_8_x512_z-9216.png`, Ausschnitt um den Wegpunk
 - Eine **hölzerne Brücke** führt vom Dorf nach Osten über einen Wasserarm zu einem **großen Hafenanleger**: ein **Segelschiff** mit Mast, ein **Kran**, eine
   **lange Lagerhalle** mit Bretterdach, vier **kleine Boote** im Süden am Steg. Der Anleger liegt auf der **gegenüberliegenden Uferseite**.
 - Im Südwesten **Felder** mit bunten Beetfeldern in vielen Farben, ein langgestrecktes **Wirtschaftsgebäude** (Scheune) am Kartenrand. Die Felder sind kein
-  Teil des Dorfes, aber über Feldwege angebunden.
+  Teil des Dorfes, aber über Feldwege angebunden. Sie sind die „Felder", die Dorf 2 gemeinsam mit Fährwerder bewirtschaftet (entschieden).
 - Der Fluss bildet an der Ostseite einen **breiten See oder eine Flussweitung**. Am Ufer **graue Felsklippen**.
 - Ein Weg zieht nach Westen und Süden in den Wald.
 
@@ -50,7 +52,8 @@ Quelle: `Assets/Karten/montclair/9_8_x512_z-9216.png`, Ausschnitt um den Wegpunk
 - Der Anleger hat **Lager, Kran und ein Schiff**. Das ist ein **Handelsumschlag**, größer als die Halbinsel bei Fährwerder (nur Kran und Wachbau). Er passt
   zum Bild eines **Flusshafens**.
 - Dass der Anleger **am anderen Ufer** liegt, trennt Wohnort und Warenplatz. Wer dort arbeitet, überquert die Brücke.
-- Die **Felder** im Südwesten sprechen für Selbstversorgung und Versorgung des Hafens.
+- Die **Felder** im Südwesten gehören laut Entscheidung gemeinsam zu Dorf 2 und Fährwerder. Das verbindet die beiden Flussdörfer wirtschaftlich und spricht
+  für Selbstversorgung und Versorgung des Hafens.
 - Es gibt **keine Mauer** und keine Garnison. Ein Wachbau im Norden ist allenfalls Beobachtungsposten.
 
 ### Lage und Entfernungen (Luftlinie, Blöcke)
@@ -172,6 +175,6 @@ Wie bei Fährwerder, siehe Vollständigkeits-Checkliste (`CLAUDE.md`, Arbeitswei
 - Neu: `Kanon/Reiche/Königreich Montclair/<Dorfname>.md` (Kurzfassung, Zeit, Lage, Gestalt, Hafen, Verwaltung, „Nicht bekannt").
 - Ändern: Montclair-Steckbrief (Abschnitt „Wichtige Städte und Siedlungen"), `00-Meta/Glossar.md`, `00-Meta/Zeitleiste.md` (Gründungsgeneration),
   `00-Meta/Offene-Fragen.md` (Eintrag Fährwerder und Burg Erzwacht: Verweise auf Dorf 2, Zollfrage), `CLAUDE.md` (Strukturzeile), gegebenenfalls
-  `Fährwerder.md` (Nachbarschaft) und `Burg Erzwacht.md` (Umgebung, Rangfolge der Umschlagplätze).
+  `Fährwerder.md` (Nachbarschaft) und `Burg Erzwacht.md` (Umgebung, Rangfolge der Umschlagplätze). In `Fährwerder.md` ist die gemeinsame Bewirtschaftung der „Felder" nachzutragen.
 - Danach dieses Konzept als „umgesetzt" markieren und nach `00-Meta/Archiv/` verschieben.
 - **Vom Nutzer im Spiel:** Wegpunkt `Dorf 2` umbenennen, danach `tools/kartenimport.py` erneut ausführen.
