@@ -32,6 +32,8 @@ in den Kanon übernommen (`CLAUDE.md`, Arbeitsweise Punkt 3).
 | Lage | Dorf 1 liegt auf einer **eigenen Insel südlich der Hauptinsel** mit der Stadt Montclair (laut Nutzer, siehe Kartensegmente). |
 | Herrensitz | Der Herrensitz gehört **Katharina Montclair** (Tochter Isabellas I.). |
 | Vorsteher | Der Vorsteher ist **Katharinas Ehemann**. Sein **Name ist noch zu definieren**. |
+| Zeit der Übergabe | Die **Gründung ging von Isabella I. aus** und wurde **an ihre Tochter Katharina übergeben, als sie erwachsen war** (G4 Gründung, G5 Übergabe). |
+| Felder | **„Felder zu Montclair"** (550 \| -9210) werden von **Dorf 1** bewirtschaftet. **„Felder"** (702 \| -8855) bewirtschaften **Dorf 2 und Fährwerder**. |
 
 Die Entscheidungen werden erst mit Name und den Restpunkten (Abschnitt 7) in den Kanon übernommen.
 
@@ -126,7 +128,7 @@ Je Frage mehrere Richtungen. Eine Empfehlung steht nur, wo die Karte etwas nahel
 
 | Option | Beschreibung |
 |---|---|
-| B1 | **Versorgungsdorf der Stadt:** liefert Fisch, Gemüse, Obst und Holz an die Stadt Montclair. Passt zu den Beeten und der Nähe zu den Feldern. |
+| B1 | **Versorgungsdorf der Stadt:** liefert Fisch, Gemüse, Obst und Holz an die Stadt Montclair und bewirtschaftet die „Felder zu Montclair". |
 | B2 | **Küstenfischerdorf mit Sonderrolle:** Fischerei im Meer, keine Handelshäfen. Der Steg ohne Schiffe ist dann Anleger für Boote. |
 | B3 | **Verwaltungs- oder Wegeort** an der Südroute der Stadt. Die Brücke nach Osten ist der Grund, der burgartige Bau der Sitz. |
 | B4 | **Gründung für einen bestimmten Personenkreis**, zum Beispiel Handwerker der Universität oder Familien von Bauleuten des Palastes. |
@@ -175,6 +177,55 @@ Dorf 1 hat, anders als Fährwerder, **keinen Anknüpfungspunkt** an Halwyn oder 
 - **Titelort:** eine künftige Königin oder Adelige trägt `von <Dorfname>`.
 - **Stilles Dorf:** ohne besondere Rolle, ein ruhiger Ort für Szenen.
 
+### G. Der Vorsteher: Katharinas Ehemann (Vorschläge, nichts davon entschieden)
+
+Ausgangslage im Kanon: Katharina Montclair (G5) hat bisher keinen Ehemann und keinen Wohnsitz in ihrer Datei. Montclairs Namensregel kennt für angeheiratete
+Männer keine feste Titelform ([Stilrichtlinien](../Stilrichtlinien.md)), bürgerliche Familiennamen sind nicht festgelegt. Die Ehe ihrer Eltern (Isabella und
+Edmund) wurde vom Rat der Frauen erzwungen. Eine **freiwillige Ehe** Katharinas wäre ein Kontrast, der sich anbietet (Option).
+
+**Namensrahmen:** Männernamen in Montclair sind „kurz und gewichtig", deutsch-romanisch, ohne Fantasy-Neuschöpfung. Vergeben sind bereits Wilhelm, Ferdinand,
+Alexander, Edmund, Julian und Magnus (Anfangsbuchstaben W, F, A, E, J, M). Elmsworther Endungen (-win, -wulf, -ric u. a.) sind zu meiden. Der Anfangsbuchstabe K
+ist durch Katharina belegt, deshalb steht kein K-Name in der Liste.
+
+| Name | Klang und Bezug | Passt zu |
+|---|---|---|
+| **Lorenz** | ruhig, bodenständig, passt zu einem Verwalter | Variante 1 und 4, **Empfehlung** |
+| **Gregor** | kurz, gewichtig, lateinisch-deutsch | Variante 1 und 4, **Empfehlung** |
+| **Theodor** | gelehrt, warm | Variante 1 |
+| **Bernhard** | stark, ländlich | Variante 2 |
+| **Matthias** | alt, bürgerlich | Variante 2 |
+| **Leopold** | adelig, weich | Variante 3 |
+| **Valentin** | melodisch | Variante 3 |
+| **Benedikt** | geistlich geprägt | falls die Kirche eine größere Rolle bekommt |
+
+Ein Familienname ist nicht nötig. Katharinas Ehemann könnte als **Gemahl Katharinas** geführt werden. Ob er den Namen Montclair annimmt, ist offen.
+
+**Vier Biografie-Varianten** (jeweils G5, also gleiche Generation wie Katharina, ohne Zahlenangaben):
+
+1. **Der Gelehrte der Universität (bürgerlich).** Aus einer Gelehrten- oder Handwerkerfamilie der Stadt, an der von Isabella I. gegründeten Universität
+   ausgebildet, in Verwaltung und Landwirtschaft bewandert. Er lernt Katharina über die sozialen Programme des Rates der Frauen kennen, die Krone setzt ihn
+   als Vorsteher des neuen Dorfes ein. *Passung:* Versorgungsdorf, bürgerlicher Vorsteher wie in Fährwerder. *Spannung:* gering.
+2. **Der Aufsteiger (bürgerlich).** Sohn einer Fischer- oder Bauernfamilie von der Hauptinsel, der sich in Katharinas Programmen einen Namen machte. Die Ehe
+   gilt als „unter Stand", der Rat der Frauen duldet oder billigt sie. *Passung:* Katharinas Einsatz für die Schwächsten. *Spannung:* mittel (Standesfrage
+   am Hof, Haltung der Adeligen).
+3. **Der Zugezogene aus anderem Haus (adelig).** Jüngerer Sohn einer anderen Adelsfamilie, aus Montclair oder von außerhalb. Er wird in seinem Rang anerkannt
+   (Montclair-Regel für zugezogene Adelige). *Passung:* dynastische Verbindung. *Spannung:* mittel, ein adeliger Vorsteher verwischt den Gegensatz zu
+   Fährwerders bürgerlichem Vorsteher. Eine Elmsworther Herkunft wäre politisch belastet (Zurückhaltung gegenüber der Elmsworther Linie) und eher zu meiden.
+4. **Der Baumeister des Dorfes (bürgerlich).** Er plante das Rasterdorf im Auftrag Isabellas I. (Landvermesser oder Baumeister aus dem Kreis um Hafenviertel und
+   Universität), blieb als Vorsteher und heiratete die Tochter der Gründerin, als sie das Dorf übernahm. *Passung:* erklärt die geplante Anlage, die
+   Übergabe von Isabella an Katharina und die Nähe zur Krone in einer Figur. *Spannung:* gering. **Empfehlung** des Entwurfs.
+
+**Gemeinsame Bausteine** (für jede Variante nutzbar):
+
+- **Charakter:** ruhig, verlässlich, ein Mann der Arbeit statt des Hofes. Er ergänzt Katharina, die sich um Menschen kümmert, durch Ordnung und Planung.
+- **Rolle im Dorf:** Vorsteher im Auftrag der Krone, Katharina als Herrin des Herrensitzes und Schirmherrin der sozialen Anliegen. Kirche und Priester stehen
+  daneben.
+- **Heirat:** freiwillig, um die Zeit der Übergabe des Dorfes an Katharina (G5). Der Rat der Frauen hat sie gebilligt, mehr ist nicht festgelegt.
+- **Kinder:** offen. Kinder wären Adel (die Königsfamilie mit allen Nachkommen) und gäben dem Herrensitz eine Erblinie. Ohne Kinder fiele der Herrensitz bei
+  Katharinas Tod an die Krone zurück (Option).
+- **Tod:** offen. Die Sterbe-Tradition (Ehefrauen folgen ihren Männern in den Tod) ist ein mögliches Motiv, kulturell und nicht verbindlich.
+- **Offen:** wann und woran er stirbt, ob er Hofrat-Vertreter wird, ob er in einem Werk auftritt.
+
 ## 5. Namensfindung
 
 - Orte der Südregion tragen deutsche, beschreibende Namen. Das Dorf liegt **am Meer**, **auf einer Landzunge**, **mit einem Brunnen im Zentrum**.
@@ -185,37 +236,35 @@ Dorf 1 hat, anders als Fährwerder, **keinen Anknüpfungspunkt** an Halwyn oder 
 ## 6. Kanon-Verträglichkeit und Risiken
 
 - Dorf 1 berührt **keine bestehende Kanon-Aussage**. Es füllt eine Lücke („neu gegründete Dörfer").
-- **Risiko Dopplung:** Wird Dorf 1 als Versorgungsdorf der Stadt beschrieben, sollte es sich von den Feldern (Wegpunkte `Felder`, `Felder zu Montclair`)
-  unterscheiden. Diese sind als Anbauflächen bereits benannt, aber noch ohne Kanon-Datei.
+- **Felder:** Entschieden ist, dass Dorf 1 die „Felder zu Montclair" bewirtschaftet. Sie liegen rund 315 Blöcke nordöstlich und damit **nicht auf der Dorfinsel**
+  (Lage prüfen). Wie das Dorf sie erreicht und ob die Brücke im Osten dazu gehört, ist offen. Die „Felder" gehören Dorf 2 und Fährwerder. Der
+  Fährwerder-Kanon kennt diese Aussage noch nicht, sie wäre bei der Übernahme dort zu ergänzen.
 - **Risiko Insel:** Mit der eigenen Insel südlich der Hauptinsel entfällt der Konflikt mit Isabellas Dorf (G1, Hauptinsel). Die Inselgrenzen sind aber
   nirgends im Kanon festgelegt, und der Montclair-Steckbrief spricht nur von „einer Insel". Eine Inselgrenze braucht daher einen Eintrag (Geographie).
-- **Risiko Zeit:** Katharina gehört zu **G5** (Kind Isabellas I., Schwester Alexanders I.). Das Dorf ist in **G4** gegründet (A1). Isabellas Herrschaft reicht
-  von G4 bis G6 früh, ein Sitz Katharinas im Dorf ist also möglich, aber nach der Gründung zu denken (Frage 1 in Abschnitt 7).
 - **Risiko Vorsteher:** Fährwerder hat einen **bürgerlichen** Vorsteher. Ein Ehemann Katharinas ist als Angeheirateter in die Königsfamilie bürgerlich oder
   adelig, das ist nicht festgelegt. Im Kanon gilt für Montclair nur: Zugezogene Adelige werden in ihrem Rang anerkannt. Titel angeheirateter Männer sind
   offen.
 
 ## 7. Offene Fragen an den Nutzer
 
-Entschieden sind Zeit, Zweck, Rechtsform, Bauten, Insel, Herrensitz (Katharina) und Vorsteher (ihr Mann). Offen sind, nach Wirkung auf den Rest geordnet:
+Entschieden sind Zeit (Gründung G4, Übergabe an Katharina G5), Zweck, Rechtsform, Bauten, Insel, Herrensitz (Katharina), Vorsteher (ihr Mann)
+und Felder. Offen sind, nach Wirkung auf den Rest geordnet:
 
-1. **Zeit von Katharinas Sitz:** Wird das Dorf in G4 gegründet und Katharina erhält den Herrensitz später (G5), oder gründet sie es selbst? Soll die Zeit auf
-   „G4 bis G5" erweitert werden?
-2. **Name und Stand des Vorstehers:** Wie heißt Katharinas Ehemann, und ist er bürgerlich oder adelig, aus Montclair oder aus einem anderen Reich? Ist es
-   zugleich ihre Ehe im Kanon, mit Kindern oder ohne?
-3. **Herrensitz und Vorsteher:** Wohnt das Paar auf dem Herrensitz, und ist der Vorsteher Amtsträger der Krone (ernannt) oder gewählt?
-4. **Verbindung zur Hauptinsel:** Fähre, Brücke oder Boote? Und: Wie ist die Insel begrenzt, wo beginnt das Festland?
-5. **Name des Dorfes:** eigener Vorschlag oder Wahl aus Abschnitt 5? Bei einem Dorf Katharinas liegt auch ein Name nahe, der an sie anknüpft (Option).
-6. **Rolle in der Geschichte** (Frage F): Das Dorf ist jetzt mit einer Figur des Hauses verknüpft. Soll Katharina in einem Werk (Königsbuch 04 oder
+1. **Name und Biografie des Vorstehers:** Vorschläge stehen in Abschnitt G. Offen ist die Wahl von Herkunft, Name und Kindern.
+2. **Herrensitz und Vorsteher:** Wohnt das Paar auf dem Herrensitz, und ist der Vorsteher Amtsträger der Krone (ernannt) oder gewählt?
+3. **Verbindung zur Hauptinsel:** Fähre, Brücke oder Boote? Wie erreicht das Dorf die „Felder zu Montclair"? Wie ist die Insel begrenzt?
+4. **Name des Dorfes:** eigener Vorschlag oder Wahl aus Abschnitt 5? Bei einem Dorf Katharinas liegt auch ein Name nahe, der an sie anknüpft (Option).
+5. **Rolle in der Geschichte** (Frage F): Das Dorf ist jetzt mit einer Figur des Hauses verknüpft. Soll Katharina in einem Werk (Königsbuch 04 oder
    Bauwerks-Chronik) dort auftauchen?
-7. **Detailtiefe:** reicht ein kurzer Steckbrief wie bei Fährwerder, oder soll auch eine Bauwerks-Chronik folgen?
+6. **Detailtiefe:** reicht ein kurzer Steckbrief wie bei Fährwerder, oder soll auch eine Bauwerks-Chronik folgen?
 
 ## 8. Übernahme in den Kanon (nach Abstimmung)
 
 Wie bei Fährwerder, siehe Vollständigkeits-Checkliste (`CLAUDE.md`, Arbeitsweise Punkt 6):
 
 - Neu: `Kanon/Reiche/Königreich Montclair/<Dorfname>.md` (Kurzfassung, Zeit, Lage, Gestalt, Verwaltung, „Nicht bekannt").
-- Ändern: Montclair-Steckbrief (Abschnitt „Wichtige Städte und Siedlungen"), `00-Meta/Glossar.md`, `00-Meta/Zeitleiste.md` (Gründungsgeneration),
+- Ändern: Montclair-Steckbrief (Abschnitt „Wichtige Städte und Siedlungen"), [Katharina Montclair](../../Kanon/Personen/Haus%20Montclair/Katharina%20Montclair.md)
+  (Ehe, Sitz), neue Personendatei für den Vorsteher, Stammbaum, `Fährwerder.md` (Felder), `00-Meta/Glossar.md`, `00-Meta/Zeitleiste.md` (Gründungsgeneration),
   `00-Meta/Offene-Fragen.md` (Eintrag Fährwerder: Verweis auf Dorf 1 und Dorf 2 anpassen), `CLAUDE.md` (Strukturzeile).
 - Danach dieses Konzept als „umgesetzt" markieren und nach `00-Meta/Archiv/` verschieben.
 - **Vom Nutzer im Spiel:** Wegpunkt `Dorf 1` umbenennen, danach `tools/kartenimport.py` erneut ausführen.
