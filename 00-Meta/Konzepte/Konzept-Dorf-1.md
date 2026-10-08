@@ -221,8 +221,9 @@ Ein Familienname ist nicht nötig. Katharinas Ehemann könnte als **Gemahl Katha
 - **Rolle im Dorf:** Vorsteher im Auftrag der Krone, Katharina als Herrin des Herrensitzes und Schirmherrin der sozialen Anliegen. Kirche und Priester stehen
   daneben.
 - **Heirat:** freiwillig, um die Zeit der Übergabe des Dorfes an Katharina (G5). Der Rat der Frauen hat sie gebilligt, mehr ist nicht festgelegt.
-- **Kinder:** offen. Kinder wären Adel (die Königsfamilie mit allen Nachkommen) und gäben dem Herrensitz eine Erblinie. Ohne Kinder fiele der Herrensitz bei
-  Katharinas Tod an die Krone zurück (Option).
+- **Kinder:** offen. Kinder wären Adel (die Königsfamilie mit allen Nachkommen) und trügen den Namen Montclair. Ihr Rang folgt dem Entwurf in
+  [Konzept-Rangstufen-Haus-Montclair](Konzept-Rangstufen-Haus-Montclair.md): **Stufe 2**, nicht Prinz oder Prinzessin. Ein Besitz ist daran nicht geknüpft, das Dorf bleibt
+  Kronland (C1), der Herrensitz wäre ein Amtssitz.
 - **Tod:** offen. Die Sterbe-Tradition (Ehefrauen folgen ihren Männern in den Tod) ist ein mögliches Motiv, kulturell und nicht verbindlich.
 - **Offen:** wann und woran er stirbt, ob er Hofrat-Vertreter wird, ob er in einem Werk auftritt.
 
@@ -250,7 +251,7 @@ Ein Familienname ist nicht nötig. Katharinas Ehemann könnte als **Gemahl Katha
 Entschieden sind Zeit (Gründung G4, Übergabe an Katharina G5), Zweck, Rechtsform, Bauten, Insel, Herrensitz (Katharina), Vorsteher (ihr Mann)
 und Felder. Offen sind, nach Wirkung auf den Rest geordnet:
 
-1. **Name und Biografie des Vorstehers:** Vorschläge stehen in Abschnitt G. Offen ist die Wahl von Herkunft, Name und Kindern.
+1. **Name und Biografie des Vorstehers:** Vorschläge stehen in Abschnitt G. Offen ist die Wahl von Herkunft, Name und Kindern. Die Namensregel für die Kinder hängt am Konzept [Rangstufen im Haus Montclair](Konzept-Rangstufen-Haus-Montclair.md).
 2. **Herrensitz und Vorsteher:** Wohnt das Paar auf dem Herrensitz, und ist der Vorsteher Amtsträger der Krone (ernannt) oder gewählt?
 3. **Verbindung zur Hauptinsel:** Fähre, Brücke oder Boote? Wie erreicht das Dorf die „Felder zu Montclair"? Wie ist die Insel begrenzt?
 4. **Name des Dorfes:** eigener Vorschlag oder Wahl aus Abschnitt 5? Bei einem Dorf Katharinas liegt auch ein Name nahe, der an sie anknüpft (Option).
