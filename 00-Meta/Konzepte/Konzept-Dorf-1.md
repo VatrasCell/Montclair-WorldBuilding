@@ -1,7 +1,7 @@
 # Konzept: Dorf 1 (Arbeitstitel), das planmäßig angelegte Küstendorf
 
 **Status:** Entwurfsdokument, noch nicht kanonreif. Nichts hiervon steht im Kanon.
-**Stand:** 2026-10-05, nach der zweiten Entscheidungsrunde (Insel, Herrensitz, Vorsteher, Abschnitt 1)
+**Stand:** 2026-10-12, nach der dritten Entscheidungsrunde (Anbindung, stilles Dorf, Vorsteher Lorenz von Montclair)
 **Name:** noch offen. Der Wegpunkt heißt im Spiel `Dorf 1` (364 | 64 | -8958), Set `worldbuilding`, Farbe 11 (Montclair).
 **Bezug:** Schwesterdokument zu [Konzept-Dorf-2.md](Konzept-Dorf-2.md); Vorbild für Ablauf und Aufbau ist das archivierte
 [Konzept-Dorf-3.md](../Archiv/Konzept-Dorf-3.md) (Fährwerder). Die Festlegung „Dorf 1 und Dorf 2 werden später separat betrachtet" stammt von dort.
@@ -31,8 +31,10 @@ in den Kanon übernommen (`CLAUDE.md`, Arbeitsweise Punkt 3).
 | D. Bauten | **D2:** Der **burgartige Bau östlich der Mitte ist die Kirche** der Staatsreligion, der **Bau auf dem Hügel am Südrand ein Herrensitz oder Gut**. |
 | Lage | Dorf 1 liegt auf einer **eigenen Insel südlich der Hauptinsel** mit der Stadt Montclair (laut Nutzer, siehe Kartensegmente). |
 | Herrensitz | Der Herrensitz gehört **Katharina Montclair** (Tochter Isabellas I.). |
-| Vorsteher | Der Vorsteher ist **Katharinas Ehemann**. Sein **Name ist noch zu definieren**. |
 | Zeit der Übergabe | Die **Gründung ging von Isabella I. aus** und wurde **an ihre Tochter Katharina übergeben, als sie erwachsen war** (G4 Gründung, G5 Übergabe). |
+| Anbindung | **Brücke im Norden** zur Hauptinsel mit der Stadt Montclair. Davor zweigt ein **Weg samt Brücke** Richtung „Felder zu Montclair" ab. Die **Brücke im Osten** führt aufs **Festland**, durch einen Wald zu den „Feldern" zwischen Dorf 2 und Fährwerder. |
+| Rolle | **Stilles Dorf**, ohne besondere Rolle in der Hauptgeschichte. |
+| Vorsteher | **Lorenz von Montclair**, **Gelehrter der Universität**, Katharinas Ehemann (Variante 1 aus Abschnitt G). |
 | Felder | **„Felder zu Montclair"** (550 \| -9210) werden von **Dorf 1** bewirtschaftet. **„Felder"** (702 \| -8855) bewirtschaften **Dorf 2 und Fährwerder**. |
 
 Die Entscheidungen werden erst mit Name und den Restpunkten (Abschnitt 7) in den Kanon übernommen.
@@ -159,25 +161,49 @@ Zwei auffällige Gebäude, deren Funktion die Karte offen lässt. Drei Zuordnung
 
 Für die Kirche gilt: Altar nach Süden, ein Priester ohne direkten Rang (wie Fährwerder). Das nahe liegende **D1** passt zur Ausrichtung nach Süden.
 
-### E. Anbindung
+### E. Anbindung (entschieden)
 
-- **Verbindung zur Hauptinsel:** Wie das Dorf mit der Stadt verbunden ist (Fähre, Brücke oder Boote), ist offen. Die Stadt liegt rund 505 Blöcke nördlich.
-  Die Karte zeigt die Wasserlage nicht eindeutig, der Nutzer hat die Insel entschieden.
-- **Brücke im Osten:** Sie führt über eine Bucht zum bewaldeten Land. Ob dort die Hauptinsel, das Festland oder eine weitere Insel beginnt, ist offen.
-  Wer sie baute und wann, ist ebenfalls offen.
-- **Weg nach Norden:** führt zum Nordufer der Insel, also auf die Stadt zu. Nichts ist festgelegt.
-- **Steg im Westen:** Anleger für Boote, kein Hafen. Für B1 geeignet (kleine Versorgungsboote).
+- **Brücke im Norden:** verbindet die Dorfinsel mit der **Hauptinsel** und der Stadt Montclair. Die Stadt liegt rund 505 Blöcke nördlich. Damit ist die
+  Versorgung der Stadt (B1) ein Landweg über die Brücke, keine Bootsfahrt.
+- **Abzweig davor:** Ein Weg samt **Brücke** führt vor der Hauptbrücke Richtung „Felder zu Montclair" (rund 315 Blöcke nordöstlich). Das passt dazu, dass
+  Dorf 1 diese Felder bewirtschaftet.
+- **Brücke im Osten:** führt aufs **Festland**, durch einen **Wald** zu den „Feldern" (702 | -8855) zwischen Dorf 2 und Fährwerder. Das Dorf liegt also an einem
+  **Landweg nach Osten**, der zu Dorf 2 und Fährwerder weiterführt. Fährwerder liegt rund 530 Blöcke südöstlich.
+- **Steg im Westen:** Anleger für Boote, kein Hafen. Für Fischerei und kleine Versorgungsboote.
+- **Offen:** wer die Brücken baute und wann (Vorschlag: mit der Gründung unter Isabella I.), und wie die Wasserlage zwischen Dorfinsel, Hauptinsel und Festland
+  genau aussieht (Geographie).
+- **Folge für Rolle und Rang:** Ein Dorf mit zwei Brücken und Wegen in drei Richtungen ist ein **Verkehrsknoten im Kleinen**. Das passt zu einem stillen Dorf, solange
+  die Wege der Versorgung dienen und nicht der Politik.
 
-### F. Bezug zur Hauptgeschichte
+### F. Bezug zur Hauptgeschichte (entschieden: Stilles Dorf)
 
-Dorf 1 hat, anders als Fährwerder, **keinen Anknüpfungspunkt** an Halwyn oder die Burg. Mögliche Rollen, alle optional:
+Dorf 1 hat, anders als Fährwerder, keinen Anknüpfungspunkt an Halwyn oder die Burg und bekommt **keine besondere Rolle** in der Hauptgeschichte.
 
-- **Gegenbild zu Fährwerder:** geplante Ordnung (Küste, Westen) gegen gewachsenes Grenzdorf (Fluss, Osten).
-- **Hofrat-Herkunftsort:** ein Vertreter aus Dorf 1 sitzt im Hofrat, ohne dass die Geschichte mehr braucht (Wilhelm II.).
-- **Titelort:** eine künftige Königin oder Adelige trägt `von <Dorfname>`.
-- **Stilles Dorf:** ohne besondere Rolle, ein ruhiger Ort für Szenen.
+- **Folge:** Das Dorf ist ein ruhiger Ort für Szenen und für Katharina und ihre Familie. Hofrat-Vertreter, Titelort und Ähnliches sind nicht vorgesehen, bleiben
+  aber später möglich, ohne den Kanon zu brechen.
+- **Deutung (Vorschlag):** Als Gegenbild zu Fährwerder (geplante Ordnung an der Küste gegen gewachsenes Grenzdorf am Fluss) kann es im Kanon ausdrücklich so beschrieben
+  werden.
 
-### G. Der Vorsteher: Katharinas Ehemann (Vorschläge, nichts davon entschieden)
+### G. Der Vorsteher: Katharinas Ehemann (Name und Beruf entschieden, Rest Vorschlag)
+
+**Entschieden (Nutzer, 2026-10-12):** Der Vorsteher heißt **Lorenz von Montclair** und ist **Gelehrter der Universität**. Das entspricht Variante 1 unten.
+Die übrigen Angaben in diesem Abschnitt sind Vorschläge.
+
+**Zur Namensform „von Montclair":** Der Kanon kennt „von <Herkunftsort>" bisher als Titel der Ehefrauen von Königen. Judith von Montclair führt ihn als Herkunftsort ihres
+zugezogenen Adelshauses (nicht des Hauses Montclair). Lorenz' Namensform ist eine zweite Verwendung. Möglich sind drei Lesarten:
+
+| Lesart | Bedeutung | Folge |
+|---|---|---|
+| a | **Herkunftsname:** Lorenz stammt aus der Stadt Montclair, er ist **bürgerlich** | passt zu Variante 1 und zu einem bürgerlichen Vorsteher wie in Fährwerder. Bürgerliche Familiennamen mit „von" wären neu im Kanon, ohne Adelsrang. **Empfehlung** |
+| b | **Titel durch die Heirat:** Wie Königsgattinnen erhält er „von <Herkunftsort>" durch die Ehe mit der Prinzessin | erweitert die Titel-Tradition von Königsgattinnen auf alle Ehepartner des Hauses. Das ändert eine Weltregel für Montclair |
+| c | **Mitglied eines Adelshauses aus Montclair,** wie Judiths Haus | macht ihn adelig, passt weniger zu „Gelehrter" und zum bürgerlichen Vorsteher |
+
+- Eine Verwandtschaft zu Judith von Montclair ist **nicht** gemeint und sollte nicht entstehen, auch wenn die Namensform gleich ist.
+- Die **Kinder** heißen nach Katharina **Montclair** (Stufe 3 im Rangstufen-Entwurf). Der Vater trägt „von Montclair", die Kinder „Montclair". Das ist verständlich,
+  sollte aber im Kanon ausdrücklich so stehen.
+- **Biografie nach Variante 1 (Vorschlag):** aus der Stadt Montclair, an der von Isabella I. gegründeten Universität ausgebildet (die Universität entstand in G4, Lorenz
+  gehört zu G5), in Verwaltung und Landwirtschaft bewandert. Er lernt Katharina über die sozialen Programme kennen. Die Krone ernennt ihn zum Vorsteher des
+  Versorgungsdorfes, und er heiratet Katharina um die Zeit ihrer Übernahme des Dorfes. Charakter: ruhig, gelehrt, verlässlich.
 
 Ausgangslage im Kanon: Katharina Montclair (G5) hat bisher keinen Ehemann und keinen Wohnsitz in ihrer Datei. Montclairs Namensregel kennt für angeheiratete
 Männer keine feste Titelform ([Stilrichtlinien](../Stilrichtlinien.md)), bürgerliche Familiennamen sind nicht festgelegt. Die Ehe ihrer Eltern (Isabella und
@@ -200,7 +226,7 @@ ist durch Katharina belegt, deshalb steht kein K-Name in der Liste.
 
 Ein Familienname ist nicht nötig. Katharinas Ehemann könnte als **Gemahl Katharinas** geführt werden. Ob er den Namen Montclair annimmt, ist offen.
 
-**Vier Biografie-Varianten** (jeweils G5, also gleiche Generation wie Katharina, ohne Zahlenangaben):
+**Vier Biografie-Varianten (gewählt: Variante 1)** (jeweils G5, also gleiche Generation wie Katharina, ohne Zahlenangaben):
 
 1. **Der Gelehrte der Universität (bürgerlich).** Aus einer Gelehrten- oder Handwerkerfamilie der Stadt, an der von Isabella I. gegründeten Universität
    ausgebildet, in Verwaltung und Landwirtschaft bewandert. Er lernt Katharina über die sozialen Programme des Rates der Frauen kennen, die Krone setzt ihn
@@ -229,35 +255,51 @@ Ein Familienname ist nicht nötig. Katharinas Ehemann könnte als **Gemahl Katha
 
 ## 5. Namensfindung
 
-- Orte der Südregion tragen deutsche, beschreibende Namen. Das Dorf liegt **am Meer**, **auf einer Landzunge**, **mit einem Brunnen im Zentrum**.
-- Vorschläge (nur Anregung): **Brunnenhaven**, **Küstenrain**, **Landzunge**, **Sonnenhang**. Zu meiden: Namen auf „-wacht" (Burg Erzwacht) und auf „-werder"
-  (Fährwerder), damit die Orte unterscheidbar bleiben.
+**Rahmen:** Orte der Südregion tragen deutsche, beschreibende Namen. Das Muster „Person plus Geländeform" gibt es bereits (Wilhelmshöhe). Dorf 1 liegt **auf einer Insel
+südlich der Stadt**, **am Meer**, mit **Brunnen im Zentrum**, **Kirche**, **Brücken** in drei Richtungen, ist ein **stilles Versorgungsdorf** (Obst, Gemüse, Fisch, Holz)
+und gehört seit der Übergabe zu **Katharina**. Das Dorf sollte sich nicht mit **Isabellas Dorf** (Hauptinsel, G1) und mit **Fährwerder** und **Erzwacht** verwechseln lassen.
+Endungen „-werder" und „-wacht" sind deshalb zu meiden. Ein reiner Isabella-Name wäre mit Isabellas Dorf zu leicht zu verwechseln.
+
+| Gruppe | Vorschläge | Anmerkung |
+|---|---|---|
+| **Ruhe, stilles Dorf** | **Stillholm**, Stilland, Friedholm, Ruhhain | „Holm" ist eine kleine Insel. **Stillholm** verbindet Insel und Ruhe in einem Wort |
+| **Lage südlich der Stadt** | **Südholm**, Südstrand, Sonnholm, Vorholm | zeigt die Lage zur Hauptinsel, schlicht |
+| **Katharina (Person plus Gelände)** | **Katharinenhain**, Katharinenau, Katharinenholm | nach dem Vorbild Wilhelmshöhe, passt zu ihrer Naturverbundenheit |
+| **Versorgung und Garten** | **Gartenholm**, Obstholm, Brunnenau, Erntehain | beschreibt den Zweck des Dorfes |
+| **Brücken und Wege** | Brückholm, Dreibrück, Zweibrück | betont die Anbindung, wirkt aber geschäftig statt still |
+| **Kirche und Brunnen** | Brunnenhaven (früher genannt), Kirchholm, Quellau | Mittelpunkt des Rasters |
+| **Küste und Landschaft** | Küstenrain, Sonnenhang, Strandhain | weniger eigen, aber unverfänglich |
+
+- **Meine Auswahl:** **Stillholm** (stilles Dorf, Insel), **Katharinenhain** (Person und Gelände, Naturbezug) und **Südholm** (Lage). Alle drei sind kurz, deutsch, ohne
+  Landbezug zu Titeln und verwechseln sich nicht mit Isabellas Dorf, Fährwerder oder Erzwacht.
+- **Hinweis zu „-au" und „-holm":** „Au" (Aue) bezeichnet Wiese am Wasser, „Holm" eine kleine Insel. Beide sind in deutschen Küstenorten üblich.
 - Kein Name ist festgelegt. Bis zur Entscheidung bleibt der Wegpunkt `Dorf 1`.
 
 ## 6. Kanon-Verträglichkeit und Risiken
 
 - Dorf 1 berührt **keine bestehende Kanon-Aussage**. Es füllt eine Lücke („neu gegründete Dörfer").
-- **Felder:** Entschieden ist, dass Dorf 1 die „Felder zu Montclair" bewirtschaftet. Sie liegen rund 315 Blöcke nordöstlich und damit **nicht auf der Dorfinsel**
-  (Lage prüfen). Wie das Dorf sie erreicht und ob die Brücke im Osten dazu gehört, ist offen. Die „Felder" gehören Dorf 2 und Fährwerder. Der
-  Fährwerder-Kanon kennt diese Aussage noch nicht, sie wäre bei der Übernahme dort zu ergänzen.
+- **Felder:** Dorf 1 bewirtschaftet die „Felder zu Montclair". Sie liegen rund 315 Blöcke nordöstlich, erreichbar über den Abzweig vor der Nordbrücke (E). Die „Felder"
+  gehören Dorf 2 und Fährwerder und sind von Dorf 1 über die Ostbrücke und den Waldweg erreichbar. Der Fährwerder-Kanon kennt die Aussage zu den „Feldern" noch nicht.
+  Sie wäre bei der Übernahme dort zu ergänzen.
 - **Risiko Insel:** Mit der eigenen Insel südlich der Hauptinsel entfällt der Konflikt mit Isabellas Dorf (G1, Hauptinsel). Die Inselgrenzen sind aber
   nirgends im Kanon festgelegt, und der Montclair-Steckbrief spricht nur von „einer Insel". Eine Inselgrenze braucht daher einen Eintrag (Geographie).
-- **Risiko Vorsteher:** Fährwerder hat einen **bürgerlichen** Vorsteher. Ein Ehemann Katharinas ist als Angeheirateter in die Königsfamilie bürgerlich oder
-  adelig, das ist nicht festgelegt. Im Kanon gilt für Montclair nur: Zugezogene Adelige werden in ihrem Rang anerkannt. Titel angeheirateter Männer sind
-  offen.
+- **Risiko Namensform:** „Lorenz von Montclair" nutzt die Form „von <Ort>" für einen Gelehrten, der **Ehemann** einer Prinzessin ist. Der Kanon kennt sie bisher nur als
+  Titel von Königsgattinnen. Die Lesart (Herkunftsname, Titel durch Heirat oder Adelshaus, siehe G) muss vor der Übernahme festgelegt werden. Sie wirkt auf Titel
+  angeheirateter Männer, die laut Namensregel offen sind.
 
 ## 7. Offene Fragen an den Nutzer
 
-Entschieden sind Zeit (Gründung G4, Übergabe an Katharina G5), Zweck, Rechtsform, Bauten, Insel, Herrensitz (Katharina), Vorsteher (ihr Mann)
-und Felder. Offen sind, nach Wirkung auf den Rest geordnet:
+Entschieden sind Zeit (Gründung G4, Übergabe an Katharina G5), Zweck, Rechtsform, Bauten, Insel, Herrensitz (Katharina), Anbindung, Rolle (stilles Dorf), Felder und der
+Vorsteher (Lorenz von Montclair, Gelehrter der Universität). Offen sind, nach Wirkung auf den Rest geordnet:
 
-1. **Name und Biografie des Vorstehers:** Vorschläge stehen in Abschnitt G. Offen ist die Wahl von Herkunft, Name und Kindern. Die Namensregel für die Kinder hängt am Konzept [Rangstufen im Haus Montclair](Konzept-Rangstufen-Haus-Montclair.md).
-2. **Herrensitz und Vorsteher:** Wohnt das Paar auf dem Herrensitz, und ist der Vorsteher Amtsträger der Krone (ernannt) oder gewählt?
-3. **Verbindung zur Hauptinsel:** Fähre, Brücke oder Boote? Wie erreicht das Dorf die „Felder zu Montclair"? Wie ist die Insel begrenzt?
-4. **Name des Dorfes:** eigener Vorschlag oder Wahl aus Abschnitt 5? Bei einem Dorf Katharinas liegt auch ein Name nahe, der an sie anknüpft (Option).
-5. **Rolle in der Geschichte** (Frage F): Das Dorf ist jetzt mit einer Figur des Hauses verknüpft. Soll Katharina in einem Werk (Königsbuch 04 oder
-   Bauwerks-Chronik) dort auftauchen?
-6. **Detailtiefe:** reicht ein kurzer Steckbrief wie bei Fährwerder, oder soll auch eine Bauwerks-Chronik folgen?
+1. **Namensform „von Montclair":** Lesart a (Herkunftsname, bürgerlich), b (Titel durch Heirat) oder c (Adelshaus)? Siehe G.
+2. **Dorfname:** Auswahl aus Abschnitt 5 oder eigener Vorschlag.
+3. **Herrensitz als Amtssitz:** Soll er als **Amtssitz der Krone** formuliert werden, den Katharina bewohnt, statt als ihr Besitz? Das passt zu Kronland (C1) und
+   zum Adel ohne Landbesitz.
+4. **Wohnort und Bestellung:** Wohnt das Paar auf dem Herrensitz, und ist Lorenz von der Krone **ernannt** oder vom Dorf gewählt?
+5. **Kinder:** Hat das Paar Kinder? Sie wären Stufe 3 im ruhenden Konzept [Rangstufen im Haus Montclair](Konzept-Rangstufen-Haus-Montclair.md).
+6. **Detailtiefe:** kurzer Steckbrief wie bei Fährwerder, oder auch eine Bauwerks-Chronik?
+7. **Wasserlage:** Wie genau liegen Dorfinsel, Hauptinsel und Festland zueinander? Das braucht nur einen Satz im Kanon (Geographie), die Karte klärt es.
 
 ## 8. Übernahme in den Kanon (nach Abstimmung)
 
@@ -265,7 +307,7 @@ Wie bei Fährwerder, siehe Vollständigkeits-Checkliste (`CLAUDE.md`, Arbeitswei
 
 - Neu: `Kanon/Reiche/Königreich Montclair/<Dorfname>.md` (Kurzfassung, Zeit, Lage, Gestalt, Verwaltung, „Nicht bekannt").
 - Ändern: Montclair-Steckbrief (Abschnitt „Wichtige Städte und Siedlungen"), [Katharina Montclair](../../Kanon/Personen/Haus%20Montclair/Katharina%20Montclair.md)
-  (Ehe, Sitz), neue Personendatei für den Vorsteher, Stammbaum, `Fährwerder.md` (Felder), `00-Meta/Glossar.md`, `00-Meta/Zeitleiste.md` (Gründungsgeneration),
+  (Ehe, Sitz), neue Personendatei für Lorenz von Montclair, Stammbaum, `Fährwerder.md` (Felder), `00-Meta/Glossar.md`, `00-Meta/Zeitleiste.md` (Gründungsgeneration),
   `00-Meta/Offene-Fragen.md` (Eintrag Fährwerder: Verweis auf Dorf 1 und Dorf 2 anpassen), `CLAUDE.md` (Strukturzeile).
 - Danach dieses Konzept als „umgesetzt" markieren und nach `00-Meta/Archiv/` verschieben.
 - **Vom Nutzer im Spiel:** Wegpunkt `Dorf 1` umbenennen, danach `tools/kartenimport.py` erneut ausführen.
