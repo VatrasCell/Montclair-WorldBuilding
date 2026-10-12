@@ -147,8 +147,9 @@ Zulässig sind Bezeichnungen, die nur **Geburt, Nähe zum Haus oder Anrede** aus
    Montclair (Dorf 1, 2026-10-12).
 5. **Ehepartner im Haus:** Im Bestand ist ein Ehemann außer Edmund nicht belegt. Lorenz von Montclair (Dorf 1) ist der erste Fall eines angeheirateten Mannes.
 6. **Anrede:** Die Spalte „Anrede" in 2.2 ist ein Vorschlag. Festgelegt ist bisher nichts.
-7. **Wirkung am Hof:** Haben die Stufen unterschiedliche Rechte oder nur eine Rangfolge (Sitzordnung, Zeremoniell)? Der Rat der Frauen besteht aus Frauen der
-   Königsfamilie. Ab welcher Stufe jemand dort beitreten kann, ist offen.
+7. **Wirkung am Hof:** Haben die Stufen unterschiedliche Rechte oder nur eine Rangfolge (Sitzordnung, Zeremoniell)? Die Zusammensetzung des Rates der Frauen ist
+   bereits über die Verwandtschaft zum Herrscher geregelt (Rat der Frauen: Schwestern, Mutter, Tanten, erwachsene Töchter; keine Nichten oder Cousinen). Sie
+   hängt nicht an der Stufe und braucht keine Änderung.
 8. **Versorgung:** Ohne Landbesitz stellt sich die Frage, wovon Nebenlinien leben. Optionen: Zuwendung der Krone nach Stufe, Hofämter, bürgerlicher Beruf der
    unteren Stufen. Das ist ein eigenes Thema und hier nur vermerkt.
 9. **Ausschluss und Verzicht:** Kann jemand die Stufe verlieren oder aufgeben (Verbannung, Verzicht wie Alexander I. auf die Krone)? Der Verzicht Alexanders I.
