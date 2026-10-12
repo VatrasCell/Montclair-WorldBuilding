@@ -1,7 +1,7 @@
 # Konzept: Südholm (Arbeitstitel „Dorf 1"), das planmäßig angelegte Inseldorf
 
-**Status:** Entwurfsdokument, noch nicht kanonreif. Nichts hiervon steht im Kanon.
-**Stand:** 2026-10-12, nach der vierten Entscheidungsrunde (Namensregel für Angeheiratete, Name Südholm, Amtssitz, Kinder offen)
+**Status:** Entwurfsdokument, abgestimmt und gegen Kanon und Werke geprüft (Abschnitt 9), **übernahmereif**. Nichts hiervon steht bisher im Kanon.
+**Stand:** 2026-10-12, alle Entscheidungen getroffen (Kinder Eleanor und Theodor), Prüfung abgeschlossen
 **Name:** **Südholm** (entschieden, 2026-10-12). Der Wegpunkt heißt im Spiel noch `Dorf 1` (364 | 64 | -8958), Set `worldbuilding`, Farbe 11 (Montclair).
 **Bezug:** Schwesterdokument zu [Konzept-Dorf-2.md](Konzept-Dorf-2.md); Vorbild für Ablauf und Aufbau ist das archivierte
 [Konzept-Dorf-3.md](../Archiv/Konzept-Dorf-3.md) (Fährwerder). Die Festlegung „Dorf 1 und Dorf 2 werden später separat betrachtet" stammt von dort.
@@ -37,11 +37,11 @@ Dieses Dokument sammelt Befund, Rahmen und Optionen. **Was nicht in Abschnitt 1 
 | Vorsteher | **Lorenz von Montclair**, **Gelehrter der Universität**, Katharinas Ehemann. Er wurde von der **Krone ernannt**. |
 | Name des Dorfes | **Südholm**. |
 | Namensregel für Angeheiratete | **Lesart b:** Angeheiratete Personen erhalten durch die Beziehung zur Montclair-Familie einen **Adelsstatus** und den Titel „von <Herkunftsort>". Das unterscheidet sie von der eigentlichen Familienlinie. **Die Kinder tragen den Familiennamen Montclair.** |
-| Kinder | Katharina und Lorenz **haben Kinder**. Anzahl und Namen sind in Abschnitt G vorgeschlagen. |
+| Kinder | Katharina und Lorenz haben **zwei Kinder: Eleanor (Tochter) und Theodor (Sohn)**. Beide tragen den Familiennamen Montclair (G6). |
 | Detailtiefe | **Kurzer Steckbrief** im Stil von Fährwerder, keine Bauwerks-Chronik. |
 | Felder | **„Felder zu Montclair"** (550 \| -9210) werden von **Dorf 1** bewirtschaftet. **„Felder"** (702 \| -8855) bewirtschaften **Dorf 2 und Fährwerder**. |
 
-Die Entscheidungen werden erst mit der Wahl von Anzahl und Namen der Kinder (Abschnitt 7) in den Kanon übernommen.
+Alle Kernentscheidungen liegen vor. Die Übernahme in den Kanon folgt nach der Freigabe (Abschnitte 8 und 9).
 
 ### Folgerungen aus den Entscheidungen (Vorschlag, nicht entschieden)
 
@@ -241,12 +241,13 @@ Der Name steht inzwischen fest: **Lorenz von Montclair** (zur Lesart der Namensf
 
 **Vier Biografie-Varianten (gewählt: Variante 1)** (jeweils G5, also gleiche Generation wie Katharina, ohne Zahlenangaben):
 
-1. **Der Gelehrte der Universität (bürgerlich).** Aus einer Gelehrten- oder Handwerkerfamilie der Stadt, an der von Isabella I. gegründeten Universität
-   ausgebildet, in Verwaltung und Landwirtschaft bewandert. Er lernt Katharina über die sozialen Programme des Rates der Frauen kennen, die Krone setzt ihn als
-   Vorsteher des neuen Dorfes ein. *Passung:* Versorgungsdorf, bürgerlicher Vorsteher wie in Fährwerder. *Spannung:* gering.
+1. **Der Gelehrte der Universität (bürgerlicher Herkunft, durch die Ehe im Adelsstatus).** Aus einer Gelehrten- oder Handwerkerfamilie der Stadt, an der von
+   Isabella I. gegründeten Universität ausgebildet, in Verwaltung und Landwirtschaft bewandert. Er lernt Katharina über die sozialen Programme des Rates der
+   Frauen kennen, die Krone setzt ihn als Vorsteher des neuen Dorfes ein. *Passung:* Versorgungsdorf, bürgerlicher Vorsteher wie in Fährwerder. *Spannung:*
+   gering.
 2. **Der Aufsteiger (bürgerlich).** Sohn einer Fischer- oder Bauernfamilie von der Hauptinsel, der sich in Katharinas Programmen einen Namen machte. Die Ehe
-   gilt als „unter Stand", der Rat der Frauen duldet oder billigt sie. *Passung:* Katharinas Einsatz für die Schwächsten. *Spannung:* mittel (Standesfrage am
-   Hof, Haltung der Adeligen).
+   gilt als „unter Stand", der Rat der Frauen ist an Heiraten außer der des Herrschers und des Thronfolgers nicht beteiligt. *Passung:* Katharinas Einsatz für
+   die Schwächsten. *Spannung:* mittel (Standesfrage am Hof, Haltung der Adeligen).
 3. **Der Zugezogene aus anderem Haus (adelig).** Jüngerer Sohn einer anderen Adelsfamilie, aus Montclair oder von außerhalb. Er wird in seinem Rang anerkannt
    (Montclair-Regel für zugezogene Adelige). *Passung:* dynastische Verbindung. *Spannung:* mittel, ein adeliger Vorsteher verwischt den Gegensatz zu
    Fährwerders bürgerlichem Vorsteher. Eine Elmsworther Herkunft wäre politisch belastet (Zurückhaltung gegenüber der Elmsworther Linie) und eher zu meiden.
@@ -254,7 +255,7 @@ Der Name steht inzwischen fest: **Lorenz von Montclair** (zur Lesart der Namensf
    Universität), blieb als Vorsteher und heiratete die Tochter der Gründerin, als sie das Dorf übernahm. *Passung:* erklärt die geplante Anlage, die Übergabe
    von Isabella an Katharina und die Nähe zur Krone in einer Figur. *Spannung:* gering. **Empfehlung** des Entwurfs.
 
-**Kinder von Katharina und Lorenz (Vorschläge für Anzahl und Namen)**
+**Kinder von Katharina und Lorenz (entschieden: zwei Kinder, Eleanor und Theodor)**
 
 Rahmen: Die Kinder gehören zu **G6** (Kinder von Katharina, G5), sind also Cousins und Cousinen des späteren Königs Alexander II. Sie tragen den Familiennamen
 **Montclair** und sind im Rangstufen-Entwurf **Stufe 3**. Montclairs Vornamen: Männer kurz und gewichtig, Frauen melodisch, Erbnamen dürfen wiederkehren,
@@ -276,11 +277,12 @@ Beatrice, Adelaide, Margarethe, Amelia, Eleanor, Genevieve, Emma, Victoria, Isol
 | **3: Natur und Kirche** | **Aurelia** | **Benedikt** | Aurelia (golden, sonnig) passt zur Staatsreligion (Licht und Sonne), Benedikt zur Kirche im Dorf |
 | **4: freie Mischung** | Antonia, Rosalie, Seraphine, Liliane | Gregor, Matthias, Leopold, Valentin | zum Auswählen |
 
-- **Meine Empfehlung:** Paar 1, **Eleanor und Theodor**. Der Erbname bindet die Nebenlinie an die Hauptfamilie, ohne einen Herrschernamen zu wiederholen.
-  Eleanor wäre die zweite Trägerin des Namens (die erste ist Katharinas Großmutter, keine Verwechslung in derselben Generation).
+- **Gewählt:** Paar 1, **Eleanor und Theodor**. Der Erbname bindet die Nebenlinie an die Hauptfamilie, ohne einen Herrschernamen zu wiederholen. Eleanor wäre
+  die zweite Trägerin des Namens (die erste ist Katharinas Großmutter, keine Verwechslung in derselben Generation).
 - Die **Reihenfolge der Geburt** ist ohne Folgen: Amt und Amtssitz sind nicht erblich, und ein Thronrecht der Nebenlinie besteht nicht.
-- Für die **Rolle der Kinder** gibt es im stillen Dorf nichts Festes. Mögliche Anregungen ohne Festlegung: Studium an der Universität des Vaters, ein Platz im
-  Rat der Frauen für die Tochter (nur falls der Rat künftig weitere Mitglieder aufnimmt).
+- Für die **Rolle der Kinder** gibt es im stillen Dorf nichts Festes. Der Rat der Frauen ernennt keine Cousinen (Eleanor ist Cousine Alexanders II.), ein Platz
+  dort ist also nicht vorgesehen. Beruf und Laufbahn bleiben offen. Theodor ist **nicht** als Gelehrter festgelegt, damit er nicht mit Aldrics Vater (Gelehrter
+  aus Montclair, G6) verwechselt wird.
 
 **Gemeinsame Bausteine** (für jede Variante nutzbar):
 
@@ -337,25 +339,99 @@ verwechseln.
 
 ## 7. Offene Fragen an den Nutzer
 
-Entschieden sind alle Kernfragen, der Vorsteher, die Namensregel, der Dorfname, der Amtssitz, die Bestellung (ernannt) und der kurze Steckbrief. Offen sind nur
-noch:
+Alle Kernfragen sind entschieden (Abschnitt 1). Nichts Blockierendes ist offen. Zwei Punkte bleiben bewusst im Kanon als „nicht bekannt":
 
-1. **Anzahl der Kinder:** ein, zwei oder drei Kinder (Abschnitt G, Kinder).
-2. **Namen der Kinder:** Auswahl aus den Vorschlägen oder eigene Namen.
-3. **Wasserlage:** Wie genau liegen Dorfinsel, Hauptinsel und Festland zueinander? Das braucht nur einen Satz im Kanon (Geographie), die Karte klärt es.
+1. **Wasserlage:** wie genau Dorfinsel, Hauptinsel und Festland zueinander liegen (Abschnitt 9.4).
+2. **Laufbahn der Kinder, Tod der Eltern, Priester des Dorfes:** nicht festgelegt.
 
-Danach kann der Kanon-Entwurf (Abschnitt 8) erstellt werden.
+## 8. Übernahme in den Kanon (nach Freigabe)
 
-## 8. Übernahme in den Kanon (nach Abstimmung)
+Vollständigkeits-Checkliste (`CLAUDE.md`, Arbeitsweise Punkt 6), gegen die Dateien geprüft:
 
-Wie bei Fährwerder, siehe Vollständigkeits-Checkliste (`CLAUDE.md`, Arbeitsweise Punkt 6):
+**Neu**
 
-- Neu: `Kanon/Reiche/Königreich Montclair/<Dorfname>.md` (Kurzfassung, Zeit, Lage, Gestalt, Verwaltung, „Nicht bekannt").
-- Ändern: Montclair-Steckbrief (Abschnitt „Wichtige Städte und Siedlungen"), [Katharina
-  Montclair](../../Kanon/Personen/Haus%20Montclair/Katharina%20Montclair.md) (Ehe, Sitz), neue Personendatei für Lorenz von Montclair, `CLAUDE.md`
-  (Titel-Tradition für alle Angeheirateten), `00-Meta/Stilrichtlinien.md` (Namensregel), Datei [Judith von
-  Montclair](../../Kanon/Personen/Haus%20Montclair/Judith%20von%20Montclair.md) (Hinweis auf die verallgemeinerte Regel), Stammbaum, `Fährwerder.md` (Felder),
-  `00-Meta/Glossar.md`, `00-Meta/Zeitleiste.md` (Gründungsgeneration), `00-Meta/Offene-Fragen.md` (Eintrag Fährwerder: Verweis auf Dorf 1 und Dorf 2 anpassen),
-  `CLAUDE.md` (Strukturzeile).
-- Danach dieses Konzept als „umgesetzt" markieren und nach `00-Meta/Archiv/` verschieben.
+1. `Kanon/Reiche/Königreich Montclair/Südholm.md`: kurzer Steckbrief im Stil von Fährwerder (Kurzfassung, Gründung und Zweck, Gestalt, Anbindung, Verwaltung,
+   „Nicht bekannt").
+2. `Kanon/Personen/Haus Montclair/Lorenz von Montclair.md`: Gelehrter der Universität, Ehemann Katharinas, Vorsteher von Südholm.
+3. `Kanon/Personen/Haus Montclair/Eleanor Montclair (Tochter Katharinas).md`: Der Dateiname braucht den Zusatz, weil `Eleanor Montclair.md` (Katharinas
+   Großmutter) schon existiert. Es gilt die Konvention der Datei `Amelia Montclair (Tochter Wilhelms I.).md`.
+4. `Kanon/Personen/Haus Montclair/Theodor Montclair.md`.
+
+**Ändern**
+
+- `Katharina Montclair.md`: Ehe mit Lorenz, zwei Kinder, Amtssitz in Südholm, Übergabe des Dorfes in G5. Rat der Frauen und Charakter bleiben.
+- `Stammbaum.md`: Ehemann und Kinder Katharinas.
+- `Steckbrief.md` (Montclair): „Wichtige Städte und Siedlungen" um Südholm ergänzen, Abschnitt „Adel" um die Regel zu Angeheirateten.
+- `CLAUDE.md`: Weltregel **Titel-Tradition (Montclair)** auf alle Angeheirateten erweitern, Strukturzeile um Südholm ergänzen.
+- `00-Meta/Stilrichtlinien.md`: Zeile „für angeheiratete Männer gibt es keine feste Regel" ersetzen.
+- `Judith von Montclair.md`: Hinweis, dass ihr Titel unter die verallgemeinerte Regel fällt.
+- `Fährwerder.md`: Satz zu den „Feldern" (siehe 9.4).
+- `00-Meta/Glossar.md`: Südholm, Lorenz von Montclair, Eleanor Montclair (Tochter Katharinas), Theodor Montclair.
+- `00-Meta/Zeitleiste.md`: G4 Gründung von Südholm (in Klammern, wie Fährwerder), G5 Übergabe an Katharina und Heirat, G6 Geburt der Kinder.
+- `00-Meta/Offene-Fragen.md`: Eintrag „Südholm (Details)" anlegen, Fährwerder-Eintrag (Verweis auf Dorf 1 und Dorf 2) anpassen, Eintrag zu Titeln angeheirateter
+  Männer auf Elmsworth einschränken, Katharina-Stub-Eintrag prüfen.
+
+**Nicht ändern:** Königsbücher und Chroniken (kein Widerspruch, siehe 9), Rat der Frauen, Hofrat, Burg Erzwacht.
+
+**Danach**
+
+- Dieses Konzept als „umgesetzt" markieren und nach `00-Meta/Archiv/` verschieben, ebenso die Rangstufen-Verweise im ruhenden Konzept nachführen.
 - **Vom Nutzer im Spiel:** Wegpunkt `Dorf 1` auf „Südholm" umbenennen, danach `tools/kartenimport.py` erneut ausführen.
+
+## 9. Prüfung gegen Kanon und Werke (2026-10-12)
+
+Gelesen und gegen die Entscheidungen geprüft: Katharina, Eleanor, Edmund, Isabella I., Alexander I. und II., Magnus, Judith, Aldric von Fenmar,
+Montclair-Steckbrief, Stammbaum, Rat der Frauen, Hofrat, Fährwerder, Burg Erzwacht, Zeitleiste, Glossar, Offene-Fragen, Stilrichtlinien, `CLAUDE.md`, Königsbuch
+04 und das Prinzessinnen-Werk zu Eleanor und Genevieve. Alle Werke wurden auf die Namen Katharina, Eleanor, Edmund, Lorenz, Theodor und „Holm" durchsucht.
+
+### 9.1 Bestätigt, kein Widerspruch
+
+| Entscheidung | Prüfung |
+|---|---|
+| Gründung G4 unter Isabella I. | Zeitleiste G4: Wiederaufbau mit Palast, Universität, Hafenviertel. Königsbuch 04 nennt keine Dorfgründung und widerspricht nicht. Ihre Herrschaft reicht von G4 bis G6 früh. |
+| Übergabe an Katharina in G5 | Katharina ist Kind Isabellas I. (G5). Königsbuch 04: Sie werde „eigene Spuren hinterlassen, sowohl innerhalb als auch außerhalb des königlichen Hofes". |
+| Kronland, Amtssitz, Vorsteher ernannt | Montclair-Steckbrief: Statthalter verwalten an des Königs statt (Magnus). Kein Landadel nötig. |
+| Katharina bleibt Rat-der-Frauen-Mitglied | Rat der Frauen: Mitglied nur, wer im Königreich wohnt und nicht in eine andere Reichsfamilie verheiratet ist. Mitgliedschaft bis zum Tod oder zur Abwahl. Südholm liegt im Königreich, Lorenz stammt aus Montclair. |
+| Heirat | Rat der Frauen: Veto nur bei Herrscher und Thronfolger. „Andere Familienmitglieder heiraten ohne den Rat." Das Konzept hatte hier fälschlich „Rat hat gebilligt" und ist korrigiert. |
+| Lorenz, Gelehrter der Universität, G5 | Universität entstand in G4. Aldrics Vater (Gelehrter aus Montclair, G6, Universität) ist eine andere Person, eine Verwandtschaft ist nirgends festgelegt. |
+| Namensregel b | Passt zu Beatrice von Penworth, Adelaide von Winthrope, Margarethe von Alden, Amelia von Elmsworth und Judith von Montclair. Edmund Montclair gehört über Eleanor zur Familienlinie und ist kein Fall der Regel. |
+| Kinder Eleanor und Theodor, G6 | Eleanor ehrt Katharinas Großmutter (Werk und Datei: Bibliothek, Gärten, Bücher). Kein Namenskonflikt: „Lorenz" und „Theodor" kommen im Kanon nicht vor. Namensstil laut Stilrichtlinien erfüllt. |
+| Felder | Nur als Wegpunkte vorhanden, kein Kanon-Text dazu. |
+| Name Südholm | Kein Treffer für „Holm" im Kanon. Kein Konflikt mit Isabellas Dorf, Fährwerder, Erzwacht. |
+
+### 9.2 Im Konzept korrigiert
+
+- „Der Rat der Frauen hat die Ehe gebilligt" ist gestrichen (Kanon: Heirat ohne den Rat).
+- „Platz im Rat der Frauen für die Tochter" ist gestrichen: Der Rat ernennt **keine Cousinen** (Eleanor ist Cousine Alexanders II.).
+- Lorenz hat bürgerliche **Herkunft** und durch die Ehe **Adelsstatus** (Lesart b). Variante 1 sprach noch von „bürgerlich".
+- Das ruhende Rangstufen-Konzept ist im Punkt „Ehepartner" nachgezogen und im Punkt „Rat der Frauen" ergänzt (die Zusammensetzung des Rates folgt der
+  Verwandtschaft zum Herrscher, nicht einer Stufe).
+
+### 9.3 Anpassungen im Kanon (Folge der Entscheidungen)
+
+- **Weltregel Titel-Tradition:** `CLAUDE.md` nennt nur Ehefrauen von Königen. Die neue Regel gilt für alle Angeheirateten. Die Stilrichtlinien sagen noch, für
+  angeheiratete Männer gebe es keine feste Regel. Beides ist in Abschnitt 8 aufgeführt.
+- **Adelsstatus:** Der Steckbrief nennt Adel nur als Königsfamilie mit allen Nachkommen und als anerkannte Zugezogene. Angeheiratete ohne eigenen Adel fehlen.
+  Das braucht einen Satz.
+- **Elmsworth bleibt offen:** Die Titel angeheirateter Männer in Elmsworth sind nicht festgelegt. Die neue Regel gilt ausdrücklich nur für Montclair (Weltregel:
+  Montclair-Regeln nicht stillschweigend auf andere Reiche übertragen).
+
+### 9.4 Abhängigkeiten und Entkopplungen
+
+- **Rangstufen ruhen:** Der Südholm-Kanon darf **keinen Rang** für die Kinder festlegen. Er sagt nur: Katharina ist Prinzessin, die Kinder tragen den
+  Familiennamen Montclair. „Hochgeborene" und „Stufe 3" bleiben im ruhenden Konzept.
+- **Dorf 2 ist noch nicht im Kanon:** Der Satz in `Fährwerder.md` zu den „Feldern" sollte Dorf 2 nicht beim Namen nennen („gemeinsam mit einem weiteren Dorf").
+  Alternativ entfällt der Satz, bis Dorf 2 übernommen wird. Südholm selbst nennt nur seine eigenen „Felder zu Montclair".
+- **Wasserlage:** Die Karte zeigt die Lage von Dorfinsel, Hauptinsel und Festland nicht eindeutig. Im Kanon genügt „auf einer Insel südlich der Hauptinsel, über
+  Brücken mit der Hauptinsel und dem Festland verbunden".
+
+### 9.5 Beifunde (nicht Teil der Übernahme)
+
+- **Stammbaum:** Katharina steht dort als „zweite Tochter" Isabellas I. Königsbuch 04 nennt sie die „jüngere Tochter", Isabella hat aber nur zwei Kinder
+  (Alexander, Katharina). Eigentlich wäre „zweites Kind" richtig. Das ist ein Vorbefund und nicht durch die Entscheidungen verursacht. Es kann bei der Übernahme
+  mitkorrigiert werden.
+
+### 9.6 Ergebnis
+
+Das Konzept ist **übernahmereif**. Es gibt keinen Widerspruch zu Kanon und Werken, der nicht in Abschnitt 8 als Änderung aufgeführt ist. Zwei Punkte sind
+bewusst entkoppelt (Rangstufen, Dorf 2), einer bleibt im Kanon als „nicht bekannt" (genaue Wasserlage).
