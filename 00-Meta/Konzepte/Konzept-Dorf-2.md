@@ -1,11 +1,12 @@
 # Konzept: Dorf 2 (Arbeitstitel), das Flussdorf mit Handelsanleger
 
 **Status:** Entwurfsdokument, noch nicht kanonreif. Nichts hiervon steht im Kanon.
-**Stand:** 2026-10-05
+**Stand:** 2026-10-12 (gegen den Kanon nach der Übernahme von Südholm aktualisiert; Karten- und Entscheidungsstand von 2026-10-05 bis 2026-10-08)
 **Name:** noch offen. Der Wegpunkt heißt im Spiel `Dorf 2` (805 | 68 | -9045), Set `worldbuilding`, Farbe 11 (Montclair).
-**Bezug:** Schwesterdokument zu [Konzept-Dorf-1.md](../Archiv/Konzept-Dorf-1.md); Vorbild für Ablauf und Aufbau ist das archivierte
-[Konzept-Dorf-3.md](../Archiv/Konzept-Dorf-3.md) (Fährwerder). Nachbarn im Kanon: [Fährwerder](../../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md) und
-[Burg Erzwacht](../../Kanon/Reiche/Königreich%20Montclair/Burg%20Erzwacht.md).
+**Bezug:** Schwesterdokument zu [Konzept-Dorf-1.md](../Archiv/Konzept-Dorf-1.md) (umgesetzt als
+[Südholm](../../Kanon/Reiche/Königreich%20Montclair/Südholm.md)); Vorbild für Ablauf und Aufbau ist das archivierte
+[Konzept-Dorf-3.md](../Archiv/Konzept-Dorf-3.md) (Fährwerder). Nachbarn im Kanon: [Fährwerder](../../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md),
+[Südholm](../../Kanon/Reiche/Königreich%20Montclair/Südholm.md) und [Burg Erzwacht](../../Kanon/Reiche/Königreich%20Montclair/Burg%20Erzwacht.md).
 
 Dieses Dokument sammelt Befund, Rahmen und Optionen. **Was nicht in Abschnitt 1 steht, ist Vorschlag** und wird erst nach Abstimmung mit dem Nutzer
 in den Kanon übernommen (`CLAUDE.md`, Arbeitsweise Punkt 3).
@@ -17,16 +18,29 @@ in den Kanon übernommen (`CLAUDE.md`, Arbeitsweise Punkt 3).
 - Es gibt **keinen Kanon-Eintrag** zu diesem Dorf. Die einzige Quelle ist der Wegpunkt. Kein Werk erwähnt es.
 - Fährwerder ist ein **Fähr- und Fischerdorf**, entstanden unter anderem für den **Handel mit Orten weiter südöstlich**. Der Fluss war ein **zweiter
   Verkehrsweg** neben der Straße über Halwyn. Welche Orte gemeint sind, ist nicht festgelegt. Der Fluss hat keinen Namen.
-- Die Burg Erzwacht hat eine **Zoll- und Passierstelle** am Fluss. Der Erzhandel lief vorher über die Große Mine. Die Halbinsel bei Fährwerder ist
-  Umschlagplatz für größere Schiffe.
-- Der [Hofrat](../../Kanon/Reiche/Königreich%20Montclair/Hofrat.md) bezieht Volksvertreter aus „Gemeinden und Dörfern".
+- Die Burg Erzwacht (G6 mittel bis G7 früh, von Alexander II. gebaut) hat eine **Zoll- und Passierstelle** am Fluss. Wer sie führt, welche Sätze gelten und ob
+  sie auch für Fährwerder gilt, ist **nicht festgelegt**. Der Erzhandel lief vorher über die Große Mine. Die Burg hat einen eigenen **Kai mit Kränen und
+  Lagern** auf der Westseite. Die **Halbinsel** bei Fährwerder gehört zur Burg und ist Umschlagplatz für größere Schiffe und Wachposten.
+- **Südholm** (ehemals Dorf 1) ist seit der letzten Übernahme Kanon: Kronland, gegründet G4, von der Hauptinsel aus erreichbar, mit **ernanntem** Vorsteher
+  ([Lorenz von Montclair](../../Kanon/Personen/Haus%20Montclair/Lorenz%20von%20Montclair.md)), Kirche der Staatsreligion. Es bewirtschaftet die „Felder zu
+  Montclair". Seine Ostbrücke führt aufs Festland durch einen Wald zu den „Feldern" (702 | -8855), von dort geht ein **Landweg** nach Fährwerder.
+- **Fährwerder** (G4 bis G5) steht im Kanon mit dem Satz, dass es die „Felder" **gemeinsam mit einem weiteren Dorf** bewirtschaftet. Dieses Dorf ist nicht
+  benannt; Dorf 2 ist dafür vorgesehen (siehe „Entschieden").
+- Das freie Dorf **Isabellas Dorf** (Isabella, Tochter Wilhelms I., G1 bis G3, von Ferdinand IV. einverleibt) hat einen eigenen Wegpunkt (283 | -9579) und
+  liegt rund 750 Blöcke nordwestlich von Dorf 2. Es ist ein anderer Ort, Dorf 2 ist **nicht** dieses Dorf.
+- Der [Hofrat](../../Kanon/Reiche/Königreich%20Montclair/Hofrat.md) bezieht Volksvertreter aus „Gemeinden und Dörfern", ohne feste Verteilung (zum Beispiel
+  einen Vertreter je Dorf).
+- Angeheiratete tragen in Montclair Adelsstatus und „von <Herkunftsort>", ihre Kinder den Namen Montclair (Titel-Tradition). Das betrifft Dorf 2 nur, falls
+  dort ein Mitglied des Hauses Montclair oder ein Angeheirateter wohnt oder verwaltet.
 - Weltregeln: keine Altersangaben in Zahlen, kein Pauschalschluss von Montclair auf andere Reiche.
 
 ### Entschieden
 
-- Die Reihenfolge: Dorf 2 wird nach Fährwerder separat betrachtet (Nutzer, 2026-10-04).
-- **Felder:** Die „Felder" (702 | -8855) werden von **Dorf 2 und Fährwerder** bewirtschaftet, die „Felder zu Montclair" von Dorf 1 (Nutzer, 2026-10-08).
-  Die Felder liegen rund 215 Blöcke südsüdwestlich von Dorf 2 und rund 235 Blöcke nordnordwestlich von Fährwerder, also zwischen beiden Dörfern.
+- Die Reihenfolge: Dorf 2 wird nach Fährwerder separat betrachtet (Nutzer, 2026-10-04). Dorf 1 ist inzwischen als Südholm im Kanon; Dorf 2 bleibt als Letztes
+  offen.
+- **Felder:** Die „Felder" (702 | -8855) werden von **Dorf 2 und Fährwerder** bewirtschaftet, die „Felder zu Montclair" von Dorf 1 (Nutzer, 2026-10-08). Die
+  Felder liegen rund 215 Blöcke südsüdwestlich von Dorf 2 und rund 235 Blöcke nordnordwestlich von Fährwerder, also zwischen beiden Dörfern. Im Kanon steht
+  bisher nur die Fährwerder-Seite (Satz „gemeinsam mit einem weiteren Dorf"), die Dorf-2-Seite folgt mit der Übernahme.
 
 ## 2. Befund auf der Karte
 
@@ -64,7 +78,8 @@ Quelle: `Assets/Karten/montclair/9_8_x512_z-9216.png`, Ausschnitt um den Wegpunk
 | Burg Erzwacht (941 \| -8666) | ca. 405 | südsüdöstlich |
 | Felder (702 \| -8855) | ca. 215 | südsüdwestlich, Wegpunkt `Felder` |
 | Burg Montclair (996 \| -9447) | ca. 445 | nordnordöstlich |
-| Dorf 1 (364 \| -8958) | ca. 450 | westlich, leicht südlich |
+| Südholm, ehemals Dorf 1 (364 \| -8958) | ca. 450 | westlich, leicht südlich; Verbindung über Feldwege und den Waldweg zu den „Feldern" |
+| Isabellas Dorf (283 \| -9579) | ca. 750 | nordwestlich; anderer Ort, kein Bezug |
 | Stadt Montclair (350 \| -9463) | ca. 620 | nordwestlich |
 | Grenze zu Elmsworth | ca. 405 | südöstlich; nächster Grenzpunkt der Montclair-Grenze: `A19` (1089 \| -8755), Stand Wegpunkte 2026-10-05. Elmsworth selbst liegt noch weiter südöstlich (nächster Elmsworther Grenzpunkt `A26`, 979 \| -8563, ca. 510). |
 
@@ -76,10 +91,16 @@ dass eine Verbindung sicher ist.
 - **Fährwerder** nutzt den Fluss als zweiten Handelsweg. Dorf 2 liegt **flussaufwärts oder flussabwärts**. Das macht es zu einem möglichen **zweiten
   Flussort**. Wichtig ist, dass es **nicht** zum Doppel von Fährwerder wird.
 - **Burg Erzwacht** ist „Festung und Wirtschaftszentrum", **Handelstor** der zweite Zweck. Ein Hafen weiter flussauf könnte vor oder hinter dieser Zollstelle
-  liegen. Das ist ein **Kanon-Risiko** (Abschnitt 6).
-- **Keine Mauern:** passt zum offenen Dorf.
-- **Staatsreligion:** Altar nach Süden. Eine Kirche ist nicht zwingend, die Karte zeigt kein eindeutiges Gebäude dafür.
-- **Namensmuster** ([Stilrichtlinien](../Stilrichtlinien.md)): deutsche, beschreibende Ortsnamen.
+  liegen. Das ist ein **Kanon-Risiko** (Abschnitt 6). Zeitlich ist die Burg **jünger** (G6) als die Dörfer am Fluss (G4 bis G5): Ein Anleger aus G4 bis G5
+  käme vor der Burg und müsste ihr später nicht weichen.
+- **Zwei Vorbilder für die Verwaltung** stehen jetzt im Kanon: Fährwerder (Teil des Königreichs, bürgerlicher Vorsteher, nicht Kronland) und Südholm (Kronland,
+  ernannter Vorsteher, hier ein Angeheirateter des Hauses). Dorf 2 muss einem davon nicht folgen, sollte sich aber von beiden bewusst absetzen oder sie bewusst
+  fortsetzen.
+- **Keine Mauern:** passt zum offenen Dorf (gilt auch für Fährwerder und Südholm).
+- **Staatsreligion:** Altar nach Süden. Fährwerder und Südholm haben je eine Kirche, die Burg eine Kapelle ohne Gruft, jeweils mit einem Priester ohne
+  direkten Rang. Bei Dorf 2 ist eine Kirche nicht zwingend, die Karte zeigt kein eindeutiges Gebäude dafür.
+- **Namensmuster** ([Stilrichtlinien](../Stilrichtlinien.md)): deutsche, beschreibende Ortsnamen. Belegt sind **-werder** (Fährwerder), **-holm** (Südholm) und
+  **Erz-/-wacht** (Burg). Ein neuer Name sollte diese Endungen meiden.
 
 ## 4. Kernfragen mit Optionen
 
@@ -101,8 +122,9 @@ dass eine Verbindung sicher ist.
 | B3 | **Hafen der Krone:** der Anleger gehört der Krone oder Burg, das Dorf ist nur Wohnort der Arbeiter. Die **Trennung von Dorf und Hafen** wird zum Thema. |
 | B4 | **Gemeinsamer Hafen:** das Dorf betreibt ihn selbst als Handelsplatz. |
 
-Hinweis: Die Halbinsel bei Fährwerder ist der **sekundäre Umschlag der Burg**. Wenn Dorf 2 B1 oder B2 erhält, braucht der Kanon eine klare Rangfolge der
-Umschlagplätze, damit „sekundär" nicht zur Nebelkerze wird.
+Hinweis: Die Burg hat im Kanon bereits einen **Kai auf der Westseite** und die **Halbinsel** bei Fährwerder als Umschlagplatz für größere Schiffe. Wenn Dorf 2
+B1 oder B2 erhält, braucht der Kanon eine klare Rangfolge der Umschlagplätze (Kai der Burg, Halbinsel, Anleger von Dorf 2), damit keiner nur Kulisse ist. B4
+lässt die Burg-Umschlagplätze unberührt und löst die Zollfrage nicht mit.
 
 ### C. Verwaltung und Rechtsform
 
@@ -110,7 +132,7 @@ Umschlagplätze, damit „sekundär" nicht zur Nebelkerze wird.
 |---|---|
 | C1 | **Wie Fährwerder:** Teil des Königreichs, nicht direkt der Krone, eigener bürgerlicher Vorsteher. Einheitliche Linie für Flussdörfer. |
 | C2 | **Hafen unter der Burg:** Der Anleger untersteht Magnus als Statthalter, das Dorf dem eigenen Vorsteher. Zwei Zuständigkeiten. |
-| C3 | **Kronland**, Verwalter des Königs. |
+| C3 | **Kronland wie Südholm:** unmittelbar der Krone unterstellt, ernannter Vorsteher. Beim Hafen läge die Krone dann selbst am Fluss. Ohne Familienmitglied als Vorsteher, damit Dorf 2 keine zweite Südholm-Geschichte wird. |
 | C4 | **Nicht festgelegt.** |
 
 ### D. Bewohner und Alltag
@@ -142,8 +164,8 @@ Das Gebäude im Norden wirkt abgesetzt. Ob es eine Kapelle ist, bleibt offen. F�
 ## 5. Namensfindung
 
 - Orte der Südregion tragen deutsche, beschreibende Namen. Das Dorf liegt **zwischen Wasserarmen** und hat einen **großen Anleger gegenüber**.
-- Vorschläge (nur Anregung): **Stegwerder**, **Kranhaven**, **Seeufer**, **Flussbrück**, **Landungsstelle**. Vorsicht bei der Endung „-werder": Sie gehört
-  schon zu Fährwerder und könnte die Dörfer verwechselbar machen.
+- Vorschläge (nur Anregung): **Stegwerder**, **Kranhaven**, **Seeufer**, **Flussbrück**, **Landungsstelle**. Vorsicht bei den Endungen „-werder" (gehört schon
+  zu Fährwerder) und „-holm" (gehört zu Südholm): Sie machen die Dörfer verwechselbar. **Stegwerder** fällt damit praktisch weg.
 - Kein Name ist festgelegt. Bis zur Entscheidung bleibt der Wegpunkt `Dorf 2`.
 
 ## 6. Kanon-Verträglichkeit und Risiken
@@ -152,7 +174,14 @@ Das Gebäude im Norden wirkt abgesetzt. Ob es eine Kapelle ist, bleibt offen. F�
   Frage zur Zollstelle zusammen entschieden werden, nicht allein hier.
 - **Fährwerder-Handel:** „Handel mit Orten weiter südöstlich" bleibt offen. Dorf 2 darf sie nicht stillschweigend festlegen.
 - **Gewässer:** Der Fluss hat noch keinen Namen. Ein Name sollte einmal für alle drei Orte entschieden werden (Fährwerder, Burg, Dorf 2).
-- **Grenznähe:** Dorf 2 liegt gut 400 Blöcke von der Grenze zu Elmsworth und damit deutlich weiter im Landesinneren als die Burg. Das spricht für ein Hinterland-Dorf.
+- **Brücke und Isabellas Dorf:** Im Kanon gibt es schon eine „Brücke über den Fluss" als Symbol der Versöhnung zwischen Ferdinand III. und Isabella
+  (Königsbuch 02). Die Brücke von Dorf 2 darf nicht stillschweigend mit ihr gleichgesetzt werden; Dorf 2 bekommt keinen Bezug zu Isabella (G1 bis G3).
+- **Zwei Kronland-Geschichten:** Wird Dorf 2 ebenfalls Kronland (C3), hat die Krone zwei Dörfer als Versorgungsbasis. Das ist möglich, würde aber
+  Südholms Sonderstellung verwässern.
+- **Felder:** Die Aussage zu den „Feldern" steht bei Fährwerder im Kanon, aber ohne Dorfnamen. Das Konzept muss sie bei der Übernahme in `Fährwerder.md`
+  ergänzen.
+- **Grenznähe:** Dorf 2 liegt gut 400 Blöcke von der Grenze zu Elmsworth und damit deutlich weiter im Landesinneren als die Burg. Das spricht für ein
+  Hinterland-Dorf.
 - **Kein Widerspruch** zu Halwyn oder zur Burg-Mine.
 
 ## 7. Offene Fragen an den Nutzer
@@ -166,15 +195,20 @@ Reihenfolge nach Wirkung auf den Rest.
 5. **Gebäude im Norden und dunkles Gebäude** (Frage E): Was sollten sie im Spiel darstellen?
 6. **Name:** eigener Vorschlag oder Wahl aus Abschnitt 5?
 7. **Elmsworther Händler:** Ja oder nein? Das bestimmt, ob Dorf 2 ein Grenzthema trägt.
-8. **Detailtiefe:** kurzer Steckbrief wie Fährwerder, oder soll auch eine Bauwerks-Chronik folgen?
+8. **Detailtiefe:** kurzer Steckbrief wie Fährwerder und Südholm, oder soll auch eine Bauwerks-Chronik folgen?
+9. **Anbindung an Südholm:** Führen Feldwege von den „Feldern" auch nach Norden zu Dorf 2, sodass Dorf 2, Fährwerder und Südholm über die „Felder" ein
+   gemeinsames Wegenetz bilden (der Landweg Südholm bis Fährwerder ist im Kanon)? Oder bleibt Dorf 2 nur über Wasser und den Felderweg erreichbar?
 
 ## 8. Übernahme in den Kanon (nach Abstimmung)
 
 Wie bei Fährwerder, siehe Vollständigkeits-Checkliste (`CLAUDE.md`, Arbeitsweise Punkt 6):
 
-- Neu: `Kanon/Reiche/Königreich Montclair/<Dorfname>.md` (Kurzfassung, Zeit, Lage, Gestalt, Hafen, Verwaltung, „Nicht bekannt").
-- Ändern: Montclair-Steckbrief (Abschnitt „Wichtige Städte und Siedlungen"), `00-Meta/Glossar.md`, `00-Meta/Zeitleiste.md` (Gründungsgeneration),
-  `00-Meta/Offene-Fragen.md` (Eintrag Fährwerder und Burg Erzwacht: Verweise auf Dorf 2, Zollfrage), `CLAUDE.md` (Strukturzeile), gegebenenfalls
-  `Fährwerder.md` (Nachbarschaft) und `Burg Erzwacht.md` (Umgebung, Rangfolge der Umschlagplätze). In `Fährwerder.md` ist die gemeinsame Bewirtschaftung der „Felder" nachzutragen.
+- Neu: `Kanon/Reiche/Königreich Montclair/<Dorfname>.md` (Kurzfassung, Zeit, Lage, Gestalt, Hafen, Verwaltung, „Nicht bekannt"; Aufbau wie `Südholm.md`).
+- Ändern: Montclair-Steckbrief (Abschnitt „Wichtige Städte und Siedlungen", ein Eintrag neben Fährwerder und Südholm), `00-Meta/Glossar.md`,
+  `00-Meta/Zeitleiste.md` (Gründungsgeneration), `00-Meta/Offene-Fragen.md` (Eintrag „Fährwerder (Details)": den Halbsatz „Dorf 2 wird separat betrachtet"
+  ersetzen; neuer Eintrag „<Dorfname> (Details)"; Eintrag „Burg Erzwacht (Details)" bei der Zollfrage), `CLAUDE.md` (Strukturzeile, Liste der Ortsdateien neben
+  `Südholm.md`) und `Fährwerder.md` (in „Felder" statt „einem weiteren Dorf" den Dorfnamen nennen). Gegebenenfalls `Burg Erzwacht.md` (Nachbarschaft, Rangfolge
+  der Umschlagplätze).
+- Prüfen, ob `Südholm.md` (Anbindung, „Felder") einen Satz zu Dorf 2 braucht; bisher nennt es Dorf 2 bewusst nicht.
 - Danach dieses Konzept als „umgesetzt" markieren und nach `00-Meta/Archiv/` verschieben.
 - **Vom Nutzer im Spiel:** Wegpunkt `Dorf 2` umbenennen, danach `tools/kartenimport.py` erneut ausführen.
