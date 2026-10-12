@@ -222,7 +222,7 @@ Ein Familienname ist nicht nötig. Katharinas Ehemann könnte als **Gemahl Katha
   daneben.
 - **Heirat:** freiwillig, um die Zeit der Übergabe des Dorfes an Katharina (G5). Der Rat der Frauen hat sie gebilligt, mehr ist nicht festgelegt.
 - **Kinder:** offen. Kinder wären Adel (die Königsfamilie mit allen Nachkommen) und trügen den Namen Montclair. Ihr Rang folgt dem Entwurf in
-  [Konzept-Rangstufen-Haus-Montclair](Konzept-Rangstufen-Haus-Montclair.md): **Stufe 2**, nicht Prinz oder Prinzessin. Ein Besitz ist daran nicht geknüpft, das Dorf bleibt
+  [Konzept-Rangstufen-Haus-Montclair](Konzept-Rangstufen-Haus-Montclair.md): **Stufe 3**, also Hochgeborene und nicht Prinz oder Prinzessin. Ein Besitz ist daran nicht geknüpft, das Dorf bleibt
   Kronland (C1), der Herrensitz wäre ein Amtssitz.
 - **Tod:** offen. Die Sterbe-Tradition (Ehefrauen folgen ihren Männern in den Tod) ist ein mögliches Motiv, kulturell und nicht verbindlich.
 - **Offen:** wann und woran er stirbt, ob er Hofrat-Vertreter wird, ob er in einem Werk auftritt.
