@@ -224,7 +224,7 @@ ist durch Katharina belegt, deshalb steht kein K-Name in der Liste.
 | **Valentin** | melodisch | Variante 3 |
 | **Benedikt** | geistlich geprägt | falls die Kirche eine größere Rolle bekommt |
 
-Ein Familienname ist nicht nötig. Katharinas Ehemann könnte als **Gemahl Katharinas** geführt werden. Ob er den Namen Montclair annimmt, ist offen.
+Der Name steht inzwischen fest: **Lorenz von Montclair** (zur Lesart der Namensform siehe oben). Die Liste gilt nur noch als Begründung der Wahl.
 
 **Vier Biografie-Varianten (gewählt: Variante 1)** (jeweils G5, also gleiche Generation wie Katharina, ohne Zahlenangaben):
 
