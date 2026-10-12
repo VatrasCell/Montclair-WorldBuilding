@@ -54,9 +54,12 @@ in den Kanon übernommen (`CLAUDE.md`, Arbeitsweise Punkt 3).
 - **Flussfolge von Nord nach Süd (Nutzer, 2026-10-12, ungefähr):** Stadt Montclair, **See**, **Kanal**, **Dorf 2**, **Fährwerder und Burg Erzwacht**, danach
   **Abzweigung des Flusses in zwei Arme Richtung Süden**. Der **Kanal** hat ein eigenes Konzept ([Konzept-Kanal.md](Konzept-Kanal.md)) und ist noch nicht im
   Kanon.
-- **Umschlag vor dem Kanal:** Bis zum Bau des Kanals (G6 spät, kurz nach der Burg) war Dorf 2 der **Umschlagplatz**: Wer vom Fluss kam, musste hier umschlagen
-  und die Waren über Land zur Stadt bringen (Nutzer, 2026-10-12). Das erklärt den großen Anleger mit Kran und Lagerhalle. Nach dem Kanal fahren die Schiffe von
-  der Burg direkt bis zur Stadt. Die Folgen für Dorf 2 sind Frage D im Kanal-Konzept.
+- **Umschlag vor dem Kanal:** Bis zur Fertigstellung des Kanals (G7 früh, kurz nach der Burg) war Dorf 2 der **Umschlagplatz**: Wer vom Fluss kam, musste hier
+  umschlagen und die Waren über Land zur Stadt bringen (Nutzer, 2026-10-12). Das erklärt den großen Anleger mit Kran und Lagerhalle.
+- **Nach dem Kanal (Nutzer, 2026-10-12):** Nur **schmalere Schiffe** passen durch den Kanal. Das **Umladen in Dorf 2 bleibt bei breiteren Schiffen notwendig**,
+  es kann aber auch schon an der Burg Erzwacht geschehen. Dorf 2 **bleibt Zwischenlager**, nutzt den Kanal **selbst für Transporte** (zum Beispiel Güter von den
+  „Feldern") und **übernimmt die Kanalverwaltung**. Der **Zoll** wird an der Burg Erzwacht abgewickelt. Der Kanal wird im **Dorf-2-Steckbrief** beschrieben,
+  siehe [Konzept-Kanal.md](Konzept-Kanal.md).
 - **Entstehung:** Dorf 2 wurde **nicht direkt durch die Krone geplant** (Nutzer, 2026-10-12). Es ist gewachsen. Ob die Krone mittelbar
   beteiligt war, bleibt offen.
 - **Amtsträger:** Das Haus auf der Kuppe ist das Haus des **bürgerlichen Vorstehers** (Vorschlag angenommen, Nutzer, 2026-10-12). Ein Hafenmeister bleibt offen.
@@ -166,12 +169,13 @@ lässt die Burg-Umschlagplätze unberührt und löst die Zollfrage nicht mit.
 
 ### D. Bewohner und Alltag
 
-**Entschieden: passt so** (Nutzer, 2026-10-12). Der Zuzug aus dem Südosten (Elmsworther Händler) bleibt als offene Frage 5 stehen.
+**Entschieden: passt so** (Nutzer, 2026-10-12). Elmsworther Händler gibt es im Dorf nicht (siehe „Entschieden").
 
 - Fischer, Bootsbauer, Lagerarbeiter, Fuhrleute, Bauern der Felder im Südwesten.
 - Der Alltag richtet sich nach **Schiffsankunft** und **Jahreszeit**. Der Anleger ist laut, das Dorf ruhig.
-- **Zuzug:** Kein Anknüpfungspunkt wie die Halwyner bei Fährwerder. Optional: **Händler aus dem Südosten**, die sich niederlassen, auch aus
-  Elmsworth. Das wäre ein **Grenzthema** (Elmsworth: Handelspartner, aber belastetes Verhältnis).
+- **Zuzug:** Kein Anknüpfungspunkt wie die Halwyner bei Fährwerder. Händler aus Elmsworth lassen sich nicht nieder (entschieden).
+- **Nach dem Kanal (G7 früh):** Das Dorf bleibt Zwischenlager, nutzt den Kanal selbst für Transporte (zum Beispiel Güter von den „Feldern") und verwaltet den
+  Kanal (siehe „Entschieden").
 
 ### E. Das Gebäude im Norden und das dunkle Gebäude
 
@@ -219,12 +223,12 @@ Anker, Wiek, Lände, Klippe oder Furt.
 
 ## 6. Kanon-Verträglichkeit und Risiken
 
-- **Zollstelle der Burg:** Dorf 2 liegt am selben Fluss wie die Burg, und der Anleger betreibt Handel (B4). Wer Schiffe aus dem Südosten fährt, kommt vermutlich
-  erst an der Burg und der Halbinsel bei Fährwerder vorbei. Ob die Zollstelle auch den Verkehr zu Dorf 2 erfasst (dieselbe Frage wie „gilt sie auch für
-  Fährwerder"), bleibt offen und gehört in den Eintrag „Burg Erzwacht (Details)". Dorf 2 darf sie nicht stillschweigend festlegen. Da der Anleger älter als die
-  Burg ist (A1), ist offen, ob er vor dem Bau der Burg ohne Zoll arbeitete.
-- **Einflussverschiebung gegenüber Fährwerder:** Mit eigenem Handelsanleger könnte Dorf 2 wirtschaftlich wichtiger werden als Fährwerder, obwohl beide gleich
-  verwaltet werden (C1). Das ist erzählerisch gewollt nutzbar, sollte aber im Kanon nicht als Rangfolge der Dörfer festgeschrieben werden.
+- **Zollstelle der Burg:** Der Zoll wird an der **Burg Erzwacht** abgewickelt (entschieden). Dorf 2 und der Kanal haben keine eigene Zollstelle. Wer die
+  Zollstelle führt, welche Sätze gelten und ob sie auch für Fährwerder gilt, bleibt offen (Eintrag „Burg Erzwacht (Details)"). Offen ist der Zustand **vor dem
+  Bau der Burg** (G4 bis G6): Gab es in Dorf 2 damals Abgaben? Das Konzept legt es nicht fest.
+- **Einflussverschiebung gegenüber Fährwerder:** Mit Handelsanleger, Zwischenlager und Kanalverwaltung wird Dorf 2 **deutlich wichtiger** als Fährwerder, obwohl
+  beide gleich verwaltet werden (C1). Das ist erzählerisch nutzbar, sollte aber im Kanon nicht als Rangfolge der Dörfer festgeschrieben werden. Dass ein
+  bürgerlich verwaltetes Dorf die Kanalverwaltung übernimmt, wirft die Frage nach der Aufsicht auf (siehe [Konzept-Kanal.md](Konzept-Kanal.md), Frage D).
 - **Fährwerder-Handel:** „Handel mit Orten weiter südöstlich" bleibt offen. Dorf 2 darf sie nicht stillschweigend festlegen.
 - **Gewässer:** Der Fluss hat noch keinen Namen. Ein Name sollte einmal für alle drei Orte entschieden werden (Fährwerder, Burg, Dorf 2).
 - **Brücke und Isabellas Dorf:** Im Kanon gibt es schon eine „Brücke über den Fluss" als Symbol der Versöhnung zwischen Ferdinand III. und Isabella
@@ -237,26 +241,25 @@ Anker, Wiek, Lände, Klippe oder Furt.
 
 ## 7. Offene Fragen an den Nutzer
 
-Erledigt am 2026-10-12: Fluss, A1, B4, C1, D, E, Flussrichtung, Entstehung, Amtsträger, Elmsworther Händler, Detailtiefe, Wegenetz (siehe „Entschieden" in
-Abschnitt 1). Offen sind noch:
+Erledigt am 2026-10-12: Fluss, A1, B4, C1, D, E, Flussrichtung, Entstehung, Amtsträger, Elmsworther Händler, Detailtiefe, Wegenetz, Rolle nach dem Kanal, Zoll
+(siehe „Entschieden" in Abschnitt 1). Offen sind noch:
 
 1. **Name:** Wahl aus Abschnitt 5 oder ein eigener Vorschlag.
-2. **Kanal:** Das Konzept [Konzept-Kanal.md](Konzept-Kanal.md) liegt vor. Dorf 2 ist davon in der Rolle als früherer Umschlagplatz und in den Folgen nach G6
-   spät betroffen (Frage D dort). Für den Dorf-2-Steckbrief genügt, solange der Kanal offen ist, „bis G6 spät Umschlagplatz zwischen Fluss und Stadt" ohne
-   Kanalnamen.
+2. **Kanalverwaltung:** Auf wessen Auftrag verwaltet das Dorf den Kanal, wer führt sie (Vorsteher, Kanalmeister, Hafenmeister), gibt es eine Kanalgebühr, und
+   ist das Haus auf der Kuppe zugleich Sitz der Kanalverwaltung? Das wird im Kanal-Konzept (Frage 2) geklärt, betrifft aber den Dorf-2-Steckbrief.
 
 ## 8. Übernahme in den Kanon (nach Abstimmung)
 
 Wie bei Fährwerder, siehe Vollständigkeits-Checkliste (`CLAUDE.md`, Arbeitsweise Punkt 6):
 
 - Neu: `Kanon/Reiche/Königreich Montclair/<Dorfname>.md` als **kurzer Steckbrief** (Kurzfassung, Zeit, Lage, Gestalt, Hafen, Verwaltung, „Nicht bekannt"; Aufbau
-  wie `Südholm.md`). Der Kanal selbst und die Flussfolge werden **nicht** aufgenommen, solange das Kanal-Konzept offen ist; die Umschlagrolle vor G6 spät
-  darf stehen, wenn der Nutzer sie bestätigt.
+  wie `Südholm.md`). Der Steckbrief enthält auch die Rolle von Dorf 2 **vor und nach dem Kanal** (Umschlag, Zwischenlager, Kanalverwaltung) und
+  den Kanal selbst (siehe [Konzept-Kanal.md](Konzept-Kanal.md)). Die Flussfolge Nord nach Süd und die Frage nach dem Meer (See) werden nicht aufgenommen.
 - Ändern: Montclair-Steckbrief (Abschnitt „Wichtige Städte und Siedlungen", ein Eintrag neben Fährwerder und Südholm), `00-Meta/Glossar.md`,
   `00-Meta/Zeitleiste.md` (Gründungsgeneration), `00-Meta/Offene-Fragen.md` (Eintrag „Fährwerder (Details)": den Halbsatz „Dorf 2 wird separat betrachtet"
   ersetzen; neuer Eintrag „<Dorfname> (Details)"; Eintrag „Burg Erzwacht (Details)" bei der Zollfrage), `CLAUDE.md` (Strukturzeile, Liste der Ortsdateien neben
-  `Südholm.md`) und `Fährwerder.md` (in „Felder" statt „einem weiteren Dorf" den Dorfnamen nennen). Gegebenenfalls `Burg Erzwacht.md` (Nachbarschaft, Rangfolge
-  der Umschlagplätze).
+  `Südholm.md`) und `Fährwerder.md` (in „Felder" statt „einem weiteren Dorf" den Dorfnamen nennen). Außerdem die im Kanal-Konzept genannten Dateien
+  (Helena, Wilhelm II., `Burg Erzwacht.md`, Zeitleiste G6 spät und G7 früh).
 - `Südholm.md` (Anbindung): Der Landweg zu den „Feldern" kann um den Hinweis ergänzt werden, dass von dort Feldwege nach Norden zu Dorf 2 führen. Bisher nennt
   Südholm Dorf 2 bewusst nicht.
 - Danach dieses Konzept als „umgesetzt" markieren und nach `00-Meta/Archiv/` verschieben.

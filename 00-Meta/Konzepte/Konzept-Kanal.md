@@ -1,7 +1,7 @@
 # Konzept: Kanal (Arbeitstitel) zwischen See und Fluss
 
 **Status:** Entwurfsdokument, noch nicht kanonreif. Nichts hiervon steht im Kanon.
-**Stand:** 2026-10-12
+**Stand:** 2026-10-12 (Kernfragen am selben Tag entschieden, Namensfrage und Kanalverwaltung offen)
 **Name:** noch offen. Im Spiel gibt es dafür keinen Wegpunkt.
 **Bezug:** [Konzept-Dorf-2.md](Konzept-Dorf-2.md) (Dorf 2 war vor dem Kanal der Umschlagplatz); Nachbarn im Kanon:
 [Burg Erzwacht](../../Kanon/Reiche/Königreich%20Montclair/Burg%20Erzwacht.md), [Fährwerder](../../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md),
@@ -33,9 +33,16 @@ in den Kanon übernommen (`CLAUDE.md`, Arbeitsweise Punkt 3).
 
 - Der **Kanal** verbindet den **See** bei der Stadt Montclair mit dem **Fluss** und wurde **kurz nach dem Bau der Burg Erzwacht** gebaut, damit Schiffe von der
   Burg aus **direkt bis zur Stadt** fahren können. **Vorher musste in Dorf 2 umgeschlagen werden.**
-- **Zeit: G6 spät.** Der Kanal wird möglicherweise schon **nicht mehr direkt von Alexander II.** beaufsichtigt oder geplant, sondern **von einem seiner Kinder
-  getrieben**.
+- **Zeit:** Zuerst „G6 spät", danach die **Fertigstellung auf G7 früh** festgelegt, kurz nach der Burg. Ich lese das als **Baubeginn G6 spät, Fertigstellung G7
+  früh**. Der Kanal wird **nicht mehr direkt von Alexander II.** beaufsichtigt oder geplant, sondern **von einem seiner Kinder getrieben**.
+- **Treiberin ist Helena** (Nutzer, 2026-10-12).
 - **Wilhelm II. wird extrem passiv** ausgearbeitet. Seine **Geschwister übernehmen viele Aufgaben**, das spielt in den Kanal hinein.
+- **Schiffsbreite:** Nur **schmalere Schiffe** passen durch den Kanal. Das **Umladen in Dorf 2 bleibt** deshalb bei breiteren Schiffen **notwendig**, es kann
+  aber auch schon an der **Burg Erzwacht** geschehen.
+- **Dorf 2** bleibt **Zwischenlager**, nutzt den Kanal **selbst für Transporte** (zum Beispiel Güter von den „Feldern") und **übernimmt die Kanalverwaltung**.
+- **Zoll** wird an der **Burg Erzwacht** abgewickelt.
+- **See und Meer:** bleibt offen.
+- **Umfang:** Der Kanal gehört in den **Dorf-2-Steckbrief**, er bekommt keinen eigenen Steckbrief.
 - **Flussfolge von Nord nach Süd (ungefähr):** Stadt Montclair, See, Kanal, Dorf 2, Fährwerder und Burg Erzwacht, danach Abzweigung des Flusses in zwei Arme
   Richtung Süden.
 
@@ -56,62 +63,67 @@ Quelle: `Assets/Karten/montclair/` (Kacheln `8_7`, `9_7`, `8_8`, `9_8`). Wasserf
 - **Vorher** ging die Ware in Dorf 2 an Land. Der Weg zur Stadt führte über Land, über die Feldwege Richtung „Felder zu Montclair" (550 | -9210) und weiter über
   die Brücken auf die Hauptinsel (siehe [Südholm](../../Kanon/Reiche/Königreich%20Montclair/Südholm.md)). Den genauen Weg gibt es im Kanon nicht.
 
-## 3. Wer treibt den Kanal? (Vorschlag)
+## 3. Wer treibt den Kanal?
 
-Nach Entscheidung 1 soll ein Kind Alexanders II. den Bau treiben. Wilhelm II. ist passiv und fällt aus.
+**Entschieden: Helena** (Nutzer, 2026-10-12).
 
-| Kind | Eignung | Anmerkung |
-|---|---|---|
-| **Helena** | **Empfehlung.** „Stiller Ehrgeiz", Interesse an der **Verwaltung des königlichen Haushalts**: Sie kann den Bau planen, finanzieren und durch den Hofrat bringen, ohne selbst groß aufzutreten. | Passt zu einem Bauwerk, das ruhig und unter dem Namen der Krone entsteht. Der Stub wird zum ersten Mal mit Inhalt gefüllt. |
-| Magnus | Wissenschaften und Militär, Burgherr von Erzwacht, hätte den größten Nutzen vom Kanal. | Er hat schon die Burg. Wäre er auch Bauherr, läge zu viel bei ihm. Als **Nutznießer und Partner** Helenas passt er besser. |
-| Cecilia | Soziale Angelegenheiten. | Passt zu den **Folgen für Dorf 2** (Fuhrleute und Lagerarbeiter verlieren Arbeit), nicht zum Bau. Als Nebenrolle denkbar. |
-| Lavinia | Freigeistig, neugierig. | Weniger Bezug zu Verwaltung und Handel. |
-
-**Wilhelm II.:** Das Königsbuch 06 sagt, dass der Kronprinz in den letzten Jahren Alexanders „die Regierungsgeschäfte führte". Das lässt sich mit extremer
-Passivität vereinen: Er trägt Titel und Pflichten, verwaltet und unterzeichnet, ergreift aber **keine Initiative**. Entscheidungen und Projekte laufen bei den
-Geschwistern zusammen. Der Kanal wäre das erste sichtbare Beispiel dafür. Zur Verträglichkeit mit dem Wilhelm-Kanon siehe Abschnitt 6.
+- **Warum sie passt:** Das Königsbuch 06 beschreibt sie als „klug und von stillem Ehrgeiz erfüllt" mit Interesse an der **Verwaltung des königlichen
+  Haushalts**. Sie kann den Bau planen, finanzieren und durch die Verwaltung bringen, ohne selbst groß aufzutreten. Der Stub wird zum ersten Mal mit Inhalt
+  gefüllt.
+- **Magnus** (Wissenschaften, Militär, Burgherr) ist der **Nutznießer und mögliche Partner**: Das Erz seiner Burg kann auf dem Wasserweg direkt zur Stadt.
+  Bauherr ist er nicht.
+- **Cecilia** (soziale Angelegenheiten) wäre als **Nebenrolle** denkbar, wenn es um die Folgen für die Arbeiter in Dorf 2 geht. Das ist ein Vorschlag, keine
+  Entscheidung.
+- **Wilhelm II.:** Das Königsbuch 06 sagt, dass der Kronprinz in den letzten Jahren Alexanders „die Regierungsgeschäfte führte". Das lässt sich mit extremer
+  Passivität vereinen: Er trägt Titel und Pflichten, verwaltet und unterzeichnet, ergreift aber **keine Initiative**. Entscheidungen und Projekte laufen bei den
+  Geschwistern zusammen. Der Kanal ist das erste sichtbare Beispiel. Er wird in G7 früh unter dem neuen, passiven König fertig, den Bau hat er nicht getrieben.
+  Zur Verträglichkeit mit dem Wilhelm-Kanon siehe Abschnitt 6.
 
 ## 4. Kernfragen mit Optionen
 
 ### A. Zeit und Bauherr
 
-**Entschieden:** G6 spät, ohne direkte Aufsicht Alexanders II., getrieben von einem seiner Kinder (siehe Abschnitt 3). Offen ist nur, wann der Kanal **fertig**
-ist: G6 spät oder G7 früh. Die Burg selbst wird erst zwischen G6 spät und G7 früh in Betrieb genommen.
-
-| Option | Beschreibung |
-|---|---|
-| A1 | **Baubeginn und Fertigstellung in G6 spät.** Der Kanal ist schon da, wenn Wilhelm II. König wird. |
-| A2 | **Baubeginn G6 spät, Fertigstellung G7 früh.** Der Kanal wird unter dem passiven Wilhelm II. vollendet, ohne dass er ihn getrieben hat. |
-| A3 | **Nicht festgelegt** (nur „G6 spät"). |
+**Entschieden:** Treiberin Helena, Baubeginn G6 spät, Fertigstellung **G7 früh** (kurz nach der Burg). Der Kanal wird unter Wilhelm II. fertig, ohne dass er ihn
+getrieben hat. Falls auch der Baubeginn erst in G7 früh liegen soll, ändert sich nur dieser Satz.
 
 ### B. Schiffsgröße
 
-| Option | Beschreibung |
-|---|---|
-| B1 | **Nur flache Flussschiffe und Lastkähne.** Größere Schiffe laden an der **Halbinsel** (Burg) oder am Kai der Burg um. Die Halbinsel behält ihren Zweck. |
-| B2 | **Alle Schiffe des Flusses.** Die Halbinsel bleibt nur Wachposten, ihr „Umschlag für größere Schiffe" verliert den Zweck. |
-| B3 | **Nicht festgelegt.** |
+**Entschieden:** Die **Breite** entscheidet. **Schmalere Schiffe** (Lastkähne, flache Flussschiffe) fahren durch den Kanal, **breitere** nicht. Breitere Ware
+wird
+**in Dorf 2 oder schon an der Burg Erzwacht** umgeladen.
 
-Hinweis: Dorf 2 hat auf der Karte ein **Segelschiff** am Anleger. Bei B1 wären die „größeren Schiffe" dort die Ausnahme.
+- Das Segelschiff am Anleger von Dorf 2 (Karte) wird damit zum Beleg: Dort liegt ein Schiff, das nicht durch den Kanal passt. Das Umladen in Dorf 2 bleibt also
+  sinnvoll.
+- Die **Halbinsel** (Umschlagplatz „für größere Schiffe") und der **Kai der Burg** sind die Umladestellen der Burg. Welches Schiff „größer" ist, wird mit
+  „breiter" gleich gesetzt. Das sollte bei der Übernahme in `Burg Erzwacht.md` und `Fährwerder.md` einmal ausdrücklich so stehen.
+- Eine genaue Breite oder Tiefe wird **nicht** festgelegt.
 
-### C. Zoll vorher und nachher
+### C. Zoll
 
-- Der Kanal verlängert den Weg des Handels **hinter** die Zollstelle der Burg. Ob Waren, die in Dorf 2 an Land gingen, vor dem Kanal schon Abgaben
-  zahlten, ist **offen**. Die Frage hängt mit „Burg Erzwacht (Details)" zusammen (siehe `Offene-Fragen.md`) und soll **nicht hier** entschieden werden.
-- Möglich ist eine **Kanalgebühr** oder ein Wegerecht, das der Krone oder dem Hofrat zufällt. Das ist ein Vorschlag, kein Kanon.
+**Entschieden:** Der Zoll wird an der **Burg Erzwacht** abgewickelt.
+
+- Der Kanal und Dorf 2 haben keine eigene Zollstelle. Was nach dem Zoll in Dorf 2 oder im Kanal geschieht, ist keine Zollfrage mehr.
+- Wer die Zollstelle führt, welche Sätze gelten und ob sie auch für Fährwerder gilt, **bleibt offen** (Eintrag „Burg Erzwacht (Details)").
+- Offen ist, ob es eine **Kanalgebühr** gibt, die von der Kanalverwaltung (Dorf 2) erhoben wird. Das ist kein Zoll und müsste getrennt festgelegt werden.
+- Offen ist auch der Zustand **vor dem Bau der Burg** (G4 bis G6): Gab es in Dorf 2 oder am Fluss damals Abgaben?
 
 ### D. Folgen für Dorf 2
 
-| Option | Beschreibung |
-|---|---|
-| D1 | **Dorf bleibt Zwischenhalt und Lager.** Der Umschlag entfällt, der Anleger dient als Rast- und Ladeplatz für Kanalschiffe. Fuhrleute und Lagerarbeiter verlieren Arbeit. |
-| D2 | **Dorf verliert an Bedeutung.** Der Anleger verwaist teilweise, das Dorf schrumpft. Dazu passt Cecilia als Nebenrolle. |
-| D3 | **Dorf wird zum Ort der Kanalverwaltung** (Kanalgebühr, Wache, Schleusenwart). Es bleibt bürgerlich verwaltet (C1), die Kanalaufsicht liegt bei der Krone. |
+**Entschieden:** Dorf 2 bleibt **Zwischenlager**, nutzt den Kanal **selbst** für Transporte und übernimmt die **Kanalverwaltung** (Kombination aus Option „Dorf
+bleibt Zwischenhalt und Lager" und Option „Ort der Kanalverwaltung").
+
+- Das Dorf bleibt rechtlich unverändert (C1): Teil des Königreichs, nicht direkt der Krone, bürgerlicher Vorsteher.
+- **Güter von den „Feldern"** (Dorf 2 und Fährwerder) gehen künftig über Dorf 2 und den Kanal in die Stadt. Die „Felder zu Montclair" liegen am See und gehören
+  zu Südholm.
+- **Offen:** Auf wessen Auftrag verwaltet das Dorf den Kanal (Krone, Helena, Hofrat)? Wer führt die Verwaltung (der bürgerliche Vorsteher, ein eigener
+  Kanalmeister, ein Hafenmeister)? Ist das Haus des Amtsträgers auf der Kuppe zugleich Sitz der Kanalverwaltung? Diese Punkte sind Vorschlag, nicht entschieden.
+- **Folgen für Arbeiter:** Fuhrleute und Lagerarbeiter verlieren einen Teil der Arbeit, weil nicht mehr alles umgeschlagen wird. Das ist erzählerisch nutzbar,
+  aber nicht festgelegt. Cecilia wäre als Nebenrolle denkbar.
 
 ### E. See und Meer
 
-- Auf der Karte liegt das Hafenviertel am **Westende** des Sees. Ist der See ein **Binnensee** oder eine **Meeresbucht**? Bei einer Verbindung zum Meer
-  verbindet der Kanal auch Fluss und Meer. Dann ist mitzudenken, wie sich Meer- und Flussschiffe verhalten.
+**Bleibt offen** (Nutzer, 2026-10-12). Auf der Karte liegt das Hafenviertel am Westende des Sees. Ob der See ein Binnensee oder eine Meeresbucht ist, wird nicht
+festgelegt. Der Kanon darf ihn deshalb nur „See bei der Stadt" nennen.
 
 ### F. Bauarbeiter
 
@@ -125,12 +137,21 @@ Hinweis: Dorf 2 hat auf der Karte ein **Segelschiff** am Anleger. Bei B1 wären 
 
 ## 5. Namensfindung
 
-Muster ([Stilrichtlinien](../Stilrichtlinien.md)): Bauten tragen deutsche Namen aus Funktion oder Person plus Geländeform (Wilhelmshöhe, Burg Erzwacht).
+Muster ([Stilrichtlinien](../Stilrichtlinien.md)): Bauten tragen deutsche Namen aus Funktion oder Person plus Geländeform (Wilhelmshöhe, Burg Erzwacht,
+Diplomatenviertel). Der Kanal ist schmal, kurz, ein Werk der Krone und das Werk Helenas. Es gibt einen **amtlichen Namen** und möglicherweise einen **Namen im
+Volksmund**.
 
-- **Funktion:** **Handelskanal**, **Stadtkanal**, **Erzkanal** (nutzt das Erz der Burg, „Erz-" ist als Ortsendung belegt, hier aber ein Bauwerk).
-- **Person:** **Helenakanal**. Er würde die stille Treiberin sichtbar machen, ihr Ehrgeiz würde im Namen auftauchen. Wilhelms Passivität bekäme damit einen
-  Gegenpol.
-- **Neutral:** **Mittelkanal**, **Neuer Kanal**.
+| Name | Herkunft | Anmerkung |
+|---|---|---|
+| **Helenakanal** | Person und Bauwerk | **Empfehlung** für den amtlichen Namen: macht die stille Treiberin sichtbar und setzt einen Gegenpol zum passiven Wilhelm. |
+| **Der Durchstich** | Wort für einen gegrabenen Durchbruch zwischen zwei Gewässern | **Empfehlung** für den Namen im Volksmund: kurz, unprätentiös, passt zu einem schmalen Kanal. |
+| Kronfahrt | Krone und Wasserweg | betont das Werk der Krone, nennt Helena nicht, wirkt feierlich. |
+| Helenenfahrt | Person und Wasserweg | wie Helenakanal, aber altertümlicher. |
+| Kahnfahrt | Kahn und Wasserweg | betont, dass nur schmale Schiffe passen, wirkt volkstümlich. |
+| Handelskanal | Funktion | nüchtern, passt zum „Handelstor" der Burg. |
+| Stadtkanal | Funktion | nüchtern, nennt das Ziel; Verwechslung mit Stadtgraben möglich. |
+| Erzkanal | Erz der Burg-Mine | betont den Nutzen der Burg, nennt Helena nicht. |
+| Wilhelmskanal | benannt nach dem passiven König | ironischer Gegenpol (der König trägt den Namen, die Schwester leistet die Arbeit). Vorsicht: Wilhelmshöhe trägt ebenfalls Wilhelm, die Herkunft des Namens ist im Kanon nicht erklärt. |
 
 Kein Name ist festgelegt.
 
@@ -142,34 +163,37 @@ Kein Name ist festgelegt.
   Staatsgeschäfte herangeführt". **Extreme Passivität** ist eine Zuspitzung, kein Widerspruch. Die Zeitleiste und das Königsbuch 06 („führte die
   Regierungsgeschäfte") sollten dann so gelesen werden, dass er die Geschäfte **führt, aber nicht gestaltet**. Das gehört in die Wilhelm-Datei, sobald es
   entschieden ist, und betrifft auch Königsbuch 07 (Kronprinzenjahre).
-- **Burg Erzwacht:** „Handelstor" und „Wirtschaftszentrum" bekommen durch den Kanal einen konkreten Sinn. Der Satz „Der Erzhandel lief vorher über die Große
-  Mine" bleibt unberührt. Der Kanal erklärt, wie das Erz der Burg-Mine zur Stadt kommen kann.
+- **Burg Erzwacht:** „Handelstor" und „Wirtschaftszentrum" bekommen durch den Kanal einen konkreten Sinn. Der Zoll an der Burg ist mit der Zollstelle im Kanon
+  vereinbar. Der Satz „Der Erzhandel lief vorher über die Große Mine" bleibt unberührt. Der Kanal erklärt, wie das Erz der Burg-Mine zur Stadt kommen kann. Der
+  Kanon sagt bisher nur „Umschlagplatz für größere Schiffe" an der Halbinsel; das „größer" wird auf „breiter" festgelegt (Frage B).
 - **Fährwerder:** Das Dorf bleibt Fähr- und Fischerdorf. Es liegt zwischen Burg und Dorf 2 und wird nicht zum Umschlagplatz.
-- **Halbinsel:** Die Aussage „Umschlagplatz für größere Schiffe" muss zur Wahl in Frage B passen.
-- **Stubs:** Helena, Cecilia, Lavinia sind unentwickelt. Neue Fakten über sie sind **neuer Kanon** und gehören in die Personendateien, nicht nur ins Konzept.
-- **Zoll:** siehe Frage C.
+- **Dorf 2:** Mit Zwischenlager, eigenem Transport und Kanalverwaltung wird Dorf 2 **deutlich wichtiger** als Fährwerder, obwohl es rechtlich gleich dasteht
+  (C1). Das ist nutzbar, sollte aber nicht als Rangfolge der Dörfer im Kanon festgeschrieben werden. Dass ein **bürgerlich verwaltetes Dorf** die
+  Kanalverwaltung übernimmt, passt zu Isabellas I. Idee, die Macht der Königsfamilie zu beschränken (Hofrat), wirft aber die Frage nach der Aufsicht auf (Frage
+  D).
+- **Stubs:** Helena, Cecilia, Lavinia sind unentwickelt. Neue Fakten über Helena sind **neuer Kanon** und gehören in ihre Personendatei, nicht nur ins Konzept.
+- **See:** bleibt offen, daher keine Aussage über Meerverbindung im Kanon.
 
 ## 7. Offene Fragen an den Nutzer
 
-Reihenfolge nach Wirkung auf den Rest.
+Erledigt am 2026-10-12: Treiberin (Helena), Zeit, Schiffsbreite, Folgen für Dorf 2, Zoll, See (bleibt offen), Umfang. Offen sind noch:
 
-1. **Treiber:** Helena (Empfehlung), Magnus, Cecilia oder Lavinia?
-2. **Schiffsgröße:** B1 (flache Flussschiffe, Halbinsel bleibt Umschlag für große Schiffe) oder B2?
-3. **Fertigstellung:** A1, A2 oder offen?
-4. **Folgen für Dorf 2:** D1, D2 oder D3?
-5. **See und Meer:** Binnensee oder Meeresbucht?
-6. **Zoll:** vorher offen lassen und mit der Burg gemeinsam klären?
-7. **Name des Kanals:** Wahl aus Abschnitt 5 oder eigener Vorschlag?
-8. **Detailtiefe:** kurzer Steckbrief des Kanals, oder geht er in `Burg Erzwacht.md` und dem Dorf-2-Steckbrief auf?
+1. **Name des Kanals** (amtlich und im Volksmund): Wahl aus Abschnitt 5 oder eigener Vorschlag. Vorschlag: Helenakanal, im Volksmund „der Durchstich".
+2. **Kanalverwaltung durch Dorf 2:** Auf wessen Auftrag (Krone, Helena, Hofrat)? Wer führt sie (Vorsteher, eigener Kanalmeister, Hafenmeister)? Gibt es eine
+   Kanalgebühr? Ist das Haus auf der Kuppe zugleich Sitz der Kanalverwaltung?
+3. **Baubeginn:** G6 spät, wie vorgeschlagen, oder erst G7 früh?
+4. **Nebenrollen:** Soll Magnus als Partner und Cecilia für die Folgen in Dorf 2 im Kanon auftauchen, oder bleibt es bei Helena allein?
 
 ## 8. Übernahme in den Kanon (nach Abstimmung)
 
-Wie bei Südholm, siehe Vollständigkeits-Checkliste (`CLAUDE.md`, Arbeitsweise Punkt 6):
+Wie bei Südholm, siehe Vollständigkeits-Checkliste (`CLAUDE.md`, Arbeitsweise Punkt 6). Der Kanal bekommt **keine eigene Datei**, er wird im Dorf-2-Steckbrief
+beschrieben.
 
-- Neu (falls Steckbrief gewählt): `Kanon/Reiche/Königreich Montclair/<Kanalname>.md`.
-- Ändern: Personendatei der gewählten Person (Stub zur Kurzfassung ausbauen) und `Wilhelm II. Montclair.md` (Passivität, Geschwister übernehmen Aufgaben),
-  Montclair-Steckbrief (Siedlungen und Bauwerke), `Burg Erzwacht.md` (Zweck, Nachbarschaft), `Fährwerder.md` (Fluss als Verkehrsweg) und der Dorf-2-Steckbrief,
-  `00-Meta/Glossar.md`, `00-Meta/Zeitleiste.md` (G6 spät), `00-Meta/Offene-Fragen.md` (Eintrag „Burg Erzwacht (Details)" bei der Zollfrage, neuer Eintrag zum
-  Kanal), `CLAUDE.md` (Strukturzeile, falls ein eigener Steckbrief entsteht).
+- Neu: der Dorf-2-Steckbrief (siehe [Konzept-Dorf-2.md](Konzept-Dorf-2.md)) mit Abschnitt zum Kanal.
+- Ändern: `Helena Montclair.md` (Stub zur Kurzfassung ausbauen: Treiberin des Kanals), `Wilhelm II. Montclair.md` (Passivität, Geschwister übernehmen Aufgaben),
+  `Burg Erzwacht.md` (Zweck, Nachbarschaft, Umladen an Kai und Halbinsel, Zoll), `Fährwerder.md` (Halbinsel: „größere Schiffe" gleich „breitere Schiffe"),
+  Montclair-Steckbrief (Siedlungen), `00-Meta/Glossar.md` (Kanal, Helena, gegebenenfalls Volksname), `00-Meta/Zeitleiste.md` (G6 spät: Baubeginn, G7 früh:
+  Fertigstellung), `00-Meta/Offene-Fragen.md` (neuer Eintrag zu Kanal, See und Meer, Kanalverwaltung und -gebühr, Bauarbeiter; Eintrag „Burg Erzwacht
+  (Details)": Zoll an der Burg).
 - Danach dieses Konzept als „umgesetzt" markieren und nach `00-Meta/Archiv/` verschieben.
 - **Vom Nutzer im Spiel:** Den Kanal bei Bedarf bauen und, wenn er einen Namen hat, einen Wegpunkt anlegen, danach `tools/kartenimport.py` erneut ausführen.
