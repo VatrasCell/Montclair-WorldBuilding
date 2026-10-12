@@ -52,8 +52,8 @@ Jedes Mitglied des Hauses hat eine **Stufe**. Sie zählt, wie weit die Person vo
 - Jede weitere Stufe ist **eine Generation Abstand** zum nächsten Vorfahren, der Monarch oder Thronfolger war. Ein Kind ist also eine Stufe unter dem
   Elternteil, aber nur, solange das Kind nicht selbst Thronfolger ist.
 - Haben beide Elternteile eine Stufe (Mitglieder des Hauses), zählt die **niedrigere Zahl**, also die größere Nähe zum Thron.
-- **Ehepartner** gehören nicht zu den Stufen. Sie behalten Namen und Stand (Abschnitt 4, Punkt 4). Der Titel der Ehefrau eines Königs („von <Ort>") bleibt
-  unberührt.
+- **Ehepartner** gehören nicht zu den Stufen. Sie erhalten durch die Heirat „von <Herkunftsort>" und Adelsstatus (entschieden am 2026-10-12 im Zug von
+  [Konzept-Dorf-1](Konzept-Dorf-1.md)). Das unterscheidet sie von der Familienlinie.
 - Der **Name bleibt für alle „Montclair"**. Die Stufe unterscheidet nur den Rang.
 
 Weil jedes Kind eines Monarchen oder Thronfolgers Stufe 2 hat und der Thronfolger selbst Stufe 1, bleibt die **Hauptlinie** immer auf den obersten Stufen. Eine
@@ -143,10 +143,9 @@ Zulässig sind Bezeichnungen, die nur **Geburt, Nähe zum Haus oder Anrede** aus
 2. **Anzahl der Stufen:** Sechs sind vorgeschlagen. Weniger Stufen machen die Regel einfacher, mehr Stufen dehnen sie auf eine große Familie über Jahrhunderte
    aus.
 3. **Aufstieg der Kinder:** Steigen die Kinder eines neuen Thronfolgers mit auf (Vorschlag) oder bleibt jeder Rang an die Geburt gebunden?
-4. **Ehepartner von Prinzen und Prinzessinnen:** Behalten sie nur Namen und Stand („Gemahl der Prinzessin") oder erhalten sie einen Titel? Das berührt
-   Katharinas Ehemann. Vorschlag: eigener Stand bleibt, kein zusätzlicher Titel. Nur der Ehepartner eines Monarchen erhält einen Titel (Königin „von <Ort>",
-   Prinzgemahl).
-5. **Ehepartner im Haus:** Im Bestand ist ein Ehemann außer Edmund nicht belegt. Montclair-Namen für angeheiratete Männer sind weiter offen.
+4. **Ehepartner von Prinzen und Prinzessinnen (entschieden):** Sie erhalten durch die Heirat „von <Herkunftsort>" und Adelsstatus, die Kinder tragen den Namen
+   Montclair (Dorf 1, 2026-10-12).
+5. **Ehepartner im Haus:** Im Bestand ist ein Ehemann außer Edmund nicht belegt. Lorenz von Montclair (Dorf 1) ist der erste Fall eines angeheirateten Mannes.
 6. **Anrede:** Die Spalte „Anrede" in 2.2 ist ein Vorschlag. Festgelegt ist bisher nichts.
 7. **Wirkung am Hof:** Haben die Stufen unterschiedliche Rechte oder nur eine Rangfolge (Sitzordnung, Zeremoniell)? Der Rat der Frauen besteht aus Frauen der
    Königsfamilie. Ab welcher Stufe jemand dort beitreten kann, ist offen.
@@ -160,8 +159,7 @@ Zulässig sind Bezeichnungen, die nur **Geburt, Nähe zum Haus oder Anrede** aus
 
 - Katharina ist **Prinzessin** (Stufe 2). Ihr Amt als Schirmherrin des Dorfes ist kein Rang.
 - Ihre Kinder sind **Stufe 3**, nach Satz A also **Hochgeborene**. Ihr Name bleibt „Montclair". Deren Kinder wären Stufe 4 (Wohlgeborene).
-- Ihr Ehemann behält seinen Namen und Stand. Er führt das Dorf als **Vorsteher** (Amt), nicht als Adelsrang. Die Namensfrage für ihn ist damit nur noch eine
-  Frage der Biografie-Variante ([Konzept-Dorf-1](Konzept-Dorf-1.md), Abschnitt G).
+- Ihr Ehemann Lorenz von Montclair erhält durch die Ehe den Titel „von Montclair" und Adelsstatus. Er führt das Dorf als **Vorsteher** (Amt), nicht als Rang.
 
 ## 6. Übernahme in den Kanon (nach Abstimmung)
 
