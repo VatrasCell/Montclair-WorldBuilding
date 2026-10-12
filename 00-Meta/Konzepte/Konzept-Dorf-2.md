@@ -41,6 +41,15 @@ in den Kanon übernommen (`CLAUDE.md`, Arbeitsweise Punkt 3).
 - **Felder:** Die „Felder" (702 | -8855) werden von **Dorf 2 und Fährwerder** bewirtschaftet, die „Felder zu Montclair" von Dorf 1 (Nutzer, 2026-10-08). Die
   Felder liegen rund 215 Blöcke südsüdwestlich von Dorf 2 und rund 235 Blöcke nordnordwestlich von Fährwerder, also zwischen beiden Dörfern. Im Kanon steht
   bisher nur die Fährwerder-Seite (Satz „gemeinsam mit einem weiteren Dorf"), die Dorf-2-Seite folgt mit der Übernahme.
+- **Fluss:** Dorf 2 und Fährwerder liegen am **selben Fluss**, damit auch die Burg Erzwacht (Nutzer, 2026-10-12). Ob Dorf 2 flussauf- oder flussabwärts von
+  Fährwerder liegt, ist nicht entschieden (siehe Abschnitt 7).
+- **A1:** Gründung **G4 bis G5**, zeitlich ähnlich wie Südholm (Nutzer, 2026-10-12). Das Dorf ist damit älter als die Burg (G6).
+- **B4:** Der Anleger ist ein **gemeinsamer Hafen**, den das Dorf selbst als Handelsplatz betreibt (Nutzer, 2026-10-12).
+- **C1:** Dorf 2 ist **wie Fährwerder** Teil des Königreichs, nicht direkt der Krone unterstellt, mit eigenem **bürgerlichem Vorsteher** (Nutzer, 2026-10-12).
+- **D:** Bewohner und Alltag wie in Abschnitt 4 D beschrieben (Nutzer, 2026-10-12). Die Frage nach Elmsworther Händlern ist davon nicht berührt und bleibt
+  offen.
+- **E:** Der **nördliche Bau auf der Kuppe** ist das **Haus eines Amtsträgers**, das **dunkle Gebäude in der Mitte** ist die **Kirche** der Staatsreligion
+  (Nutzer, 2026-10-12). Dorf 2 hat damit wie Fährwerder und Südholm eine Kirche.
 
 ## 2. Befund auf der Karte
 
@@ -83,13 +92,14 @@ Quelle: `Assets/Karten/montclair/9_8_x512_z-9216.png`, Ausschnitt um den Wegpunk
 | Stadt Montclair (350 \| -9463) | ca. 620 | nordwestlich |
 | Grenze zu Elmsworth | ca. 405 | südöstlich; nächster Grenzpunkt der Montclair-Grenze: `A19` (1089 \| -8755), Stand Wegpunkte 2026-10-05. Elmsworth selbst liegt noch weiter südöstlich (nächster Elmsworther Grenzpunkt `A26`, 979 \| -8563, ca. 510). |
 
-Offen ist, ob das Gewässer bei Dorf 2 **derselbe Fluss** wie bei Burg Erzwacht und Fährwerder ist. Die Karte zeigt ein zusammenhängendes Gewässernetz, ohne
-dass eine Verbindung sicher ist.
+Das Gewässer bei Dorf 2 ist **derselbe Fluss** wie bei Burg Erzwacht und Fährwerder (entschieden, 2026-10-12). Die Karte zeigt ein zusammenhängendes
+Gewässernetz; den genauen Verlauf zwischen Fährwerder und Dorf 2 habe ich nicht Block für Block geprüft.
 
 ## 3. Rahmen aus dem Kanon
 
-- **Fährwerder** nutzt den Fluss als zweiten Handelsweg. Dorf 2 liegt **flussaufwärts oder flussabwärts**. Das macht es zu einem möglichen **zweiten
-  Flussort**. Wichtig ist, dass es **nicht** zum Doppel von Fährwerder wird.
+- **Fährwerder** nutzt den Fluss als zweiten Handelsweg. Dorf 2 liegt am selben Fluss, **flussaufwärts oder flussabwärts**. Das macht es zum **zweiten
+  Flussort**. Wichtig ist, dass es **nicht** zum Doppel von Fährwerder wird. Der Unterschied nach den Entscheidungen: Fährwerder ist **Fähre und Fischerei** und
+  nutzt die Halbinsel der Burg zum Umschlag, Dorf 2 hat einen **eigenen Handelsanleger** (B4) und ist damit der Ort, an dem das Dorf selbst Handel treibt.
 - **Burg Erzwacht** ist „Festung und Wirtschaftszentrum", **Handelstor** der zweite Zweck. Ein Hafen weiter flussauf könnte vor oder hinter dieser Zollstelle
   liegen. Das ist ein **Kanon-Risiko** (Abschnitt 6). Zeitlich ist die Burg **jünger** (G6) als die Dörfer am Fluss (G4 bis G5): Ein Anleger aus G4 bis G5
   käme vor der Burg und müsste ihr später nicht weichen.
@@ -98,13 +108,15 @@ dass eine Verbindung sicher ist.
   fortsetzen.
 - **Keine Mauern:** passt zum offenen Dorf (gilt auch für Fährwerder und Südholm).
 - **Staatsreligion:** Altar nach Süden. Fährwerder und Südholm haben je eine Kirche, die Burg eine Kapelle ohne Gruft, jeweils mit einem Priester ohne
-  direkten Rang. Bei Dorf 2 ist eine Kirche nicht zwingend, die Karte zeigt kein eindeutiges Gebäude dafür.
+  direkten Rang. Dorf 2 bekommt ebenfalls eine Kirche (Entscheidung E: das dunkle Gebäude in der Mitte). Name des Priesters offen.
 - **Namensmuster** ([Stilrichtlinien](../Stilrichtlinien.md)): deutsche, beschreibende Ortsnamen. Belegt sind **-werder** (Fährwerder), **-holm** (Südholm) und
   **Erz-/-wacht** (Burg). Ein neuer Name sollte diese Endungen meiden.
 
 ## 4. Kernfragen mit Optionen
 
 ### A. Zeit der Gründung
+
+**Entschieden: A1** (Nutzer, 2026-10-12).
 
 | Option | Beschreibung | Bewertung |
 |---|---|---|
@@ -114,6 +126,8 @@ dass eine Verbindung sicher ist.
 | A4 | **nicht festgelegt** | zulässig |
 
 ### B. Funktion des Anlegers gegenüber dem Dorf
+
+**Entschieden: B4** (Nutzer, 2026-10-12).
 
 | Option | Beschreibung |
 |---|---|
@@ -128,6 +142,8 @@ lässt die Burg-Umschlagplätze unberührt und löst die Zollfrage nicht mit.
 
 ### C. Verwaltung und Rechtsform
 
+**Entschieden: C1** (Nutzer, 2026-10-12).
+
 | Option | Beschreibung |
 |---|---|
 | C1 | **Wie Fährwerder:** Teil des Königreichs, nicht direkt der Krone, eigener bürgerlicher Vorsteher. Einheitliche Linie für Flussdörfer. |
@@ -137,6 +153,8 @@ lässt die Burg-Umschlagplätze unberührt und löst die Zollfrage nicht mit.
 
 ### D. Bewohner und Alltag
 
+**Entschieden: passt so** (Nutzer, 2026-10-12). Der Zuzug aus dem Südosten (Elmsworther Händler) bleibt als offene Frage 5 stehen.
+
 - Fischer, Bootsbauer, Lagerarbeiter, Fuhrleute, Bauern der Felder im Südwesten.
 - Der Alltag richtet sich nach **Schiffsankunft** und **Jahreszeit**. Der Anleger ist laut, das Dorf ruhig.
 - **Zuzug:** Kein Anknüpfungspunkt wie die Halwyner bei Fährwerder. Optional: **Händler aus dem Südosten**, die sich niederlassen, auch aus
@@ -144,7 +162,10 @@ lässt die Burg-Umschlagplätze unberührt und löst die Zollfrage nicht mit.
 
 ### E. Das Gebäude im Norden und das dunkle Gebäude
 
-Zwei Bauten mit offener Funktion.
+**Entschieden:** nördlicher Bau (Kuppe) = Haus eines Amtsträgers (E3), dunkles Gebäude (Mitte) = Kirche (eigene Kombination, Nutzer, 2026-10-12). Wessen Haus es
+ist, ist offen (Frage 3).
+
+Zwei Bauten mit ursprünglich offener Funktion.
 
 | Option | nördlicher Bau (Kuppe) | dunkles Gebäude (Mitte) |
 |---|---|---|
@@ -152,7 +173,7 @@ Zwei Bauten mit offener Funktion.
 | E2 | **Kapelle** | Halle des Vorstehers |
 | E3 | Haus eines Amtsträgers (Zollner, Verwalter) | Lager oder Gasthaus |
 
-Das Gebäude im Norden wirkt abgesetzt. Ob es eine Kapelle ist, bleibt offen. Fährwerder hat eine echte Kirche. Dorf 2 muss **keine** haben.
+Das Gebäude im Norden wirkt abgesetzt. Mit der Entscheidung ist es kein Sakralbau; die Kirche steht in der Mitte, ähnlich wie bei Fährwerder.
 
 ### F. Bezug zur Hauptgeschichte
 
@@ -170,14 +191,16 @@ Das Gebäude im Norden wirkt abgesetzt. Ob es eine Kapelle ist, bleibt offen. F�
 
 ## 6. Kanon-Verträglichkeit und Risiken
 
-- **Zollstelle der Burg:** Ein Hafen oberhalb oder unterhalb der Burg kann die Zoll- und Passierstelle umgehen oder ergänzen. Das muss mit der offenen
-  Frage zur Zollstelle zusammen entschieden werden, nicht allein hier.
+- **Zollstelle der Burg:** Dorf 2 liegt am selben Fluss wie die Burg, und der Anleger betreibt Handel (B4). Wer Schiffe aus dem Südosten fährt, kommt vermutlich
+  erst an der Burg und der Halbinsel bei Fährwerder vorbei. Ob die Zollstelle auch den Verkehr zu Dorf 2 erfasst (dieselbe Frage wie „gilt sie auch für
+  Fährwerder"), bleibt offen und gehört in den Eintrag „Burg Erzwacht (Details)". Dorf 2 darf sie nicht stillschweigend festlegen. Da der Anleger älter als die
+  Burg ist (A1), ist offen, ob er vor dem Bau der Burg ohne Zoll arbeitete.
+- **Einflussverschiebung gegenüber Fährwerder:** Mit eigenem Handelsanleger könnte Dorf 2 wirtschaftlich wichtiger werden als Fährwerder, obwohl beide gleich
+  verwaltet werden (C1). Das ist erzählerisch gewollt nutzbar, sollte aber im Kanon nicht als Rangfolge der Dörfer festgeschrieben werden.
 - **Fährwerder-Handel:** „Handel mit Orten weiter südöstlich" bleibt offen. Dorf 2 darf sie nicht stillschweigend festlegen.
 - **Gewässer:** Der Fluss hat noch keinen Namen. Ein Name sollte einmal für alle drei Orte entschieden werden (Fährwerder, Burg, Dorf 2).
 - **Brücke und Isabellas Dorf:** Im Kanon gibt es schon eine „Brücke über den Fluss" als Symbol der Versöhnung zwischen Ferdinand III. und Isabella
   (Königsbuch 02). Die Brücke von Dorf 2 darf nicht stillschweigend mit ihr gleichgesetzt werden; Dorf 2 bekommt keinen Bezug zu Isabella (G1 bis G3).
-- **Zwei Kronland-Geschichten:** Wird Dorf 2 ebenfalls Kronland (C3), hat die Krone zwei Dörfer als Versorgungsbasis. Das ist möglich, würde aber
-  Südholms Sonderstellung verwässern.
 - **Felder:** Die Aussage zu den „Feldern" steht bei Fährwerder im Kanon, aber ohne Dorfnamen. Das Konzept muss sie bei der Übernahme in `Fährwerder.md`
   ergänzen.
 - **Grenznähe:** Dorf 2 liegt gut 400 Blöcke von der Grenze zu Elmsworth und damit deutlich weiter im Landesinneren als die Burg. Das spricht für ein
@@ -186,17 +209,19 @@ Das Gebäude im Norden wirkt abgesetzt. Ob es eine Kapelle ist, bleibt offen. F�
 
 ## 7. Offene Fragen an den Nutzer
 
-Reihenfolge nach Wirkung auf den Rest.
+Erledigt am 2026-10-12: gleicher Fluss, A1, B4, C1, D, E (siehe „Entschieden" in Abschnitt 1). Offen sind noch, nach Wirkung auf den Rest geordnet:
 
-1. **Gleicher Fluss?** Ist das Gewässer bei Dorf 2 derselbe Fluss wie bei der Burg und Fährwerder, und liegt Dorf 2 flussaufwärts oder flussabwärts?
-2. **Funktion des Anlegers:** B1 bis B4 oder eine eigene Idee? Das klärt die Rolle im Handel und das Verhältnis zur Burg.
-3. **Rechtsform:** C1 (wie Fährwerder), C2 (Hafen unter der Burg), C3 oder offen lassen?
-4. **Zeit:** A1 (G4 bis G5), später oder offen?
-5. **Gebäude im Norden und dunkles Gebäude** (Frage E): Was sollten sie im Spiel darstellen?
-6. **Name:** eigener Vorschlag oder Wahl aus Abschnitt 5?
-7. **Elmsworther Händler:** Ja oder nein? Das bestimmt, ob Dorf 2 ein Grenzthema trägt.
-8. **Detailtiefe:** kurzer Steckbrief wie Fährwerder und Südholm, oder soll auch eine Bauwerks-Chronik folgen?
-9. **Anbindung an Südholm:** Führen Feldwege von den „Feldern" auch nach Norden zu Dorf 2, sodass Dorf 2, Fährwerder und Südholm über die „Felder" ein
+1. **Flussrichtung:** Liegt Dorf 2 flussaufwärts oder flussabwärts von Fährwerder und der Burg? Das bestimmt, ob Schiffe aus dem Südosten Dorf 2 nach der Burg
+   erreichen. Vorschlag: im Kanon offen lassen („am selben Fluss, nördlich von Fährwerder") und nur die Lage nennen, nicht die Fließrichtung.
+2. **Zeitbezug zu Südholm:** „A1, ähnlich zu Südholm" lese ich als Gründung in G4 bis G5, in der Zeit Isabellas I. Soll die Krone ausdrücklich beteiligt sein
+   (zum Beispiel Land oder Anleger von der Krone gewährt), oder entstand das Dorf von selbst am Fluss? Wegen C1 und B4 ist die zweite Lesart die Vorgabe:
+   gewachsen, nicht geplant, anders als Südholm.
+3. **Amtsträger auf der Kuppe:** Wessen Haus ist es? Optionen: Haus des **bürgerlichen Vorstehers** (naheliegend wegen C1), eines **Hafenmeisters** (B4), eines
+   Beamten der Burg (würde die Zollfrage vorwegnehmen). Vorschlag: Vorsteher, ein Hafenmeister bleibt offen.
+4. **Name:** eigener Vorschlag oder Wahl aus Abschnitt 5 (ohne „-werder", „-holm", „Erz-" und „-wacht")?
+5. **Elmsworther Händler:** Ja oder nein? Das bestimmt, ob Dorf 2 ein Grenzthema trägt.
+6. **Detailtiefe:** kurzer Steckbrief wie Fährwerder und Südholm, oder soll auch eine Bauwerks-Chronik folgen?
+7. **Anbindung an Südholm:** Führen Feldwege von den „Feldern" auch nach Norden zu Dorf 2, sodass Dorf 2, Fährwerder und Südholm über die „Felder" ein
    gemeinsames Wegenetz bilden (der Landweg Südholm bis Fährwerder ist im Kanon)? Oder bleibt Dorf 2 nur über Wasser und den Felderweg erreichbar?
 
 ## 8. Übernahme in den Kanon (nach Abstimmung)
