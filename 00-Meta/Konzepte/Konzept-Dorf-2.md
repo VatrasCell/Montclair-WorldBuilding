@@ -60,6 +60,9 @@ in den Kanon übernommen (`CLAUDE.md`, Arbeitsweise Punkt 3).
   es kann aber auch schon an der Burg Erzwacht geschehen. Dorf 2 **bleibt Zwischenlager**, nutzt den Kanal **selbst für Transporte** (zum Beispiel Güter von den
   „Feldern") und **übernimmt die Kanalverwaltung**. Der **Zoll** wird an der Burg Erzwacht abgewickelt. Der Kanal wird im **Dorf-2-Steckbrief** beschrieben,
   siehe [Konzept-Kanal.md](Konzept-Kanal.md).
+- **Kanal (Nutzer, 2026-10-12):** amtlich **Helenakanal**, im Volksmund **„der Durchstich"**. **Helena Montclair** behält die **Aufsicht**, der **Sitz der
+  Verwaltung** ist im **Palast zu Montclair**. Baubeginn und Fertigstellung G7 früh. Damit ist „Dorf 2 übernimmt die Kanalverwaltung" als **Betrieb vor Ort** zu
+  lesen (Lesart, vom Nutzer noch zu bestätigen).
 - **Entstehung:** Dorf 2 wurde **nicht direkt durch die Krone geplant** (Nutzer, 2026-10-12). Es ist gewachsen. Ob die Krone mittelbar
   beteiligt war, bleibt offen.
 - **Amtsträger:** Das Haus auf der Kuppe ist das Haus des **bürgerlichen Vorstehers** (Vorschlag angenommen, Nutzer, 2026-10-12). Ein Hafenmeister bleibt offen.
@@ -174,8 +177,8 @@ lässt die Burg-Umschlagplätze unberührt und löst die Zollfrage nicht mit.
 - Fischer, Bootsbauer, Lagerarbeiter, Fuhrleute, Bauern der Felder im Südwesten.
 - Der Alltag richtet sich nach **Schiffsankunft** und **Jahreszeit**. Der Anleger ist laut, das Dorf ruhig.
 - **Zuzug:** Kein Anknüpfungspunkt wie die Halwyner bei Fährwerder. Händler aus Elmsworth lassen sich nicht nieder (entschieden).
-- **Nach dem Kanal (G7 früh):** Das Dorf bleibt Zwischenlager, nutzt den Kanal selbst für Transporte (zum Beispiel Güter von den „Feldern") und verwaltet den
-  Kanal (siehe „Entschieden").
+- **Nach dem Kanal (G7 früh):** Das Dorf bleibt Zwischenlager, nutzt den Kanal selbst für Transporte (zum Beispiel Güter von den „Feldern") und führt den
+  Betrieb vor Ort am Kanal (siehe „Entschieden").
 
 ### E. Das Gebäude im Norden und das dunkle Gebäude
 
@@ -218,17 +221,35 @@ und graue **Felsklippen** am Ufer.
 | Zwiefurt | zwei Wasserarme, Übergang | betont die Lage zwischen den Wasserarmen, der Handel fehlt |
 | Seeufer, Flussbrück, Landungsstelle | aus der ersten Liste | bleiben möglich, wirken aber blasser |
 
-Bis zur Entscheidung bleibt der Wegpunkt `Dorf 2`. Kein Name ist festgelegt. Eine Suche im Kanon, Glossar und in den Stilrichtlinien fand keine Ortsnamen mit
-Anker, Wiek, Lände, Klippe oder Furt.
+### Weitere Inspiration (2026-10-12)
+
+Das Dorf entstand in G4 bis G5, also **vor** Burg und Kanal. Der Name sollte daher aus Lage, Brücke, Wald und Umschlag kommen, nicht aus Kanal oder Burg. Neue
+Motive:
+
+| Motiv | Namen | Gedanke |
+|---|---|---|
+| **Umschlag und Lager** | **Stapelbrück**, Stapelwiek, Stapellände | „Stapel" meint Warenlager und Umschlagplatz. Der Ortsname erinnert an die Rolle, die das Dorf vor dem Kanal hatte und danach als Zwischenlager behält. |
+| **Hölzerne Brücke** | **Holzbrück**, Bohlenbrück | Die Karte zeigt eine hölzerne Brücke zum Anleger. Schlicht, volkstümlich. |
+| **Bäume am Wasser** | **Erlenbrück**, Weidenlände, Eschenwiek | Das Dorf liegt im Wald am Wasser. Ruhig und natürlich, passt zum Bild eines stillen Dorfes mit lautem Anleger. |
+| **Landzunge** | Weidenhorn, Landhorn | „Horn" meint eine Landzunge, auf der das Dorf liegt. |
+| **Felsklippen** | Graufels, Klippenhorn | Die grauen Klippen am Ostufer. Wirkt eher wie ein Grenz- oder Wachort. |
+| **Segel und Anleger** | Segellände, Taulände | Betont das Schiff am Anleger. Wirkt maritim. |
+| **Rast** | Rastlände, Rastbrück | Betont die Rolle als Zwischenhalt. Passt eher zur Zeit nach dem Kanal. |
+
+Meine drei Favoriten aus dieser Runde: **Stapelbrück** (beide Teile des Ortes), **Holzbrück** (schlicht) und **Erlenbrück** (ruhig). Zur Vielfalt der Endungen:
+Die Liste enthält bewusst Wörter ohne „-brück" (Stapelwiek, Weidenlände, Weidenhorn, Graufels), damit nicht alle Orte auf „-brück" enden. Eine Suche im Kanon,
+Glossar, in den Stilrichtlinien und in den Werken fand keine Ortsnamen mit Stapel, Erle, Weide, Segel oder Holzbrück.
+
+Bis zur Entscheidung bleibt der Wegpunkt `Dorf 2`. Kein Name ist festgelegt.
 
 ## 6. Kanon-Verträglichkeit und Risiken
 
 - **Zollstelle der Burg:** Der Zoll wird an der **Burg Erzwacht** abgewickelt (entschieden). Dorf 2 und der Kanal haben keine eigene Zollstelle. Wer die
   Zollstelle führt, welche Sätze gelten und ob sie auch für Fährwerder gilt, bleibt offen (Eintrag „Burg Erzwacht (Details)"). Offen ist der Zustand **vor dem
   Bau der Burg** (G4 bis G6): Gab es in Dorf 2 damals Abgaben? Das Konzept legt es nicht fest.
-- **Einflussverschiebung gegenüber Fährwerder:** Mit Handelsanleger, Zwischenlager und Kanalverwaltung wird Dorf 2 **deutlich wichtiger** als Fährwerder, obwohl
-  beide gleich verwaltet werden (C1). Das ist erzählerisch nutzbar, sollte aber im Kanon nicht als Rangfolge der Dörfer festgeschrieben werden. Dass ein
-  bürgerlich verwaltetes Dorf die Kanalverwaltung übernimmt, wirft die Frage nach der Aufsicht auf (siehe [Konzept-Kanal.md](Konzept-Kanal.md), Frage D).
+- **Einflussverschiebung gegenüber Fährwerder:** Mit Handelsanleger, Zwischenlager und dem Betrieb am Kanal wird Dorf 2 **deutlich wichtiger** als Fährwerder,
+  obwohl beide gleich verwaltet werden (C1). Das ist erzählerisch nutzbar, sollte aber im Kanon nicht als Rangfolge der Dörfer festgeschrieben werden. Die
+  Aufsicht über den Kanal liegt bei Helena (Palast), nicht beim Dorf (siehe [Konzept-Kanal.md](Konzept-Kanal.md), Frage D).
 - **Fährwerder-Handel:** „Handel mit Orten weiter südöstlich" bleibt offen. Dorf 2 darf sie nicht stillschweigend festlegen.
 - **Gewässer:** Der Fluss hat noch keinen Namen. Ein Name sollte einmal für alle drei Orte entschieden werden (Fährwerder, Burg, Dorf 2).
 - **Brücke und Isabellas Dorf:** Im Kanon gibt es schon eine „Brücke über den Fluss" als Symbol der Versöhnung zwischen Ferdinand III. und Isabella
@@ -245,15 +266,15 @@ Erledigt am 2026-10-12: Fluss, A1, B4, C1, D, E, Flussrichtung, Entstehung, Amts
 (siehe „Entschieden" in Abschnitt 1). Offen sind noch:
 
 1. **Name:** Wahl aus Abschnitt 5 oder ein eigener Vorschlag.
-2. **Kanalverwaltung:** Auf wessen Auftrag verwaltet das Dorf den Kanal, wer führt sie (Vorsteher, Kanalmeister, Hafenmeister), gibt es eine Kanalgebühr, und
-   ist das Haus auf der Kuppe zugleich Sitz der Kanalverwaltung? Das wird im Kanal-Konzept (Frage 2) geklärt, betrifft aber den Dorf-2-Steckbrief.
+2. **Betrieb am Kanal:** Führt Dorf 2 den **Betrieb vor Ort** (Lesart), während Helena im Palast die Verwaltung behält? Wer führt ihn in Dorf 2 (Vorsteher,
+   Kanalmeister, Hafenmeister)? Gibt es eine Kanalgebühr? Das wird im Kanal-Konzept (Fragen 1 und 2) geklärt, betrifft aber den Dorf-2-Steckbrief.
 
 ## 8. Übernahme in den Kanon (nach Abstimmung)
 
 Wie bei Fährwerder, siehe Vollständigkeits-Checkliste (`CLAUDE.md`, Arbeitsweise Punkt 6):
 
 - Neu: `Kanon/Reiche/Königreich Montclair/<Dorfname>.md` als **kurzer Steckbrief** (Kurzfassung, Zeit, Lage, Gestalt, Hafen, Verwaltung, „Nicht bekannt"; Aufbau
-  wie `Südholm.md`). Der Steckbrief enthält auch die Rolle von Dorf 2 **vor und nach dem Kanal** (Umschlag, Zwischenlager, Kanalverwaltung) und
+  wie `Südholm.md`). Der Steckbrief enthält auch die Rolle von Dorf 2 **vor und nach dem Kanal** (Umschlag, Zwischenlager, Betrieb am Kanal) und
   den Kanal selbst (siehe [Konzept-Kanal.md](Konzept-Kanal.md)). Die Flussfolge Nord nach Süd und die Frage nach dem Meer (See) werden nicht aufgenommen.
 - Ändern: Montclair-Steckbrief (Abschnitt „Wichtige Städte und Siedlungen", ein Eintrag neben Fährwerder und Südholm), `00-Meta/Glossar.md`,
   `00-Meta/Zeitleiste.md` (Gründungsgeneration), `00-Meta/Offene-Fragen.md` (Eintrag „Fährwerder (Details)": den Halbsatz „Dorf 2 wird separat betrachtet"

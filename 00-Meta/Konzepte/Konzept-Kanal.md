@@ -1,7 +1,7 @@
 # Konzept: Kanal (Arbeitstitel) zwischen See und Fluss
 
 **Status:** Entwurfsdokument, noch nicht kanonreif. Nichts hiervon steht im Kanon.
-**Stand:** 2026-10-12 (Kernfragen am selben Tag entschieden, Namensfrage und Kanalverwaltung offen)
+**Stand:** 2026-10-12 (fast alle Fragen entschieden, Details der Kanalverwaltung vor Ort offen)
 **Name:** noch offen. Im Spiel gibt es dafür keinen Wegpunkt.
 **Bezug:** [Konzept-Dorf-2.md](Konzept-Dorf-2.md) (Dorf 2 war vor dem Kanal der Umschlagplatz); Nachbarn im Kanon:
 [Burg Erzwacht](../../Kanon/Reiche/Königreich%20Montclair/Burg%20Erzwacht.md), [Fährwerder](../../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md),
@@ -33,13 +33,15 @@ in den Kanon übernommen (`CLAUDE.md`, Arbeitsweise Punkt 3).
 
 - Der **Kanal** verbindet den **See** bei der Stadt Montclair mit dem **Fluss** und wurde **kurz nach dem Bau der Burg Erzwacht** gebaut, damit Schiffe von der
   Burg aus **direkt bis zur Stadt** fahren können. **Vorher musste in Dorf 2 umgeschlagen werden.**
-- **Zeit:** Zuerst „G6 spät", danach die **Fertigstellung auf G7 früh** festgelegt, kurz nach der Burg. Ich lese das als **Baubeginn G6 spät, Fertigstellung G7
-  früh**. Der Kanal wird **nicht mehr direkt von Alexander II.** beaufsichtigt oder geplant, sondern **von einem seiner Kinder getrieben**.
-- **Treiberin ist Helena** (Nutzer, 2026-10-12).
+- **Zeit: G7 früh** (Baubeginn und Fertigstellung), kurz nach der Burg Erzwacht. Der Kanal entsteht damit **unter König Wilhelm II.**, nicht mehr unter
+  Alexander II., und wird **von einem seiner Kinder getrieben**.
+- **Treiberin ist Helena** (Nutzer, 2026-10-12). Sie **behält die Aufsicht über den Kanal**, der **Sitz der Verwaltung** ist im **Palast zu Montclair**.
+- **Name:** amtlich **Helenakanal**, im Volksmund **„der Durchstich"** (Nutzer, 2026-10-12).
 - **Wilhelm II. wird extrem passiv** ausgearbeitet. Seine **Geschwister übernehmen viele Aufgaben**, das spielt in den Kanal hinein.
 - **Schiffsbreite:** Nur **schmalere Schiffe** passen durch den Kanal. Das **Umladen in Dorf 2 bleibt** deshalb bei breiteren Schiffen **notwendig**, es kann
   aber auch schon an der **Burg Erzwacht** geschehen.
 - **Dorf 2** bleibt **Zwischenlager**, nutzt den Kanal **selbst für Transporte** (zum Beispiel Güter von den „Feldern") und **übernimmt die Kanalverwaltung**.
+  Mit der Aufsicht Helenas und dem Verwaltungssitz im Palast ist das nur im Sinne des **Betriebs vor Ort** zu lesen (siehe Abschnitt 4 D).
 - **Zoll** wird an der **Burg Erzwacht** abgewickelt.
 - **See und Meer:** bleibt offen.
 - **Umfang:** Der Kanal gehört in den **Dorf-2-Steckbrief**, er bekommt keinen eigenen Steckbrief.
@@ -76,15 +78,15 @@ Quelle: `Assets/Karten/montclair/` (Kacheln `8_7`, `9_7`, `8_8`, `9_8`). Wasserf
   Entscheidung.
 - **Wilhelm II.:** Das Königsbuch 06 sagt, dass der Kronprinz in den letzten Jahren Alexanders „die Regierungsgeschäfte führte". Das lässt sich mit extremer
   Passivität vereinen: Er trägt Titel und Pflichten, verwaltet und unterzeichnet, ergreift aber **keine Initiative**. Entscheidungen und Projekte laufen bei den
-  Geschwistern zusammen. Der Kanal ist das erste sichtbare Beispiel. Er wird in G7 früh unter dem neuen, passiven König fertig, den Bau hat er nicht getrieben.
-  Zur Verträglichkeit mit dem Wilhelm-Kanon siehe Abschnitt 6.
+  Geschwistern zusammen. Der Kanal ist das erste sichtbare Beispiel. Der Bau beginnt und endet in G7 früh unter dem neuen, passiven König, den Bau treibt er
+  nicht. Zur Verträglichkeit mit dem Wilhelm-Kanon siehe Abschnitt 6.
 
 ## 4. Kernfragen mit Optionen
 
 ### A. Zeit und Bauherr
 
-**Entschieden:** Treiberin Helena, Baubeginn G6 spät, Fertigstellung **G7 früh** (kurz nach der Burg). Der Kanal wird unter Wilhelm II. fertig, ohne dass er ihn
-getrieben hat. Falls auch der Baubeginn erst in G7 früh liegen soll, ändert sich nur dieser Satz.
+**Entschieden:** Treiberin Helena, **Baubeginn und Fertigstellung in G7 früh**, kurz nach der Burg Erzwacht (Nutzer, 2026-10-12). Der Kanal entsteht unter
+Wilhelm II. Er unterzeichnet höchstens, die Arbeit steuert Helena.
 
 ### B. Schiffsgröße
 
@@ -109,14 +111,18 @@ wird
 
 ### D. Folgen für Dorf 2
 
-**Entschieden:** Dorf 2 bleibt **Zwischenlager**, nutzt den Kanal **selbst** für Transporte und übernimmt die **Kanalverwaltung** (Kombination aus Option „Dorf
-bleibt Zwischenhalt und Lager" und Option „Ort der Kanalverwaltung").
+**Entschieden:** Dorf 2 bleibt **Zwischenlager**, nutzt den Kanal **selbst** für Transporte und übernimmt die **Kanalverwaltung**. Zusammen mit der Aufsicht
+Helenas und dem Verwaltungssitz im Palast ist das so zu lesen:
 
+- **Aufsicht und Verwaltung** liegen bei **Helena Montclair**, Sitz im **Palast zu Montclair** (entschieden). Das passt zu ihrem Interesse an der Verwaltung des
+  königlichen Haushalts.
+- **Dorf 2** führt den **Betrieb vor Ort**: Einfahrt zum Kanal, Zwischenlager, Anlegestellen und Aufsicht über Zu- und Abfahrt. Das ist eine **Lesart**, die der
+  Nutzer noch bestätigen muss. Alternativ ist „Kanalverwaltung durch Dorf 2" wörtlich gemeint, dann verwaltet es den Kanal im Auftrag Helenas.
 - Das Dorf bleibt rechtlich unverändert (C1): Teil des Königreichs, nicht direkt der Krone, bürgerlicher Vorsteher.
-- **Güter von den „Feldern"** (Dorf 2 und Fährwerder) gehen künftig über Dorf 2 und den Kanal in die Stadt. Die „Felder zu Montclair" liegen am See und gehören
-  zu Südholm.
-- **Offen:** Auf wessen Auftrag verwaltet das Dorf den Kanal (Krone, Helena, Hofrat)? Wer führt die Verwaltung (der bürgerliche Vorsteher, ein eigener
-  Kanalmeister, ein Hafenmeister)? Ist das Haus des Amtsträgers auf der Kuppe zugleich Sitz der Kanalverwaltung? Diese Punkte sind Vorschlag, nicht entschieden.
+- **Güter von den „Feldern"** (Dorf 2 und Fährwerder) gehen künftig über Dorf 2 und den Kanal in die Stadt. Die „Felder zu Montclair" liegen am See und werden
+  von Südholm bewirtschaftet.
+- **Offen:** Wer führt den Betrieb vor Ort (der bürgerliche Vorsteher, ein eigener Kanalmeister, ein Hafenmeister)? Gibt es eine Kanalgebühr? Das Haus auf der
+  Kuppe bleibt das Haus des Vorstehers und ist **kein** Sitz der Kanalverwaltung, denn der Sitz ist im Palast.
 - **Folgen für Arbeiter:** Fuhrleute und Lagerarbeiter verlieren einen Teil der Arbeit, weil nicht mehr alles umgeschlagen wird. Das ist erzählerisch nutzbar,
   aber nicht festgelegt. Cecilia wäre als Nebenrolle denkbar.
 
@@ -137,28 +143,18 @@ festgelegt. Der Kanon darf ihn deshalb nur „See bei der Stadt" nennen.
 
 ## 5. Namensfindung
 
-Muster ([Stilrichtlinien](../Stilrichtlinien.md)): Bauten tragen deutsche Namen aus Funktion oder Person plus Geländeform (Wilhelmshöhe, Burg Erzwacht,
-Diplomatenviertel). Der Kanal ist schmal, kurz, ein Werk der Krone und das Werk Helenas. Es gibt einen **amtlichen Namen** und möglicherweise einen **Namen im
-Volksmund**.
+**Entschieden:** amtlich **Helenakanal**, im Volksmund **„der Durchstich"** (Nutzer, 2026-10-12).
 
-| Name | Herkunft | Anmerkung |
-|---|---|---|
-| **Helenakanal** | Person und Bauwerk | **Empfehlung** für den amtlichen Namen: macht die stille Treiberin sichtbar und setzt einen Gegenpol zum passiven Wilhelm. |
-| **Der Durchstich** | Wort für einen gegrabenen Durchbruch zwischen zwei Gewässern | **Empfehlung** für den Namen im Volksmund: kurz, unprätentiös, passt zu einem schmalen Kanal. |
-| Kronfahrt | Krone und Wasserweg | betont das Werk der Krone, nennt Helena nicht, wirkt feierlich. |
-| Helenenfahrt | Person und Wasserweg | wie Helenakanal, aber altertümlicher. |
-| Kahnfahrt | Kahn und Wasserweg | betont, dass nur schmale Schiffe passen, wirkt volkstümlich. |
-| Handelskanal | Funktion | nüchtern, passt zum „Handelstor" der Burg. |
-| Stadtkanal | Funktion | nüchtern, nennt das Ziel; Verwechslung mit Stadtgraben möglich. |
-| Erzkanal | Erz der Burg-Mine | betont den Nutzen der Burg, nennt Helena nicht. |
-| Wilhelmskanal | benannt nach dem passiven König | ironischer Gegenpol (der König trägt den Namen, die Schwester leistet die Arbeit). Vorsicht: Wilhelmshöhe trägt ebenfalls Wilhelm, die Herkunft des Namens ist im Kanon nicht erklärt. |
-
-Kein Name ist festgelegt.
+- „Helenakanal" folgt dem Muster Person plus Bauwerk (Wilhelmshöhe, Burg Erzwacht) und macht die stille Treiberin sichtbar, auch gegenüber dem passiven Wilhelm
+  II.
+- „Der Durchstich" ist ein Wort für einen gegrabenen Durchbruch zwischen zwei Gewässern. Es klingt unprätentiös und passt zu einem schmalen, kurzen Kanal. Wer
+  im Alltag spricht, sagt „der Durchstich", amtliche Schriftstücke sagen „Helenakanal".
+- Nicht gewählt: Kronfahrt, Helenenfahrt, Kahnfahrt, Handelskanal, Stadtkanal, Erzkanal, Wilhelmskanal.
 
 ## 6. Kanon-Verträglichkeit und Risiken
 
-- **Alexander II.:** Das Königsbuch 06 beschreibt seine späten Jahre als Festigung und Beständigkeit. Dazu passt, dass der Kanal **nicht von ihm** kommt. Das
-  Buch nennt den Kanal nicht, es entsteht kein Widerspruch, solange das Werk nicht rückwirkend ergänzt wird.
+- **Alexander II.:** Das Königsbuch 06 beschreibt seine späten Jahre als Festigung und Beständigkeit. Der Kanal entsteht erst in G7 früh, nach seinem Tod, und
+  gehört nicht mehr zu seiner Herrschaft. Das Buch nennt ihn nicht, es entsteht kein Widerspruch.
 - **Wilhelm II.:** Der Kanon beschreibt ihn als von „Pflicht, Verantwortung, Diplomatie, Beobachtung, Zurückhaltung" geprägt und in seiner Kindheit „früh an
   Staatsgeschäfte herangeführt". **Extreme Passivität** ist eine Zuspitzung, kein Widerspruch. Die Zeitleiste und das Königsbuch 06 („führte die
   Regierungsgeschäfte") sollten dann so gelesen werden, dass er die Geschäfte **führt, aber nicht gestaltet**. Das gehört in die Wilhelm-Datei, sobald es
@@ -168,21 +164,21 @@ Kein Name ist festgelegt.
   Kanon sagt bisher nur „Umschlagplatz für größere Schiffe" an der Halbinsel; das „größer" wird auf „breiter" festgelegt (Frage B).
 - **Fährwerder:** Das Dorf bleibt Fähr- und Fischerdorf. Es liegt zwischen Burg und Dorf 2 und wird nicht zum Umschlagplatz.
 - **Dorf 2:** Mit Zwischenlager, eigenem Transport und Kanalverwaltung wird Dorf 2 **deutlich wichtiger** als Fährwerder, obwohl es rechtlich gleich dasteht
-  (C1). Das ist nutzbar, sollte aber nicht als Rangfolge der Dörfer im Kanon festgeschrieben werden. Dass ein **bürgerlich verwaltetes Dorf** die
-  Kanalverwaltung übernimmt, passt zu Isabellas I. Idee, die Macht der Königsfamilie zu beschränken (Hofrat), wirft aber die Frage nach der Aufsicht auf (Frage
-  D).
+  (C1). Das ist nutzbar, sollte aber nicht als Rangfolge der Dörfer im Kanon festgeschrieben werden. Die **Aufsicht liegt bei Helena**, der Sitz der Verwaltung
+  im Palast. Dorf 2 führt den Betrieb vor Ort (Lesart, Frage D). **Wilhelm II. ist an alledem nicht beteiligt.** Helena erhält mit der Aufsicht über den Kanal
+  erstmals ein **dauerhaftes Amt**. Dieses Amt ist neuer Kanon und gehört in ihre Personendatei. Die Hofrat- und Rat-der-Frauen-Rollen bleiben davon unberührt.
 - **Stubs:** Helena, Cecilia, Lavinia sind unentwickelt. Neue Fakten über Helena sind **neuer Kanon** und gehören in ihre Personendatei, nicht nur ins Konzept.
 - **See:** bleibt offen, daher keine Aussage über Meerverbindung im Kanon.
 
 ## 7. Offene Fragen an den Nutzer
 
-Erledigt am 2026-10-12: Treiberin (Helena), Zeit, Schiffsbreite, Folgen für Dorf 2, Zoll, See (bleibt offen), Umfang. Offen sind noch:
+Erledigt am 2026-10-12: Treiberin, Zeit (Baubeginn und Fertigstellung G7 früh), Schiffsbreite, Zoll, See (bleibt offen), Umfang, Name, Aufsicht und
+Verwaltungssitz. Offen sind noch:
 
-1. **Name des Kanals** (amtlich und im Volksmund): Wahl aus Abschnitt 5 oder eigener Vorschlag. Vorschlag: Helenakanal, im Volksmund „der Durchstich".
-2. **Kanalverwaltung durch Dorf 2:** Auf wessen Auftrag (Krone, Helena, Hofrat)? Wer führt sie (Vorsteher, eigener Kanalmeister, Hafenmeister)? Gibt es eine
-   Kanalgebühr? Ist das Haus auf der Kuppe zugleich Sitz der Kanalverwaltung?
-3. **Baubeginn:** G6 spät, wie vorgeschlagen, oder erst G7 früh?
-4. **Nebenrollen:** Soll Magnus als Partner und Cecilia für die Folgen in Dorf 2 im Kanon auftauchen, oder bleibt es bei Helena allein?
+1. **Betrieb vor Ort:** Ist „Dorf 2 übernimmt die Kanalverwaltung" so zu lesen, dass Dorf 2 den **Betrieb vor Ort** führt und Helena die Verwaltung im Palast
+   behält? Oder verwaltet Dorf 2 den Kanal wörtlich im Auftrag Helenas? Wer führt den Betrieb in Dorf 2 (Vorsteher, Kanalmeister, Hafenmeister)?
+2. **Kanalgebühr:** Gibt es eine, und wohin fließt sie (Haushalt der Krone, Helenas Verwaltung)? Vorschlag: nicht festlegen.
+3. **Nebenrollen:** Soll Magnus als Partner und Cecilia für die Folgen in Dorf 2 im Kanon auftauchen, oder bleibt es bei Helena allein?
 
 ## 8. Übernahme in den Kanon (nach Abstimmung)
 
@@ -192,8 +188,8 @@ beschrieben.
 - Neu: der Dorf-2-Steckbrief (siehe [Konzept-Dorf-2.md](Konzept-Dorf-2.md)) mit Abschnitt zum Kanal.
 - Ändern: `Helena Montclair.md` (Stub zur Kurzfassung ausbauen: Treiberin des Kanals), `Wilhelm II. Montclair.md` (Passivität, Geschwister übernehmen Aufgaben),
   `Burg Erzwacht.md` (Zweck, Nachbarschaft, Umladen an Kai und Halbinsel, Zoll), `Fährwerder.md` (Halbinsel: „größere Schiffe" gleich „breitere Schiffe"),
-  Montclair-Steckbrief (Siedlungen), `00-Meta/Glossar.md` (Kanal, Helena, gegebenenfalls Volksname), `00-Meta/Zeitleiste.md` (G6 spät: Baubeginn, G7 früh:
-  Fertigstellung), `00-Meta/Offene-Fragen.md` (neuer Eintrag zu Kanal, See und Meer, Kanalverwaltung und -gebühr, Bauarbeiter; Eintrag „Burg Erzwacht
-  (Details)": Zoll an der Burg).
+  Montclair-Steckbrief (Siedlungen), `00-Meta/Glossar.md` (Helenakanal, „der Durchstich", Helena, Palast zu Montclair als Sitz der Kanalverwaltung),
+  `00-Meta/Zeitleiste.md` (G7 früh: Baubeginn und Fertigstellung, Aufsicht Helenas), `00-Meta/Offene-Fragen.md` (neuer Eintrag zu Kanal, See und Meer,
+  Kanalverwaltung und -gebühr, Bauarbeiter; Eintrag „Burg Erzwacht (Details)": Zoll an der Burg).
 - Danach dieses Konzept als „umgesetzt" markieren und nach `00-Meta/Archiv/` verschieben.
 - **Vom Nutzer im Spiel:** Den Kanal bei Bedarf bauen und, wenn er einen Namen hat, einen Wegpunkt anlegen, danach `tools/kartenimport.py` erneut ausführen.
