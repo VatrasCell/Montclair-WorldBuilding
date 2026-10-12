@@ -24,8 +24,8 @@ Krone verwaltet und hat einen eigenen bürgerlichen Vorsteher. Als die Burg Erzw
 - **Kirche:** das größere Gebäude im Süden, an der Kreuzung der Straße aus dem Norden mit der Ost-West-Straße. Sie gehört zur
   [Staatsreligion von Montclair](../../Welt/Religion/Staatsreligion%20von%20Montclair.md). Der Geistliche ist ein **Priester** ohne direkten Rang.
 - Im Norden steht ein weiteres Gebäude mit hellem Vorplatz, dessen Nutzung nicht festgelegt ist.
-- **Felder:** Die „Felder" (Wegpunkt `Felder`, rund 235 Blöcke nördlich bis nordnordwestlich) bewirtschaftet das Dorf gemeinsam mit einem weiteren Dorf. Ein Landweg führt
-  von dort zum Dorf [Südholm](Südholm.md).
+- **Felder:** Die „Felder" (Wegpunkt `Felder`, rund 235 Blöcke nördlich bis nordnordwestlich) bewirtschaftet das Dorf gemeinsam mit [Stapelwiek](Stapelwiek.md).
+  Ein Landweg führt von dort zum Dorf [Südholm](Südholm.md).
 
 ## Verwaltung
 
@@ -36,8 +36,9 @@ Krone verwaltet und hat einen eigenen bürgerlichen Vorsteher. Als die Burg Erzw
 
 - Die **Bergleute der Burg** wohnen nicht im Dorf: Für die Zeit ihres Dienstes schlafen und essen sie in der Burg. Die Arbeitsbedingungen sind normal.
 - Nördlich des Dorfes liegt eine **Halbinsel**, die über einen schmalen, ausgebauten Pfad mit dem Dorf verbunden ist. Sie wurde **gleichzeitig mit der Burg**
-  gebaut und dient als **Umschlagplatz für größere Schiffe** und als **Wachposten**. Sie gehört zur **Burg**, wird aber vom Dorf genutzt. Das ist kein
-  Streitpunkt. Einen eigenen Namen hat sie nicht.
+  gebaut und dient als **Umschlagplatz für größere Schiffe** und als **Wachposten**. „Größer" heißt „breiter": Durch den Helenakanal zur Stadt passen nur
+  schmalere Schiffe, die breiteren laden hier oder an der Burg um (siehe [Stapelwiek](Stapelwiek.md#der-helenakanal)). Sie gehört zur **Burg**, wird aber vom
+  Dorf genutzt. Das ist kein Streitpunkt. Einen eigenen Namen hat sie nicht.
 
 ## Die Halwyner in Fährwerder (G6)
 
@@ -66,6 +67,7 @@ Erzwacht](../../../Werke/Bauwerke-Chroniken/Die%20Errichtung%20der%20Burg%20Erzw
 ## Verweise
 
 - [Montclair-Steckbrief](Steckbrief.md)
+- [Stapelwiek](Stapelwiek.md) (Nachbardorf am selben Fluss, rund 410 Blöcke nördlich)
 - [Halwyn](../../Welt/Halwyn.md)
 - [Staatsreligion von Montclair](../../Welt/Religion/Staatsreligion%20von%20Montclair.md)
 - [Zeitleiste](../../../00-Meta/Zeitleiste.md)

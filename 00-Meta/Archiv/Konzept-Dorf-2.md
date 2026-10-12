@@ -1,11 +1,14 @@
-# Konzept: Dorf 2 (Arbeitstitel), das Flussdorf mit Handelsanleger
+# Konzept: Stapelwiek (Arbeitstitel „Dorf 2"), das Flussdorf mit Handelsanleger
 
-**Status:** Entwurfsdokument, noch nicht kanonreif. Nichts hiervon steht im Kanon.
-**Stand:** 2026-10-12 (gegen den Kanon nach der Übernahme von Südholm aktualisiert; Kernfragen A bis E und die Folgefragen am selben Tag entschieden)
-**Name:** noch offen. Der Wegpunkt heißt im Spiel `Dorf 2` (805 | 68 | -9045), Set `worldbuilding`, Farbe 11 (Montclair).
-**Bezug:** Verwandt mit [Konzept-Kanal.md](Konzept-Kanal.md). Schwesterdokument zu [Konzept-Dorf-1.md](../Archiv/Konzept-Dorf-1.md) (umgesetzt als
+**Status:** Umgesetzt (2026-10-12). Übernommen in den Kanon: [Stapelwiek](../../Kanon/Reiche/Königreich%20Montclair/Stapelwiek.md),
+[Fährwerder](../../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md), [Südholm](../../Kanon/Reiche/Königreich%20Montclair/Südholm.md), [Burg
+Erzwacht](../../Kanon/Reiche/Königreich%20Montclair/Burg%20Erzwacht.md), Helena und Wilhelm II., Montclair-Steckbrief, `CLAUDE.md`, Zeitleiste, Glossar und
+Offene-Fragen. Dieses Dokument bleibt als Entscheidungsprotokoll erhalten.
+**Stand:** 2026-10-12, alle Entscheidungen getroffen und übernommen
+**Name:** **Stapelwiek** (entschieden, 2026-10-12). Der Wegpunkt heißt im Spiel noch `Dorf 2` (805 | 68 | -9045), Set `worldbuilding`, Farbe 11 (Montclair).
+**Bezug:** Verwandt mit [Konzept-Kanal.md](Konzept-Kanal.md). Schwesterdokument zu [Konzept-Dorf-1.md](Konzept-Dorf-1.md) (umgesetzt als
 [Südholm](../../Kanon/Reiche/Königreich%20Montclair/Südholm.md)); Vorbild für Ablauf und Aufbau ist das archivierte
-[Konzept-Dorf-3.md](../Archiv/Konzept-Dorf-3.md) (Fährwerder). Nachbarn im Kanon: [Fährwerder](../../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md),
+[Konzept-Dorf-3.md](Konzept-Dorf-3.md) (Fährwerder). Nachbarn im Kanon: [Fährwerder](../../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md),
 [Südholm](../../Kanon/Reiche/Königreich%20Montclair/Südholm.md) und [Burg Erzwacht](../../Kanon/Reiche/Königreich%20Montclair/Burg%20Erzwacht.md).
 
 Dieses Dokument sammelt Befund, Rahmen und Optionen. **Was nicht in Abschnitt 1 steht, ist Vorschlag** und wird erst nach Abstimmung mit dem Nutzer
@@ -62,7 +65,9 @@ in den Kanon übernommen (`CLAUDE.md`, Arbeitsweise Punkt 3).
   siehe [Konzept-Kanal.md](Konzept-Kanal.md).
 - **Kanal (Nutzer, 2026-10-12):** amtlich **Helenakanal**, im Volksmund **„der Durchstich"**. **Helena Montclair** behält die **Aufsicht**, der **Sitz der
   Verwaltung** ist im **Palast zu Montclair**. Baubeginn und Fertigstellung G7 früh. Damit ist „Dorf 2 übernimmt die Kanalverwaltung" als **Betrieb vor Ort** zu
-  lesen (Lesart, vom Nutzer noch zu bestätigen).
+  lesen: Die **hoheitlichen Verwaltungsaufgaben** liegen bei Helena, **Ausführung und Tagesgeschäft** beim Dorf. Der **Vorsteher** beauftragt dafür einen
+  **Kanalmeister**. Es gibt **keine eigene Kanalgebühr** (Nutzer, 2026-10-12).
+- **Name:** **Stapelwiek** (Nutzer, 2026-10-12).
 - **Entstehung:** Dorf 2 wurde **nicht direkt durch die Krone geplant** (Nutzer, 2026-10-12). Es ist gewachsen. Ob die Krone mittelbar
   beteiligt war, bleibt offen.
 - **Amtsträger:** Das Haus auf der Kuppe ist das Haus des **bürgerlichen Vorstehers** (Vorschlag angenommen, Nutzer, 2026-10-12). Ein Hafenmeister bleibt offen.
@@ -262,14 +267,10 @@ Bis zur Entscheidung bleibt der Wegpunkt `Dorf 2`. Kein Name ist festgelegt.
 
 ## 7. Offene Fragen an den Nutzer
 
-Erledigt am 2026-10-12: Fluss, A1, B4, C1, D, E, Flussrichtung, Entstehung, Amtsträger, Elmsworther Händler, Detailtiefe, Wegenetz, Rolle nach dem Kanal, Zoll
-(siehe „Entschieden" in Abschnitt 1). Offen sind noch:
+Alle Fragen sind entschieden (siehe „Entschieden" in Abschnitt 1): Name **Stapelwiek**, Betrieb am Kanal über Vorsteher und Kanalmeister, hoheitliche Verwaltung
+bei Helena, keine Kanalgebühr. Die Nebenrollen von Magnus und Cecilia (Kanal-Konzept, Frage 3) wurden nicht entschieden und kommen nicht in den Kanon.
 
-1. **Name:** Wahl aus Abschnitt 5 oder ein eigener Vorschlag.
-2. **Betrieb am Kanal:** Führt Dorf 2 den **Betrieb vor Ort** (Lesart), während Helena im Palast die Verwaltung behält? Wer führt ihn in Dorf 2 (Vorsteher,
-   Kanalmeister, Hafenmeister)? Gibt es eine Kanalgebühr? Das wird im Kanal-Konzept (Fragen 1 und 2) geklärt, betrifft aber den Dorf-2-Steckbrief.
-
-## 8. Übernahme in den Kanon (nach Abstimmung)
+## 8. Übernahme in den Kanon (erfolgt am 2026-10-12)
 
 Wie bei Fährwerder, siehe Vollständigkeits-Checkliste (`CLAUDE.md`, Arbeitsweise Punkt 6):
 
@@ -285,3 +286,44 @@ Wie bei Fährwerder, siehe Vollständigkeits-Checkliste (`CLAUDE.md`, Arbeitswei
   Südholm Dorf 2 bewusst nicht.
 - Danach dieses Konzept als „umgesetzt" markieren und nach `00-Meta/Archiv/` verschieben.
 - **Vom Nutzer im Spiel:** Wegpunkt `Dorf 2` umbenennen, danach `tools/kartenimport.py` erneut ausführen.
+
+## 9. Prüfung gegen Kanon und Werke (2026-10-12)
+
+Gelesen und gegen die Entscheidungen geprüft: Helena, Cecilia, Lavinia, Magnus, Wilhelm II., Alexander II., Fährwerder, Burg Erzwacht, Südholm,
+Montclair-Steckbrief, Hofrat, Zeitleiste, Glossar, Offene-Fragen, Stilrichtlinien, `CLAUDE.md`, Königsbuch 06 und 07 sowie die Bauwerks-Chronik der Burg
+Erzwacht. Alle Werke wurden auf die Namen Helena, Cecilia, Lavinia, Kanal, Stapel und Wiek durchsucht.
+
+### 9.1 Bestätigt, kein Widerspruch
+
+| Entscheidung | Prüfung |
+|---|---|
+| Gründung G4 bis G5, gewachsen, nicht von der Krone geplant | Zeitleiste G4 und Fährwerder (G4 bis G5) passen. Kein Werk nennt das Dorf. |
+| Name Stapelwiek | Kein Treffer für „Stapel" oder „Wiek" in Kanon, Glossar, Stilrichtlinien und Werken. Kein Konflikt mit Südholm, Fährwerder, Erzwacht, Isabellas Dorf. |
+| Zoll an der Burg Erzwacht | Burg-Kanon und Bauwerks-Chronik: Zoll- und Passierstelle am Fluss, „ordnet den Verkehr zwischen beiden Reichen". Vereinbar, wer sie führt, bleibt offen. |
+| Schiffsbreite, Umladen an Burg oder Dorf | Chronik: Kai für große Schiffe, Halbinsel als Umschlagplatz für größere Schiffe. „Größer" wird auf „breiter" festgelegt (Fährwerder und Burg angepasst). |
+| Helena als Treiberin, Generation G7 | Königsbuch 06: Interesse an der Verwaltung des königlichen Haushalts, stiller Ehrgeiz. Geschwister Wilhelms II. gehören zu G7. Alexander II. ist zu Baubeginn tot, das Buch nennt keinen Kanal. |
+| Aufsicht Helenas, Sitz im Palast zu Montclair | Der Palast zu Montclair ist im Glossar Ferdinands IV. Residenz auf dem Palasthügel. Neue Aussagen über seine heutige Nutzung sind nicht nötig. |
+| Wilhelm II. extrem passiv | Königsbuch 07: „das Amt nicht suchte, sondern annahm". Königsbuch 06 „führte die Regierungsgeschäfte" wird als „führt, aber gestaltet nicht" gelesen (Hinweis in der Wilhelm-Datei). |
+| Vorsteher bürgerlich, Kanalmeister im Auftrag | Fährwerder-Muster; Hofrat: keine feste Verteilung der Vertreter auf Dörfer. |
+| Keine Kanalgebühr | Kein Kanon-Text zu Gebühren. Der Zoll an der Burg bleibt die einzige Abgabe. |
+| Felder | „Felder" von Stapelwiek und Fährwerder, „Felder zu Montclair" von Südholm. Fährwerder und Südholm sind angepasst. |
+
+### 9.2 Im Konzept korrigiert oder präzisiert
+
+- Die erste Idee „Dorf 2 übernimmt die Kanalverwaltung" wurde präzisiert: Die hoheitlichen Verwaltungsaufgaben liegen bei Helena, Ausführung und Tagesgeschäft
+  beim Dorf (Vorsteher beauftragt einen Kanalmeister).
+- Baubeginn wurde von G6 spät auf G7 früh verschoben, Alexander II. hat mit dem Kanal nichts zu tun.
+- Ein erster Gedanke, Dorf 2 könnte Isabellas Dorf sein, entfiel: Isabellas Dorf hat einen eigenen Wegpunkt weit im Nordwesten. Das ist als Kanon-Hinweis in
+  `Stapelwiek.md` vermerkt.
+
+### 9.3 Bewusst nicht im Kanon
+
+- Magnus und Cecilia als Nebenrollen am Kanal (nicht entschieden).
+- Ob der See ein Binnensee oder eine Meeresbucht ist.
+- Bauarbeiter, Bauzeit, Maße, Fließrichtung und Name des Flusses, Name von Vorsteher, Priester und Kanalmeister.
+- Abgaben am Fluss vor dem Bau der Burg.
+
+### 9.4 Umgesetzte Dateien
+
+`Stapelwiek.md` (neu), `Helena Montclair.md`, `Wilhelm II. Montclair.md`, `Burg Erzwacht.md`, `Fährwerder.md`, `Südholm.md`, Montclair-Steckbrief, `CLAUDE.md`,
+`00-Meta/Zeitleiste.md`, `00-Meta/Glossar.md`, `00-Meta/Offene-Fragen.md`.

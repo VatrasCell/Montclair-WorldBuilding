@@ -36,6 +36,10 @@ Alexanders Sohn **Magnus** als Burgherr und Statthalter verwaltet. Sie gilt als 
 - **Wirtschaftszentrum:** die Erzmine (siehe unten) und ihre Verwaltung.
 - **Handelstor:** Die Burg hat eine **Zoll- und Passierstelle** am Fluss. Wer sie führt, welche Sätze gelten und wie sie sich zu den Zöllen Elmsworths verhält,
   ist nicht festgelegt.
+- **Der Zoll für den Flussverkehr wird an der Burg abgewickelt**, nicht in [Stapelwiek](Stapelwiek.md) und nicht am Helenakanal, der den Fluss seit G7 früh mit
+  dem See bei der Stadt Montclair verbindet. Der Kanal hat keine eigene Gebühr.
+- **Umladen:** Durch den Helenakanal passen nur **schmalere Schiffe**. Breitere Schiffe laden an der Burg (Kai, Halbinsel bei Fährwerder) oder in Stapelwiek um.
+  „Größere Schiffe" an Kai und Halbinsel heißt „breitere Schiffe".
 
 ## Die Mine
 
@@ -78,6 +82,7 @@ Alexanders Sohn **Magnus** als Burgherr und Statthalter verwaltet. Sie gilt als 
 ## Nachbarschaft
 
 - [Fährwerder](Fährwerder.md): Fähr- und Fischerdorf am Westufer, rund 160 Blöcke entfernt.
+- [Stapelwiek](Stapelwiek.md): Flussdorf mit Handelsanleger am selben Fluss, rund 405 Blöcke nordnordwestlich.
 - [Halwyn](../../Welt/Halwyn.md): zerstörtes freies Dorf im Landgrenzstreifen, rund 500 Blöcke nordöstlich.
 
 ## Nicht bekannt
@@ -101,6 +106,7 @@ Elmsworther Sicht anders deuten.
 
 - [Montclair-Steckbrief](Steckbrief.md)
 - [Fährwerder](Fährwerder.md)
+- [Stapelwiek](Stapelwiek.md)
 - [Halwyn](../../Welt/Halwyn.md)
 - [Magnus Montclair](../../Personen/Haus%20Montclair/Magnus%20Montclair.md)
 - [Alexander II. Montclair](../../Personen/Haus%20Montclair/Alexander%20II.%20Montclair.md)
