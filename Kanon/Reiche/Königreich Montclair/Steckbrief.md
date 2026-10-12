@@ -60,7 +60,9 @@ gemäßigten, doch fruchtbaren Klima.
 
 - **Hauptwirtschaftszweige:** Landwirtschaft, Abbau von Bodenschätzen, Steinmetzen und Handwerk. Wichtige strategische Orte wie Burg Montclair fördern die
   Produktion von Baumaterialien. Die Mine der Burg Erzwacht ist sehr erzreich und versorgt das Reich mit Erzen und Mineralien, die Große Mine dient mehr dem
-  Baustoffgewinn. Seehandel über den unter Isabella I. ausgebauten Hafen und das neue Hafenviertel.
+  Baustoffgewinn. Seehandel über den unter Isabella I. ausgebauten Hafen und das neue Hafenviertel. Seit G7 früh verbindet der
+  [Helenakanal](Stapelwiek.md#der-helenakanal) den Fluss (und damit die Burg Erzwacht) mit dem See bei der Stadt Montclair; der Zoll wird an der Burg
+  abgewickelt.
 - **Handelspartner:** Wichtige Handelsbeziehungen bestehen mit dem Königreich Elmsworth und anderen kleineren Reichen auf dem Festland. (Alden zählt
   nicht dazu – siehe Kanon-Hinweis unten.)
 
@@ -90,6 +92,9 @@ gemäßigten, doch fruchtbaren Klima.
   Umschlagplatz und Wachposten. Details: [Fährwerder.md](Fährwerder.md).
 - **Südholm (planmäßiges Dorf auf der Insel südlich der Hauptinsel):** Versorgungsdorf der Stadt Montclair, gegründet G4 unter Isabella I., Kronland (unmittelbar der Krone
   unterstellt), in G5 an Katharina Montclair übergeben, mit Vorsteher Lorenz von Montclair und einer Kirche der Staatsreligion. Details: [Südholm.md](Südholm.md).
+- **Stapelwiek (Flussdorf mit Handelsanleger):** gewachsenes Dorf auf einer Landzunge am Fluss, gegründet G4 bis G5, Teil des Königreichs, aber nicht direkt der
+  Krone unterstellt, mit bürgerlichem Vorsteher und einer Kirche der Staatsreligion. Bis G7 früh Umschlagplatz zwischen Fluss und Stadt, danach Zwischenlager
+  und Betriebsort des Helenakanals. Details: [Stapelwiek.md](Stapelwiek.md).
 
 ## Politische und diplomatische Beziehungen
 
@@ -114,7 +119,8 @@ gemäßigten, doch fruchtbaren Klima.
   ein (Palast-Umbau, Universität, Hafenviertel).
 - **Kronprinz Alexander I. Montclair:** Sohn Isabellas I., nie gekrönt, ließ Burg Montclair errichten.
 - **König Alexander II. Montclair:** Sohn Alexanders I., ließ Wilhelmshöhe und die Burg Erzwacht errichten, verstarb zuletzt.
-- **König Wilhelm II. Montclair:** amtierender König, Sohn Alexanders II. und Judiths.
+- **König Wilhelm II. Montclair:** amtierender König, Sohn Alexanders II. und Judiths, sehr passiv; seine Geschwister übernehmen viele Aufgaben (Magnus die Burg
+  Erzwacht, Helena den Helenakanal).
 
 Ausführliche Einzeldaten zu allen Personen: siehe [Kanon/Personen/Haus Montclair](../../Personen/Haus%20Montclair/). Erzählerische Biografien:
 siehe [Werke/Die Königsbücher von Montclair](../../../Werke/Die%20Königsbücher%20von%20Montclair/).

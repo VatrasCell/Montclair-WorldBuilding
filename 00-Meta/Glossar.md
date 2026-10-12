@@ -35,6 +35,7 @@ hier ergänzen.
   Ashdale](../Kanon/Personen/Haus%20Elmsworth/Cordelia%20von%20Ashdale.md)
 - **Cuthbert Elmsworth** — Prinz, Sohn Cedrics II. → [Kanon/Personen/Haus Elmsworth/Cuthbert
   Elmsworth](../Kanon/Personen/Haus%20Elmsworth/Cuthbert%20Elmsworth.md)
+- **Durchstich, der** — Volksname des Helenakanals → siehe Helenakanal
 - **Edith** — Königin, Ehefrau Oswalds I., Stand offen → [Kanon/Personen/Haus Elmsworth/Edith](../Kanon/Personen/Haus%20Elmsworth/Edith.md)
 - **Edmund Montclair** — Ehemann Isabellas I., Sohn
   Eleanors → [Kanon/Personen/Haus Montclair/Edmund Montclair](../Kanon/Personen/Haus%20Montclair/Edmund%20Montclair.md)
@@ -62,8 +63,10 @@ hier ergänzen.
   Palastgarten → [Kanon/Personen/Haus Montclair/Genevieve Montclair](../Kanon/Personen/Haus%20Montclair/Genevieve%20Montclair.md)
 - **Gwendolyn Elmsworth** — Prinzessin, Tochter Alfreds I. → [Kanon/Personen/Haus Elmsworth/Gwendolyn
   Elmsworth](../Kanon/Personen/Haus%20Elmsworth/Gwendolyn%20Elmsworth.md)
-- **Helena Montclair** — Tochter Alexanders II. und
-  Judiths → [Kanon/Personen/Haus Montclair/Helena Montclair](../Kanon/Personen/Haus%20Montclair/Helena%20Montclair.md)
+- **Helena Montclair** — Tochter Alexanders II. und Judiths, treibt den Helenakanal und behält die Aufsicht → [Kanon/Personen/Haus Montclair/Helena
+  Montclair](../Kanon/Personen/Haus%20Montclair/Helena%20Montclair.md)
+- **Helenakanal** — Kanal zwischen dem Fluss und dem See bei der Stadt Montclair (G7 früh), Aufsicht Helena, im Volksmund „der Durchstich" →
+  [Kanon/Reiche/Königreich Montclair/Stapelwiek](../Kanon/Reiche/Königreich%20Montclair/Stapelwiek.md#der-helenakanal)
 - **Hereward Elmsworth** — Prinz, Sohn Cedrics I., früh und kinderlos gestorben → [Kanon/Personen/Haus Elmsworth/Hereward
   Elmsworth](../Kanon/Personen/Haus%20Elmsworth/Hereward%20Elmsworth.md)
 - **Hilda von Elmsworth** — Königin, bürgerliche Ehefrau Cedrics I. → [Kanon/Personen/Haus Elmsworth/Hilda von
@@ -79,6 +82,8 @@ hier ergänzen.
   Tod → [Kanon/Personen/Haus Montclair/Judith von Montclair](../Kanon/Personen/Haus%20Montclair/Judith%20von%20Montclair.md)
 - **Julian Montclair** — Sohn Alexanders I. und
   Amelias → [Kanon/Personen/Haus Montclair/Julian Montclair](../Kanon/Personen/Haus%20Montclair/Julian%20Montclair.md)
+- **Kanalmeister** — vom Vorsteher von Stapelwiek beauftragter Leiter des Tagesgeschäfts am Helenakanal → [Kanon/Reiche/Königreich
+  Montclair/Stapelwiek](../Kanon/Reiche/Königreich%20Montclair/Stapelwiek.md#der-helenakanal)
 - **Katharina Montclair** — Tochter Isabellas I., Rat der Frauen, naturverbunden und sozial
   engagiert → [Kanon/Personen/Haus Montclair/Katharina Montclair](../Kanon/Personen/Haus%20Montclair/Katharina%20Montclair.md)
 - **Lavinia Montclair** — Tochter Alexanders II. und
@@ -105,6 +110,8 @@ hier ergänzen.
   Elmsworth](../Kanon/Personen/Haus%20Elmsworth/Rosalind%20Elmsworth.md)
 - **Rowena von Thornfield** — Königin, Ehefrau Edwins I., Adelshaus Thornfield → [Kanon/Personen/Haus Elmsworth/Rowena von
   Thornfield](../Kanon/Personen/Haus%20Elmsworth/Rowena%20von%20Thornfield.md)
+- **Stapelwiek** — gewachsenes Flussdorf mit Handelsanleger (Wegpunkt `Dorf 2`), gegründet G4 bis G5, bis G7 früh Umschlagplatz, danach Zwischenlager am
+  Helenakanal → [Kanon/Reiche/Königreich Montclair/Stapelwiek](../Kanon/Reiche/Königreich%20Montclair/Stapelwiek.md)
 - **Tamsin Elmsworth** — Prinzessin, Tochter Cedrics II. → [Kanon/Personen/Haus Elmsworth/Tamsin
   Elmsworth](../Kanon/Personen/Haus%20Elmsworth/Tamsin%20Elmsworth.md)
 - **Theodor Montclair** — Sohn Katharinas und Lorenz' von Montclair, G6 → [Kanon/Personen/Haus Montclair/Theodor
@@ -172,7 +179,7 @@ hier ergänzen.
   [Kanon/Personen/Haus Montclair/Wilhelm I. Montclair](../Kanon/Personen/Haus%20Montclair/Wilhelm%20I.%20Montclair.md)
 - **Lythor** — Hauptstadt Lythorias → siehe [Kanon/Reiche/Königreich Lythoria](../Kanon/Reiche/Königreich%20Lythoria/Steckbrief.md)
 - **Palast zu Montclair** — Ferdinand IV.s Residenz auf dem künstlich aufgeschütteten Palasthügel über der Großen Mine, unter Zwangsarbeit errichtet,
-  mit Eleanors Bibliothek und Genevieves Gärten → [Werke/Bauwerke-Chroniken/Die Errichtung des Palastes zu
+  mit Eleanors Bibliothek und Genevieves Gärten, Sitz der Verwaltung des Helenakanals → [Werke/Bauwerke-Chroniken/Die Errichtung des Palastes zu
   Montclair](../Werke/Bauwerke-Chroniken/Die%20Errichtung%20des%20Palastes%20zu%20Montclair.md)
 - **Südholm** — planmäßiges Versorgungsdorf auf der Insel südlich der Hauptinsel, Kronland, gegründet G4 unter Isabella I., in G5 an Katharina übergeben → [Kanon/Reiche/Königreich
   Montclair/Südholm](../Kanon/Reiche/Königreich%20Montclair/Südholm.md)

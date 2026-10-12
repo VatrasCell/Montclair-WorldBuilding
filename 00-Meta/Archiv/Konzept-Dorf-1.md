@@ -5,7 +5,7 @@
 Zeitleiste, Glossar und Offene-Fragen. Dieses Dokument bleibt als Entscheidungsprotokoll erhalten.
 **Stand:** 2026-10-12, alle Entscheidungen getroffen und übernommen
 **Name:** **Südholm** (entschieden, 2026-10-12). Der Wegpunkt heißt im Spiel noch `Dorf 1` (364 | 64 | -8958), Set `worldbuilding`, Farbe 11 (Montclair).
-**Bezug:** Schwesterdokument zu [Konzept-Dorf-2.md](../Konzepte/Konzept-Dorf-2.md); Vorbild für Ablauf und Aufbau ist das archivierte
+**Bezug:** Schwesterdokument zu [Konzept-Dorf-2.md](Konzept-Dorf-2.md); Vorbild für Ablauf und Aufbau ist das archivierte
 [Konzept-Dorf-3.md](Konzept-Dorf-3.md) (Fährwerder). Die Festlegung „Dorf 1 und Dorf 2 werden später separat betrachtet" stammt von dort.
 
 Dieses Dokument sammelt Befund, Rahmen und Optionen. **Was nicht in Abschnitt 1 steht, ist Vorschlag** und wird erst nach Abstimmung mit dem Nutzer in den Kanon

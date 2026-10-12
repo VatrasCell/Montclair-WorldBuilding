@@ -68,6 +68,9 @@ sprachliche Mittel.
 - (G4 bis G5, am Fluss im Osten Montclairs: Gründung des Fähr- und Fischerdorfes **Fährwerder**, Teil des Königreichs, nicht direkt der Krone unterstellt.)
 - (G4, auf einer Insel südlich der Hauptinsel: Gründung des planmäßigen Versorgungsdorfes **Südholm** durch Isabella I., Kronland, siehe
   [Südholm](../Kanon/Reiche/Königreich%20Montclair/Südholm.md).)
+- (G4 bis G5, am Fluss im Osten Montclairs, nördlich von Fährwerder: Entstehung des gewachsenen Flussdorfes **Stapelwiek** mit Handelsanleger, Teil des
+  Königreichs, nicht direkt der Krone unterstellt. Bis G7 früh Umschlagplatz zwischen Fluss und Stadt, siehe
+  [Stapelwiek](../Kanon/Reiche/Königreich%20Montclair/Stapelwiek.md).)
 - (Elmsworth: **Edwin I.** regiert, Konsolidierung und Aufstieg; Handel mit Montclair. Der Elmsworther Adel sieht Isabella I. als „Frau auf dem Thron" mit
   Geringschätzung.)
 
@@ -111,7 +114,11 @@ Abfolge (in dieser Reihenfolge):
 
 - Kindheit und Kronprinzenjahre unter Alexander II.
 - Prinz Magnus, Wilhelms Bruder, ist Burgherr und Statthalter der Burg [Erzwacht](../Kanon/Reiche/Königreich%20Montclair/Burg%20Erzwacht.md).
+- Wilhelm II. ist **extrem passiv**, seine Geschwister übernehmen viele Aufgaben.
 - Krönung nach dem Tod seines Vaters, Schweigen über Judiths Tod; bestätigt nachträglich die Urteile gegen ihre Angreifer.
+- (G7 früh, kurz nach der Inbetriebnahme der Burg Erzwacht: Bau des **Helenakanals** zwischen Fluss und See bei der Stadt Montclair, getrieben von Prinzessin
+  **Helena**, die die Aufsicht behält. Stapelwiek wird vom Umschlagplatz zum Zwischenlager, der Zoll bleibt an der Burg, siehe
+  [Stapelwiek](../Kanon/Reiche/Königreich%20Montclair/Stapelwiek.md#der-helenakanal).)
 - Hinwendung zum Glauben, Bau eines Klosters.
 - (Elmsworth: **Oswald I.** regiert; der Chronist **Aldric von Fenmar** (ebenfalls G7) schreibt in Eldon.)
 - **Handlung noch offen** — hier setzt die aktive Weiterentwicklung des Kanons an.

@@ -230,6 +230,26 @@ für spätere Sessions).
   Stilrichtlinien, Montclair-Steckbrief, [Judith von Montclair](../Kanon/Personen/Haus%20Montclair/Judith%20von%20Montclair.md).
 - **Stammbaum** — Katharina ist das **zweite Kind** (nicht „zweite Tochter") Isabellas I.
 
+## Geklärt (2026-10-12: Stapelwiek und Helenakanal)
+
+- **Dorf 2** — kanonisch als **Stapelwiek**: gewachsenes Flussdorf mit Handelsanleger auf einer Landzunge am Fluss, nördlich von Fährwerder (G4 bis G5), Teil
+  des Königreichs, nicht direkt der Krone unterstellt, bürgerlicher Vorsteher, Kirche der Staatsreligion. Bis G7 früh Umschlagplatz zwischen Fluss und Stadt,
+  danach Zwischenlager. Es bewirtschaftet die „Felder" gemeinsam mit Fährwerder. Betrifft [Kanon/Reiche/Königreich
+  Montclair/Stapelwiek.md](../Kanon/Reiche/Königreich%20Montclair/Stapelwiek.md), Fährwerder, Südholm, Burg Erzwacht, Montclair-Steckbrief, Zeitleiste, Glossar.
+- **Helenakanal** — Kanal zwischen dem Fluss und dem See bei der Stadt Montclair, Baubeginn und Fertigstellung G7 früh, kurz nach der Burg Erzwacht; im
+  Volksmund „der Durchstich". Nur schmalere Schiffe passen durch, breitere laden in Stapelwiek oder an der Burg um. **Keine eigene Kanalgebühr.** Die
+  hoheitlichen Verwaltungsaufgaben und die Aufsicht liegen bei **Helena**, Sitz der Verwaltung ist der Palast zu Montclair. Ausführung und Tagesgeschäft liegen
+  bei Stapelwiek: Der Vorsteher beauftragt einen Kanalmeister. Betrifft Stapelwiek, Helena, Wilhelm II., Burg Erzwacht, Fährwerder, Zeitleiste, Glossar.
+- **Zoll** — wird an der **Burg Erzwacht** abgewickelt, nicht in Stapelwiek und nicht am Kanal. Wer die Stelle führt und welche Sätze gelten, bleibt offen
+  (siehe „Burg Erzwacht (Details)").
+- **Helena Montclair** — vom Stub zur Kurzfassung ausgebaut (Charakter aus Königsbuch 06, Treiberin des Kanals, Generation G7). Cecilia und Lavinia bleiben
+  Stubs.
+- **Wilhelm II.** — ist **extrem passiv**; seine Geschwister übernehmen viele Aufgaben (Magnus die Burg Erzwacht, Helena den Helenakanal). Das Königsbuch 06
+  („führte die Regierungsgeschäfte") ist so zu lesen, dass er sie führt, aber nicht gestaltet.
+- **Halbinsel bei Fährwerder und Kai der Burg** — „größere Schiffe" heißt „breitere Schiffe" (wegen der Kanalbreite).
+- **Felder** — Die „Felder" bewirtschaften Stapelwiek und Fährwerder, die „Felder zu Montclair" Südholm. Feldwege verbinden Stapelwiek, die „Felder" und den
+  Landweg nach Südholm und Fährwerder.
+
 ## Offen
 
 
@@ -262,13 +282,19 @@ für spätere Sessions).
   zu den Zöllen Elmsworths, ob sie auch für Fährwerder gilt; Verhältnis der „normalen" Armee zur ersten königlichen Armee (siehe Armee-Eintrag), Vollmacht des
   Statthalters und Auskunftspflicht gegenüber dem Hofrat; Erzarten (bewusst offen), Herkunft, Dauer und Lohn des Dienstes der Bergleute; Name des Priesters; ob
   Thornfield-Güter an der Grenze liegen. Werke: Königsbuch 06 (Absatz zu Magnus als Burgherr) und die Bauwerks-Chronik „Die Errichtung der Burg Erzwacht" sind
-  geschrieben, beide nennen Halwyn nicht. Archiviertes Konzept: [Konzept-Burg-Flussinsel.md](Archiv/Konzept-Burg-Flussinsel.md).
+  geschrieben, beide nennen Halwyn nicht. Archiviertes Konzept: [Konzept-Burg-Flussinsel.md](Archiv/Konzept-Burg-Flussinsel.md). Der Zoll für den Flussverkehr
+  wird an der Burg abgewickelt (geklärt, siehe unten), offen bleibt, wer die Stelle führt und welche Sätze gelten.
 - **Fährwerder (Details)** — Name von Vorsteher und Priester, Bestimmung des Vorstehers, wer das Dorf verwaltet, die Orte im Südosten, mit denen es handelte
   (und ob in Elmsworth), Art und Bedeutung des Erinnerungsstücks der Halwyner, Herkunft, Dauer und Lohn der Bergleute (gehört zur Burg). Dorf 1 ist als Südholm
-  kanonisch, Dorf 2 wird separat betrachtet, siehe [Konzept-Dorf-2](Konzepte/Konzept-Dorf-2.md). Die Bauwerks-Chronik der Burg nennt die Halwyner nicht.
+  kanonisch, Dorf 2 als Stapelwiek. Die Bauwerks-Chronik der Burg nennt die Halwyner nicht.
 - **Südholm (Details)** — genaue Wasserlage zwischen Dorfinsel, Hauptinsel und Festland, Bau der Brücken, Name und Zahl des Geistlichen der Dorfkirche, Laufbahn der Kinder
   Eleanor und Theodor, Tod Katharinas und Lorenz' von Montclair, Rang der Kinder (siehe ruhendes Konzept
   [Konzept-Rangstufen-Haus-Montclair](Konzepte/Konzept-Rangstufen-Haus-Montclair.md)). Archiviertes Konzept: [Konzept-Dorf-1](Archiv/Konzept-Dorf-1.md).
+- **Stapelwiek (Details)** — Name von Vorsteher, Priester und Kanalmeister, Bestimmung des Vorstehers, wer das Dorf verwaltet; ob die Krone bei der Gründung
+  mittelbar beteiligt war; ob am Fluss vor dem Bau der Burg Abgaben erhoben wurden. Archivierte Konzepte: [Konzept-Dorf-2](Archiv/Konzept-Dorf-2.md).
+- **Helenakanal (Details)** — Name und Fließrichtung des Flusses; ob der See ein Binnensee oder eine Meeresbucht ist; Bauarbeiter, Bauzeit und genaue Maße des
+  Kanals sowie die Grenze zwischen „schmal" und „breit"; wie weit Helenas Vollmacht reicht. Ob Magnus und Cecilia Rollen am Kanal haben, ist bewusst nicht
+  festgelegt. Archiviertes Konzept: [Konzept-Kanal](Archiv/Konzept-Kanal.md).
 - **Halwyn in den Werken** — Offen ist, ob Aldrics Chronik oder eine freie Geschichte Halwyn aufgreifen (Königsbuch 06 und die Bauwerks-Chronik der Burg
   Erzwacht nennen es nicht). Der Landgrenzstreifen selbst ist als Niemandsland geklärt.
 - **Wilhelm II. — Ehefrau/Kinder** — bislang nicht überliefert; relevant, sobald die Nachfolge nach Wilhelm II. geschrieben wird.

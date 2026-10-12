@@ -16,6 +16,9 @@
 - psychisch belastet durch die Umstände von Judiths Tod
 - hält sich aus dem Konflikt mit Elmsworth heraus und bleibt dabei passiv (siehe [Halwyn](../../Welt/Halwyn.md)); die Grenzburg
   [Erzwacht](../../Reiche/Königreich%20Montclair/Burg%20Erzwacht.md) liegt in der Verantwortung seines Bruders Magnus
+- **extrem passiv:** nimmt die Krone an, ohne sie zu suchen, und überlässt Entscheidungen und Projekte weitgehend seinen Geschwistern. Magnus trägt die
+  Grenzburg [Erzwacht](../../Reiche/Königreich%20Montclair/Burg%20Erzwacht.md), Helena treibt den
+  [Helenakanal](../../Reiche/Königreich%20Montclair/Stapelwiek.md#der-helenakanal) und behält die Aufsicht darüber
 
 ## Lebensstationen
 
@@ -38,6 +41,16 @@ diplomatischen Hallen – kein Machtinstrument, sondern ein Ort der Sammlung, Fo
 den verborgenen Schichten des Glaubens zu widmen: Fragmenten, die älter sind als Montclair selbst
 (siehe [Fragment-Religion](../../Welt/Religion/Fragment-Religion.md)). Wilhelm II. besucht das Kloster oft, auch unangekündigt. Damit beginnt seine Abkehr von
 der diplomatischen Tradition seiner Eltern: Wo Alexander II. Vertrauen in Menschen setzte, setzt Wilhelm II. Hoffnung ins Jenseitige.
+
+### Der passive König (G7 früh)
+
+Unter seiner Herrschaft entsteht in G7 früh, kurz nach der Inbetriebnahme der Burg Erzwacht, der **Helenakanal**. Wilhelm II. ist an Bau und Aufsicht nicht
+beteiligt, seine Schwester [Helena](Helena%20Montclair.md) treibt ihn.
+
+## Kanon-Hinweis
+
+Das Königsbuch 06 sagt, Wilhelm II. habe in Alexanders letzten Jahren „die Regierungsgeschäfte geführt". Das ist so zu lesen, dass er sie **führt** (Titel,
+Pflichten, Unterzeichnung), aber nicht **gestaltet**. Das Königsbuch 07 passt dazu: Er „suchte das Amt nicht, sondern nahm es an".
 
 ## Verweise
 

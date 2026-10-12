@@ -31,7 +31,7 @@ mit ihrem Ehemann Lorenz von Montclair, dem Vorsteher, den Amtssitz der Krone im
 
 - **Brücke im Norden** zur Hauptinsel mit der Stadt Montclair. Vor ihr zweigt ein Weg samt Brücke Richtung „Felder zu Montclair" ab.
 - **Brücke im Osten** aufs Festland, durch einen Wald zu den „Feldern" (Wegpunkt `Felder`, nördlich von Fährwerder). Das Dorf liegt damit an einem Landweg nach Osten,
-  der Fährwerder erreicht (rund 530 Blöcke südöstlich).
+  der Fährwerder erreicht (rund 530 Blöcke südöstlich). Von den „Feldern" führen außerdem Feldwege nach Nordnordosten zum Dorf [Stapelwiek](Stapelwiek.md).
 
 ## Verwaltung
 
@@ -62,5 +62,6 @@ Das Dorf kommt in keinem Werk vor.
 
 - [Montclair-Steckbrief](Steckbrief.md)
 - [Fährwerder](Fährwerder.md)
+- [Stapelwiek](Stapelwiek.md)
 - [Zeitleiste](../../../00-Meta/Zeitleiste.md)
 - Archiviertes Konzept: [Konzept-Dorf-1](../../../00-Meta/Archiv/Konzept-Dorf-1.md)

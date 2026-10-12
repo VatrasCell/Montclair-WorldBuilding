@@ -1,8 +1,10 @@
-# Konzept: Kanal (Arbeitstitel) zwischen See und Fluss
+# Konzept: Helenakanal (Arbeitstitel „Kanal") zwischen See und Fluss
 
-**Status:** Entwurfsdokument, noch nicht kanonreif. Nichts hiervon steht im Kanon.
-**Stand:** 2026-10-12 (fast alle Fragen entschieden, Details der Kanalverwaltung vor Ort offen)
-**Name:** noch offen. Im Spiel gibt es dafür keinen Wegpunkt.
+**Status:** Umgesetzt (2026-10-12). Übernommen in den Kanon im Dorf-2-Steckbrief [Stapelwiek](../../Kanon/Reiche/Königreich%20Montclair/Stapelwiek.md)
+(Abschnitt „Der Helenakanal") sowie in Helena, Wilhelm II., Burg Erzwacht, Fährwerder, Montclair-Steckbrief, Zeitleiste, Glossar und Offene-Fragen. Dieses
+Dokument bleibt als Entscheidungsprotokoll erhalten.
+**Stand:** 2026-10-12, alle Entscheidungen getroffen und übernommen
+**Name:** amtlich **Helenakanal**, im Volksmund **„der Durchstich"** (entschieden, 2026-10-12). Im Spiel gibt es dafür keinen Wegpunkt.
 **Bezug:** [Konzept-Dorf-2.md](Konzept-Dorf-2.md) (Dorf 2 war vor dem Kanal der Umschlagplatz); Nachbarn im Kanon:
 [Burg Erzwacht](../../Kanon/Reiche/Königreich%20Montclair/Burg%20Erzwacht.md), [Fährwerder](../../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md),
 [Wilhelm II.](../../Kanon/Personen/Haus%20Montclair/Wilhelm%20II.%20Montclair.md) und seine Geschwister.
@@ -116,13 +118,13 @@ Helenas und dem Verwaltungssitz im Palast ist das so zu lesen:
 
 - **Aufsicht und Verwaltung** liegen bei **Helena Montclair**, Sitz im **Palast zu Montclair** (entschieden). Das passt zu ihrem Interesse an der Verwaltung des
   königlichen Haushalts.
-- **Dorf 2** führt den **Betrieb vor Ort**: Einfahrt zum Kanal, Zwischenlager, Anlegestellen und Aufsicht über Zu- und Abfahrt. Das ist eine **Lesart**, die der
-  Nutzer noch bestätigen muss. Alternativ ist „Kanalverwaltung durch Dorf 2" wörtlich gemeint, dann verwaltet es den Kanal im Auftrag Helenas.
+- **Dorf 2** führt den **Betrieb vor Ort**: Einfahrt zum Kanal, Zwischenlager, Anlegestellen und Aufsicht über Zu- und Abfahrt. Bestätigt
+  (Nutzer, 2026-10-12): Die **hoheitlichen Verwaltungsaufgaben** liegen bei Helena, **Ausführung und Tagesgeschäft** beim Dorf.
 - Das Dorf bleibt rechtlich unverändert (C1): Teil des Königreichs, nicht direkt der Krone, bürgerlicher Vorsteher.
 - **Güter von den „Feldern"** (Dorf 2 und Fährwerder) gehen künftig über Dorf 2 und den Kanal in die Stadt. Die „Felder zu Montclair" liegen am See und werden
   von Südholm bewirtschaftet.
-- **Offen:** Wer führt den Betrieb vor Ort (der bürgerliche Vorsteher, ein eigener Kanalmeister, ein Hafenmeister)? Gibt es eine Kanalgebühr? Das Haus auf der
-  Kuppe bleibt das Haus des Vorstehers und ist **kein** Sitz der Kanalverwaltung, denn der Sitz ist im Palast.
+- **Entschieden (Nutzer, 2026-10-12):** Der **Vorsteher** beauftragt einen **Kanalmeister** für den Betrieb vor Ort. Es gibt **keine eigene Kanalgebühr**. Das
+  Haus auf der Kuppe bleibt das Haus des Vorstehers und ist **kein** Sitz der Kanalverwaltung, denn der Sitz ist im Palast.
 - **Folgen für Arbeiter:** Fuhrleute und Lagerarbeiter verlieren einen Teil der Arbeit, weil nicht mehr alles umgeschlagen wird. Das ist erzählerisch nutzbar,
   aber nicht festgelegt. Cecilia wäre als Nebenrolle denkbar.
 
@@ -172,15 +174,10 @@ festgelegt. Der Kanon darf ihn deshalb nur „See bei der Stadt" nennen.
 
 ## 7. Offene Fragen an den Nutzer
 
-Erledigt am 2026-10-12: Treiberin, Zeit (Baubeginn und Fertigstellung G7 früh), Schiffsbreite, Zoll, See (bleibt offen), Umfang, Name, Aufsicht und
-Verwaltungssitz. Offen sind noch:
+Alle Fragen sind entschieden (Betrieb vor Ort über Vorsteher und Kanalmeister, hoheitliche Verwaltung bei Helena, keine Kanalgebühr). Nicht entschieden und
+damit nicht im Kanon ist die Frage 3 (Nebenrollen von Magnus und Cecilia). Der Kanal-Eintrag im Kanon enthält bewusst keine Aussage dazu.
 
-1. **Betrieb vor Ort:** Ist „Dorf 2 übernimmt die Kanalverwaltung" so zu lesen, dass Dorf 2 den **Betrieb vor Ort** führt und Helena die Verwaltung im Palast
-   behält? Oder verwaltet Dorf 2 den Kanal wörtlich im Auftrag Helenas? Wer führt den Betrieb in Dorf 2 (Vorsteher, Kanalmeister, Hafenmeister)?
-2. **Kanalgebühr:** Gibt es eine, und wohin fließt sie (Haushalt der Krone, Helenas Verwaltung)? Vorschlag: nicht festlegen.
-3. **Nebenrollen:** Soll Magnus als Partner und Cecilia für die Folgen in Dorf 2 im Kanon auftauchen, oder bleibt es bei Helena allein?
-
-## 8. Übernahme in den Kanon (nach Abstimmung)
+## 8. Übernahme in den Kanon (erfolgt am 2026-10-12)
 
 Wie bei Südholm, siehe Vollständigkeits-Checkliste (`CLAUDE.md`, Arbeitsweise Punkt 6). Der Kanal bekommt **keine eigene Datei**, er wird im Dorf-2-Steckbrief
 beschrieben.
@@ -193,3 +190,44 @@ beschrieben.
   Kanalverwaltung und -gebühr, Bauarbeiter; Eintrag „Burg Erzwacht (Details)": Zoll an der Burg).
 - Danach dieses Konzept als „umgesetzt" markieren und nach `00-Meta/Archiv/` verschieben.
 - **Vom Nutzer im Spiel:** Den Kanal bei Bedarf bauen und, wenn er einen Namen hat, einen Wegpunkt anlegen, danach `tools/kartenimport.py` erneut ausführen.
+
+## 9. Prüfung gegen Kanon und Werke (2026-10-12)
+
+Gelesen und gegen die Entscheidungen geprüft: Helena, Cecilia, Lavinia, Magnus, Wilhelm II., Alexander II., Fährwerder, Burg Erzwacht, Südholm,
+Montclair-Steckbrief, Hofrat, Zeitleiste, Glossar, Offene-Fragen, Stilrichtlinien, `CLAUDE.md`, Königsbuch 06 und 07 sowie die Bauwerks-Chronik der Burg
+Erzwacht. Alle Werke wurden auf die Namen Helena, Cecilia, Lavinia, Kanal, Stapel und Wiek durchsucht.
+
+### 9.1 Bestätigt, kein Widerspruch
+
+| Entscheidung | Prüfung |
+|---|---|
+| Gründung G4 bis G5, gewachsen, nicht von der Krone geplant | Zeitleiste G4 und Fährwerder (G4 bis G5) passen. Kein Werk nennt das Dorf. |
+| Name Stapelwiek | Kein Treffer für „Stapel" oder „Wiek" in Kanon, Glossar, Stilrichtlinien und Werken. Kein Konflikt mit Südholm, Fährwerder, Erzwacht, Isabellas Dorf. |
+| Zoll an der Burg Erzwacht | Burg-Kanon und Bauwerks-Chronik: Zoll- und Passierstelle am Fluss, „ordnet den Verkehr zwischen beiden Reichen". Vereinbar, wer sie führt, bleibt offen. |
+| Schiffsbreite, Umladen an Burg oder Dorf | Chronik: Kai für große Schiffe, Halbinsel als Umschlagplatz für größere Schiffe. „Größer" wird auf „breiter" festgelegt (Fährwerder und Burg angepasst). |
+| Helena als Treiberin, Generation G7 | Königsbuch 06: Interesse an der Verwaltung des königlichen Haushalts, stiller Ehrgeiz. Geschwister Wilhelms II. gehören zu G7. Alexander II. ist zu Baubeginn tot, das Buch nennt keinen Kanal. |
+| Aufsicht Helenas, Sitz im Palast zu Montclair | Der Palast zu Montclair ist im Glossar Ferdinands IV. Residenz auf dem Palasthügel. Neue Aussagen über seine heutige Nutzung sind nicht nötig. |
+| Wilhelm II. extrem passiv | Königsbuch 07: „das Amt nicht suchte, sondern annahm". Königsbuch 06 „führte die Regierungsgeschäfte" wird als „führt, aber gestaltet nicht" gelesen (Hinweis in der Wilhelm-Datei). |
+| Vorsteher bürgerlich, Kanalmeister im Auftrag | Fährwerder-Muster; Hofrat: keine feste Verteilung der Vertreter auf Dörfer. |
+| Keine Kanalgebühr | Kein Kanon-Text zu Gebühren. Der Zoll an der Burg bleibt die einzige Abgabe. |
+| Felder | „Felder" von Stapelwiek und Fährwerder, „Felder zu Montclair" von Südholm. Fährwerder und Südholm sind angepasst. |
+
+### 9.2 Im Konzept korrigiert oder präzisiert
+
+- Die erste Idee „Dorf 2 übernimmt die Kanalverwaltung" wurde präzisiert: Die hoheitlichen Verwaltungsaufgaben liegen bei Helena, Ausführung und Tagesgeschäft
+  beim Dorf (Vorsteher beauftragt einen Kanalmeister).
+- Baubeginn wurde von G6 spät auf G7 früh verschoben, Alexander II. hat mit dem Kanal nichts zu tun.
+- Ein erster Gedanke, Dorf 2 könnte Isabellas Dorf sein, entfiel: Isabellas Dorf hat einen eigenen Wegpunkt weit im Nordwesten. Das ist als Kanon-Hinweis in
+  `Stapelwiek.md` vermerkt.
+
+### 9.3 Bewusst nicht im Kanon
+
+- Magnus und Cecilia als Nebenrollen am Kanal (nicht entschieden).
+- Ob der See ein Binnensee oder eine Meeresbucht ist.
+- Bauarbeiter, Bauzeit, Maße, Fließrichtung und Name des Flusses, Name von Vorsteher, Priester und Kanalmeister.
+- Abgaben am Fluss vor dem Bau der Burg.
+
+### 9.4 Umgesetzte Dateien
+
+`Stapelwiek.md` (neu), `Helena Montclair.md`, `Wilhelm II. Montclair.md`, `Burg Erzwacht.md`, `Fährwerder.md`, `Südholm.md`, Montclair-Steckbrief, `CLAUDE.md`,
+`00-Meta/Zeitleiste.md`, `00-Meta/Glossar.md`, `00-Meta/Offene-Fragen.md`.
