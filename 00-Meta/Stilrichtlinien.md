@@ -45,8 +45,8 @@ erlaubt, sollten aber selten sein.
   gewählt (Isabella I., geb. Sophia).
 - **Ordnungszahlen:** tragen Herrscher und zur Herrschaft vorgesehene Thronfolger (Alexander I.). Bei Ferdinand zählt die Nummerierung über die eigene Dynastie
   hinaus (III. nach Ferdinand II. von Penworth).
-- **Familienname = Reichsname** (Montclair). Ehefrauen führen den Titel „von <Herkunftsort>" (Montclair-Titeltradition); für angeheiratete Männer gibt es keine
-  feste Regel.
+- **Familienname = Reichsname** (Montclair). Angeheiratete Personen (Frauen wie Männer) führen den Titel „von <Herkunftsort>" (Montclair-Titeltradition); ihre Kinder tragen den
+  Familiennamen Montclair.
 - **Bauten und Orte:** Reichsname französisch-englisch, Bauwerke deutsch: Person plus Geländeform (Wilhelmshöhe), „Burg/Palast zu …", Funktionsnamen
   (Diplomatenviertel).
 

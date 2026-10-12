@@ -44,6 +44,8 @@ hier ergänzen.
   Elmsworth](../Kanon/Personen/Haus%20Elmsworth/Egbert%20Elmsworth.md)
 - **Eleanor Montclair** — Tochter Ferdinands III., Rat der Frauen,
   Bibliothek → [Kanon/Personen/Haus Montclair/Eleanor Montclair](../Kanon/Personen/Haus%20Montclair/Eleanor%20Montclair.md)
+- **Eleanor Montclair (Tochter Katharinas)** — Tochter Katharinas und Lorenz' von Montclair, G6 → [Kanon/Personen/Haus Montclair/Eleanor Montclair (Tochter
+  Katharinas)](../Kanon/Personen/Haus%20Montclair/Eleanor%20Montclair%20(Tochter%20Katharinas).md)
 - **Elfrida Elmsworth** — Prinzessin, Tochter Egberts, Schwester Cedrics II. → [Kanon/Personen/Haus Elmsworth/Elfrida
   Elmsworth](../Kanon/Personen/Haus%20Elmsworth/Elfrida%20Elmsworth.md)
 - **Emma Montclair** — Tochter Ferdinands IV., Rat der Frauen, Kunst und
@@ -83,6 +85,8 @@ hier ergänzen.
   Judiths → [Kanon/Personen/Haus Montclair/Lavinia Montclair](../Kanon/Personen/Haus%20Montclair/Lavinia%20Montclair.md)
 - **Leonora Elmsworth** — Prinzessin, Tochter Edwins I. → [Kanon/Personen/Haus Elmsworth/Leonora
   Elmsworth](../Kanon/Personen/Haus%20Elmsworth/Leonora%20Elmsworth.md)
+- **Lorenz von Montclair** — Gelehrter der Universität, Ehemann Katharinas, Vorsteher von Südholm → [Kanon/Personen/Haus Montclair/Lorenz von
+  Montclair](../Kanon/Personen/Haus%20Montclair/Lorenz%20von%20Montclair.md)
 - **Lucinda** (von Thornfield) — Tochter Wulfstans, Schwester Amelias → [Kanon/Personen/Haus Thornfield](../Kanon/Personen/Haus%20Thornfield.md)
 - **Magnus Montclair** — Sohn Alexanders II. und Judiths, Burgherr und Statthalter der Burg Erzwacht → [Kanon/Personen/Haus Montclair/Magnus
   Montclair](../Kanon/Personen/Haus%20Montclair/Magnus%20Montclair.md)
@@ -103,6 +107,8 @@ hier ergänzen.
   Thornfield](../Kanon/Personen/Haus%20Elmsworth/Rowena%20von%20Thornfield.md)
 - **Tamsin Elmsworth** — Prinzessin, Tochter Cedrics II. → [Kanon/Personen/Haus Elmsworth/Tamsin
   Elmsworth](../Kanon/Personen/Haus%20Elmsworth/Tamsin%20Elmsworth.md)
+- **Theodor Montclair** — Sohn Katharinas und Lorenz' von Montclair, G6 → [Kanon/Personen/Haus Montclair/Theodor
+  Montclair](../Kanon/Personen/Haus%20Montclair/Theodor%20Montclair.md)
 - **Ursula Elmsworth** — Prinzessin, Tochter Alfreds I. → [Kanon/Personen/Haus Elmsworth/Ursula
   Elmsworth](../Kanon/Personen/Haus%20Elmsworth/Ursula%20Elmsworth.md)
 - **Victoria Montclair** — Tochter Ferdinands IV., Rat der Frauen, fürsorglich und
@@ -168,6 +174,8 @@ hier ergänzen.
 - **Palast zu Montclair** — Ferdinand IV.s Residenz auf dem künstlich aufgeschütteten Palasthügel über der Großen Mine, unter Zwangsarbeit errichtet,
   mit Eleanors Bibliothek und Genevieves Gärten → [Werke/Bauwerke-Chroniken/Die Errichtung des Palastes zu
   Montclair](../Werke/Bauwerke-Chroniken/Die%20Errichtung%20des%20Palastes%20zu%20Montclair.md)
+- **Südholm** — planmäßiges Versorgungsdorf auf der Insel südlich der Hauptinsel, Kronland, gegründet G4 unter Isabella I., in G5 an Katharina übergeben → [Kanon/Reiche/Königreich
+  Montclair/Südholm](../Kanon/Reiche/Königreich%20Montclair/Südholm.md)
 - **Universität von Montclair** — von Isabella I. in der Stadt Montclair gegründet → siehe
   [Kanon/Personen/Haus Montclair/Isabella I. Montclair (geb. Sophia)](../Kanon/Personen/Haus%20Montclair/Isabella%20I.%20Montclair%20(geb.%20Sophia).md)
 - **Wilhelmshöhe** — Königliche Gruft (Nachfolgerin der Kirche der Stadt Montclair), Kathedrale,
@@ -206,6 +214,8 @@ hier ergänzen.
   [Kanon/Reiche/Königreich Montclair](../Kanon/Reiche/Königreich%20Montclair/Steckbrief.md)
 - **Sterbe-Tradition** — kulturelle (nicht religiöse) Vorstellung, Ehefrauen folgten Königen rasch in den Tod →
   siehe [Kanon/Welt/Religion/Staatsreligion von Montclair](../Kanon/Welt/Religion/Staatsreligion%20von%20Montclair.md)
+- **Titel-Tradition (Montclair)** — Angeheiratete erhalten Adelsstatus und den Titel „von <Herkunftsort>", ihre Kinder tragen den Namen Montclair → siehe
+  [Kanon/Reiche/Königreich Montclair](../Kanon/Reiche/Königreich%20Montclair/Steckbrief.md)
 - **Zeitachse (G-Achse)** — Generationsnummern der Zeitleiste (G0 bis G7, davor G-1 ff.) als gemeinsame, rein kanonische Zeitachse aller Reiche →
   [00-Meta/Zeitleiste](Zeitleiste.md)
 

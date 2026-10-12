@@ -8,7 +8,7 @@ Worldbuilding-Wissensbasis für eine Fantasy-Welt (Dynastie Montclair), die auf 
 - **`Kanon/`** — kurze, strukturierte **Fakten**. Erste Anlaufstelle für Kontext: hier vor jeder neuen Szene/jedem neuen Kapitel nachschlagen.
     - `Kanon/Welt/` — Weltereignisse (Große Verwüstung, Religion) und Orte außerhalb der Reiche (Halwyn)
     - `Kanon/Reiche/` — ein Steckbrief pro Königreich, inkl. `Status`-Feld (aktiv / zerstört / Herkunftsreich / unentwickelt); Montclair und Elmsworth
-      zusätzlich mit `Stammbaum.md`, Montclair zusätzlich mit Orts- und Institutionsdateien (`Rat der Frauen.md`, `Hofrat.md`, `Fährwerder.md`, `Burg
+      zusätzlich mit `Stammbaum.md`, Montclair zusätzlich mit Orts- und Institutionsdateien (`Rat der Frauen.md`, `Hofrat.md`, `Fährwerder.md`, `Südholm.md`, `Burg
       Erzwacht.md`)
     - `Kanon/Personen/Haus Montclair/` — ein Faktenblatt pro benannter Figur der Dynastie (Familie, Charakter, Lebensstationen, Tod, Status)
     - `Kanon/Personen/Haus Elmsworth/` — ein Faktenblatt pro benannter Figur der Elmsworther Dynastie; dazu `Kanon/Personen/Alfred der Gelehrte.md` und `Haus Thornfield.md`
@@ -59,8 +59,9 @@ sollte bei ihrer Ausarbeitung nicht stillschweigend als „gilt überall genauso
 - **Erbfolge (Montclair):** Seit Ferdinand III. gilt die Erstgeburts-Erbfolge (ältester Sohn erbt automatisch). Vorher war die Nachfolge nicht geregelt (Ursache
   des Streits nach Wilhelm I.). Ferdinand IV. ergänzte die Regel bei seiner Abdankung unter dem Druck des „Rats der Frauen": Existiert kein männlicher Erbe,
   erbt die älteste Tochter des Herrschers. Isabella I. bestätigte diese Ergänzung formell als dynastisches Recht.
-- **Titel-Tradition (Montclair):** Ehefrauen von Königen erhalten nach der Hochzeit einen Adelstitel nach ihrem Herkunftsort (`von <Ort>`). Bei unbekannter
-  Herkunft wird ein Reich stellvertretend zugeschrieben (Margarethe von Alden).
+- **Titel-Tradition (Montclair):** Angeheiratete Personen (Ehefrauen wie Ehemänner) erhalten durch die Heirat Adelsstatus und einen Titel nach ihrem Herkunftsort
+  (`von <Ort>`); das unterscheidet sie von der eigentlichen Familienlinie. Die Kinder tragen den Familiennamen Montclair. Bei unbekannter Herkunft wird ein Reich
+  stellvertretend zugeschrieben (Margarethe von Alden).
 - **Sterbe-Tradition (Montclair, kulturell, nicht religiös verbindlich):** Über Generationen die Vorstellung, dass Ehefrauen ihren Männern rasch in den Tod
   folgen. Judith von Montclair durchbrach dies bewusst — mit gewaltsamen Konsequenzen.
 - **Erinnerungsverlust durch die Große Verwüstung (weltweit):** Nicht jede In-Welt-Quelle kennt die Namen der durch die Katastrophe zerstörten Reiche (z. B.

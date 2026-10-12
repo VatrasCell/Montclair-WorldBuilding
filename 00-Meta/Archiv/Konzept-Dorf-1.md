@@ -1,10 +1,12 @@
 # Konzept: Südholm (Arbeitstitel „Dorf 1"), das planmäßig angelegte Inseldorf
 
-**Status:** Entwurfsdokument, abgestimmt und gegen Kanon und Werke geprüft (Abschnitt 9), **übernahmereif**. Nichts hiervon steht bisher im Kanon.
-**Stand:** 2026-10-12, alle Entscheidungen getroffen (Kinder Eleanor und Theodor), Prüfung abgeschlossen
+**Status:** Umgesetzt (2026-10-12). Übernommen in den Kanon: [Südholm](../../Kanon/Reiche/Königreich%20Montclair/Südholm.md), [Katharina Montclair](../../Kanon/Personen/Haus%20Montclair/Katharina%20Montclair.md),
+[Lorenz von Montclair](../../Kanon/Personen/Haus%20Montclair/Lorenz%20von%20Montclair.md), Eleanor und Theodor Montclair, Stammbaum, Montclair-Steckbrief, `CLAUDE.md`, Stilrichtlinien,
+Zeitleiste, Glossar und Offene-Fragen. Dieses Dokument bleibt als Entscheidungsprotokoll erhalten.
+**Stand:** 2026-10-12, alle Entscheidungen getroffen und übernommen
 **Name:** **Südholm** (entschieden, 2026-10-12). Der Wegpunkt heißt im Spiel noch `Dorf 1` (364 | 64 | -8958), Set `worldbuilding`, Farbe 11 (Montclair).
-**Bezug:** Schwesterdokument zu [Konzept-Dorf-2.md](Konzept-Dorf-2.md); Vorbild für Ablauf und Aufbau ist das archivierte
-[Konzept-Dorf-3.md](../Archiv/Konzept-Dorf-3.md) (Fährwerder). Die Festlegung „Dorf 1 und Dorf 2 werden später separat betrachtet" stammt von dort.
+**Bezug:** Schwesterdokument zu [Konzept-Dorf-2.md](../Konzepte/Konzept-Dorf-2.md); Vorbild für Ablauf und Aufbau ist das archivierte
+[Konzept-Dorf-3.md](Konzept-Dorf-3.md) (Fährwerder). Die Festlegung „Dorf 1 und Dorf 2 werden später separat betrachtet" stammt von dort.
 
 Dieses Dokument sammelt Befund, Rahmen und Optionen. **Was nicht in Abschnitt 1 steht, ist Vorschlag** und wird erst nach Abstimmung mit dem Nutzer in den Kanon
 übernommen (`CLAUDE.md`, Arbeitsweise Punkt 3).
@@ -289,8 +291,8 @@ Beatrice, Adelaide, Margarethe, Amelia, Eleanor, Genevieve, Emma, Victoria, Isol
 - **Charakter:** ruhig, verlässlich, ein Mann der Arbeit statt des Hofes. Er ergänzt Katharina, die sich um Menschen kümmert, durch Ordnung und Planung.
 - **Rolle im Dorf:** Vorsteher im Auftrag der Krone, Katharina als Herrin des Herrensitzes und Schirmherrin der sozialen Anliegen. Kirche und Priester stehen
   daneben.
-- **Heirat:** freiwillig, um die Zeit der Übergabe des Dorfes an Katharina (G5). Lorenz erhält durch die Ehe den Titel „von Montclair". Der Rat der Frauen hat
-  die Ehe gebilligt, mehr ist nicht festgelegt.
+- **Heirat:** freiwillig, um die Zeit der Übergabe des Dorfes an Katharina (G5). Lorenz erhält durch die Ehe den Titel „von Montclair". Der Rat der Frauen war nicht beteiligt (Kanon: andere
+  Familienmitglieder heiraten ohne den Rat).
 - **Kinder:** Das Paar hat Kinder (entschieden), Anzahl und Namen siehe oben. Sie tragen den Familiennamen Montclair, gehören zu G6 und sind im
   Rangstufen-Entwurf Stufe 3 (Hochgeborene). Weder Amt noch Amtssitz sind erblich, die Krone ernennt den Vorsteher.
 - **Tod:** offen. Die Sterbe-Tradition (Ehefrauen folgen ihren Männern in den Tod) ist ein mögliches Motiv, kulturell und nicht verbindlich.
@@ -332,7 +334,7 @@ verwechseln.
 - **Wirkung der Namensregel (entschieden):** Die Regel „von <Herkunftsort>" für alle Angeheirateten ändert die Montclair-Weltregel **Titel-Tradition** in
   `CLAUDE.md` („Ehefrauen von Königen") und die Aussage der Stilrichtlinien, für angeheiratete Männer gebe es keine feste Regel. Beides ist bei der Übernahme
   anzupassen. Für die bestehenden Ehefrauen ändert sich nichts, ebenso nicht für Edmund.
-- **Wirkung auf die Rangstufen (ruhendes Konzept):** Der Entwurf [Rangstufen im Haus Montclair](Konzept-Rangstufen-Haus-Montclair.md) ging von „keinem
+- **Wirkung auf die Rangstufen (ruhendes Konzept):** Der Entwurf [Rangstufen im Haus Montclair](../Konzepte/Konzept-Rangstufen-Haus-Montclair.md) ging von „keinem
   zusätzlichen Titel" für Ehepartner aus. Das ist mit der neuen Regel überholt und dort nachgezogen.
 - **Adelsstatus des Vorstehers:** Lorenz ist durch die Ehe Adeliger. Der Vorsteher von Fährwerder ist bürgerlich. Der Gegensatz zwischen den beiden Dörfern wird
   damit schärfer: Fährwerder mit bürgerlichem Vorsteher, nicht direkt der Krone unterstellt; Südholm mit einem Vorsteher im Adelsstatus, Kronland.
