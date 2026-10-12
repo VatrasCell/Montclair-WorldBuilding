@@ -35,7 +35,8 @@ gemäßigten, doch fruchtbaren Klima.
 - **Ethnien:** <!--- leer lassen -->
 - **Adel:** Die Königsfamilie mit allen ihren Nachkommen ist Adel und macht den größten Teil des Adelsstandes aus. Zugezogene Adelige aus anderen Häusern und
   Reichen werden automatisch in ihrem Rang anerkannt, der König und der Rat der Frauen haben dagegen nur ein begründetes Vetorecht. Der [Hofrat](Hofrat.md)
-  besteht ausdrücklich nicht aus Adeligen. Adelshäuser und Rangtitel sind nicht festgelegt.
+  besteht ausdrücklich nicht aus Adeligen. **Angeheiratete** Personen (Frauen wie Männer) erhalten durch die Beziehung zur Montclair-Familie Adelsstatus und den Titel „von
+  <Herkunftsort>"; das unterscheidet sie von der eigentlichen Familienlinie, deren Kinder den Namen Montclair tragen. Adelshäuser und Rangtitel sind nicht festgelegt.
 
 ## Geschichte
 
@@ -87,6 +88,8 @@ gemäßigten, doch fruchtbaren Klima.
 - **Fährwerder (Dorf gegenüber der Burg Erzwacht):** Fähr- und Fischerdorf am Westufer, gegründet G4 bis G5, von Anfang an Teil des Königreichs, aber nicht
   direkt der Krone unterstellt, mit eigenem bürgerlichem Vorsteher und einer Kirche der Staatsreligion. Die Burg nutzt eine zugehörige Halbinsel als
   Umschlagplatz und Wachposten. Details: [Fährwerder.md](Fährwerder.md).
+- **Südholm (planmäßiges Dorf auf der Insel südlich der Hauptinsel):** Versorgungsdorf der Stadt Montclair, gegründet G4 unter Isabella I., Kronland (unmittelbar der Krone
+  unterstellt), in G5 an Katharina Montclair übergeben, mit Vorsteher Lorenz von Montclair und einer Kirche der Staatsreligion. Details: [Südholm.md](Südholm.md).
 
 ## Politische und diplomatische Beziehungen
 

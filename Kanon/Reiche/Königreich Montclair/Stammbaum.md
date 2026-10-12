@@ -38,7 +38,10 @@ Königin von Montclair. Verheiratet mit Edmund Montclair, Sohn von Eleanor Montc
 **Kinder:**
 
 - Kronprinz Alexander I. Montclair (ältester Sohn und Thronfolger)
-- Prinzessin Katharina Montclair (zweite Tochter)
+- Prinzessin Katharina Montclair (zweites Kind)
+
+**Nebenlinie:** Prinzessin Katharina Montclair ist mit Lorenz von Montclair (Vorsteher von Südholm) verheiratet.
+Kinder: Eleanor Montclair und Theodor Montclair.
 
 ## 5. Kronprinz Alexander I. Montclair
 

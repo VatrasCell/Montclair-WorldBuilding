@@ -8,6 +8,8 @@
   ist deshalb kein Bruch der Titel-Tradition, sondern bildet korrekt ihren tatsächlichen Herkunftsort ab, der zufällig mit dem Dynastienamen zusammenfällt. Ihr
   Haus ist ein **zugezogenes, anerkanntes Adelshaus**, das seit früheren Generationen in Montclair lebt. Judith ist keine Nachkommin der Königsfamilie (siehe
   Adel im [Montclair-Steckbrief](../../Reiche/Königreich%20Montclair/Steckbrief.md)).
+- **Titel:** Ihr „von Montclair" ist ein Fall der Montclair-Titel-Tradition (Titel nach Herkunftsort für alle Angeheirateten, siehe
+  [Montclair-Steckbrief](../../Reiche/Königreich%20Montclair/Steckbrief.md)). Auch [Lorenz von Montclair](Lorenz%20von%20Montclair.md) führt ihn, ohne verwandt zu sein.
 - **Ehemann:** Alexander II. Montclair
 - **Kinder:** Kronprinz Wilhelm II. Montclair, Helena, Cecilia, Lavinia, Magnus Montclair
 

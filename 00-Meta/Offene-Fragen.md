@@ -218,6 +218,18 @@ für spätere Sessions).
 - **Hofrat** — keine feste Verteilung der Vertreter auf Dörfer (zum Beispiel keiner je Dorf).
 - **Armee** — Neben der ersten königlichen Armee besteht eine „normale" Armee (Steckbrief, Abschnitt Militär).
 
+## Geklärt (2026-10-12: Südholm und Titel-Tradition)
+
+- **Dorf 1** — kanonisch als **Südholm**: planmäßig angelegtes Versorgungsdorf (Kronland) auf einer Insel südlich der Hauptinsel, gegründet G4 unter Isabella I., in G5 an
+  Katharina Montclair übergeben, die dort den Amtssitz der Krone bewohnt. Vorsteher ist ihr Ehemann **Lorenz von Montclair**, Gelehrter der Universität, von der Krone
+  ernannt. Zwei Kinder: **Eleanor** und **Theodor Montclair** (G6). Das Dorf bewirtschaftet die „Felder zu Montclair". Betrifft
+  [Kanon/Reiche/Königreich Montclair/Südholm.md](../Kanon/Reiche/Königreich%20Montclair/Südholm.md), [Katharina](../Kanon/Personen/Haus%20Montclair/Katharina%20Montclair.md),
+  Stammbaum, Montclair-Steckbrief, Zeitleiste, Glossar.
+- **Titel-Tradition (Montclair)** — gilt nun für **alle Angeheirateten**, auch Männer: Adelsstatus und Titel „von <Herkunftsort>"; die Kinder tragen den Namen Montclair.
+  Das schließt die bisher offene Frage nach dem Titel angeheirateter Männer für Montclair. Edmund Montclair bleibt Familienlinie (über Eleanor). Betrifft `CLAUDE.md`,
+  Stilrichtlinien, Montclair-Steckbrief, [Judith von Montclair](../Kanon/Personen/Haus%20Montclair/Judith%20von%20Montclair.md).
+- **Stammbaum** — Katharina ist das **zweite Kind** (nicht „zweite Tochter") Isabellas I.
+
 ## Offen
 
 
@@ -239,7 +251,7 @@ für spätere Sessions).
 - **Elmsworth: Erbfolge-Details und Adelsrat** — Mitglieder und Zahl, Verfahren und Frist der Ernennung, Krönungseid, Anspruch von Töchtern, Regentschaft bei
   Minderjährigkeit, Versorgung der Töchter Alfreds I.
 - **Rangtitel des Adels (Elmsworth, Penworth)** — noch nicht definiert, sollen tendenziell deutschsprachig ausfallen (Graf, Freiin o. Ä., kein „Lord"). Die
-  Elmsworther Titelregel (Adelstitel bleibt, sonst „von Elmsworth") ist festgelegt; offen sind Rangtitel und die Titel angeheirateter Männer.
+  Elmsworther Titelregel (Adelstitel bleibt, sonst „von Elmsworth") ist festgelegt; offen sind Rangtitel und die Titel angeheirateter Männer (für Elmsworth und Penworth; für Montclair ist die Titel-Tradition seit 2026-10-12 festgelegt).
 - **Sterbe-Tradition in Elmsworth** — gilt bisher nur für Montclair; ob Elmsworth eine ähnliche Vorstellung kennt, ist nicht festgelegt.
 - **Ferdinand II. von Penworth** — zeitliche Einordnung offen (Vorschlag: G-1 bis G0).
 - **Edith (Gemahlin Oswalds I.)** — Stand (bürgerlich oder adelig) und Titel noch nicht festgelegt.
@@ -252,8 +264,11 @@ für spätere Sessions).
   Thornfield-Güter an der Grenze liegen. Werke: Königsbuch 06 (Absatz zu Magnus als Burgherr) und die Bauwerks-Chronik „Die Errichtung der Burg Erzwacht" sind
   geschrieben, beide nennen Halwyn nicht. Archiviertes Konzept: [Konzept-Burg-Flussinsel.md](Archiv/Konzept-Burg-Flussinsel.md).
 - **Fährwerder (Details)** — Name von Vorsteher und Priester, Bestimmung des Vorstehers, wer das Dorf verwaltet, die Orte im Südosten, mit denen es handelte
-  (und ob in Elmsworth), Art und Bedeutung des Erinnerungsstücks der Halwyner, Herkunft, Dauer und Lohn der Bergleute (gehört zur Burg). Dorf 1 und Dorf 2
-  werden separat betrachtet, siehe [Konzept-Dorf-1](Konzepte/Konzept-Dorf-1.md) und [Konzept-Dorf-2](Konzepte/Konzept-Dorf-2.md). Die Bauwerks-Chronik der Burg nennt die Halwyner nicht.
+  (und ob in Elmsworth), Art und Bedeutung des Erinnerungsstücks der Halwyner, Herkunft, Dauer und Lohn der Bergleute (gehört zur Burg). Dorf 1 ist als Südholm
+  kanonisch, Dorf 2 wird separat betrachtet, siehe [Konzept-Dorf-2](Konzepte/Konzept-Dorf-2.md). Die Bauwerks-Chronik der Burg nennt die Halwyner nicht.
+- **Südholm (Details)** — genaue Wasserlage zwischen Dorfinsel, Hauptinsel und Festland, Bau der Brücken, Name und Zahl des Geistlichen der Dorfkirche, Laufbahn der Kinder
+  Eleanor und Theodor, Tod Katharinas und Lorenz' von Montclair, Rang der Kinder (siehe ruhendes Konzept
+  [Konzept-Rangstufen-Haus-Montclair](Konzepte/Konzept-Rangstufen-Haus-Montclair.md)). Archiviertes Konzept: [Konzept-Dorf-1](Archiv/Konzept-Dorf-1.md).
 - **Halwyn in den Werken** — Offen ist, ob Aldrics Chronik oder eine freie Geschichte Halwyn aufgreifen (Königsbuch 06 und die Bauwerks-Chronik der Burg
   Erzwacht nennen es nicht). Der Landgrenzstreifen selbst ist als Niemandsland geklärt.
 - **Wilhelm II. — Ehefrau/Kinder** — bislang nicht überliefert; relevant, sobald die Nachfolge nach Wilhelm II. geschrieben wird.

@@ -3,7 +3,7 @@
 **Status:** Entwurfsdokument, noch nicht kanonreif. Nichts hiervon steht im Kanon.
 **Stand:** 2026-10-05
 **Name:** noch offen. Der Wegpunkt heißt im Spiel `Dorf 2` (805 | 68 | -9045), Set `worldbuilding`, Farbe 11 (Montclair).
-**Bezug:** Schwesterdokument zu [Konzept-Dorf-1.md](Konzept-Dorf-1.md); Vorbild für Ablauf und Aufbau ist das archivierte
+**Bezug:** Schwesterdokument zu [Konzept-Dorf-1.md](../Archiv/Konzept-Dorf-1.md); Vorbild für Ablauf und Aufbau ist das archivierte
 [Konzept-Dorf-3.md](../Archiv/Konzept-Dorf-3.md) (Fährwerder). Nachbarn im Kanon: [Fährwerder](../../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md) und
 [Burg Erzwacht](../../Kanon/Reiche/Königreich%20Montclair/Burg%20Erzwacht.md).
 

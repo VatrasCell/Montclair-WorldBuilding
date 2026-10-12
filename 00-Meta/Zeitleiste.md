@@ -66,12 +66,15 @@ sprachliche Mittel.
   Frauen](../Kanon/Reiche/Königreich%20Montclair/Rat%20der%20Frauen.md)).
 - Wird sehr alt; Alexander I. verzichtet bei ihrem Tod bereits selbst auf die Krone. Ihre Herrschaft reicht von G4 bis G6 früh.
 - (G4 bis G5, am Fluss im Osten Montclairs: Gründung des Fähr- und Fischerdorfes **Fährwerder**, Teil des Königreichs, nicht direkt der Krone unterstellt.)
+- (G4, auf einer Insel südlich der Hauptinsel: Gründung des planmäßigen Versorgungsdorfes **Südholm** durch Isabella I., Kronland, siehe
+  [Südholm](../Kanon/Reiche/Königreich%20Montclair/Südholm.md).)
 - (Elmsworth: **Edwin I.** regiert, Konsolidierung und Aufstieg; Handel mit Montclair. Der Elmsworther Adel sieht Isabella I. als „Frau auf dem Thron" mit
   Geringschätzung.)
 
 ## Generation 5 — Kronprinz Alexander I. Montclair (nie gekrönt)
 
 - Heirat mit Amelia von Elmsworth (Adelshaus Thornfield, Cousine von König Alfred I. von Elmsworth). Kinder: Alexander II., Julian, Franziska.
+- (Katharina, Schwester Alexanders I.: Isabella I. übergibt ihr das Dorf **Südholm**, sie heiratet Lorenz von Montclair, den die Krone zum Vorsteher ernennt.)
 - Bau der Burg Montclair.
 - Übergibt die Krone direkt an Alexander II.; sein Verzicht erfolgt vor dem Rat der Frauen, den bedeutendsten Adeligen und den Vertretern des Volkes
   (letzter Beleg des Rates).
@@ -101,6 +104,8 @@ Abfolge (in dieser Reihenfolge):
    Grenzposten.) Siehe [Burg Erzwacht](../Kanon/Reiche/Königreich%20Montclair/Burg%20Erzwacht.md).
 9. Späte Jahre: Alexander II. zieht sich ins Diplomatenviertel zurück, Kronprinz Wilhelm II. führt die Geschäfte. Tod Alexanders II.; Judith überlebt ihn um
    Wochen, wird bei einem Kirchenbesuch von einem Mob angegriffen und stirbt später an den Verletzungen.
+
+- (Katharinas Kinder **Eleanor** und **Theodor Montclair** wachsen in Südholm auf, gleiche Generation wie Alexander II.)
 
 ## Generation 7 — König Wilhelm II. Montclair (aktueller Handlungsstand)
 

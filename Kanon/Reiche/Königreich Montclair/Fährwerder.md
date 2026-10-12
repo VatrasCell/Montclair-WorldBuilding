@@ -24,6 +24,8 @@ Krone verwaltet und hat einen eigenen bürgerlichen Vorsteher. Als die Burg Erzw
 - **Kirche:** das größere Gebäude im Süden, an der Kreuzung der Straße aus dem Norden mit der Ost-West-Straße. Sie gehört zur
   [Staatsreligion von Montclair](../../Welt/Religion/Staatsreligion%20von%20Montclair.md). Der Geistliche ist ein **Priester** ohne direkten Rang.
 - Im Norden steht ein weiteres Gebäude mit hellem Vorplatz, dessen Nutzung nicht festgelegt ist.
+- **Felder:** Die „Felder" (Wegpunkt `Felder`, rund 235 Blöcke nördlich bis nordnordwestlich) bewirtschaftet das Dorf gemeinsam mit einem weiteren Dorf. Ein Landweg führt
+  von dort zum Dorf [Südholm](Südholm.md).
 
 ## Verwaltung
 

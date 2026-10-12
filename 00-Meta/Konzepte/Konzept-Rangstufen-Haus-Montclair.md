@@ -2,7 +2,7 @@
 
 **Status:** Entwurfsdokument, noch nicht kanonreif. Nichts hiervon steht im Kanon.
 **Stand:** 2026-10-12, ausgebaut auf mehrere Stufen ohne Landbezug
-**Anlass:** Beim [Dorf 1](Konzept-Dorf-1.md) braucht Katharina Montclairs Familie eine Regel, wie abzweigende Linien von der Hauptlinie unterschieden werden.
+**Anlass:** Beim [Dorf 1](../Archiv/Konzept-Dorf-1.md) braucht Katharina Montclairs Familie eine Regel, wie abzweigende Linien von der Hauptlinie unterschieden werden.
 Der Nutzer hat die Variante „Rangstufen nach Nähe zum Thron" gewählt (2026-10-08).
 
 Dieses Dokument sammelt Ausgangslage, Regelvorschlag, Prüfung gegen den Kanon und offene Punkte. **Was nicht in Abschnitt 1 steht, ist Vorschlag** und wird erst
@@ -53,7 +53,7 @@ Jedes Mitglied des Hauses hat eine **Stufe**. Sie zählt, wie weit die Person vo
   Elternteil, aber nur, solange das Kind nicht selbst Thronfolger ist.
 - Haben beide Elternteile eine Stufe (Mitglieder des Hauses), zählt die **niedrigere Zahl**, also die größere Nähe zum Thron.
 - **Ehepartner** gehören nicht zu den Stufen. Sie erhalten durch die Heirat „von <Herkunftsort>" und Adelsstatus (entschieden am 2026-10-12 im Zug von
-  [Konzept-Dorf-1](Konzept-Dorf-1.md)). Das unterscheidet sie von der Familienlinie.
+  [Konzept-Dorf-1](../Archiv/Konzept-Dorf-1.md)). Das unterscheidet sie von der Familienlinie.
 - Der **Name bleibt für alle „Montclair"**. Die Stufe unterscheidet nur den Rang.
 
 Weil jedes Kind eines Monarchen oder Thronfolgers Stufe 2 hat und der Thronfolger selbst Stufe 1, bleibt die **Hauptlinie** immer auf den obersten Stufen. Eine
