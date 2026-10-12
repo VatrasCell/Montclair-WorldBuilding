@@ -3,7 +3,7 @@
 **Status:** Entwurfsdokument, noch nicht kanonreif. Nichts hiervon steht im Kanon.
 **Stand:** 2026-10-12 (gegen den Kanon nach der Übernahme von Südholm aktualisiert; Kernfragen A bis E und die Folgefragen am selben Tag entschieden)
 **Name:** noch offen. Der Wegpunkt heißt im Spiel `Dorf 2` (805 | 68 | -9045), Set `worldbuilding`, Farbe 11 (Montclair).
-**Bezug:** Schwesterdokument zu [Konzept-Dorf-1.md](../Archiv/Konzept-Dorf-1.md) (umgesetzt als
+**Bezug:** Verwandt mit [Konzept-Kanal.md](Konzept-Kanal.md). Schwesterdokument zu [Konzept-Dorf-1.md](../Archiv/Konzept-Dorf-1.md) (umgesetzt als
 [Südholm](../../Kanon/Reiche/Königreich%20Montclair/Südholm.md)); Vorbild für Ablauf und Aufbau ist das archivierte
 [Konzept-Dorf-3.md](../Archiv/Konzept-Dorf-3.md) (Fährwerder). Nachbarn im Kanon: [Fährwerder](../../Kanon/Reiche/Königreich%20Montclair/Fährwerder.md),
 [Südholm](../../Kanon/Reiche/Königreich%20Montclair/Südholm.md) und [Burg Erzwacht](../../Kanon/Reiche/Königreich%20Montclair/Burg%20Erzwacht.md).
@@ -51,9 +51,12 @@ in den Kanon übernommen (`CLAUDE.md`, Arbeitsweise Punkt 3).
 - **E:** Der **nördliche Bau auf der Kuppe** ist das **Haus eines Amtsträgers**, das **dunkle Gebäude in der Mitte** ist die **Kirche** der Staatsreligion
   (Nutzer, 2026-10-12). Dorf 2 hat damit wie Fährwerder und Südholm eine Kirche.
 - **Flussrichtung:** bleibt im Kanon offen. Der Kanon nennt nur die Lage am selben Fluss, nördlich von Fährwerder, nicht die Fließrichtung (Nutzer, 2026-10-12).
-- **Flussfolge von Nord nach Süd (Nutzer, 2026-10-12, ungefähr):** Stadt Montclair, **See**, **Kanal**, **Dorf 2**, **Fährwerder und Burg Erzwacht**,
-  danach **Abzweigung des Flusses in zwei Arme Richtung Süden**. Der **Kanal** ist ein eigenes Thema, das später besprochen wird. Er ist noch nicht im Kanon und
-  wird hier nicht festgelegt.
+- **Flussfolge von Nord nach Süd (Nutzer, 2026-10-12, ungefähr):** Stadt Montclair, **See**, **Kanal**, **Dorf 2**, **Fährwerder und Burg Erzwacht**, danach
+  **Abzweigung des Flusses in zwei Arme Richtung Süden**. Der **Kanal** hat ein eigenes Konzept ([Konzept-Kanal.md](Konzept-Kanal.md)) und ist noch nicht im
+  Kanon.
+- **Umschlag vor dem Kanal:** Bis zum Bau des Kanals (G6 spät, kurz nach der Burg) war Dorf 2 der **Umschlagplatz**: Wer vom Fluss kam, musste hier umschlagen
+  und die Waren über Land zur Stadt bringen (Nutzer, 2026-10-12). Das erklärt den großen Anleger mit Kran und Lagerhalle. Nach dem Kanal fahren die Schiffe von
+  der Burg direkt bis zur Stadt. Die Folgen für Dorf 2 sind Frage D im Kanal-Konzept.
 - **Entstehung:** Dorf 2 wurde **nicht direkt durch die Krone geplant** (Nutzer, 2026-10-12). Es ist gewachsen. Ob die Krone mittelbar
   beteiligt war, bleibt offen.
 - **Amtsträger:** Das Haus auf der Kuppe ist das Haus des **bürgerlichen Vorstehers** (Vorschlag angenommen, Nutzer, 2026-10-12). Ein Hafenmeister bleibt offen.
@@ -238,16 +241,17 @@ Erledigt am 2026-10-12: Fluss, A1, B4, C1, D, E, Flussrichtung, Entstehung, Amts
 Abschnitt 1). Offen sind noch:
 
 1. **Name:** Wahl aus Abschnitt 5 oder ein eigener Vorschlag.
-2. **Kanal und See:** eigenes Thema laut Nutzer. Es muss vor der Übernahme nicht entschieden sein, solange der Kanon Dorf 2 nur „am Fluss, nördlich von
-   Fährwerder" nennt. Ein eigenes Konzept (Wasserlauf Stadt Montclair, See, Kanal, Dorf 2, Fährwerder und Burg, Flussarme im Süden) wäre die saubere Lösung.
-   Zu klären ist dann auch, ob die Wasserverbindung zwischen Stadt und Burg die Zollfrage und den Handel von Dorf 2 verändert.
+2. **Kanal:** Das Konzept [Konzept-Kanal.md](Konzept-Kanal.md) liegt vor. Dorf 2 ist davon in der Rolle als früherer Umschlagplatz und in den Folgen nach G6
+   spät betroffen (Frage D dort). Für den Dorf-2-Steckbrief genügt, solange der Kanal offen ist, „bis G6 spät Umschlagplatz zwischen Fluss und Stadt" ohne
+   Kanalnamen.
 
 ## 8. Übernahme in den Kanon (nach Abstimmung)
 
 Wie bei Fährwerder, siehe Vollständigkeits-Checkliste (`CLAUDE.md`, Arbeitsweise Punkt 6):
 
 - Neu: `Kanon/Reiche/Königreich Montclair/<Dorfname>.md` als **kurzer Steckbrief** (Kurzfassung, Zeit, Lage, Gestalt, Hafen, Verwaltung, „Nicht bekannt"; Aufbau
-  wie `Südholm.md`). Der Kanal und die Flussfolge werden **nicht** aufgenommen, solange das Kanal-Thema offen ist.
+  wie `Südholm.md`). Der Kanal selbst und die Flussfolge werden **nicht** aufgenommen, solange das Kanal-Konzept offen ist; die Umschlagrolle vor G6 spät
+  darf stehen, wenn der Nutzer sie bestätigt.
 - Ändern: Montclair-Steckbrief (Abschnitt „Wichtige Städte und Siedlungen", ein Eintrag neben Fährwerder und Südholm), `00-Meta/Glossar.md`,
   `00-Meta/Zeitleiste.md` (Gründungsgeneration), `00-Meta/Offene-Fragen.md` (Eintrag „Fährwerder (Details)": den Halbsatz „Dorf 2 wird separat betrachtet"
   ersetzen; neuer Eintrag „<Dorfname> (Details)"; Eintrag „Burg Erzwacht (Details)" bei der Zollfrage), `CLAUDE.md` (Strukturzeile, Liste der Ortsdateien neben
